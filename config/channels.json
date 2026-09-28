@@ -1,0 +1,19 @@
+{
+  "_설명": "여기서 외신 소스를 추가/삭제할 수 있습니다. handle 은 t.me/<handle> 주소의 이름입니다.",
+  "channels": [
+    { "handle": "worldnews", "label": "WorldNews", "region": "종합" },
+    { "handle": "insiderpaper", "label": "Insider Paper", "region": "속보" },
+    { "handle": "liveuamap", "label": "Liveuamap", "region": "분쟁" },
+    { "handle": "theverge_news", "label": "The Verge", "region": "테크" },
+    { "handle": "trtworld", "label": "TRT World", "region": "종합" },
+    { "handle": "bloomberg", "label": "Bloomberg", "region": "경제" },
+    { "handle": "sciencealert", "label": "ScienceAlert", "region": "과학" },
+    { "handle": "disclosetv", "label": "Disclose.tv", "region": "속보" },
+    { "handle": "wartranslated", "label": "War Translated", "region": "분쟁" }
+  ],
+  "maxItems": 150,
+  "keepDays": 14,
+  "translatePerRun": 60,
+  "fetchConcurrency": 5,
+  "translateConcurrency": 4
+}

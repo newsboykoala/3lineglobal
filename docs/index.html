@@ -1,0 +1,250 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>국제뉴스 텔레그램 티커</title>
+<style>
+  :root {
+    --bg: #111825;
+    --fg: #f1f5f9;
+    --muted: #94a3b8;
+    --line: rgba(255, 255, 255, 0.09);
+    --hover: rgba(255, 255, 255, 0.06);
+    --badge-bg: rgba(34, 211, 238, 0.12);
+    --badge-fg: #a5f3fc;
+    --accent: #22d3ee;
+    --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  }
+  html[data-theme="light"] {
+    --bg: #ffffff;
+    --fg: #0f172a;
+    --muted: #64748b;
+    --line: #e9eef5;
+    --hover: #f6f9fc;
+    --badge-bg: #ecfeff;
+    --badge-fg: #0e7490;
+    --accent: #0e7490;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--fg);
+    font-family: "Pretendard", -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
+      "Malgun Gothic", "Noto Sans KR", Roboto, "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .ticker {
+    max-width: 100%;
+    overflow: hidden;
+    border-radius: 14px;
+    background: var(--bg);
+  }
+  .ticker.flat { border-radius: 0; }
+  .ticker__head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--line);
+  }
+  .ticker__brand {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-width: 0;
+  }
+  .ticker__title {
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: -0.015em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .ticker__sub {
+    font-size: 11px;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+  .ticker__meta {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex: 0 0 auto;
+    font-size: 11px;
+    color: var(--muted);
+  }
+  .dot {
+    width: 7px; height: 7px; border-radius: 999px; background: #f43f5e;
+    animation: pulse 1.8s var(--ease-out) infinite;
+  }
+  @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .25 } }
+  .ticker__lines { display: block; }
+  .row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    height: 44px;
+    padding: 0 16px;
+    border-bottom: 1px solid var(--line);
+    text-decoration: none;
+    color: inherit;
+    transition: background .16s var(--ease-out);
+  }
+  .row:last-child { border-bottom: 0; }
+  .row:hover { background: var(--hover); }
+  .row:active { transform: scale(0.997); }
+  .badge {
+    flex: 0 0 auto;
+    max-width: 96px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 4px 8px;
+    border-radius: 6px;
+    background: var(--badge-bg);
+    color: var(--badge-fg);
+    font-size: 10px;
+    font-weight: 800;
+  }
+  .title {
+    flex: 1 1 auto;
+    min-width: 0;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .arrow { flex: 0 0 auto; opacity: 0; color: var(--accent); font-size: 12px; transition: opacity .16s var(--ease-out); }
+  .row:hover .arrow { opacity: 1; }
+  .empty, .loading {
+    height: 132px;
+    display: flex; align-items: center; justify-content: center;
+    gap: 8px; color: var(--muted); font-size: 13px;
+  }
+  .spinner {
+    width: 15px; height: 15px; border-radius: 999px;
+    border: 2px solid var(--line); border-top-color: var(--accent);
+    animation: spin .8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg) } }
+  @media (prefers-reduced-motion: no-preference) {
+    .row { animation: enter .24s var(--ease-out) both; }
+    .row:nth-child(2) { animation-delay: .045s; }
+    .row:nth-child(3) { animation-delay: .09s; }
+  }
+  @keyframes enter { from { opacity: 0; transform: translateY(5px) } to { opacity: 1; transform: translateY(0) } }
+  @media (max-width: 480px) {
+    .row { gap: 8px; padding: 0 12px; }
+    .title { font-size: 13px; }
+    .badge { max-width: 74px; }
+  }
+</style>
+</head>
+<body>
+<div class="ticker" id="ticker" data-title="🐨 뉴스보이코알라 조장우의 국제뉴스">
+  <div class="ticker__head">
+    <div class="ticker__brand">
+      <span class="ticker__title" id="tickerTitle">🐨 뉴스보이코알라 조장우의 국제뉴스</span>
+      <span class="ticker__sub" id="tickerSub">텔레그램 외신 · 한국어 번역</span>
+    </div>
+    <div class="ticker__meta">
+      <span class="dot"></span>
+      <span id="updated">불러오는 중</span>
+      <button id="refresh" title="새로 고침" aria-label="새로 고침"
+        style="background:none;border:0;color:inherit;cursor:pointer;font-size:12px;padding:2px 4px">⟳</button>
+    </div>
+  </div>
+  <div class="ticker__lines" id="lines">
+    <div class="loading"><span class="spinner"></span> 헤드라인 불러오는 중</div>
+  </div>
+</div>
+
+<script>
+(function () {
+  var params = new URLSearchParams(location.search);
+  var theme = params.get("theme") === "light" ? "light" : "dark";
+  var speed = Math.min(60, Math.max(3, Number(params.get("speed")) || 7));
+  var only = (params.get("sources") || "").split(",").map(function (s) { return s.trim(); }).filter(Boolean);
+  var customTitle = (params.get("title") || "").trim().slice(0, 80);
+  var root = document.getElementById("ticker");
+
+  document.documentElement.setAttribute("data-theme", theme);
+  root.classList.add("flat");
+  if (customTitle) {
+    root.setAttribute("data-title", customTitle);
+    document.getElementById("tickerTitle").textContent = customTitle;
+  }
+  document.title = root.getAttribute("data-title");
+
+  var lines = document.getElementById("lines");
+  var updated = document.getElementById("updated");
+  var start = 0, items = [], timer = null;
+
+  function relative(iso) {
+    if (!iso) return "업데이트 대기";
+    var diff = Math.max(0, Math.floor((Date.now() - new Date(iso).getTime()) / 1000));
+    if (diff < 60) return "방금 업데이트";
+    if (diff < 3600) return Math.floor(diff / 60) + "분 전";
+    if (diff < 86400) return Math.floor(diff / 3600) + "시간 전";
+    return Math.floor(diff / 86400) + "일 전";
+  }
+
+  function render() {
+    if (!items.length) {
+      lines.innerHTML = '<div class="empty">표시할 헤드라인이 아직 없습니다.</div>';
+      return;
+    }
+    var html = "";
+    for (var i = 0; i < Math.min(3, items.length); i++) {
+      var item = items[(start + i) % items.length];
+      var href = item.url || "#";
+      html +=
+        '<a class="row" href="' + href + '" target="_blank" rel="noopener noreferrer">' +
+        '<span class="badge">' + (item.source || "").replace(/\s*\([^)]*\)/g, "") + "</span>" +
+        '<span class="title">' + item.title + "</span>" +
+        '<span class="arrow">↗</span></a>';
+    }
+    lines.innerHTML = html;
+  }
+
+  function rotate() {
+    if (items.length <= 3) return;
+    timer = setInterval(function () {
+      start = (start + 3) % items.length;
+      render();
+    }, speed * 1000);
+  }
+
+  function load() {
+    var url = "news.json?ts=" + Date.now();
+    fetch(url, { cache: "no-store" })
+      .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+      .then(function (data) {
+        var all = data.items || [];
+        items = only.length ? all.filter(function (i) {
+          return only.some(function (h) { return (i.id || "").indexOf(h + ":") === 0; });
+        }) : all;
+        updated.textContent = relative(data.updatedAt);
+        if (timer) clearInterval(timer);
+        start = 0;
+        render();
+        rotate();
+      })
+      .catch(function () {
+        lines.innerHTML = '<div class="empty">피드를 불러오지 못했습니다. 잠시 후 다시 시도하세요.</div>';
+      });
+  }
+
+  document.getElementById("refresh").addEventListener("click", load);
+  load();
+  setInterval(function () { updated.textContent = updated.textContent; }, 60000);
+})();
+</script>
+</body>
+</html>
