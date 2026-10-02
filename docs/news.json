@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-10-02T09:09:00.193Z",
+  "updatedAt": "2026-10-02T09:18:58.063Z",
   "count": 150,
-  "translatedCount": 140,
+  "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78053",
+      "titleOriginal": "Seoul warns of 'further measures' if Kyiv refuses public apology",
+      "url": "https://www.euronews.com/2026/10/02/south-korea-warns-of-further-measures-if-ukraine-refuses-public-apology-over-pow-transfer-",
+      "lang": "en",
+      "publishedAt": "2026-10-02T09:09:18.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "서울시, 키예프가 공개 사과 거부할 경우 '추가 조치' 경고",
+      "translated": true
+    },
     {
       "id": "wartranslated:19169",
       "titleOriginal": "Overnight Russian strikes hit Kyiv bridges again. Pivdennyi Bridge is fully closed both ways, and Metro Bridge is down to one lane left to right. Paton Bridge has reopened both ways, but access to the left bank is still restricted, leaving ",
@@ -1375,8 +1386,8 @@
       "publishedAt": "2026-09-28T17:01:52.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "translated": false
+      "title": "플로리다는 사람처럼 행동하는 ChatGPT에 대한 금지를 추구합니다",
+      "translated": true
     },
     {
       "id": "theverge_news:9164",
@@ -1441,8 +1452,8 @@
       "publishedAt": "2026-09-28T16:01:06.000Z",
       "source": "Disclose.tv",
       "region": "속보",
-      "title": "NEW - BioNTech to close three factories in Germany amid low capacity utilization and declining demand for mRNA injections, marketed against Covid.",
-      "translated": false
+      "title": "신규 - BioNTech는 저용량 활용과 mRNA 주사에 대한 수요 감소 속에서 독일의 3 개 공장을 폐쇄하고 Covid를 상대로 판매되었습니다",
+      "translated": true
     },
     {
       "id": "theverge_news:9163",
@@ -1452,8 +1463,8 @@
       "publishedAt": "2026-09-28T15:56:03.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Volkswagen replaces ID.4 with all-electric Tiguan",
-      "translated": false
+      "title": "폭스바겐, ID.4를 전기차 티구안으로 대체",
+      "translated": true
     },
     {
       "id": "worldnews:77970",
@@ -1474,8 +1485,8 @@
       "publishedAt": "2026-09-28T15:54:32.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "The Russians also once again struck food warehouses near Kyiv.",
-      "translated": false
+      "title": "러시아는 또한 키예프 근처의 식량 창고를 다시 한 번 강타했다",
+      "translated": true
     },
     {
       "id": "worldnews:77969",
@@ -1507,8 +1518,8 @@
       "publishedAt": "2026-09-28T15:42:26.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "The Russians also hit a medical facility in the very center of Kyiv.",
-      "translated": false
+      "title": "러시아도 키예프 중심가에 있는 의료 시설을 공격했습니다",
+      "translated": true
     },
     {
       "id": "insiderpaper:44858",
@@ -1584,8 +1595,8 @@
       "publishedAt": "2026-09-28T14:16:02.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Bose’s first wired earbuds in 11 years add noise canceling",
-      "translated": false
+      "title": "11년 만에 선보이는 보스의 첫 유선 이어버드는 노이즈 캔슬링 기능을 더해줍니다",
+      "translated": true
     },
     {
       "id": "theverge_news:9160",
@@ -1595,8 +1606,8 @@
       "publishedAt": "2026-09-28T14:11:14.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "The SaaSpocalypse that wasn’t, with Atlassian CEO Mike Cannon-Brookes",
-      "translated": false
+      "title": "Atlassian CEO Mike Cannon-Brookes와 함께하는 SaaSpocalypse",
+      "translated": true
     },
     {
       "id": "worldnews:77966",
@@ -1628,8 +1639,8 @@
       "publishedAt": "2026-09-28T13:36:33.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-      "translated": false
+      "title": "엔비디아는 새로운 AI 안전 플랫폼에 ‘밀리초‘ 이내에 악의적인 에이전트가 포함될 수 있다고 말합니다",
+      "translated": true
     },
     {
       "id": "liveuamap:12357",
@@ -1639,19 +1650,8 @@
       "publishedAt": "2026-09-28T07:42:39.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "Ukrainian Military has cleared Nove, Ridkodub, Katerynivka, Karpivka, Novomykhailivka from Russians, captured over 250 POWs, - Biletskyi https://liveuamap.com/en/2026/28-september-07-ukrainian-military-has-cleared-nove-ridkodub",
-      "translated": false
-    },
-    {
-      "id": "disclosetv:21872",
-      "titleOriginal": "JUST IN - Serbia's President Vučić resigns.",
-      "url": "https://t.me/disclosetv/21872",
-      "lang": "en",
-      "publishedAt": "2026-09-27T18:21:12.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "JUST IN - Serbia's President Vučić resigns.",
-      "translated": false
+      "title": "우크라이나 군은 러시아로부터 노베, 리드코두브, 카테리니브카, 카르피브카, 노보미카일리브카를 제거했으며, 250명 이상의 국군 포로를 포로로 잡았습니다. - Biletskyi https://liveuamap.com/en/2026/28-september-07-ukrainian-milita",
+      "translated": true
     }
   ]
 }
