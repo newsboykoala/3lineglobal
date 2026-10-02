@@ -1,0 +1,45 @@
+name: Update news feed
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+  push:
+    paths:
+      - "config/channels.json"
+      - "scripts/**"
+permissions:
+  contents: write
+concurrency:
+  group: news-update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Collect and translate headlines
+        env:
+          MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+        run: node scripts/collect.mjs
+      - name: Commit and push updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/news.json
+          if git diff --quiet --cached; then
+            echo "변경 없음 - 커밋 생략"
+            exit 0
+          fi
+          git commit -m "chore: 뉴스 피드 갱신 $(date -u +'%Y-%m-%d %H:%M UTC')"
+          if ! git push; then
+            echo "::error::푸시 실패 — Settings → Actions → General → Workflow permissions 을 'Read and write permissions' 로 바꾼 뒤 다시 실행하세요."
+            exit 1
+          fi
+          echo "완료: docs/news.json 갱신"
