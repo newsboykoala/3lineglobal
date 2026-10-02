@@ -81,6 +81,7 @@
     width: 7px; height: 7px; border-radius: 999px; background: #f43f5e;
     animation: pulse 1.8s var(--ease-out) infinite;
   }
+  .dot.stale { background: #f59e0b; animation: none; }
   @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .25 } }
   .ticker__lines { display: block; }
   .row {
@@ -231,6 +232,17 @@
           return only.some(function (h) { return (i.id || "").indexOf(h + ":") === 0; });
         }) : all;
         updated.textContent = relative(data.updatedAt);
+        // 자동 갱신이 멈춘 것 같으면 조용히 알려줍니다 (레이아웃 변화 없음)
+        var ageHours = data.updatedAt ? (Date.now() - new Date(data.updatedAt).getTime()) / 3600000 : 999;
+        var dot = document.querySelector(".dot");
+        if (ageHours > 6) {
+          dot.classList.add("stale");
+          updated.textContent = relative(data.updatedAt) + " · 갱신 지연";
+          updated.style.color = "#f59e0b";
+        } else {
+          dot.classList.remove("stale");
+          updated.style.color = "";
+        }
         if (timer) clearInterval(timer);
         start = 0;
         render();

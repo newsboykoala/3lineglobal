@@ -328,13 +328,19 @@ async function main() {
 
   log(`채널 ${config.channels.length}곳에서 수집 시작`);
   const perChannel = await mapLimit(config.channels, config.fetchConcurrency, async channel => {
-    try {
-      const items = await fetchChannelItems(channel.handle);
-      return { channel, items };
-    } catch (error) {
-      log(`실패 ${channel.handle}: ${error.message}`);
-      return { channel, items: [] };
+    for (let attempt = 0; attempt < 2; attempt++) {
+      try {
+        const items = await fetchChannelItems(channel.handle);
+        return { channel, items };
+      } catch (error) {
+        if (attempt === 1) {
+          log(`실패 ${channel.handle}: ${error.message}`);
+          return { channel, items: [] };
+        }
+        await sleep(1500); // 일시적 네트워크 오류는 한 번 더 시도
+      }
     }
+    return { channel, items: [] };
   });
 
   const collected = [];
@@ -354,10 +360,14 @@ async function main() {
   log(`수집 ${collected.length}건 / 신규 ${fresh.length}건`);
 
   // 신규 + 기존 번역 안 된 항목을 번역 대상으로 (신규 우선)
+  // 티커 위쪽(최신) 기사부터 한국어가 되도록 최신순으로 정렬해 번역합니다.
+  const byNewest = (a, b) => new Date(b.publishedAt) - new Date(a.publishedAt);
   const needTranslation = [
     ...fresh.filter(item => item.lang !== "ko"),
     ...existing.filter(item => !item.translated && item.lang !== "ko"),
-  ].slice(0, config.translatePerRun);
+  ]
+    .sort(byNewest)
+    .slice(0, config.translatePerRun);
 
   const state = { quotaFinished: false };
   const translated = new Map();
@@ -383,9 +393,17 @@ async function main() {
   }
 
   const cutoff = Date.now() - config.keepDays * 24 * 60 * 60 * 1000;
+  const seenTitles = new Set();
   const items = [...merged.values()]
     .filter(item => new Date(item.publishedAt).getTime() >= cutoff)
-    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
+    .sort(byNewest)
+    // 같은 채널이 같은 내용을 연달아 재게시한 경우 한 번만 노출합니다.
+    .filter(item => {
+      const key = `${item.source}::${(item.titleOriginal || item.title || "").slice(0, 80)}`;
+      if (seenTitles.has(key)) return false;
+      seenTitles.add(key);
+      return true;
+    })
     .slice(0, config.maxItems);
 
   const payload = {

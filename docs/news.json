@@ -1,19 +1,8 @@
 {
-  "updatedAt": "2026-10-02T09:16:41.325Z",
+  "updatedAt": "2026-10-02T09:09:00.193Z",
   "count": 150,
-  "translatedCount": 70,
+  "translatedCount": 140,
   "items": [
-    {
-      "id": "worldnews:78053",
-      "titleOriginal": "Seoul warns of 'further measures' if Kyiv refuses public apology",
-      "url": "https://www.euronews.com/2026/10/02/south-korea-warns-of-further-measures-if-ukraine-refuses-public-apology-over-pow-transfer-",
-      "lang": "en",
-      "publishedAt": "2026-10-02T09:09:18.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "서울시, 키예프가 공개 사과 거부할 경우 '추가 조치' 경고",
-      "translated": true
-    },
     {
       "id": "wartranslated:19169",
       "titleOriginal": "Overnight Russian strikes hit Kyiv bridges again. Pivdennyi Bridge is fully closed both ways, and Metro Bridge is down to one lane left to right. Paton Bridge has reopened both ways, but access to the left bank is still restricted, leaving ",
@@ -22,19 +11,8 @@
       "publishedAt": "2026-10-02T09:04:19.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "Overnight Russian strikes hit Kyiv bridges again. Pivdennyi Bridge is fully closed both ways, and Metro Bridge is down to one lane left to right. Paton Bridge has reopened both ways, but access to the left bank is still restricted, leaving ",
-      "translated": false
-    },
-    {
-      "id": "wartranslated:19166",
-      "titleOriginal": "Overnight Russian strikes hit Kyiv bridges again. Pivdennyi Bridge is fully closed both ways, and Metro Bridge is down to one lane left to right. Paton Bridge has reopened both ways, but access to the left bank is still restricted, leaving ",
-      "url": "https://t.me/wartranslated/19166",
-      "lang": "en",
-      "publishedAt": "2026-10-02T08:58:38.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "Overnight Russian strikes hit Kyiv bridges again. Pivdennyi Bridge is fully closed both ways, and Metro Bridge is down to one lane left to right. Paton Bridge has reopened both ways, but access to the left bank is still restricted, leaving ",
-      "translated": false
+      "title": "밤새 러시아의 파업이 키예프 다리를 다시 강타했습니다. 피브데니 다리 (Pivdennyi Bridge) 는 양방향으로 완전히 폐쇄되어 있으며, 메트로 다리는 왼쪽에서 오른쪽으로 한 차선으로 내려갑니다. Paton Bridge는 두 가지 방법을 모두 다시 열었지만 왼쪽 은행에 대한 접근은",
+      "translated": true
     },
     {
       "id": "trtworld:15535",
@@ -44,8 +22,8 @@
       "publishedAt": "2026-10-02T08:54:26.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "Muhammad Abdel Aziz al-Najjar has become the 263rd Palestinian journalist to be killed by Israel in Gaza since October 2023.",
-      "translated": false
+      "title": "무하마드 압델 아지즈 알 나자르는 2023년 10월부터 가자지구에서 이스라엘에 의해 살해된 263번째 팔레스타인 저널리스트가 되었습니다",
+      "translated": true
     },
     {
       "id": "wartranslated:19165",
@@ -55,8 +33,8 @@
       "publishedAt": "2026-10-02T08:37:50.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "In an FT interview, Zelensky said Ukrainian intel, including intercepted Kremlin calls, shows Putin scrapped the limits Russia followed in earlier air campaigns. Zelensky said Putin gave the order in September as strikes on Kyiv intensified",
-      "translated": false
+      "title": "FT 인터뷰에서 젤렌스키는 크렘린의 전화를 가로채는 등 우크라이나 정보가 푸틴이 러시아가 이전 공중 작전에서 따랐던 한계를 폐기했다는 것을 보여준다고 말했다. 젤렌스키는 키예프에 대한 파업이 강화됨에 따라 푸틴 대통령이 9월에 명령을 내렸다고 말했다",
+      "translated": true
     },
     {
       "id": "worldnews:78052",
@@ -77,8 +55,8 @@
       "publishedAt": "2026-10-02T08:18:08.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "Romania’s Defense Ministry says a drone fell during Russia’s overnight attack, around 05:00 near Plauru in Tulcea County. It caused a fire but no casualties, and the ministry says radar did not detect any airspace violation.",
-      "translated": false
+      "title": "루마니아 국방부는 툴체아 카운티 (Tulcea County) 의 플라우루 (Plauru) 근처에서 오후 5시경 러시아가 하룻밤 사이에 드론이 떨어졌다고 밝혔습니다. 화재는 발생했지만 사상자는 발생하지 않았으며, 레이더가 공역 위반을 감지하지 못했다고 합니다",
+      "translated": true
     },
     {
       "id": "wartranslated:19163",
@@ -88,8 +66,8 @@
       "publishedAt": "2026-10-02T08:16:15.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "About 420 UAVs flew toward Russia. If our translations help you stay informed, consider supporting the project. It keeps WarTranslated independent and active every day. 🩵 Patreon: patreon.com/c/WarTranslated ☕️ BuyMeACoffee: buymeacoffee.c",
-      "translated": false
+      "title": "약 420대의 무인 항공기가 러시아를 향해 날아갔습니다. 당사의 번역이 최신 정보를 파악하는 데 도움이 된다면 프로젝트 지원을 고려해 보세요. WarTranslated를 매일 독립적이고 활동적으로 유지합니다. 🩵 Patreon: patreon.com/c/WarTranslated ☕️ ",
+      "translated": true
     },
     {
       "id": "wartranslated:19161",
@@ -99,8 +77,8 @@
       "publishedAt": "2026-10-02T08:15:32.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "This morning explosions sparked a fire at LPDS Samara, a line production and dispatch station in Russia’s Samara region.",
-      "translated": false
+      "title": "오늘 아침 폭발은 러시아 사마라 지역의 라인 생산 및 파견 스테이션인 LPDS 사마라에서 화재를 일으켰습니다",
+      "translated": true
     },
     {
       "id": "trtworld:15534",
@@ -110,8 +88,8 @@
       "publishedAt": "2026-10-02T08:15:09.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "Follow our Daily News Brief for Friday, October 2nd",
-      "translated": false
+      "title": "10월 2일 금요일 일일 뉴스 브리프를 팔로우하세요",
+      "translated": true
     },
     {
       "id": "insiderpaper:44985",
@@ -154,8 +132,8 @@
       "publishedAt": "2026-10-02T04:31:43.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "The Saudi-led coalition in Yemen has blamed the Houthis for a drone attack earlier this week on an electricity distribution station in the Saudi city of Medina.",
-      "translated": false
+      "title": "사우디가 이끄는 예멘 연합군은 이번 주 초 사우디 메디나 시의 전기 분배소에 대한 드론 공격에 대해 후티족을 비난했다",
+      "translated": true
     },
     {
       "id": "worldnews:78050",
@@ -176,8 +154,8 @@
       "publishedAt": "2026-10-02T04:27:46.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "The Los Angeles Times, one of the most widely read newspapers in the US, has sparked online backlash after publishing an ad paid for by the Israeli government that depicts a map omitting the State of Palestine.",
-      "translated": false
+      "title": "미국에서 가장 널리 읽히는 신문 중 하나인 로스앤젤레스 타임스는 이스라엘 정부가 팔레스타인 국가를 생략한 지도를 묘사한 광고를 게시한 후 온라인 반발을 불러일으켰다",
+      "translated": true
     },
     {
       "id": "worldnews:78048",
@@ -198,8 +176,8 @@
       "publishedAt": "2026-10-02T02:51:12.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "A Hidden Compound in 'Healthy' Plant-Based Foods May Be Fueling Gut Inflammation",
-      "translated": false
+      "title": "건강에 좋은' 식물성 식품의 숨겨진 화합물은 장 염증을 유발할 수 있습니다",
+      "translated": true
     },
     {
       "id": "sciencealert:91866",
@@ -209,8 +187,8 @@
       "publishedAt": "2026-10-02T00:31:13.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Physicists Find a Superconductor That 'Breaks' The Symmetry of Time – A First For Its Kind",
-      "translated": false
+      "title": "물리학자들은 시간의 대칭을 '깨뜨리는' 초전도체를 찾습니다 – 그 종류에 대한 첫 번째",
+      "translated": true
     },
     {
       "id": "worldnews:78047",
@@ -264,8 +242,8 @@
       "publishedAt": "2026-10-01T22:56:02.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
-      "translated": false
+      "title": "Apple은 비디오를 녹화하지 않는 스마트 홈 카메라를 개발하고 있다고 합니다",
+      "translated": true
     },
     {
       "id": "insiderpaper:44981",
@@ -330,8 +308,8 @@
       "publishedAt": "2026-10-01T20:35:38.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "About 420 UAVs flew toward Russia.",
-      "translated": false
+      "title": "약 420대의 무인 항공기가 러시아를 향해 날아갔습니다",
+      "translated": true
     },
     {
       "id": "worldnews:78043",
@@ -352,8 +330,8 @@
       "publishedAt": "2026-10-01T19:51:35.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "translated": false
+      "title": "Google의 새로운 가이드 비전 기능을 사용하면 정밀한 인쇄물을 읽을 수 있습니다",
+      "translated": true
     },
     {
       "id": "sciencealert:91865",
@@ -363,8 +341,8 @@
       "publishedAt": "2026-10-01T19:46:55.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "High Blood Pressure May Directly Accelerate Osteoarthritis",
-      "translated": false
+      "title": "고혈압은 골관절염을 직접적으로 가속화할 수 있음",
+      "translated": true
     },
     {
       "id": "insiderpaper:44978",
@@ -385,8 +363,8 @@
       "publishedAt": "2026-10-01T19:33:56.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "Zelenskyy reported the first combat use of Ukraine's FP-7 tactical ballistic missile.",
-      "translated": false
+      "title": "Zelenskyy는 우크라이나의 FP-7 전술 탄도 미사일의 첫 번째 전투 사용을보고했다",
+      "translated": true
     },
     {
       "id": "theverge_news:9243",
@@ -396,8 +374,8 @@
       "publishedAt": "2026-10-01T19:30:52.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Android Central ‘will continue’ despite laying off its staff",
-      "translated": false
+      "title": "Android Central은 직원을 해고했음에도 불구하고 ‘계속할 것' 입니다",
+      "translated": true
     },
     {
       "id": "liveuamap:12360",
@@ -418,8 +396,8 @@
       "publishedAt": "2026-10-01T18:56:21.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
-      "translated": false
+      "title": "스팀 덱 2: AMD 게인즈버러는 칩 밸브가 기다리고 있었나요?",
+      "translated": true
     },
     {
       "id": "insiderpaper:44977",
@@ -451,8 +429,8 @@
       "publishedAt": "2026-10-01T18:29:41.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "\"Here’s a grenade for you, fascist, from a Soviet soldier.\" - Putin on Russia's response to Ukrainian strikes.",
-      "translated": false
+      "title": "여기 소련 병사의 파시스트 수류탄이 있습니다.\" - 우크라이나 파업에 대한 러시아의 대응에 대한 푸틴",
+      "translated": true
     },
     {
       "id": "sciencealert:91864",
@@ -462,8 +440,8 @@
       "publishedAt": "2026-10-01T18:02:20.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Physicists Quantum-Entangled a Levitating Speck of Glass With Light at Room Temperature",
-      "translated": false
+      "title": "물리학자들은 양자-상온에서 빛으로 유리 공중부양 얼룩을 얽힘",
+      "translated": true
     },
     {
       "id": "insiderpaper:44974",
@@ -495,8 +473,8 @@
       "publishedAt": "2026-10-01T17:38:27.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "Putin: \"I am not saying we are going to strike the countries that supply weapons to Ukraine. But we are watching closely.\"",
-      "translated": false
+      "title": "푸틴: \"우크라이나에 무기를 공급하는 국가들을 공격하겠다는 것은 아닙니다. 하지만 우리는 유심히 지켜보고 있습니다",
+      "translated": true
     },
     {
       "id": "worldnews:78042",
@@ -517,8 +495,8 @@
       "publishedAt": "2026-10-01T17:28:03.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "At least three explosions have been reported at a chemical plant in Krasnozavodsk, Moscow Region. Seven workers are confirmed dead. One of the workshops has completely collapsed. The plant's primary line of work is the production of weapons",
-      "translated": false
+      "title": "모스크바 지역 크라스노자보츠크의 화학 공장에서 최소 3건의 폭발이 보고되었습니다. 7명의 근로자가 사망한 것으로 확인되었습니다. 워크숍 중 하나가 완전히 무너졌습니다. 이 공장의 주요 작업 라인은 무기 생산입니다",
+      "translated": true
     },
     {
       "id": "theverge_news:9241",
@@ -528,8 +506,8 @@
       "publishedAt": "2026-10-01T17:21:09.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "translated": false
+      "title": "판사가 Google의 AI 개요에 대한 독점 금지 소송을 기각합니다",
+      "translated": true
     },
     {
       "id": "insiderpaper:44971",
@@ -572,8 +550,8 @@
       "publishedAt": "2026-10-01T17:00:40.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "The monitoring channel Supernova+ reported that the Krasny Kamen border crossing point for vehicles was attacked by drones. Krasny Kamen is located on the Russian side of the border, opposite the Selishche border crossing in Belarus's Gomel",
-      "translated": false
+      "title": "모니터링 채널 Supernova + 는 차량용 Krasny Kamen 국경 통과 지점이 드론의 공격을 받았다고 보고했습니다. Krasny Kamen은 벨라루스의 Gomel에서 Selishche 국경 건너 맞은편에 있는 국경의 러시아 쪽에 위치하고 있습니다",
+      "translated": true
     },
     {
       "id": "theverge_news:9240",
@@ -583,8 +561,8 @@
       "publishedAt": "2026-10-01T17:00:32.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Sony brings AI graphics upscaling to the regular PS5",
-      "translated": false
+      "title": "소니, 일반 PS5에 AI 그래픽 업스케일링 제공",
+      "translated": true
     },
     {
       "id": "worldnews:78041",
@@ -649,8 +627,8 @@
       "publishedAt": "2026-10-01T16:12:02.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Can VR glasses save VR?",
-      "translated": false
+      "title": "VR 안경으로 VR을 절약할 수 있나요?",
+      "translated": true
     },
     {
       "id": "theverge_news:9238",
@@ -660,8 +638,8 @@
       "publishedAt": "2026-10-01T16:06:32.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Microsoft’s Office and Teams chief is leaving",
-      "translated": false
+      "title": "Microsoft의 Office 및 Teams 수석이 퇴사합니다",
+      "translated": true
     },
     {
       "id": "theverge_news:9237",
@@ -671,8 +649,8 @@
       "publishedAt": "2026-10-01T16:06:31.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Inside Microsoft’s big Copilot rethink",
-      "translated": false
+      "title": "Microsoft의 대규모 Copilot 재고",
+      "translated": true
     },
     {
       "id": "worldnews:78039",
@@ -704,8 +682,8 @@
       "publishedAt": "2026-10-01T15:14:47.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "High school student protests over teacher shortages, overcrowded classrooms, and poor conditions at institutions are escalating across France. Over 1,000 people, mostly minors, were detained in just two days as blockades and demonstrations ",
-      "translated": false
+      "title": "교사 부족, 과밀화된 교실, 학교의 열악한 환경에 대한 고등학생들의 시위가 프랑스 전역에서 격화되고 있습니다. 대부분 미성년자인 1,000명이 넘는 사람들이 단 이틀 만에 봉쇄와 시위로 구금되었습니다",
+      "translated": true
     },
     {
       "id": "theverge_news:9236",
@@ -715,8 +693,8 @@
       "publishedAt": "2026-10-01T14:52:07.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "NYC is now the first city in America that bans sketchy subscriptions",
-      "translated": false
+      "title": "뉴욕시는 이제 스케치 구독을 금지하는 미국 최초의 도시가 되었습니다",
+      "translated": true
     },
     {
       "id": "wartranslated:19154",
@@ -726,8 +704,8 @@
       "publishedAt": "2026-10-01T14:48:32.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "President Zelenskyy reported that the Ukrainian Defense Forces struck a Russian vessel in the Black Sea.",
-      "translated": false
+      "title": "젤렌스키 대통령은 우크라이나 국방군이 흑해에서 러시아 선박을 공격했다고 보고했습니다",
+      "translated": true
     },
     {
       "id": "theverge_news:9235",
@@ -737,8 +715,8 @@
       "publishedAt": "2026-10-01T14:41:22.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "translated": false
+      "title": "OpenAI의 새로운 에이전트는 메타에서 샷입니다 — 하지만 무료와 경쟁 할 수 있습니까?",
+      "translated": true
     },
     {
       "id": "theverge_news:9234",
@@ -803,8 +781,8 @@
       "publishedAt": "2026-10-01T13:22:59.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "A Vast Hole Almost The Size of Portugal Opened Up in Antarctica's Winter Sea Ice. Now We Know Why.",
-      "translated": false
+      "title": "포르투갈 크기의 거대한 구멍이 남극의 겨울 바다 얼음에 열렸습니다. 이제 그 이유를 알 수 있습니다",
+      "translated": true
     },
     {
       "id": "theverge_news:9232",
@@ -880,8 +858,8 @@
       "publishedAt": "2026-10-01T12:29:56.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "Trump: \"Ukraine has not received advanced weapons from the U.S. because it lacks the necessary platforms to use them.\"",
-      "translated": false
+      "title": "트럼프 대통령은 \"우크라이나는 미국으로부터 첨단 무기를 받지 못했다\" 며 \"이를 사용하는 데 필요한 플랫폼이 부족하기 때문\" 이라고 말했다",
+      "translated": true
     },
     {
       "id": "worldnews:78034",
@@ -902,8 +880,8 @@
       "publishedAt": "2026-10-01T12:13:38.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Nine Patients Received a Personalized Kidney Cancer Vaccine. None Had a Recurrence.",
-      "translated": false
+      "title": "9명의 환자가 맞춤형 신장암 백신을 접종받았습니다. 아무도 재발하지 않았습니다",
+      "translated": true
     },
     {
       "id": "wartranslated:19152",
@@ -913,8 +891,8 @@
       "publishedAt": "2026-10-01T11:56:12.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "Military journalist Sergiy Auslender, citing sources, reports that an assassination attempt was made near Kyiv against the head of Fire Point, Denys Shtilerman.",
-      "translated": false
+      "title": "군 언론인 세르기 아우스렌더 (Sergiy Auslender) 는 소식통을 인용하여 키예프 근처에서 데니스 슈틸러만 (Denys Shtilerman) 화력 지점의 수장에 대한 암살 시도가 있었다고 보도했다",
+      "translated": true
     },
     {
       "id": "worldnews:78033",
@@ -935,8 +913,8 @@
       "publishedAt": "2026-10-01T11:11:01.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "Indonesian lawmakers on September 30 ordered the demolition of a luxury compound at Cibinong prison near Jakarta after investigators found more than 10 units with air conditioners, televisions, sofas and a golf simulator, allegedly used by ",
-      "translated": false
+      "title": "9월 30일 인도네시아 국회의원들은 조사관들이 에어컨, 텔레비전, 소파 및 골프 시뮬레이터가 있는 10개 이상의 유닛을 발견한 후 자카르타 근처의 치비농 교도소에서 명품 화합물의 철거를 명령했다",
+      "translated": true
     },
     {
       "id": "sciencealert:91860",
@@ -946,8 +924,8 @@
       "publishedAt": "2026-10-01T11:08:38.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Mystery as declassified 1980s US spy satellite inexplicably explodes",
-      "translated": false
+      "title": "기밀 해제된 1980년대 미국 스파이 위성이 설명할 수 없이 폭발하는 미스터리",
+      "translated": true
     },
     {
       "id": "wartranslated:19151",
@@ -957,8 +935,8 @@
       "publishedAt": "2026-10-01T10:56:50.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "The UK has introduced a new package of sanctions against Russia. Among the sanctioned targets, individuals, and legal entities:",
-      "translated": false
+      "title": "영국은 러시아에 대한 새로운 제재 패키지를 도입했습니다. 제재 대상, 개인 및 법인 중:",
+      "translated": true
     },
     {
       "id": "sciencealert:91859",
@@ -968,8 +946,19 @@
       "publishedAt": "2026-10-01T10:43:52.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "One of The World's Most Used Drugs May Lower Dementia Risk – But There's a Catch",
-      "translated": false
+      "title": "세계에서 가장 많이 사용되는 약물 중 하나가 치매 위험을 낮출 수 있습니다 – 그러나 캐치가 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78032",
+      "titleOriginal": "“I Don't Take This Seriously”: NATO Chief Rutte Dismisses Russia’s Nuclear Threat Over Kaliningrad",
+      "url": "https://united24media.com/world/i-dont-take-this-seriously-nato-chief-rutte-dismisses-russias-nuclear-threat-over-kaliningrad-23014",
+      "lang": "en",
+      "publishedAt": "2026-10-01T10:34:37.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "나는 이것을 심각하게 생각하지 않는다\": NATO 수석 Rutte는 칼리닌그라드에 대한 러시아의 핵 위협을 기각한다",
+      "translated": true
     },
     {
       "id": "wartranslated:19150",
@@ -979,8 +968,8 @@
       "publishedAt": "2026-10-01T10:19:05.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "Peskov stated that Putin will give a speech at Valdai today that the whole world is waiting for.",
-      "translated": false
+      "title": "페스코프는 푸틴 대통령이 오늘 발다이에서 전 세계가 기다리고 있는 연설을 할 것이라고 말했다",
+      "translated": true
     },
     {
       "id": "theverge_news:9227",
@@ -1005,6 +994,17 @@
       "translated": true
     },
     {
+      "id": "wartranslated:19149",
+      "titleOriginal": "In the morning, the Russians struck a school in Kyiv while children were inside.",
+      "url": "https://t.me/wartranslated/19149",
+      "lang": "en",
+      "publishedAt": "2026-10-01T09:54:47.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "아침에 러시아군은 키예프의 한 학교를 강타했습니다",
+      "translated": true
+    },
+    {
       "id": "trtworld:15527",
       "titleOriginal": "Follow our Daily News Brief for Thursday, October 1st",
       "url": "https://trt.world/c5qx",
@@ -1012,8 +1012,8 @@
       "publishedAt": "2026-10-01T07:34:11.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "Follow our Daily News Brief for Thursday, October 1st",
-      "translated": false
+      "title": "10월 1일 목요일 일일 뉴스 브리프를 팔로우하세요",
+      "translated": true
     },
     {
       "id": "trtworld:15526",
@@ -1023,8 +1023,8 @@
       "publishedAt": "2026-10-01T04:25:11.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "Iran says its forces have captured another \"advanced smart\" unmanned submarine belonging to the US Army in the Strait of Hormuz.",
-      "translated": false
+      "title": "이란은 자국 군대가 호르무즈 해협에서 미군에 속한 또 다른 \"첨단 스마트\" 무인 잠수함을 점령했다고 밝혔다",
+      "translated": true
     },
     {
       "id": "trtworld:15525",
@@ -1034,8 +1034,8 @@
       "publishedAt": "2026-10-01T04:22:32.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "A 19-year-old Palestinian woman, who was pregnant, was killed by an Israeli air strike on her house, local media report.",
-      "translated": false
+      "title": "현지 언론은 임신 중이던 19세 팔레스타인 여성이 이스라엘의 공습으로 사망했다고 보도했다",
+      "translated": true
     },
     {
       "id": "sciencealert:91858",
@@ -1045,8 +1045,8 @@
       "publishedAt": "2026-10-01T02:35:54.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Watch Plasma Erupt in Full Color Inside a Fusion Reactor at 16,000 FPS",
-      "translated": false
+      "title": "16,000 FPS의 퓨전 반응기 내부에서 풀 컬러 플라즈마 에럽트 시청하기",
+      "translated": true
     },
     {
       "id": "sciencealert:91857",
@@ -1056,8 +1056,8 @@
       "publishedAt": "2026-10-01T00:16:37.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Science Says Who You Eat Dinner With Matters as Much as What's on Your Plate",
-      "translated": false
+      "title": "과학은 당신이 당신의 접시에 무엇이 있는지만큼이나 중요한 저녁 식사를 누구와 먹는지 말합니다",
+      "translated": true
     },
     {
       "id": "sciencealert:91856",
@@ -1067,8 +1067,8 @@
       "publishedAt": "2026-09-30T23:06:27.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Ozempic-Like Drugs Could Have a Surprising Effect on Alcohol Cravings",
-      "translated": false
+      "title": "오젬픽 유사 약물은 알코올 갈망에 놀라운 영향을 미칠 수 있음",
+      "translated": true
     },
     {
       "id": "sciencealert:91855",
@@ -1078,8 +1078,8 @@
       "publishedAt": "2026-09-30T20:06:15.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Scientists Connected 3 Human Mini-Brains in a Dish. They Learned Something The Others Couldn't.",
-      "translated": false
+      "title": "과학자들은 접시에 3개의 인간 미니 뇌를 연결했습니다. 그들은 다른 사람들이 배울 수 없는 것을 배웠습니다",
+      "translated": true
     },
     {
       "id": "disclosetv:21878",
@@ -1089,8 +1089,8 @@
       "publishedAt": "2026-09-30T17:55:45.000Z",
       "source": "Disclose.tv",
       "region": "속보",
-      "title": "JUST IN - CENTCOM announces U.S. forces have now left and removed all equipment from Erbil Air Base, marking the end of Operation Inherent Resolve in Iraq. Source: https://x.com/CENTCOM/status/2105221417901985825",
-      "translated": false
+      "title": "JUST IN - CENTCOM은 미군이 이제 Erbil 공군 기지에서 모든 장비를 철수하고 이라크 내재 결의 작전이 끝났다고 발표했습니다. 출처: https://x.com/CENTCOM/status/2105221417901985825",
+      "translated": true
     },
     {
       "id": "trtworld:15524",
@@ -1100,8 +1100,8 @@
       "publishedAt": "2026-09-30T15:32:51.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "“We’re just sitting here, waiting to die at any second.”",
-      "translated": false
+      "title": "우린 그냥 여기 앉아서 아무 때나 죽기를 기다리는 거야",
+      "translated": true
     },
     {
       "id": "sciencealert:91854",
@@ -1111,8 +1111,8 @@
       "publishedAt": "2026-09-30T15:06:31.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Scientists Watched Human Dementia Proteins Spread Through Mouse Brains Like Prions",
-      "translated": false
+      "title": "과학자들은 인간의 치매 단백질이 마치 프리온처럼 쥐의 뇌를 통해 퍼지는 것을 지켜보았습니다",
+      "translated": true
     },
     {
       "id": "trtworld:15523",
@@ -1122,8 +1122,8 @@
       "publishedAt": "2026-09-30T14:58:11.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "Today marks the 26th anniversary of the killing of 12-year-old Mohammed al Durrah in his father's arms by Israeli forces.",
-      "translated": false
+      "title": "오늘은 12세의 모하메드 알 두라 (Mohammed al Durrah) 가 그의 아버지의 품에 안겨 이스라엘군에 의해 살해된 지 26주년이 되는 날입니다",
+      "translated": true
     },
     {
       "id": "sciencealert:91853",
@@ -1133,8 +1133,8 @@
       "publishedAt": "2026-09-30T13:35:59.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Popular Supplement Could Have an Unexpected Downside, Study Finds",
-      "translated": false
+      "title": "인기 보충제는 예기치 않은 단점을 가질 수 있습니다, 연구 발견",
+      "translated": true
     },
     {
       "id": "liveuamap:12359",
@@ -1155,8 +1155,8 @@
       "publishedAt": "2026-09-30T12:26:28.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Astronomers May Have Found a Planet in The Habitable Zone of The Hottest Star Yet",
-      "translated": false
+      "title": "천문학자들은 가장 뜨거운 별의 거주 가능 구역에서 행성을 발견했을지도 모릅니다",
+      "translated": true
     },
     {
       "id": "sciencealert:91851",
@@ -1166,19 +1166,8 @@
       "publishedAt": "2026-09-30T11:07:34.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Team working on resurrecting the mammoth offers updated timetable",
-      "translated": false
-    },
-    {
-      "id": "disclosetv:21876",
-      "titleOriginal": "JUST IN - CENTCOM announces U.S. forces have now left and removed all equipment from Erbil Air Base, marking the end of Operation Inherent Resolve in Iraq.",
-      "url": "https://x.com/CENTCOM/status/2105221417901985825",
-      "lang": "en",
-      "publishedAt": "2026-09-30T09:55:23.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "JUST IN - CENTCOM announces U.S. forces have now left and removed all equipment from Erbil Air Base, marking the end of Operation Inherent Resolve in Iraq.",
-      "translated": false
+      "title": "매머드 부활을 위해 노력하는 팀은 업데이트된 시간표를 제공합니다",
+      "translated": true
     },
     {
       "id": "trtworld:15522",
@@ -1188,8 +1177,8 @@
       "publishedAt": "2026-09-30T07:47:47.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "Follow our Daily News Brief for Wednesday, September 30th",
-      "translated": false
+      "title": "9월 30일 수요일 일일 뉴스 브리프를 팔로우하세요",
+      "translated": true
     },
     {
       "id": "trtworld:15521",
@@ -1199,8 +1188,8 @@
       "publishedAt": "2026-09-30T05:03:31.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "September 30 marks the first anniversary of the death of TRT journalist Yahya Barzaq, who was killed in an Israeli strike while reporting from Gaza, Palestine.",
-      "translated": false
+      "title": "9월 30일은 TRT 기자 야히야 바르자크가 사망한 지 1주년이 되는 날입니다. 야히야 바르자크는 팔레스타인 가자지구에서 보도하다가 이스라엘 파업으로 사망했습니다",
+      "translated": true
     },
     {
       "id": "sciencealert:91850",
@@ -1210,8 +1199,8 @@
       "publishedAt": "2026-09-30T02:48:10.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "As Permafrost Melts, Toxic Metals Are Poisoning Rivers With Levels 70 Times Higher Than Normal",
-      "translated": false
+      "title": "영구 동토층이 녹으면서 독성 금속은 정상보다 70배 높은 수준으로 강을 중독시키고 있습니다",
+      "translated": true
     },
     {
       "id": "sciencealert:91849",
@@ -1221,8 +1210,8 @@
       "publishedAt": "2026-09-30T01:38:35.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "How You Eat Your Fruit Is Linked to Heart Health, Study of 371,000 Americans Reveals",
-      "translated": false
+      "title": "과일을 먹는 방법은 심장 건강과 관련이 있다고 371,000명의 미국인을 대상으로 한 연구에서 밝혀졌습니다",
+      "translated": true
     },
     {
       "id": "disclosetv:21875",
@@ -1232,8 +1221,8 @@
       "publishedAt": "2026-09-29T20:17:47.000Z",
       "source": "Disclose.tv",
       "region": "속보",
-      "title": "JUST IN - Trump says nothing bad will happen with AI, because the top AI companies will \"police themselves.\"",
-      "translated": false
+      "title": "방금 - 트럼프는 AI로 나쁜 일이 일어나지 않을 것이라고 말합니다. 왜냐하면 최고의 AI 회사는 \"스스로를 경찰로 만들 것\" 이기 때문입니다",
+      "translated": true
     },
     {
       "id": "sciencealert:91848",
@@ -1243,8 +1232,8 @@
       "publishedAt": "2026-09-29T20:03:03.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "A Change in Your Voice Could Foreshadow Cognitive Decline, Major Study Finds",
-      "translated": false
+      "title": "당신의 목소리의 변화는인지 쇠퇴를 예고 할 수 있습니다, 주요 연구 발견",
+      "translated": true
     },
     {
       "id": "trtworld:15520",
@@ -1254,8 +1243,8 @@
       "publishedAt": "2026-09-29T15:59:54.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "California has officially recognised Eid al Fitr and Eid al Adha as statewide holidays under a new law signed by Governor Gavin Newsom on September 27.",
-      "translated": false
+      "title": "캘리포니아는 9월 27일 개빈 뉴섬 주지사가 서명한 새로운 법에 따라 이드 알 피트르 (Eid al Fitr) 와 이드 알 아드하 (Eid al Adha) 를 주 전역 공휴일로 공식 인정했습니다",
+      "translated": true
     },
     {
       "id": "trtworld:15519",
@@ -1265,8 +1254,8 @@
       "publishedAt": "2026-09-29T15:08:32.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "High school students in France blocked school entrances, set fire to electric bicycles and rubbish bins, and clashed with police as protests spread across the country. Students are protesting poor learning conditions, overcrowded classrooms",
-      "translated": false
+      "title": "프랑스의 고등학생들은 전국적으로 시위가 확산되자 학교 입구를 봉쇄하고, 전기 자전거와 쓰레기통에 불을 질렀으며, 경찰과 충돌했다. 학생들은 열악한 학습 환경, 과밀 교실에 항의하고 있습니다",
+      "translated": true
     },
     {
       "id": "trtworld:15518",
@@ -1276,8 +1265,8 @@
       "publishedAt": "2026-09-29T11:57:28.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "Israel is moving to seize private land for illegal settlement infrastructure in areas designated for Palestinian rule, the UN says, raising the question: Is it trying to completely erase the idea of Palestine?",
-      "translated": false
+      "title": "유엔은 이스라엘이 팔레스타인 통치를 위해 지정된 지역의 불법 정착 인프라를 위해 사유지를 점령하기 위해 움직이고 있다고 말하면서 팔레스타인에 대한 생각을 완전히 지우려고 하는가?",
+      "translated": true
     },
     {
       "id": "liveuamap:12358",
@@ -1298,8 +1287,8 @@
       "publishedAt": "2026-09-29T10:20:55.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "Follow our Daily News Brief for Tuesday, September 29th",
-      "translated": false
+      "title": "9월 29일 화요일 일일 뉴스 브리프를 팔로우하세요",
+      "translated": true
     },
     {
       "id": "trtworld:15516",
@@ -1309,8 +1298,8 @@
       "publishedAt": "2026-09-29T09:11:19.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "A group of student protesters disrupted an AI panel in Manhattan during NYC Climate Week on Wednesday.",
-      "translated": false
+      "title": "수요일 뉴욕 기후 주간에 한 학생 시위대가 맨해튼의 AI 패널을 방해했습니다",
+      "translated": true
     },
     {
       "id": "disclosetv:21874",
@@ -1320,8 +1309,8 @@
       "publishedAt": "2026-09-28T22:05:05.000Z",
       "source": "Disclose.tv",
       "region": "속보",
-      "title": "NEW - Google Earth has updated its images to show the devastating scale of destruction across Gaza by Israeli's military with swathes of the strip reduced to rubble.",
-      "translated": false
+      "title": "새로운 기능 - Google 어스는 잔해로 줄어든 줄무늬로 이스라엘 군대가 가자 지구를 파괴하는 파괴적인 규모를 보여주기 위해 이미지를 업데이트했습니다",
+      "translated": true
     },
     {
       "id": "worldnews:77973",
@@ -1397,8 +1386,8 @@
       "publishedAt": "2026-09-28T16:45:32.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Walmart won’t hike prices based on your shopping history, CEO says",
-      "translated": false
+      "title": "Walmart는 귀하의 쇼핑 이력을 기반으로 가격을 인상하지 않을 것이라고 CEO는 말합니다",
+      "translated": true
     },
     {
       "id": "insiderpaper:44862",
@@ -1540,8 +1529,8 @@
       "publishedAt": "2026-09-28T14:56:26.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
-      "translated": false
+      "title": "드레임의 계단 오르기 X50 울트라 모핑 진공 청소기가 수백 개 할인됩니다",
+      "translated": true
     },
     {
       "id": "worldnews:77968",
@@ -1643,14 +1632,25 @@
       "translated": false
     },
     {
-      "id": "wartranslated:19120",
-      "titleOriginal": "Russians struck Ukraine's National Academy of Sciences in Kyiv. People escaped via windows as the building caught fire. Half is destroyed, with potential casualties trapped under rubble. Emergency responders are on the scene.",
-      "url": "https://t.me/wartranslated/19120",
+      "id": "liveuamap:12357",
+      "titleOriginal": "Ukrainian Military has cleared Nove, Ridkodub, Katerynivka, Karpivka, Novomykhailivka from Russians, captured over 250 POWs, - Biletskyi https://liveuamap.com/en/2026/28-september-07-ukrainian-military-has-cleared-nove-ridkodub",
+      "url": "https://liveuamap.com/en/2026/28-september-07-ukrainian-military-has-cleared-nove-ridkodub",
       "lang": "en",
-      "publishedAt": "2026-09-28T13:28:48.000Z",
-      "source": "War Translated",
+      "publishedAt": "2026-09-28T07:42:39.000Z",
+      "source": "Liveuamap",
       "region": "분쟁",
-      "title": "Russians struck Ukraine's National Academy of Sciences in Kyiv. People escaped via windows as the building caught fire. Half is destroyed, with potential casualties trapped under rubble. Emergency responders are on the scene.",
+      "title": "Ukrainian Military has cleared Nove, Ridkodub, Katerynivka, Karpivka, Novomykhailivka from Russians, captured over 250 POWs, - Biletskyi https://liveuamap.com/en/2026/28-september-07-ukrainian-military-has-cleared-nove-ridkodub",
+      "translated": false
+    },
+    {
+      "id": "disclosetv:21872",
+      "titleOriginal": "JUST IN - Serbia's President Vučić resigns.",
+      "url": "https://t.me/disclosetv/21872",
+      "lang": "en",
+      "publishedAt": "2026-09-27T18:21:12.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "JUST IN - Serbia's President Vučić resigns.",
       "translated": false
     }
   ]
