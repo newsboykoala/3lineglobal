@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-10-02T20:25:10.735Z",
+  "updatedAt": "2026-10-02T23:57:34.228Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78064",
+      "titleOriginal": "European Union and Canada plan to link next-gen payment systems, easing transactions",
+      "url": "https://www.theglobeandmail.com/politics/article-canada-eu-link-payment-systems-joint-statement-says/",
+      "lang": "en",
+      "publishedAt": "2026-10-02T23:04:15.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "유럽 연합과 캐나다는 차세대 결제 시스템을 연계하여 거래를 완화할 계획입니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91874",
+      "titleOriginal": "Scientists Discover a Genius Use For Leftover Steel Waste – And It Could Save Lives",
+      "url": "https://www.sciencealert.com/scientists-discover-a-genius-use-for-leftover-steel-waste-and-it-could-save-lives",
+      "lang": "en",
+      "publishedAt": "2026-10-02T22:15:55.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들은 남은 강철 폐기물에 대한 천재적인 사용을 발견하고 생명을 구할 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78063",
+      "titleOriginal": "Russia planned to assassinate opposition figures Kasparov and Ponomarev in US",
+      "url": "https://newsukraine.rbc.ua/news/russia-planned-to-assassinate-opposition-1790781573.html",
+      "lang": "en",
+      "publishedAt": "2026-10-02T21:39:10.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아는 미국의 카스파로프와 포노마레프를 암살할 계획이었다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9266",
+      "titleOriginal": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "lang": "en",
+      "publishedAt": "2026-10-02T21:16:53.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Muse AI 가젯을 만들 수 있는 메타 오픈 소스 코드",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91873",
+      "titleOriginal": "Almost All The Viruses Found in a Vast Deep-Sea Mining Zone Were New to Science⁠",
+      "url": "https://www.sciencealert.com/almost-all-the-viruses-found-in-a-vast-deep-sea-mining-zone-were-new-to-science",
+      "lang": "en",
+      "publishedAt": "2026-10-02T20:45:50.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "광대한 심해 채굴 구역에서 발견된 거의 모든 바이러스는 과학에 익숙하지 않았습니다⁠",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9265",
+      "titleOriginal": "Netflix is pivoting away from prestige",
+      "url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+      "lang": "en",
+      "publishedAt": "2026-10-02T20:36:51.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "넷플릭스는 명성에서 벗어나고 있습니다",
+      "translated": true
+    },
     {
       "id": "wartranslated:19188",
       "titleOriginal": "Peskov claims Russia is open to Black Sea security dialogue with all countries, but no talks on bilateral deals are currently underway.",
@@ -1585,72 +1651,6 @@
       "source": "ScienceAlert",
       "region": "과학",
       "title": "기밀 해제된 1980년대 미국 스파이 위성이 설명할 수 없이 폭발하는 미스터리",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19151",
-      "titleOriginal": "The UK has introduced a new package of sanctions against Russia. Among the sanctioned targets, individuals, and legal entities:",
-      "url": "https://www.gov.uk/government/news/new-uk-sanctions-target-kremlin-war-chest-propagandists-and-torturers",
-      "lang": "en",
-      "publishedAt": "2026-10-01T10:56:50.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "영국은 러시아에 대한 새로운 제재 패키지를 도입했습니다. 제재 대상, 개인 및 법인 중:",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91859",
-      "titleOriginal": "One of The World's Most Used Drugs May Lower Dementia Risk – But There's a Catch",
-      "url": "https://www.sciencealert.com/one-of-the-worlds-most-used-drugs-may-lower-dementia-risk-but-theres-a-catch",
-      "lang": "en",
-      "publishedAt": "2026-10-01T10:43:52.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "세계에서 가장 많이 사용되는 약물 중 하나가 치매 위험을 낮출 수 있습니다 – 그러나 캐치가 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78032",
-      "titleOriginal": "“I Don't Take This Seriously”: NATO Chief Rutte Dismisses Russia’s Nuclear Threat Over Kaliningrad",
-      "url": "https://united24media.com/world/i-dont-take-this-seriously-nato-chief-rutte-dismisses-russias-nuclear-threat-over-kaliningrad-23014",
-      "lang": "en",
-      "publishedAt": "2026-10-01T10:34:37.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "나는 이것을 심각하게 생각하지 않는다\": NATO 수석 Rutte는 칼리닌그라드에 대한 러시아의 핵 위협을 기각한다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19150",
-      "titleOriginal": "Peskov stated that Putin will give a speech at Valdai today that the whole world is waiting for.",
-      "url": "https://t.me/wartranslated/19150",
-      "lang": "en",
-      "publishedAt": "2026-10-01T10:19:05.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "페스코프는 푸틴 대통령이 오늘 발다이에서 전 세계가 기다리고 있는 연설을 할 것이라고 말했다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9227",
-      "titleOriginal": "Huawei made a whole camera to attach to its latest phone",
-      "url": "https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera",
-      "lang": "en",
-      "publishedAt": "2026-10-01T10:17:03.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Huawei는 최신 휴대폰에 부착하기 위해 전체 카메라를 만들었습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9226",
-      "titleOriginal": "Lemmo’s fancy e-bike is one of the first with a semi-solid state battery",
-      "url": "https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery",
-      "lang": "en",
-      "publishedAt": "2026-10-01T10:17:01.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Lemmo의 멋진 전기 자전거는 세미 솔리드 스테이트 배터리를 탑재한 최초의 자전거 중 하나입니다",
       "translated": true
     }
   ]
