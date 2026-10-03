@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-10-03T04:48:21.744Z",
+  "updatedAt": "2026-10-03T10:13:46.562Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "wartranslated:19201",
+      "titleOriginal": "Ukraine’s General Staff says Oct 2 and overnight into Oct 3 strikes hit a strike UAV storage and launch site near Donetsk, plus a command post in Nova Tavolzhanka and a materiel depot in Voznesenivka in Russia’s Belgorod region.",
+      "url": "https://t.me/wartranslated/19201",
+      "lang": "en",
+      "publishedAt": "2026-10-03T09:19:47.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나 총참모부는 10월 2일과 10월 3일 하룻밤 사이에 도네츠크 근처의 파업 무인 항공기 보관소와 발사대, 노바 타볼장카의 지휘소, 러시아 벨고로드 지역의 보즈네제니프카의 물자 보관소를 공격했다고 밝혔습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19199",
+      "titleOriginal": "Zelensky adviser Flash says Russian relay devices may be operating in Kyiv to steer Shahed drones. He says it’s likely 1 to 3 devices creating a temporary control link, which could make electronic warfare in the capital less effective.",
+      "url": "https://t.me/wartranslated/19199",
+      "lang": "en",
+      "publishedAt": "2026-10-03T09:16:54.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "Zelensky 고문 Flash는 러시아 릴레이 장치가 Shahed 드론을 조종하기 위해 키예프에서 작동할 수 있다고 말합니다. 그는 1 ~ 3개의 장치가 임시 제어 링크를 생성할 가능성이 높기 때문에 자본의 전자전 효과가 떨어질 수 있다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78071",
+      "titleOriginal": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000",
+      "url": "https://apnews.com/article/congo-ebola-outbreak-virus-4c79b59ec81a08675d2506c9e176d125",
+      "lang": "en",
+      "publishedAt": "2026-10-03T08:19:18.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "콩고에서 사망자가 4,000명을 넘어가면서 에볼라 치료 센터가 불타버렸습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45001",
+      "titleOriginal": "BREAKING: UAE says the co-pilot of a flydubai flight had planned a \"terrorist act\" and used the cockpit's emergency axe to attack the captain",
+      "url": "https://t.me/insiderpaper/45001",
+      "lang": "en",
+      "publishedAt": "2026-10-03T08:15:45.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: UAE는 플라이두바이 비행의 부조종사가 \"테러리스트 행위\" 를 계획하고 조종실의 비상 도끼를 사용하여 선장을 공격했다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91877",
+      "titleOriginal": "Tapeworm Treatment Shows Early Effectiveness Against Endometriosis",
+      "url": "https://www.sciencealert.com/tapeworm-treatment-shows-early-effectiveness-against-endometriosis",
+      "lang": "en",
+      "publishedAt": "2026-10-03T08:09:54.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "촌충 치료는 자궁내막증에 대한 초기 효과를 보여줍니다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15537",
+      "titleOriginal": "Follow our Daily News Brief for Saturday, October 3rd",
+      "url": "https://trt.world/c5qk",
+      "lang": "en",
+      "publishedAt": "2026-10-03T07:58:43.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "10월 3일 토요일 일일 뉴스 브리프를 팔로우하세요",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19197",
+      "titleOriginal": "Romania’s Defense Ministry says a drone fell during Russia’s overnight attack, around 05:00 near Plauru in Tulcea County. It caused a fire but no casualties, and the ministry says radar did not detect any airspace violation.",
+      "url": "https://t.me/wartranslated/19197",
+      "lang": "en",
+      "publishedAt": "2026-10-03T07:13:26.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "루마니아 국방부는 툴체아 카운티 (Tulcea County) 의 플라우루 (Plauru) 근처에서 오후 5시경 러시아가 하룻밤 사이에 드론이 떨어졌다고 밝혔습니다. 화재는 발생했지만 사상자는 발생하지 않았으며, 레이더가 공역 위반을 감지하지 못했다고 합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19196",
+      "titleOriginal": "Warriors of Ukraine's 44th Artillery Brigade destroyed four Russian artillery pieces, including three Msta-B howitzers and one Giatsint-B howitzer.",
+      "url": "https://t.me/wartranslated/19196",
+      "lang": "en",
+      "publishedAt": "2026-10-03T07:07:35.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나 제44포병여단의 전사들은 Msta-B 곡사포 3대와 Giatsint-B 곡사포 1대를 포함한 러시아 포병 4대를 파괴했습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19193",
+      "titleOriginal": "Overnight, a massive strike hit the Tsymbulova UAV launch base in Oryol Oblast, Russia. NASA FIRMS satellite data confirms multiple fire hotspots around the drone storage and launch facilities.",
+      "url": "https://t.me/wartranslated/19193",
+      "lang": "en",
+      "publishedAt": "2026-10-03T06:14:58.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "하룻밤 사이에 러시아 오욜 주에 있는 침불로바 무인 항공기 발사 기지에 엄청난 타격이 가해졌습니다. NASA는 위성 데이터를 통해 드론 보관 및 발사 시설 주변의 여러 화재 핫스팟을 확인합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19190",
+      "titleOriginal": "A car carrying a Russian serviceman was blown up in Tula Oblast yesterday morning, according to Exilenova+. The occupier was killed.",
+      "url": "https://t.me/wartranslated/19190",
+      "lang": "en",
+      "publishedAt": "2026-10-03T06:10:33.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "Exilenova + 에 따르면 어제 아침 툴라 주에서 러시아 군인을 태운 차가 폭발했습니다. 점령자가 죽었다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19189",
+      "titleOriginal": "Once again this morning, Russian forces struck a pylon of the Pivnichnyi Bridge in Kyiv with a drone.",
+      "url": "https://t.me/wartranslated/19189",
+      "lang": "en",
+      "publishedAt": "2026-10-03T06:05:44.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "오늘 아침 러시아군은 키예프의 피브니치니 다리 철탑을 드론으로 다시 한 번 공격했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78070",
+      "titleOriginal": "5 European nations follow U.S. with plans for third-country deportations as EU approves migrant \"return hubs\"",
+      "url": "https://www.cbsnews.com/news/europe-eu-immigration-asylum-seeker-third-country-deportations/",
+      "lang": "en",
+      "publishedAt": "2026-10-03T05:04:37.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "유럽 연합 (EU) 이 이민자 \"반환 허브\" 를 승인함에 따라 5 개 유럽 국가가 미국을 따라 제 3 국 추방 계획을 세웁니다",
+      "translated": true
+    },
     {
       "id": "sciencealert:91876",
       "titleOriginal": "LASIK Alternative Promises to Improve Vision Without Scalpel or Lasers",
@@ -840,17 +972,6 @@
       "translated": true
     },
     {
-      "id": "wartranslated:19164",
-      "titleOriginal": "Romania’s Defense Ministry says a drone fell during Russia’s overnight attack, around 05:00 near Plauru in Tulcea County. It caused a fire but no casualties, and the ministry says radar did not detect any airspace violation.",
-      "url": "https://www.mapn.ro/cpresa/19427_informa%C8%9Bie-de-presa",
-      "lang": "en",
-      "publishedAt": "2026-10-02T08:18:08.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "루마니아 국방부는 툴체아 카운티 (Tulcea County) 의 플라우루 (Plauru) 근처에서 오후 5시경 러시아가 하룻밤 사이에 드론이 떨어졌다고 밝혔습니다. 화재는 발생했지만 사상자는 발생하지 않았으며, 레이더가 공역 위반을 감지하지 못했다고 합니다",
-      "translated": true
-    },
-    {
       "id": "wartranslated:19163",
       "titleOriginal": "About 420 UAVs flew toward Russia. If our translations help you stay informed, consider supporting the project. It keeps WarTranslated independent and active every day. 🩵 Patreon: patreon.com/c/WarTranslated ☕️ BuyMeACoffee: buymeacoffee.c",
       "url": "https://t.me/wartranslated/19163",
@@ -1530,127 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "프랑스 전역에서 시위가 벌어지면서 학생들이 학교에 불을 지르자 휘발유를 반죽한 교사",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9233",
-      "titleOriginal": "What even is a ‘microdrama’?",
-      "url": "https://www.theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video",
-      "lang": "en",
-      "publishedAt": "2026-10-01T13:37:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "심지어 '마이크로드라마‘ 란 무엇인가?",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78037",
-      "titleOriginal": "Japan Raises Residency Fees 2,000 Percent Amid ‘Anxiety’ Over Foreigners (Gift Article)",
-      "url": "https://www.nytimes.com/2026/10/01/world/asia/japan-raises-residency-fees-2000-percent-amid-anxiety-over-foreigners.html?unlocked_article_code=1.FVE.5_hw.qL01nLVhcbAU&amp;smid=nytcore-ios-share",
-      "lang": "en",
-      "publishedAt": "2026-10-01T13:34:09.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "일본, 외국인에 대한 ‘불안‘ 속에 체류비 2,000% 인상 (증정 기사)",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78036",
-      "titleOriginal": "‘He’s a friend of mine’: Trump explains why North Korea has nukes but Iran can’t",
-      "url": "https://www.firstpost.com/world/united-states/hes-a-friend-of-mine-trump-explains-why-north-korea-has-nukes-but-iran-cant-14049242.html",
-      "lang": "en",
-      "publishedAt": "2026-10-01T13:24:26.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "그는 내 친구’: 트럼프는 북한이 핵무기를 가지고 있지만 이란은 핵무기를 가지고 있지 않은 이유를 설명한다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91862",
-      "titleOriginal": "A Vast Hole Almost The Size of Portugal Opened Up in Antarctica's Winter Sea Ice. Now We Know Why.",
-      "url": "https://www.sciencealert.com/a-vast-hole-almost-the-size-of-portugal-opened-up-in-antarcticas-winter-sea-ice-now-we-know-why",
-      "lang": "en",
-      "publishedAt": "2026-10-01T13:22:59.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "포르투갈 크기의 거대한 구멍이 남극의 겨울 바다 얼음에 열렸습니다. 이제 그 이유를 알 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9232",
-      "titleOriginal": "Samsung raised prices on the Galaxy S26 by $100",
-      "url": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us",
-      "lang": "en",
-      "publishedAt": "2026-10-01T13:21:03.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "삼성은 갤럭시 S26의 가격을 $ 100 인상했습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9231",
-      "titleOriginal": "Gears of War: E-Day is a great game launching at a terrible time",
-      "url": "https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox",
-      "lang": "en",
-      "publishedAt": "2026-10-01T13:06:34.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Gears of War: E-Day는 끔찍한 시기에 출시되는 훌륭한 게임입니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9230",
-      "titleOriginal": "Amazon is launching colorful new Kindles — and a case with physical page-turn buttons",
-      "url": "https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh",
-      "lang": "en",
-      "publishedAt": "2026-10-01T13:06:33.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Amazon은 다채로운 새로운 Kindles와 실제 페이지 전환 버튼이 있는 케이스를 출시합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9228",
-      "titleOriginal": "HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
-      "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
-      "lang": "en",
-      "publishedAt": "2026-10-01T13:06:32.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "MacBook Neo에 대한 HP의 답변은 더 얇고 가벼우며 OLED와 함께 제공됩니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9229",
-      "titleOriginal": "Amazon’s Carrie is a cyberbullying nightmare",
-      "url": "https://www.theverge.com/entertainment/1002835/carrie-review-amazon-prime-video",
-      "lang": "en",
-      "publishedAt": "2026-10-01T13:06:32.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "아마존의 캐리는 사이버 괴롭힘의 악몽입니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78035",
-      "titleOriginal": "Oil prices rise 2% as China suspends fuel exports",
-      "url": "https://www.reuters.com/business/energy/oil-prices-barely-changed-investors-assess-us-iran-peace-talks-gulf-exports-2026-10-01/",
-      "lang": "en",
-      "publishedAt": "2026-10-01T12:49:42.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "유가는 중국이 연료 수출을 중단함에 따라 2% 상승합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19153",
-      "titleOriginal": "Trump: \"Ukraine has not received advanced weapons from the U.S. because it lacks the necessary platforms to use them.\"",
-      "url": "https://t.me/wartranslated/19153",
-      "lang": "en",
-      "publishedAt": "2026-10-01T12:29:56.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "트럼프 대통령은 \"우크라이나는 미국으로부터 첨단 무기를 받지 못했다\" 며 \"이를 사용하는 데 필요한 플랫폼이 부족하기 때문\" 이라고 말했다",
       "translated": true
     }
   ]
