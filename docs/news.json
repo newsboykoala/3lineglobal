@@ -1,8 +1,96 @@
 {
-  "updatedAt": "2026-10-03T18:33:39.234Z",
+  "updatedAt": "2026-10-03T22:01:03.101Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78086",
+      "titleOriginal": "Up to 140 sq km already liberated in Operation Vivaldi, Zelenskyy says",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/03/8056331/",
+      "lang": "en",
+      "publishedAt": "2026-10-03T21:59:24.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "Zelenskyy는 비발디 작전에서 최대 140 평방 킬로미터가 이미 해방되었다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91882",
+      "titleOriginal": "Scientists Tested Whether Leftovers Really Taste Better The Next Day. One Dish Stood Out.",
+      "url": "https://www.sciencealert.com/scientists-tested-whether-leftovers-really-taste-better-the-next-day-one-dish-stood-out",
+      "lang": "en",
+      "publishedAt": "2026-10-03T21:02:57.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들은 남은 음식이 정말 다음날 더 맛있게 느껴지는지 테스트했습니다. 한 가지 요리가 눈에 띄었습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78085",
+      "titleOriginal": "Zelenskyy: FP-9 ballistic missile capable of reaching Moscow will be ready this autumn",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/03/8056326/",
+      "lang": "en",
+      "publishedAt": "2026-10-03T20:59:15.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "젤렌스키: 모스크바에 도달할 수 있는 FP-9 탄도 미사일이 이번 가을에 준비될 것입니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78084",
+      "titleOriginal": "A 17-year-old student spent 40 nights looking for a snake and discovered a new species: \"I never thought of giving up\"",
+      "url": "https://www.eldebate.com/ciencia/20261002/estudiante-17-anos-paso-40-noches-buscando-serpiente-descubrio-nueva-especie-nunca-pense-rendirme_465027.html",
+      "lang": "en",
+      "publishedAt": "2026-10-03T20:39:34.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "17세의 한 학생이 40일 밤을 새워 뱀을 찾다가 새로운 종을 발견했습니다. \"나는 결코 포기할 생각을 하지 않았다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19219",
+      "titleOriginal": "A number of Russian regions are under attack by Ukrainian drones right now.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-10-03T19:49:43.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "현재 많은 러시아 지역이 우크라이나 드론의 공격을 받고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91881",
+      "titleOriginal": "One Diet Change May Ease Depression Symptoms in Just 4 Weeks, Small Trial Finds",
+      "url": "https://www.sciencealert.com/one-diet-change-may-ease-depression-symptoms-in-just-4-weeks-small-trial-finds",
+      "lang": "en",
+      "publishedAt": "2026-10-03T19:32:26.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "한 번의 식습관 변화로 4주 만에 우울증 증상이 완화될 수 있음, 소규모 시험 결과",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78083",
+      "titleOriginal": "Ukraine will double down on attacking Russian oil refineries in response to a new policy of airstrikes by Moscow designed to force people to abandon Kyiv and other cities, but will not target civilians, President Volodymyr Zelenskiy said",
+      "url": "https://www.reuters.com/business/aerospace-defense/ukraine-will-hit-russian-refineries-response-moscows-new-doctrine-airstrikes-2026-10-03/",
+      "lang": "en",
+      "publishedAt": "2026-10-03T19:29:42.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "볼로디미르 젤렌스키 (Volodymyr Zelenskiy) 대통령은 우크라이나가 사람들이 키예프와 다른 도시를 포기하도록 고안된 모스크바의 새로운 공습 정책에 대응하여 러시아 정유소 공격을 두 배로 줄일 것이지만 민간인을 대상으로하지는 않을 것이라고 말했다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19218",
+      "titleOriginal": "Several Russian regions are under drone attack right now.",
+      "url": "https://t.me/wartranslated/19218",
+      "lang": "en",
+      "publishedAt": "2026-10-03T18:35:03.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "현재 몇몇 러시아 지역이 드론 공격을 받고 있습니다",
+      "translated": true
+    },
     {
       "id": "trtworld:15540",
       "titleOriginal": "A fire damaged parts of Francois Rabelais school and at least two parked vehicles in Metz, eastern France, on October 2, as nationwide student protests disrupted 735 high schools. Students are demanding better learning conditions, smaller c",
@@ -78,17 +166,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "젤렌스키는 모스크바에 도달할 수 있는 FP-9 탄도미사일이 올 가을에 준비될 것이라고 말했다. 그는 명시된 사거리가 최대 850km라고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19213",
-      "titleOriginal": "Several Russian regions are under drone attack right now.",
-      "url": "https://t.me/wartranslated/19213",
-      "lang": "en",
-      "publishedAt": "2026-10-03T17:24:11.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "현재 몇몇 러시아 지역이 드론 공격을 받고 있습니다",
       "translated": true
     },
     {
@@ -1574,83 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "Apple은 비디오를 녹화하지 않는 스마트 홈 카메라를 개발하고 있다고 합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:44981",
-      "titleOriginal": "JUST IN - Department of Energy employee arrested in Washington State on charges of attempted material support to Yemen's Houthis, US Dept of Justice says",
-      "url": "https://t.me/insiderpaper/44981",
-      "lang": "en",
-      "publishedAt": "2026-10-01T21:55:08.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 미국 법무부는 예멘 후티에 대한 물질적 지원 시도 혐의로 워싱턴 주에서 체포된 에너지부 직원이",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78045",
-      "titleOriginal": "Japan Has Provided Ukraine With $20 Billion In Aid Since Start Of War — Zelenskyy",
-      "url": "https://uatv.ua/en/japan-has-provided-ukraine-with-20-billion-in-aid-since-start-of-war-zelenskyy/",
-      "lang": "en",
-      "publishedAt": "2026-10-01T21:54:36.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "일본은 우크라이나에 전쟁 시작 이후 $ 200억의 원조를 제공했습니다 — Zelenskyy",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78044",
-      "titleOriginal": "Korea Disputes Trump’s Claim It Agreed to Invest in AK LNG",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-01/korea-disputes-trump-s-claim-it-agreed-to-invest-in-alaska-lng",
-      "lang": "en",
-      "publishedAt": "2026-10-01T21:34:15.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "한국, AK LNG에 투자하기로 합의한 트럼프의 주장에 반박",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:44980",
-      "titleOriginal": "JUST IN - President Trump says ‘may’ ask Europe to tap diesel reserves",
-      "url": "https://t.co/FRIKfoyur0",
-      "lang": "en",
-      "publishedAt": "2026-10-01T21:16:33.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 트럼프 대통령이 유럽에 디젤 매장량을 활용할 것을 ‘요청할 수 있다’ 고 말함",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:44979",
-      "titleOriginal": "BREAKING: Massive explosions heard in Yemen capital",
-      "url": "https://t.me/insiderpaper/44979",
-      "lang": "en",
-      "publishedAt": "2026-10-01T20:46:30.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 예멘 수도에서 대규모 폭발음이 들림",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19160",
-      "titleOriginal": "About 420 UAVs flew toward Russia.",
-      "url": "http://patreon.com/c/WarTranslated",
-      "lang": "en",
-      "publishedAt": "2026-10-01T20:35:38.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "약 420대의 무인 항공기가 러시아를 향해 날아갔습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78043",
-      "titleOriginal": "Russia expels Hungarian diplomats as Budapest breaks with Orbán era",
-      "url": "https://www.euronews.com/2026/10/01/russia-expels-hungarian-diplomats-as-budapest-breaks-with-orban-era",
-      "lang": "en",
-      "publishedAt": "2026-10-01T19:59:36.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "부다페스트가 오르반 시대와 결별하면서 러시아는 헝가리 외교관을 추방한다",
       "translated": true
     }
   ]
