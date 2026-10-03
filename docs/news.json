@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-10-02T23:57:34.228Z",
+  "updatedAt": "2026-10-03T04:48:21.744Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:91876",
+      "titleOriginal": "LASIK Alternative Promises to Improve Vision Without Scalpel or Lasers",
+      "url": "https://www.sciencealert.com/lasik-alternative-promises-to-improve-vision-without-scalpel-or-lasers",
+      "lang": "en",
+      "publishedAt": "2026-10-03T02:21:07.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "메스나 레이저 없이 시력 향상을 위한 라식 대안 약속",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78068",
+      "titleOriginal": "Trump threatens to charge S. Korea 'more' if it rejects AK LNG project",
+      "url": "https://m-en.yna.co.kr/view/AEN20261003000451315?section=national/diplomacy",
+      "lang": "en",
+      "publishedAt": "2026-10-03T02:09:07.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프는 AK LNG 프로젝트를 거부하면 한국에 '더 많은' 비용을 청구하겠다고 위협한다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78067",
+      "titleOriginal": "Argentina announces it will give passports for €311.000 contribution",
+      "url": "https://www.euronews.com/2026/10/02/debt-saddled-argentina-pitches-golden-passport-scheme-to-woo-wealthy-foreigners",
+      "lang": "en",
+      "publishedAt": "2026-10-03T01:24:06.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "아르헨티나는 € 311.000의 기부금으로 여권을 제공하겠다고 발표했습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91875",
+      "titleOriginal": "Ozempic Rival Delivers 25% Weight Loss at Highest Dose in Phase 3 Trial",
+      "url": "https://www.sciencealert.com/ozempic-rival-delivers-25-weight-loss-at-highest-dose-in-phase-3-trial",
+      "lang": "en",
+      "publishedAt": "2026-10-03T01:11:49.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "오젬픽 라이벌 (Ozempic Rival) 은 3상 시험에서 최고 용량으로 25% 의 체중 감량을 제공합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78066",
+      "titleOriginal": "Japan to Consider Transferring Patriot Missiles to Ukraine",
+      "url": "https://militarnyi.com/en/news/japan-consider-patriot-missiles-for-ukraine/",
+      "lang": "en",
+      "publishedAt": "2026-10-03T01:09:22.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "일본, 우크라이나에 패트리어트 미사일 이전 고려",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78065",
+      "titleOriginal": "Saudi Arabia plans 100,000-troop Yemen offensive to retake Bab el-Mandeb from Houthis",
+      "url": "https://www.ynetnews.com/article/bjxod8tcfe",
+      "lang": "en",
+      "publishedAt": "2026-10-02T23:59:34.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "사우디아라비아는 후티스에서 바브 엘 만뎁을 탈환하기 위해 10만 명의 예멘군을 공격할 계획입니다",
+      "translated": true
+    },
     {
       "id": "worldnews:78064",
       "titleOriginal": "European Union and Canada plan to link next-gen payment systems, easing transactions",
@@ -1585,72 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "트럼프 대통령은 \"우크라이나는 미국으로부터 첨단 무기를 받지 못했다\" 며 \"이를 사용하는 데 필요한 플랫폼이 부족하기 때문\" 이라고 말했다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78034",
-      "titleOriginal": "Russia Lost Record 46,230 Troops in September as Moscow Prepares 120,000 Conscripts for Fall",
-      "url": "https://www.kyivpost.com/post/85841",
-      "lang": "en",
-      "publishedAt": "2026-10-01T12:19:13.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "모스크바가 가을을 대비해 120,000명의 징집병을 준비하면서 러시아는 9월에 46,230명의 병력을 잃었습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91861",
-      "titleOriginal": "Nine Patients Received a Personalized Kidney Cancer Vaccine. None Had a Recurrence.",
-      "url": "https://www.sciencealert.com/nine-patients-received-a-personalized-kidney-cancer-vaccine-none-had-a-recurrence",
-      "lang": "en",
-      "publishedAt": "2026-10-01T12:13:38.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "9명의 환자가 맞춤형 신장암 백신을 접종받았습니다. 아무도 재발하지 않았습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19152",
-      "titleOriginal": "Military journalist Sergiy Auslender, citing sources, reports that an assassination attempt was made near Kyiv against the head of Fire Point, Denys Shtilerman.",
-      "url": "https://t.me/wartranslated/19152",
-      "lang": "en",
-      "publishedAt": "2026-10-01T11:56:12.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "군 언론인 세르기 아우스렌더 (Sergiy Auslender) 는 소식통을 인용하여 키예프 근처에서 데니스 슈틸러만 (Denys Shtilerman) 화력 지점의 수장에 대한 암살 시도가 있었다고 보도했다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78033",
-      "titleOriginal": "US tells France and Germany to release diesel stocks or face US export ban, sources say",
-      "url": "https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/",
-      "lang": "en",
-      "publishedAt": "2026-10-01T11:29:23.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "소식통에 따르면 미국은 프랑스와 독일에 디젤 주식을 방출하거나 미국 수출 금지령에 직면하라고 지시했다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15528",
-      "titleOriginal": "Indonesian lawmakers on September 30 ordered the demolition of a luxury compound at Cibinong prison near Jakarta after investigators found more than 10 units with air conditioners, televisions, sofas and a golf simulator, allegedly used by ",
-      "url": "https://t.me/trtworld/15528",
-      "lang": "en",
-      "publishedAt": "2026-10-01T11:11:01.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "9월 30일 인도네시아 국회의원들은 조사관들이 에어컨, 텔레비전, 소파 및 골프 시뮬레이터가 있는 10개 이상의 유닛을 발견한 후 자카르타 근처의 치비농 교도소에서 명품 화합물의 철거를 명령했다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91860",
-      "titleOriginal": "Mystery as declassified 1980s US spy satellite inexplicably explodes",
-      "url": "https://www.unexplained-mysteries.com/news/400169/mystery-as-declassified-1980s-us-spy-satellite-inexplicably-explodes",
-      "lang": "en",
-      "publishedAt": "2026-10-01T11:08:38.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "기밀 해제된 1980년대 미국 스파이 위성이 설명할 수 없이 폭발하는 미스터리",
       "translated": true
     }
   ]
