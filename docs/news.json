@@ -1,8 +1,63 @@
 {
-  "updatedAt": "2026-10-04T00:30:01.240Z",
+  "updatedAt": "2026-10-04T06:15:23.922Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "insiderpaper:45005",
+      "titleOriginal": "North Korean leader Kim Jong Un oversaw the launch of a missile with his daughter, state media reported on Sunday, which allegedly used artificial intelligence to adjust its trajectory.",
+      "url": "https://insiderpaper.com/north-koreas-kim-jong-un-oversaw-launch-of-missile-that-uses-ai/",
+      "lang": "en",
+      "publishedAt": "2026-10-04T05:57:53.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "김정은 북한 국무위원장이 딸과 함께 미사일 발사를 감독했다고 미 국무부가 일요일 보도했다. 이 매체는 인공지능을 이용해 궤도를 조정했다고 주장했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78090",
+      "titleOriginal": "Israeli Opposition Accuses Netanyahu Of Being Too \"Pro-Palestine\".",
+      "url": "https://www.aol.com/articles/israeli-opposition-accuses-netanyahu-being-012511000.html",
+      "lang": "en",
+      "publishedAt": "2026-10-04T03:44:39.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "이스라엘 야당은 네타냐후가 너무 \"친팔레스타인\" 이라고 비난합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78089",
+      "titleOriginal": "Women given free cycling shorts to prevent upskirting on Oktoberfest amusement ride.",
+      "url": "https://www.theguardian.com/world/2026/oct/03/women-given-free-cycling-shorts-prevent-upskirting-oktoberfest-amusement-ride-teufelsrad-germany",
+      "lang": "en",
+      "publishedAt": "2026-10-04T02:29:31.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "옥토버페스트 놀이 기구에서 업스커트를 방지하기 위해 여성에게 무료 사이클링 반바지를 제공했습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91884",
+      "titleOriginal": "We May Have Been Wrong About Fasting Before Blood Tests, Study Reveals",
+      "url": "https://www.sciencealert.com/we-may-have-been-wrong-about-fasting-before-blood-tests-study-reveals",
+      "lang": "en",
+      "publishedAt": "2026-10-04T01:41:53.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "우리는 혈액 검사 전에 금식에 대해 잘못 알고 있었을 수 있습니다, 연구 밝혀",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78088",
+      "titleOriginal": "An unidentified metal object was found in the sea near Helsinki, prompting the closure of maritime traffic and the deployment of the Navy",
+      "url": "https://unn.ua/en/news/an-unidentified-metal-object-was-found-in-the-sea-near-helsinki-prompting-the-closure-of-maritime-traffic-and-the-deployment-of-the-navy",
+      "lang": "en",
+      "publishedAt": "2026-10-04T00:44:12.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "헬싱키 인근 바다에서 확인되지 않은 금속 물체가 발견되어 해상 교통이 폐쇄되고 해군이 배치되었다",
+      "translated": true
+    },
     {
       "id": "worldnews:78087",
       "titleOriginal": "Spain: Massive protests after housing bills voted down",
@@ -1596,61 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "호르무즈 해협의 원유 수출은 대부분 전쟁 이전 수준으로 돌아갑니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91867",
-      "titleOriginal": "A Hidden Compound in 'Healthy' Plant-Based Foods May Be Fueling Gut Inflammation",
-      "url": "https://www.sciencealert.com/a-hidden-compound-in-healthy-plant-based-foods-may-be-fueling-gut-inflammation",
-      "lang": "en",
-      "publishedAt": "2026-10-02T02:51:12.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "건강에 좋은' 식물성 식품의 숨겨진 화합물은 장 염증을 유발할 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91866",
-      "titleOriginal": "Physicists Find a Superconductor That 'Breaks' The Symmetry of Time – A First For Its Kind",
-      "url": "https://www.sciencealert.com/physicists-find-a-superconductor-that-breaks-the-symmetry-of-time-a-first-for-its-kind",
-      "lang": "en",
-      "publishedAt": "2026-10-02T00:31:13.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "물리학자들은 시간의 대칭을 '깨뜨리는' 초전도체를 찾습니다 – 그 종류에 대한 첫 번째",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78047",
-      "titleOriginal": "European Union and Canada plan new undersea cables and fuel shipments as part of “Alliance for the Future” to counterbalance the US and China",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-30/eu-and-canada-to-explore-new-technology-links-and-lng-sales",
-      "lang": "en",
-      "publishedAt": "2026-10-02T00:14:38.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "유럽 연합과 캐나다는 미국과 중국의 균형을 맞추기 위해 \"미래를 위한 동맹\" 의 일환으로 새로운 해저 케이블 및 연료 선적을 계획하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:44983",
-      "titleOriginal": "U.S. President Trump asked Musk’s Grok bot about capturing Venezuela’s Maduro and was impressed by its assessment: report",
-      "url": "https://insiderpaper.com/trump-grok-captured-venezuela-maduro/",
-      "lang": "en",
-      "publishedAt": "2026-10-01T23:24:00.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "트럼프 미국 대통령은 머스크의 그록 봇에게 베네수엘라의 마두로 포획에 대해 물었고 그 평가에 깊은 인상을 받았습니다. 보고서",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78046",
-      "titleOriginal": "South Korea to build 8 nuclear power plants in US, invest $120bn",
-      "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/south-korea-to-build-8-nuclear-power-plants-in-us-invest-120bn",
-      "lang": "en",
-      "publishedAt": "2026-10-01T23:09:43.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "한국, 미국에 원자력 발전소 8기 건설, $ 120 billion 투자",
       "translated": true
     }
   ]
