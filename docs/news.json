@@ -1,8 +1,151 @@
 {
-  "updatedAt": "2026-10-04T17:18:54.375Z",
+  "updatedAt": "2026-10-04T20:21:00.010Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "insiderpaper:45009",
+      "titleOriginal": "NEW 🚨 Five earthquakes rattle south Turkey",
+      "url": "https://insiderpaper.com/five-eartquakes-south-turkey/",
+      "lang": "en",
+      "publishedAt": "2026-10-04T20:16:00.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "터키 남부에서 발생한 지진 🚨 5건",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78111",
+      "titleOriginal": "Zelenskyy says Ukraine is developing satellite system similar to Starlink",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/04/8056442/",
+      "lang": "en",
+      "publishedAt": "2026-10-04T20:14:18.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "Zelenskyy는 우크라이나가 Starlink와 유사한 위성 시스템을 개발하고 있다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78110",
+      "titleOriginal": "More than 400 schools in France to be closed on Monday as more protests planned | France",
+      "url": "https://www.theguardian.com/world/2026/oct/04/schools-france-closed-protests-planned",
+      "lang": "en",
+      "publishedAt": "2026-10-04T20:04:38.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "더 많은 시위가 계획됨에 따라 프랑스 내 400개 이상의 학교가 월요일에 문을 닫습니다 | 프랑스",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9280",
+      "titleOriginal": "Prick’s theatrical industrial punk is perfect for spooky season",
+      "url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+      "lang": "en",
+      "publishedAt": "2026-10-04T20:02:00.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Prick의 극장용 인더스트리얼 펑크는 으스스한 계절에 안성맞춤입니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19252",
+      "titleOriginal": "Air raid sirens are spreading across Russian regions. In particular, a missile threat has been declared in Krasnodar Krai.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-10-04T19:20:00.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아 전역에 공습 사이렌 소리가 퍼지고 있습니다. 특히 크라스노다르 크라이에 미사일 위협이 선포되었습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78109",
+      "titleOriginal": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy after South ​Korea and Western countries have previously voiced concerns that Pyongyang may ​be getting help with weapons development from Moscow in return",
+      "url": "https://www.reuters.com/business/aerospace-defense/ukraine-believes-russia-shared-jet-drone-technology-with-north-korea-says-2026-10-04/",
+      "lang": "en",
+      "publishedAt": "2026-10-04T19:19:28.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나가 러시아가 북한과 제트 드론 기술을 공유했다고 믿는다고 한국과 서방 국가들이 이전에 평양이 모스크바로부터 무기 개발에 대한 도움을 받을 수 있다는 우려를 표명한 후 젤렌스키가 말했다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19251",
+      "titleOriginal": "Meanwhile, somewhere in Russia, communists held a protest and even dared chant \"down with the tsar,\" but it looks like it got shut down pretty fast.",
+      "url": "https://t.me/wartranslated/19251",
+      "lang": "en",
+      "publishedAt": "2026-10-04T19:17:44.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "한편, 러시아 어딘가에서 공산주의자들이 시위를 벌이고 \"황제와 함께 쓰러지다\" 라고 감히 외치기도 했지만, 꽤 빨리 폐쇄된 것으로 보인다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78108",
+      "titleOriginal": "At least 15,000 civilian casualties documented in Ukraine in 2026, UN report finds",
+      "url": "https://kyivindependent.com/at-least-15-000-civilian-casualties-documented-in-ukraine-in-2026-un-report-finds/",
+      "lang": "en",
+      "publishedAt": "2026-10-04T18:24:23.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "유엔 보고서에 따르면 2026년 우크라이나에서 최소 15,000명의 민간인 사상자가 기록되었다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19250",
+      "titleOriginal": "Ukrainian MoD reported that Ukrainian strikes have knocked out over 51% of Russia's oil refining capacity.",
+      "url": "https://t.me/wartranslated/19250",
+      "lang": "en",
+      "publishedAt": "2026-10-04T18:21:39.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나 국방부는 우크라이나의 파업으로 러시아 석유 정제 능력의 51% 이상이 파괴되었다고 보고했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78107",
+      "titleOriginal": "Germany’s Merz announces new aid for Ukraine in Kyiv as Russia steps up attacks",
+      "url": "https://apnews.com/article/kyiv-russia-ukraine-war-merz-drones-89bb8d2a97cc09d01a316723d08d2fb3",
+      "lang": "en",
+      "publishedAt": "2026-10-04T18:09:04.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아가 공격을 강화함에 따라 독일의 메르츠가 키예프에서 우크라이나에 대한 새로운 원조를 발표했습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19249",
+      "titleOriginal": "Ukraine is creating a satellite system similar to Starlink, called Similar, Zelensky says.",
+      "url": "https://t.me/wartranslated/19249",
+      "lang": "en",
+      "publishedAt": "2026-10-04T17:29:29.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "젤렌스키는 우크라이나가 스타링크와 유사한 위성 시스템을 만들고 있다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15542",
+      "titleOriginal": "Loud explosions rocked Yemen’s Houthi-held capital, Sanaa, as reports emerged of renewed Saudi air strikes targeting Houthi positions. Residents reported that warplanes could be heard overhead as powerful blasts echoed across the city.",
+      "url": "https://t.me/trtworld/15542",
+      "lang": "en",
+      "publishedAt": "2026-10-04T17:20:38.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "후티의 입지를 겨냥한 사우디아라비아의 공습이 재개되었다는 보도가 나오면서 큰 폭발이 예멘의 후티 수도 사나를 뒤흔들었다. 주민들은 도시 전역에 강력한 폭발음이 울려 퍼지면서 전투기가 머리 위로 들릴 수 있다고 보고했습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45008",
+      "titleOriginal": "BREAKING: IRAN'S OIL MINISTER RESIGNS — STATE MEDIA",
+      "url": "https://t.me/insiderpaper/45008",
+      "lang": "en",
+      "publishedAt": "2026-10-04T17:20:17.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "BREAKING: 이란의 석유부 장관 사임 — 주 언론",
+      "translated": true
+    },
     {
       "id": "insiderpaper:45007",
       "titleOriginal": "JUST IN - Netanyahu orders security review of international flights to Israel after flydubai attack",
@@ -1508,149 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "Sling TV의 1일 케이블 패스",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15536",
-      "titleOriginal": "Student protests across France continued for another day, with students blocking access to schools and calling for better education funding.",
-      "url": "https://t.me/trtworld/15536",
-      "lang": "en",
-      "publishedAt": "2026-10-02T18:32:29.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "프랑스 전역의 학생 시위는 하루 더 계속되었으며, 학생들은 학교에 대한 접근을 차단하고 더 나은 교육 기금을 요구했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19187",
-      "titleOriginal": "The Russian MoD claims its air defense intercepted 209 Ukrainian drones over Russian regions during the day.",
-      "url": "https://t.me/wartranslated/19187",
-      "lang": "en",
-      "publishedAt": "2026-10-02T18:14:59.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아 국방부는 이날 러시아 지역에 209대의 우크라이나 드론을 요격했다고 주장했다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9262",
-      "titleOriginal": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "lang": "en",
-      "publishedAt": "2026-10-02T18:00:54.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "OpenAI의 Dot 에이전트는 저녁 식사도 주문할 수 있는 엔터프라이즈 소프트웨어입니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19185",
-      "titleOriginal": "Ukrainian drones are currently active across several Russian regions, including Voronezh, Bryansk, and Kaluga, with groups heading toward Moscow Oblast. Activity is also reported in Rostov and near Crimea by Russian monitoring sources.",
-      "url": "https://t.me/wartranslated/19185",
-      "lang": "en",
-      "publishedAt": "2026-10-02T17:54:48.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 드론은 현재 보로네시, 브랸스크, 칼루가 등 러시아 전역에서 활발히 활동하고 있으며, 모스크바 주를 향하고 있습니다. 러시아의 모니터링 자료에 따르면 로스토프와 크림반도 근처에서도 활동이 보고되고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9261",
-      "titleOriginal": "Breaking up (with Elon Musk) is hard to do",
-      "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-      "lang": "en",
-      "publishedAt": "2026-10-02T17:41:33.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "(일론 머스크와) 헤어지는 것은 어렵습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9260",
-      "titleOriginal": "Rivian’s sales pop as the company’s big R2 bet starts to pay off",
-      "url": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
-      "lang": "en",
-      "publishedAt": "2026-10-02T17:16:41.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "회사의 빅 R2 베팅이 성과를 내기 시작하면서 리비안의 매출이 급증합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19182",
-      "titleOriginal": "Exilenova+ says the Oct 2 hit on LVDS Samara set 5 RVS-20000 and 3 RVS-50000 tanks on fire and damaged pipelines and a pump station. Fire area 15,000+ sq m. Losses with oil are estimated at about $200m.",
-      "url": "https://t.me/wartranslated/19182",
-      "lang": "en",
-      "publishedAt": "2026-10-02T17:07:05.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "Exilenova + 는 LVDS Samara의 10 월 2 일 히트가 5 개의 RVS-20000 및 3 개의 RVS-50000 탱크를 불에 태우고 파이프 라인과 펌프 스테이션을 손상 시켰다고 말합니다. 화재 지역 15,000평방미터 이상. 석유로 인한 손실은 약 2억 $ 로 추정됩니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9259",
-      "titleOriginal": "Beehiiv creators are buzzing about a new price increase",
-      "url": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
-      "lang": "en",
-      "publishedAt": "2026-10-02T16:56:31.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Beehiiv 크리에이터들이 새로운 요금 인상에 대해 떠들썩해하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78062",
-      "titleOriginal": "Russia prepared to use ‘all weapons’ to protect Kaliningrad, Putin warns West",
-      "url": "https://www.cnn.com/2026/10/01/europe/putin-kaliningrad-warning-ukraine-latam-intl",
-      "lang": "en",
-      "publishedAt": "2026-10-02T16:44:39.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아는 칼리닌그라드를 보호하기 위해 ‘모든 무기’ 를 사용할 준비를 했다고 푸틴 대통령은 서방에 경고했다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:44999",
-      "titleOriginal": "JUST IN - 'It's released for the first time' - More than 30 minutes long 'Bodycam Footage' shows how Luigi Mangione got arrested inside McDonald’s after assassinating United Healthcare CEO",
-      "url": "https://insiderpaper.com/bodycam-footage-luigi-mangiones-arrest/",
-      "lang": "en",
-      "publishedAt": "2026-10-02T16:42:53.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - '처음으로 공개됩니다' - 30분 이상의 '바디캠 영상' 은 유나이티드 헬스케어 CEO를 암살한 후 루이지 망지오네가 어떻게 맥도날드 내에서 체포되었는지를 보여줍니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9258",
-      "titleOriginal": "Nacon’s new PS5 controller can mix audio from your phone and console",
-      "url": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
-      "lang": "en",
-      "publishedAt": "2026-10-02T16:35:52.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Nacon의 새로운 PS5 컨트롤러는 휴대폰과 콘솔의 오디오를 혼합할 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19180",
-      "titleOriginal": "Ukrainian fighters from Lasar’s Group downed another jet-powered Geran-5 using the P1-SUN JetKiller, their second in recent days, intercepting it on a head-on crossing course. Five interceptor drones now have video-confirmed Geran-5 kills.",
-      "url": "https://t.me/wartranslated/19180",
-      "lang": "en",
-      "publishedAt": "2026-10-02T16:35:08.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "Lasar's Group의 우크라이나 전투기는 최근 두 번째인 P1-SUN JetKiller를 사용하여 제트 동력 Geran-5를 정면으로 가로막았습니다. 이제 5대의 요격기 드론이 영상으로 확인된 Geran-5 킬을 보유하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78061",
-      "titleOriginal": "Zelenskyy says Putin ordered Russian army to abandon rules of war",
-      "url": "https://tvpworld.com/95718904/putin-ordered-no-rules-in-attacks-on-ukraine-zelenskyy-says",
-      "lang": "en",
-      "publishedAt": "2026-10-02T16:29:24.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "젤렌스키 (Zelenskyy) 는 푸틴이 러시아 군대에 전쟁 규칙을 포기하라고 명령했다고 말한다",
       "translated": true
     }
   ]
