@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-10-03T22:01:03.101Z",
+  "updatedAt": "2026-10-04T00:30:01.240Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78087",
+      "titleOriginal": "Spain: Massive protests after housing bills voted down",
+      "url": "https://www.dw.com/en/spain-housing-protests-madrid-valencia-affordability-renters-rights/a-79532124",
+      "lang": "en",
+      "publishedAt": "2026-10-03T23:59:29.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "스페인: 주택 법안 부결 후 대규모 시위",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91883",
+      "titleOriginal": "This Dangerous Fungus Has Become Resistant to Every Major Antifungal Drug We Have… Twice",
+      "url": "https://www.sciencealert.com/this-dangerous-fungus-has-become-resistant-to-every-major-antifungal-drug-we-have-twice",
+      "lang": "en",
+      "publishedAt": "2026-10-03T23:22:47.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "이 위험한 곰팡이는 우리가 가진 모든 주요 항진균제에 내성이 생겼습니다... 두 번",
+      "translated": true
+    },
     {
       "id": "worldnews:78086",
       "titleOriginal": "Up to 140 sq km already liberated in Operation Vivaldi, Zelenskyy says",
@@ -1629,28 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "한국, 미국에 원자력 발전소 8기 건설, $ 120 billion 투자",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:44982",
-      "titleOriginal": "BREAKING - OpenAI says it has fired three staffers for mishandling 'sensitive' information",
-      "url": "https://t.me/insiderpaper/44982",
-      "lang": "en",
-      "publishedAt": "2026-10-01T23:06:23.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - OpenAI는 '민감한' 정보를 잘못 처리하여 3명의 직원을 해고했다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9245",
-      "titleOriginal": "Apple’s reportedly developing a smart home camera that doesn’t record video",
-      "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
-      "lang": "en",
-      "publishedAt": "2026-10-01T22:56:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Apple은 비디오를 녹화하지 않는 스마트 홈 카메라를 개발하고 있다고 합니다",
       "translated": true
     }
   ]
