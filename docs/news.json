@@ -1,8 +1,107 @@
 {
-  "updatedAt": "2026-10-04T20:21:00.010Z",
+  "updatedAt": "2026-10-04T23:29:18.056Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78117",
+      "titleOriginal": "Britain's Green Party votes to class Zionism as a form of racism",
+      "url": "https://www.reuters.com/world/uk/britains-green-party-votes-class-zionism-form-racism-2026-10-04/",
+      "lang": "en",
+      "publishedAt": "2026-10-04T22:29:27.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "영국의 녹색당은 인종차별의 한 형태로 시오니즘을 계급화하는 데 투표합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78116",
+      "titleOriginal": "US Air Force removes all bombers from British air base targeted by a suspected terror attack",
+      "url": "https://apnews.com/article/bombers-raf-fairford-iran-5280111d976b89a6245f277e8b899f8f",
+      "lang": "en",
+      "publishedAt": "2026-10-04T22:24:28.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미 공군은 테러 공격이 의심되는 영국 공군 기지에서 모든 폭격기를 제거합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78115",
+      "titleOriginal": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
+      "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html?smid=nytcore-ios-share",
+      "lang": "en",
+      "publishedAt": "2026-10-04T21:59:15.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국, 새로운 위협에 맞서 영국 공군기지에서 폭격기 철수를 서두르다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78114",
+      "titleOriginal": "Reports of suspected Russian plague outbreak",
+      "url": "https://www.axios.com/2026/10/04/russia-plague-outbreak-white-house-us?stream=top",
+      "lang": "en",
+      "publishedAt": "2026-10-04T21:24:30.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아 전염병 발병이 의심된다는 신고",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78113",
+      "titleOriginal": "Researcher at Russian plague laboratory dies of ‘unknown’ infection",
+      "url": "https://edition.cnn.com/2026/10/04/europe/russia-laboratory-plague-accident-intl",
+      "lang": "en",
+      "publishedAt": "2026-10-04T21:24:29.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아 페스트 연구소 연구원, ‘알려지지 않은‘ 감염으로 사망",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9281",
+      "titleOriginal": "The new Fitbit Edge leaks",
+      "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+      "lang": "en",
+      "publishedAt": "2026-10-04T21:15:52.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "새로운 Fitbit Edge 누출",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78112",
+      "titleOriginal": "Ukraine's deep strikes have wrecked over half of Russia's oil refining capacity, Defense Ministry says",
+      "url": "https://kyivindependent.com/ukraines-deep-strikes-have-wrecked-over-half-of-russias-oil-refining-capacity-defense-ministry-says/",
+      "lang": "en",
+      "publishedAt": "2026-10-04T21:04:26.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나의 깊은 타격으로 러시아의 석유 정제 능력의 절반 이상이 파괴되었다고 국방부가 밝혔습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91890",
+      "titleOriginal": "Scientists Might Have Found a New Cause of High Blood Pressure, And a Way to Treat It",
+      "url": "https://www.sciencealert.com/scientists-might-have-found-a-new-cause-of-high-blood-pressure-and-a-way-to-treat-it",
+      "lang": "en",
+      "publishedAt": "2026-10-04T20:34:20.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들은 고혈압의 새로운 원인과 그것을 치료하는 방법을 발견했을 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19253",
+      "titleOriginal": "SBU drones struck a Su-35 and a Su-34 fighter jet, along with an ammunition depot, at a Russian military airfield in Adygea overnight. Both aircraft carry guided bombs that Russia uses against the frontline and Ukrainian cities.",
+      "url": "https://t.me/wartranslated/19253",
+      "lang": "en",
+      "publishedAt": "2026-10-04T20:33:39.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "SBU 드론은 하룻밤 사이에 아디게아의 러시아 군 비행장에서 Su-35와 Su-34 전투기와 탄약고를 쳤다. 두 항공기 모두 러시아가 최전방과 우크라이나 도시를 상대로 사용하는 유도 폭탄을 탑재하고 있습니다",
+      "translated": true
+    },
     {
       "id": "insiderpaper:45009",
       "titleOriginal": "NEW 🚨 Five earthquakes rattle south Turkey",
@@ -1552,105 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "유럽 연합과 캐나다는 차세대 결제 시스템을 연계하여 거래를 완화할 계획입니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91874",
-      "titleOriginal": "Scientists Discover a Genius Use For Leftover Steel Waste – And It Could Save Lives",
-      "url": "https://www.sciencealert.com/scientists-discover-a-genius-use-for-leftover-steel-waste-and-it-could-save-lives",
-      "lang": "en",
-      "publishedAt": "2026-10-02T22:15:55.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "과학자들은 남은 강철 폐기물에 대한 천재적인 사용을 발견하고 생명을 구할 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78063",
-      "titleOriginal": "Russia planned to assassinate opposition figures Kasparov and Ponomarev in US",
-      "url": "https://newsukraine.rbc.ua/news/russia-planned-to-assassinate-opposition-1790781573.html",
-      "lang": "en",
-      "publishedAt": "2026-10-02T21:39:10.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아는 미국의 카스파로프와 포노마레프를 암살할 계획이었다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9266",
-      "titleOriginal": "Meta open sources code to let you make Muse AI gadgets",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "lang": "en",
-      "publishedAt": "2026-10-02T21:16:53.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Muse AI 가젯을 만들 수 있는 메타 오픈 소스 코드",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91873",
-      "titleOriginal": "Almost All The Viruses Found in a Vast Deep-Sea Mining Zone Were New to Science⁠",
-      "url": "https://www.sciencealert.com/almost-all-the-viruses-found-in-a-vast-deep-sea-mining-zone-were-new-to-science",
-      "lang": "en",
-      "publishedAt": "2026-10-02T20:45:50.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "광대한 심해 채굴 구역에서 발견된 거의 모든 바이러스는 과학에 익숙하지 않았습니다⁠",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9265",
-      "titleOriginal": "Netflix is pivoting away from prestige",
-      "url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
-      "lang": "en",
-      "publishedAt": "2026-10-02T20:36:51.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "넷플릭스는 명성에서 벗어나고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19188",
-      "titleOriginal": "Peskov claims Russia is open to Black Sea security dialogue with all countries, but no talks on bilateral deals are currently underway.",
-      "url": "http://patreon.com/c/WarTranslated",
-      "lang": "en",
-      "publishedAt": "2026-10-02T20:19:09.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "페스코프는 러시아가 모든 국가와 흑해 안보 대화에 열려 있다고 주장하지만, 현재 양자 협상에 대한 논의는 진행되고 있지 않다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45000",
-      "titleOriginal": "BREAKING: The FlyDubai co-pilot who stabbed his captain and sent Flight 1073 diving toward the ground had previously been banned from flying by Oman over concerns he had adopted radical ideological views — WSJ",
-      "url": "https://t.me/insiderpaper/45000",
-      "lang": "en",
-      "publishedAt": "2026-10-02T20:13:26.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "브레이킹: 선장을 찌르고 1073편 다이빙을 지상으로 보낸 FlyDubai 부조종사는 이전에 급진적인 이데올로기적 견해를 채택한 우려로 인해 오만에 의해 비행이 금지되었습니다. — WSJ",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9264",
-      "titleOriginal": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "lang": "en",
-      "publishedAt": "2026-10-02T20:11:43.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Apple은 AI 에이전트가 ‘실질적으로‘ 위험을 증가시키므로 Mac 디스크 액세스를 제한할 것입니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9263",
-      "titleOriginal": "Sling TV drops its one-day cable passes",
-      "url": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
-      "lang": "en",
-      "publishedAt": "2026-10-02T20:02:03.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Sling TV의 1일 케이블 패스",
       "translated": true
     }
   ]
