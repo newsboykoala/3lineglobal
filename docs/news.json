@@ -1,8 +1,129 @@
 {
-  "updatedAt": "2026-10-05T02:19:41.754Z",
+  "updatedAt": "2026-10-05T09:29:18.960Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "wartranslated:19254",
+      "titleOriginal": "During the air-raid alert in the Ukrainian capital, German Chancellor Friedrich Merz stepped in front of the cameras and addressed Putin:",
+      "url": "https://t.me/wartranslated/19254",
+      "lang": "en",
+      "publishedAt": "2026-10-05T08:47:56.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나 수도의 공습 경보가 울리는 동안 프리드리히 메르츠 독일 총리는 카메라 앞에 서서 푸틴 대통령에게 다음과 같이 말했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78125",
+      "titleOriginal": "Spanish PM calls snap election",
+      "url": "https://news.sky.com/share/13595243",
+      "lang": "en",
+      "publishedAt": "2026-10-05T08:34:20.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "스페인 오후, SNAP 선거에 전화",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45013",
+      "titleOriginal": "Heroic moment in Egypt: Man makes a split-second catch to save a child falling from the second floor",
+      "url": "https://t.me/insiderpaper/45013",
+      "lang": "en",
+      "publishedAt": "2026-10-05T07:59:48.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "이집트에서의 영웅적 순간: 남자는 2층에서 떨어지는 아이를 구하기 위해 두 번째 캐치를 합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78124",
+      "titleOriginal": "IDF kills Hamas Nukhba terrorist linked to Turkish aid group in Khan Yunis",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-910580",
+      "lang": "en",
+      "publishedAt": "2026-10-05T07:49:38.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "IDF, 칸 유니스의 터키 구호 단체와 연계된 하마스 누크바 테러리스트 사살",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15543",
+      "titleOriginal": "Follow our Daily News Brief for Monday, October 5th",
+      "url": "http://trt.world/c5qv",
+      "lang": "en",
+      "publishedAt": "2026-10-05T07:39:01.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "10월 5일 월요일 데일리 뉴스 브리프를 팔로우하세요",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45012",
+      "titleOriginal": "BREAKING: Spain's Prime Minister calls early election for November 29.",
+      "url": "https://t.me/insiderpaper/45012",
+      "lang": "en",
+      "publishedAt": "2026-10-05T07:13:47.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 스페인의 총리가 11월 29일에 조기 선거를 실시합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78123",
+      "titleOriginal": "White House monitors suspected plague outbreak in Russia",
+      "url": "https://www.axios.com/2026/10/04/russia-plague-outbreak-white-house-us",
+      "lang": "en",
+      "publishedAt": "2026-10-05T06:54:22.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "백악관, 러시아 전염병 발생 의심 상황 모니터링",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45011",
+      "titleOriginal": "BREAKING: Hackers get personal info on 8.8 million people in Denmark government data leak, ministry says",
+      "url": "https://insiderpaper.com/hackers-get-personal-info-on-8-8-million-people-in-denmark-government-data-leak-ministry/",
+      "lang": "en",
+      "publishedAt": "2026-10-05T06:50:25.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "해킹: 해커는 덴마크 정부 데이터 유출로 880만 명의 개인 정보를 얻습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45010",
+      "titleOriginal": "NEW: U.S. authorities arrested a California woman, accusing her of spying on the son of Taiwan’s president for China, the FBI said.",
+      "url": "https://t.me/insiderpaper/45010",
+      "lang": "en",
+      "publishedAt": "2026-10-05T06:32:40.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "새로운 소식: FBI는 미국 당국이 한 캘리포니아 여성을 체포하여 그녀가 중국을 위해 타이완 대통령의 아들을 감시하고 있다고 비난했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78122",
+      "titleOriginal": "Russia hospitalizes almost 200 people after researcher’s death from plague: reports",
+      "url": "https://www.cnbc.com/2026/10/05/suspected-plague-cases-reported-in-russias-irkutsk-region.html",
+      "lang": "en",
+      "publishedAt": "2026-10-05T04:54:08.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아, 전염병으로 연구원 사망 후 거의 200명 입원: 보고서",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91893",
+      "titleOriginal": "Skulls of Civilians Buried Around Egypt's First Kings Reveal Evidence of Human Sacrifice 5,000 Years Ago",
+      "url": "https://www.sciencealert.com/skulls-buried-around-egypts-first-kings-reveal-evidence-of-human-sacrifice-5000-years-ago",
+      "lang": "en",
+      "publishedAt": "2026-10-05T04:31:51.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "이집트 최초의 왕들 주위에 묻힌 민간인의 두개골이 5,000년 전에 인간 희생의 증거를 밝힘",
+      "translated": true
+    },
     {
       "id": "worldnews:78120",
       "titleOriginal": "Trump threatens tariffs of up to 300% as Korea faces pressure over US investment",
@@ -1530,127 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "Zelensky 고문 Flash는 러시아 릴레이 장치가 Shahed 드론을 조종하기 위해 키예프에서 작동할 수 있다고 말합니다. 그는 1 ~ 3개의 장치가 임시 제어 링크를 생성할 가능성이 높기 때문에 자본의 전자전 효과가 떨어질 수 있다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78071",
-      "titleOriginal": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000",
-      "url": "https://apnews.com/article/congo-ebola-outbreak-virus-4c79b59ec81a08675d2506c9e176d125",
-      "lang": "en",
-      "publishedAt": "2026-10-03T08:19:18.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "콩고에서 사망자가 4,000명을 넘어가면서 에볼라 치료 센터가 불타버렸습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45001",
-      "titleOriginal": "BREAKING: UAE says the co-pilot of a flydubai flight had planned a \"terrorist act\" and used the cockpit's emergency axe to attack the captain",
-      "url": "https://t.me/insiderpaper/45001",
-      "lang": "en",
-      "publishedAt": "2026-10-03T08:15:45.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: UAE는 플라이두바이 비행의 부조종사가 \"테러리스트 행위\" 를 계획하고 조종실의 비상 도끼를 사용하여 선장을 공격했다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91877",
-      "titleOriginal": "Tapeworm Treatment Shows Early Effectiveness Against Endometriosis",
-      "url": "https://www.sciencealert.com/tapeworm-treatment-shows-early-effectiveness-against-endometriosis",
-      "lang": "en",
-      "publishedAt": "2026-10-03T08:09:54.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "촌충 치료는 자궁내막증에 대한 초기 효과를 보여줍니다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15537",
-      "titleOriginal": "Follow our Daily News Brief for Saturday, October 3rd",
-      "url": "https://trt.world/c5qk",
-      "lang": "en",
-      "publishedAt": "2026-10-03T07:58:43.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "10월 3일 토요일 일일 뉴스 브리프를 팔로우하세요",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19197",
-      "titleOriginal": "Romania’s Defense Ministry says a drone fell during Russia’s overnight attack, around 05:00 near Plauru in Tulcea County. It caused a fire but no casualties, and the ministry says radar did not detect any airspace violation.",
-      "url": "https://t.me/wartranslated/19197",
-      "lang": "en",
-      "publishedAt": "2026-10-03T07:13:26.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "루마니아 국방부는 툴체아 카운티 (Tulcea County) 의 플라우루 (Plauru) 근처에서 오후 5시경 러시아가 하룻밤 사이에 드론이 떨어졌다고 밝혔습니다. 화재는 발생했지만 사상자는 발생하지 않았으며, 레이더가 공역 위반을 감지하지 못했다고 합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19196",
-      "titleOriginal": "Warriors of Ukraine's 44th Artillery Brigade destroyed four Russian artillery pieces, including three Msta-B howitzers and one Giatsint-B howitzer.",
-      "url": "https://t.me/wartranslated/19196",
-      "lang": "en",
-      "publishedAt": "2026-10-03T07:07:35.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 제44포병여단의 전사들은 Msta-B 곡사포 3대와 Giatsint-B 곡사포 1대를 포함한 러시아 포병 4대를 파괴했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19193",
-      "titleOriginal": "Overnight, a massive strike hit the Tsymbulova UAV launch base in Oryol Oblast, Russia. NASA FIRMS satellite data confirms multiple fire hotspots around the drone storage and launch facilities.",
-      "url": "https://t.me/wartranslated/19193",
-      "lang": "en",
-      "publishedAt": "2026-10-03T06:14:58.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "하룻밤 사이에 러시아 오욜 주에 있는 침불로바 무인 항공기 발사 기지에 엄청난 타격이 가해졌습니다. NASA는 위성 데이터를 통해 드론 보관 및 발사 시설 주변의 여러 화재 핫스팟을 확인합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19189",
-      "titleOriginal": "Once again this morning, Russian forces struck a pylon of the Pivnichnyi Bridge in Kyiv with a drone.",
-      "url": "https://t.me/wartranslated/19189",
-      "lang": "en",
-      "publishedAt": "2026-10-03T06:05:44.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "오늘 아침 러시아군은 키예프의 피브니치니 다리 철탑을 드론으로 다시 한 번 공격했습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78070",
-      "titleOriginal": "5 European nations follow U.S. with plans for third-country deportations as EU approves migrant \"return hubs\"",
-      "url": "https://www.cbsnews.com/news/europe-eu-immigration-asylum-seeker-third-country-deportations/",
-      "lang": "en",
-      "publishedAt": "2026-10-03T05:04:37.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "유럽 연합 (EU) 이 이민자 \"반환 허브\" 를 승인함에 따라 5 개 유럽 국가가 미국을 따라 제 3 국 추방 계획을 세웁니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91876",
-      "titleOriginal": "LASIK Alternative Promises to Improve Vision Without Scalpel or Lasers",
-      "url": "https://www.sciencealert.com/lasik-alternative-promises-to-improve-vision-without-scalpel-or-lasers",
-      "lang": "en",
-      "publishedAt": "2026-10-03T02:21:07.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "메스나 레이저 없이 시력 향상을 위한 라식 대안 약속",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78068",
-      "titleOriginal": "Trump threatens to charge S. Korea 'more' if it rejects AK LNG project",
-      "url": "https://m-en.yna.co.kr/view/AEN20261003000451315?section=national/diplomacy",
-      "lang": "en",
-      "publishedAt": "2026-10-03T02:09:07.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "트럼프는 AK LNG 프로젝트를 거부하면 한국에 '더 많은' 비용을 청구하겠다고 위협한다",
       "translated": true
     }
   ]
