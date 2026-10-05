@@ -1,8 +1,63 @@
 {
-  "updatedAt": "2026-10-04T23:29:18.056Z",
+  "updatedAt": "2026-10-05T02:19:41.754Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78120",
+      "titleOriginal": "Trump threatens tariffs of up to 300% as Korea faces pressure over US investment",
+      "url": "https://m.koreaherald.com/article/10892919",
+      "lang": "en",
+      "publishedAt": "2026-10-05T01:39:37.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프, 한국이 미국 투자 압박에 직면함에 따라 최대 300% 의 관세 위협",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91892",
+      "titleOriginal": "After 25 Years, Physicists Can Finally Measure The 'Other' Kind of Quantum Entanglement",
+      "url": "https://www.sciencealert.com/after-25-years-physicists-can-finally-measure-the-other-kind-of-quantum-entanglement",
+      "lang": "en",
+      "publishedAt": "2026-10-05T01:30:49.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "25년 후, 물리학자들은 마침내 '다른' 종류의 양자 얽힘을 측정할 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78119",
+      "titleOriginal": "Flavio Bolsonaro leads Lula in partial Brazil poll results",
+      "url": "https://www.afp.com/en/flavio-bolsonaro-leads-lula-partial-brazil-poll-results",
+      "lang": "en",
+      "publishedAt": "2026-10-05T00:39:19.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "Flavio Bolsonaro, 브라질 부분 여론조사 결과에서 룰라를 이끌다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91891",
+      "titleOriginal": "Scientists Find a Surprising Link Between Cats And Happiness Across 93 Countries",
+      "url": "https://www.sciencealert.com/scientists-find-a-surprising-link-between-cats-and-happiness-across-93-countries",
+      "lang": "en",
+      "publishedAt": "2026-10-05T00:03:57.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들은 93개국에서 고양이와 행복 사이의 놀라운 연관성을 발견합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78118",
+      "titleOriginal": "5 hospitals have been closed for quarantines in Siberia due to a possible plague outbreak.",
+      "url": "https://www.motherjones.com/politics/2026/10/reports-of-a-lethal-virus-outbreak-in-russia-follow-the-death-of-a-researcher/",
+      "lang": "en",
+      "publishedAt": "2026-10-04T23:39:12.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "전염병 발생 가능성으로 인해 시베리아에서 5개 병원이 격리 휴업했습니다",
+      "translated": true
+    },
     {
       "id": "worldnews:78117",
       "titleOriginal": "Britain's Green Party votes to class Zionism as a form of racism",
@@ -1596,61 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "트럼프는 AK LNG 프로젝트를 거부하면 한국에 '더 많은' 비용을 청구하겠다고 위협한다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78067",
-      "titleOriginal": "Argentina announces it will give passports for €311.000 contribution",
-      "url": "https://www.euronews.com/2026/10/02/debt-saddled-argentina-pitches-golden-passport-scheme-to-woo-wealthy-foreigners",
-      "lang": "en",
-      "publishedAt": "2026-10-03T01:24:06.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "아르헨티나는 € 311.000의 기부금으로 여권을 제공하겠다고 발표했습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91875",
-      "titleOriginal": "Ozempic Rival Delivers 25% Weight Loss at Highest Dose in Phase 3 Trial",
-      "url": "https://www.sciencealert.com/ozempic-rival-delivers-25-weight-loss-at-highest-dose-in-phase-3-trial",
-      "lang": "en",
-      "publishedAt": "2026-10-03T01:11:49.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "오젬픽 라이벌 (Ozempic Rival) 은 3상 시험에서 최고 용량으로 25% 의 체중 감량을 제공합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78066",
-      "titleOriginal": "Japan to Consider Transferring Patriot Missiles to Ukraine",
-      "url": "https://militarnyi.com/en/news/japan-consider-patriot-missiles-for-ukraine/",
-      "lang": "en",
-      "publishedAt": "2026-10-03T01:09:22.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "일본, 우크라이나에 패트리어트 미사일 이전 고려",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78065",
-      "titleOriginal": "Saudi Arabia plans 100,000-troop Yemen offensive to retake Bab el-Mandeb from Houthis",
-      "url": "https://www.ynetnews.com/article/bjxod8tcfe",
-      "lang": "en",
-      "publishedAt": "2026-10-02T23:59:34.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "사우디아라비아는 후티스에서 바브 엘 만뎁을 탈환하기 위해 10만 명의 예멘군을 공격할 계획입니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78064",
-      "titleOriginal": "European Union and Canada plan to link next-gen payment systems, easing transactions",
-      "url": "https://www.theglobeandmail.com/politics/article-canada-eu-link-payment-systems-joint-statement-says/",
-      "lang": "en",
-      "publishedAt": "2026-10-02T23:04:15.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "유럽 연합과 캐나다는 차세대 결제 시스템을 연계하여 거래를 완화할 계획입니다",
       "translated": true
     }
   ]
