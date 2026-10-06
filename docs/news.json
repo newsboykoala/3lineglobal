@@ -1,8 +1,294 @@
 {
-  "updatedAt": "2026-10-05T18:47:40.806Z",
+  "updatedAt": "2026-10-06T00:36:45.588Z",
   "count": 150,
-  "translatedCount": 147,
+  "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78144",
+      "titleOriginal": "Trump Claims Canada Has Been Imposing Secret Tariffs on the US: ‘Nobody Knew’ Except Me",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-claims-canada-imposing-secret-201116335.html",
+      "lang": "en",
+      "publishedAt": "2026-10-06T00:19:18.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프, 캐나다가 미국에 비밀 관세를 부과하고 있다고 주장: 나만 빼고 ‘아무도 몰랐다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91900",
+      "titleOriginal": "Physicists May Have Finally Figured Out Why Pickles Glow",
+      "url": "https://www.sciencealert.com/physicists-may-have-finally-figured-out-why-pickles-glow",
+      "lang": "en",
+      "publishedAt": "2026-10-06T00:02:27.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "물리학자들은 피클이 빛나는 이유를 마침내 알아 냈을 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9301",
+      "titleOriginal": "Gemini Call for Me might tell your mom you’re running late",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "lang": "en",
+      "publishedAt": "2026-10-05T23:16:31.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Gemini Call for Me는 엄마에게 늦었다고 말할 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45044",
+      "titleOriginal": "The United States warned foreign financial institutions that if they conducted any business with Iran or its banking sector they could be sanctioned by U.S.",
+      "url": "https://insiderpaper.com/us-warns-foreign-financial-institutions-not-to-do-business-with-iran/",
+      "lang": "en",
+      "publishedAt": "2026-10-05T22:49:12.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "미국은 외국 금융 기관이 이란 또는 은행 부문과 거래를 할 경우 미국의 제재를 받을 수 있다고 경고했습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45043",
+      "titleOriginal": "NEW — Russia’s health watchdog, Rospotrebnadzor, said two COVID cases and two rhinovirus infections were detected among contacts of a lab worker who died of suspected plague in the Irkutsk region, according to TASS.",
+      "url": "https://t.me/insiderpaper/45043",
+      "lang": "en",
+      "publishedAt": "2026-10-05T22:17:53.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "TASS에 따르면 러시아의 건강 감시 기관인 로스포트레브나드조르 (Rospotrebnadzor) 는 이르쿠츠크 지역에서 전염병으로 의심되어 사망한 실험실 직원의 접촉자에서 두 건의 코로나바이러스 사례와 두 건의 리노바이러스 감염이 검출되었다고 밝혔다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45042",
+      "titleOriginal": "BREAKING: U.S. military evacuated a dozen B-1 bombers from UK's RAF Fairford airbase over the weekend as a result of intelligence suggesting an Iranian drone attack, U.S. officials said, Axios reports",
+      "url": "https://t.me/insiderpaper/45042",
+      "lang": "en",
+      "publishedAt": "2026-10-05T21:57:47.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "브레이킹: 미군이 이란의 드론 공격을 암시하는 정보의 결과로 주말 동안 영국의 RAF 페어포드 공군기지에서 B-1 폭격기 12대를 대피시켰다고 미국 관리들이 말했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78143",
+      "titleOriginal": "Turkey supplies Korkut air defence systems to Ukraine, sources say",
+      "url": "https://www.middleeasteye.net/news/turkey-supplies-korkut-air-defence-systems-ukraine-sources-say",
+      "lang": "en",
+      "publishedAt": "2026-10-05T21:39:32.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "소식통에 따르면 터키는 우크라이나에 코르쿠트 방공 시스템을 공급하고 있다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45041",
+      "titleOriginal": "ELON MUSK IS NOW WORTH MORE",
+      "url": "https://t.me/insiderpaper/45041",
+      "lang": "en",
+      "publishedAt": "2026-10-05T21:28:30.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "일론 머스크는 이제 더 가치가 있습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9300",
+      "titleOriginal": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
+      "url": "https://telegra.ph/Reverse-engineered-games-All-the-news-on-video-game-decomps-10-05-2",
+      "lang": "en",
+      "publishedAt": "2026-10-05T21:22:06.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "리버스 엔지니어링 게임: 비디오 게임 디컴프, 리컴프, VR, 웹 및 3D 포트에 대한 모든 뉴스",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9299",
+      "titleOriginal": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
+      "url": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
+      "lang": "en",
+      "publishedAt": "2026-10-05T21:22:05.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Matic은 FCC 금지 면제를 받은 최초의 Robovac입니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45040",
+      "titleOriginal": "‘Reckless’ AI firms can’t control models, says whistleblower Jacob Coxon",
+      "url": "https://insiderpaper.com/reckless-ai-firms-cant-control-models-says-whistleblower-jacob-coxon/",
+      "lang": "en",
+      "publishedAt": "2026-10-05T21:13:58.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "내부 고발자 제이콥 콕슨 (Jacob Coxon) 은 ‘무모한’ AI 회사는 모델을 통제 할 수 없다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91899",
+      "titleOriginal": "Your Brain Under Anesthesia Behaves Surprisingly Like a Worm's, Scientists Discover",
+      "url": "https://www.sciencealert.com/your-brain-under-anesthesia-behaves-surprisingly-like-a-worms-scientists-discover",
+      "lang": "en",
+      "publishedAt": "2026-10-05T21:02:04.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "마취 상태에서 뇌가 벌레처럼 놀랍게 행동하는 것을 과학자들은 발견합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78142",
+      "titleOriginal": "In a Tit-for-tat move, the UK has threatened to expel one Israeli diplomat for every British diplomat forced to leave Israel as a result of Israel’s decision to close the UK consulate in East Jerusalem",
+      "url": "https://www.theguardian.com/world/2026/oct/05/uk-threatens-to-expel-israeli-diplomats-after-closing-of-east-jerusalem-consulate?CMP=share_btn_url",
+      "lang": "en",
+      "publishedAt": "2026-10-05T20:39:11.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "Tit-for-tat 운동에서 영국은 이스라엘의 동예루살렘 영국 영사관 폐쇄 결정으로 인해 이스라엘을 떠나야 하는 모든 영국 외교관에 대해 이스라엘 외교관 한 명을 추방하겠다고 위협했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9298",
+      "titleOriginal": "This startup is issuing AI-generated acne prescriptions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "lang": "en",
+      "publishedAt": "2026-10-05T20:16:53.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "이 스타트업은 AI로 생성된 여드름 처방전을 발행하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45039",
+      "titleOriginal": "BREAKING: US President Trump said that the United States had withdrawn all B-1 bombers from the British airbase of RAF Fairford because of \"some threats.\"",
+      "url": "https://t.me/insiderpaper/45039",
+      "lang": "en",
+      "publishedAt": "2026-10-05T20:04:56.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 트럼프 미국 대통령은 미국이 \"일부 위협\" 때문에 영국 공군 페어포드 기지에서 모든 B-1 폭격기를 철수했다고 말했다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19266",
+      "titleOriginal": "Rubio stated that the US will not evacuate its embassy from Kyiv despite Russian threats.",
+      "url": "https://t.me/wartranslated/19266",
+      "lang": "en",
+      "publishedAt": "2026-10-05T20:02:43.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "루비오는 러시아의 위협에도 불구하고 미국이 키예프에서 대사관을 대피시키지 않을 것이라고 밝혔다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45038",
+      "titleOriginal": "BREAKING: US Rep Joe Wilson says Mecca Defense Alliance between Turkey, Pakistan and Saudi Arabia has the potential to be the NATO of the Middle East.",
+      "url": "https://t.me/insiderpaper/45038",
+      "lang": "en",
+      "publishedAt": "2026-10-05T20:00:45.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 조 윌슨 미국 하원 의원은 터키, 파키스탄, 사우디아라비아 간의 메카 방어 동맹이 중동의 NATO가 될 가능성이 있다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78141",
+      "titleOriginal": "Mecca Alliance (Saudi Arabia, Pakistan, Turkey) activates mutual defense agreement and orders rapid force deployment to Saudi Arabia",
+      "url": "https://www.aljazeera.com/amp/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures",
+      "lang": "en",
+      "publishedAt": "2026-10-05T19:44:11.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "메카 동맹 (사우디아라비아, 파키스탄, 터키) 은 상호 방위 협정을 활성화하고 사우디아라비아에 신속한 무력 배치를 명령합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45037",
+      "titleOriginal": "BREAKING: President Trump says US ready to ‘help’ Russia with reported plague",
+      "url": "http://bit.ly/4j6F4qs",
+      "lang": "en",
+      "publishedAt": "2026-10-05T19:36:03.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 트럼프 대통령은 미국이 보고된 전염병으로 러시아를 ‘도울’ 준비가 되어 있다고 말한다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9297",
+      "titleOriginal": "All the drama around AI’s takeover of mathematics",
+      "url": "https://telegra.ph/All-the-drama-around-AIs-takeover-of-mathematics-10-05-2",
+      "lang": "en",
+      "publishedAt": "2026-10-05T19:31:43.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "AI의 수학 장악을 둘러싼 모든 드라마",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19265",
+      "titleOriginal": "Russia also attacked the \"Palanca\" border crossing on the border with Moldova. A munition struck a scheduled passenger bus, injuring a border guard. The checkpoint has reportedly suspended operations temporarily.",
+      "url": "https://t.me/wartranslated/19265",
+      "lang": "en",
+      "publishedAt": "2026-10-05T19:29:11.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아는 또한 몰도바와의 국경에서 \"팔랑카\" 국경을 공격했다. 군수품이 예정된 여객 버스를 들이받아 국경 경비원이 다쳤습니다. 체크포인트가 일시적으로 작업을 중단한 것으로 보고되었습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45036",
+      "titleOriginal": "JUST IN - US Treasury Secretary says Operation Economic Outcast is delivering results: Iran’s rial has hit record lows, crude oil tanker loadings fell to zero last month, and Iran's top security official acknowledged the country is facing o",
+      "url": "https://t.me/insiderpaper/45036",
+      "lang": "en",
+      "publishedAt": "2026-10-05T19:14:50.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "JUST IN - 미국 재무부 장관, 경제 파탄 작전 (Operation Economic Outcast) 이 성과를 내고 있다고 말함: 이란의 리알 (rial) 이 사상 최저치를 기록했고, 지난달 원유 유조선 적재량이 0으로 떨어졌으며, 이란의 최고 안보 관리는 이란이",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9296",
+      "titleOriginal": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "lang": "en",
+      "publishedAt": "2026-10-05T19:06:31.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "위키백과 운영자는 OpenAI의 ‘불량‘ 봇이 5월 중단과 연결될 수 있다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19260",
+      "titleOriginal": "Russian forces launched guided aerial bombs at Kharkiv. According to the mayor, Russian troops carried out three strikes with guided aerial bombs on the city. More than 30 high-rise residential buildings, over 20 private homes, and a wareho",
+      "url": "https://t.me/wartranslated/19260",
+      "lang": "en",
+      "publishedAt": "2026-10-05T18:55:40.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아군은 하르키우에 유도 폭탄을 발사했다. 시장의 말에 따르면, 러시아 군대는 도시에 유도 공중 폭탄으로 세 번의 타격을 가했다. 30개 이상의 고층 주거 건물, 20개 이상의 개인 주택, 창고",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15547",
+      "titleOriginal": "Türkiye, Saudi Arabia and Pakistan strengthen their Mecca defence alliance in Riyadh, agreeing on stronger collective deterrence and rapid defence support for Saudi Arabia against Houthi attacks",
+      "url": "https://trt.world/c5q3",
+      "lang": "en",
+      "publishedAt": "2026-10-05T18:52:47.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "튀르키예, 사우디아라비아, 파키스탄은 리야드에서 메카 방위 동맹을 강화하고 후티 공격에 대한 사우디아라비아의 강력한 집단 억제와 신속한 방위 지원에 동의한다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78140",
+      "titleOriginal": "Trump yet again blames Ukraine for rising fuel prices",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/05/8056603/",
+      "lang": "en",
+      "publishedAt": "2026-10-05T18:49:22.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프 대통령은 또다시 우크라이나의 연료 가격 상승을 비난했습니다",
+      "translated": true
+    },
     {
       "id": "theverge_news:9295",
       "titleOriginal": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China",
@@ -671,8 +957,8 @@
       "publishedAt": "2026-10-05T09:59:22.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Serbia just deleted diaspora polling stations in 23 cities - days after a record 111,000 citizens abroad registered to vote against Vučić",
-      "translated": false
+      "title": "세르비아는 방금 23개 도시의 디아스포라 투표소를 삭제했습니다 - 해외 시민 111,000명이 부치치에 반대하는 투표소에 등록한 지 며칠 후",
+      "translated": true
     },
     {
       "id": "insiderpaper:45015",
@@ -682,8 +968,8 @@
       "publishedAt": "2026-10-05T09:43:52.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "BREAKING - France student protests disrupt lessons at 413 high schools on Monday: ministry bit.ly/4j0sOrm",
-      "translated": false
+      "title": "속보 - 프랑스 학생 시위는 월요일에 413개 고등학교에서 수업을 방해합니다: 사역 bit.ly/4j0sOrm",
+      "translated": true
     },
     {
       "id": "worldnews:78126",
@@ -693,8 +979,8 @@
       "publishedAt": "2026-10-05T09:34:28.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Ukraine’s Deep Strikes Take 51% of Russia’s Oil Refining Capacity Offline",
-      "translated": false
+      "title": "우크라이나의 딥 스트라이크는 러시아 석유 정제 능력의 51% 를 오프라인으로 가져갑니다",
+      "translated": true
     },
     {
       "id": "wartranslated:19254",
@@ -1365,292 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "오키나와에서 살인 혐의로 기소된 해병대가 미국에 항의하는 일본의 다카이치",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9275",
-      "titleOriginal": "The MacBook Air M5 is $200 off for the first time in months",
-      "url": "https://telegra.ph/The-MacBook-Air-M5-is-200-off-for-the-first-time-in-months-10-04-2",
-      "lang": "en",
-      "publishedAt": "2026-10-04T12:35:54.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "MacBook Air M5는 몇 달 만에 처음으로 $ 200 할인됩니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9274",
-      "titleOriginal": "The iPad Mini is slightly cheaper again during Prime Day",
-      "url": "https://telegra.ph/The-iPad-Mini-is-slightly-cheaper-again-during-Prime-Day-10-04-3",
-      "lang": "en",
-      "publishedAt": "2026-10-04T12:35:53.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "아이패드 미니는 프라임 데이에 다시 조금 더 저렴합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19240",
-      "titleOriginal": "Russia currently has up to 700 ballistic missiles in reserve and produces up to 130-140 such missiles per month, Zelensky says.",
-      "url": "https://t.me/wartranslated/19240",
-      "lang": "en",
-      "publishedAt": "2026-10-04T12:31:19.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키는 러시아가 현재 최대 700개의 탄도미사일을 보유하고 있으며 매월 최대 130 ~ 140개의 미사일을 생산한다고 말한다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19239",
-      "titleOriginal": "Ukraine will start shooting down jet-powered Shahed drones with small missiles, with first results expected in the second half of October, Zelensky says.",
-      "url": "https://t.me/wartranslated/19239",
-      "lang": "en",
-      "publishedAt": "2026-10-04T12:30:08.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키는 우크라이나가 소형 미사일로 제트기 구동 샤헤드 드론을 격추하기 시작할 것이며, 10월 하반기에 첫 번째 결과가 나올 것으로 예상한다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12362",
-      "titleOriginal": "Ukraine receives comprehensive support package worth more than €1.3 billion – including weapons to protect energy infrastructure, - Zelenskyy announced during a meeting with Merz https://liveuamap.com/en/2026/4-october-12-ukraine-receives-c",
-      "url": "https://liveuamap.com/en/2026/4-october-12-ukraine-receives-comprehensive-support-package",
-      "lang": "en",
-      "publishedAt": "2026-10-04T12:24:34.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "우크라이나는 에너지 인프라를 보호하기 위한 무기를 포함하여 13억 유로 이상의 포괄적인 지원 패키지를 받습니다. Zelenskyy는 Merz와의 회의에서 발표했습니다. https://liveuamap.com/en/2026/4-october-12-ukraine-receives-c",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12361",
-      "titleOriginal": "Yemen's Presidential Leadership Council chief Rashad al-Alimi announced the launch of a broad military operation on all fronts aimed at retaking all territory seized by the Iran-backed Houthis https://yemen.liveuamap.com/en/2026/4-october-1",
-      "url": "https://yemen.liveuamap.com/en/2026/4-october-12-yemens-presidential-leadership-council-chief",
-      "lang": "en",
-      "publishedAt": "2026-10-04T12:24:08.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "예멘 대통령 지도위원회 (Presidential Leadership Council) 의 라샤드 알 알리미 (Rashad al-Alimi) 최고 의장은 이란의 지원을 받는 후티족 (Houthis) 이 점령한 모든 영토를 탈환하기 위해 모든 전선에서 광범위한 군사 작전을 시작한다고 발표했다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9272",
-      "titleOriginal": "The rise, fall, and rise of portable MP3 players",
-      "url": "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player",
-      "lang": "en",
-      "publishedAt": "2026-10-04T12:05:22.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "휴대용 MP3 플레이어의 부상, 추락 및 부상",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9273",
-      "titleOriginal": "The forgotten Chromebook that started it all",
-      "url": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
-      "lang": "en",
-      "publishedAt": "2026-10-04T12:05:22.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "모든 것을 시작한 잊혀진 크롬북",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9271",
-      "titleOriginal": "Amazon’s colorful and sturdy new Kindles",
-      "url": "https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones",
-      "lang": "en",
-      "publishedAt": "2026-10-04T12:05:21.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "아마존의 화려하고 튼튼한 새로운 킨들",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78096",
-      "titleOriginal": "Russian Orthodox Church Denies That Troops Lost Medieval Warrior Prince’s Relics in Ukraine",
-      "url": "https://www.themoscowtimes.com/2026/10/01/russian-orthodox-church-denies-that-troops-lost-medieval-warrior-princes-relics-in-ukraine-a93845",
-      "lang": "en",
-      "publishedAt": "2026-10-04T11:59:13.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아 정교회는 우크라이나에서 중세 전사 왕자의 유물을 잃어버린 군대를 부인합니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91887",
-      "titleOriginal": "Study of cockroach milk joins this year's Ig Nobel Prize winners",
-      "url": "https://www.unexplained-mysteries.com/news/400172/study-of-cockroach-milk-joins-this-years-ig-nobel-prize-winners",
-      "lang": "en",
-      "publishedAt": "2026-10-04T11:18:26.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "올해 이그노벨상 수상자에 대한 바퀴벌레 우유 연구",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19238",
-      "titleOriginal": "Russia’s air defense shot down 1,222 Ukrainian drones over the past 24 hours, Russia’s defense ministry claims.",
-      "url": "https://t.me/wartranslated/19238",
-      "lang": "en",
-      "publishedAt": "2026-10-04T10:59:48.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아 국방부는 러시아가 지난 24시간 동안 우크라이나 드론 1,222기를 격추했다고 주장했다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78095",
-      "titleOriginal": "Tehran Students Protest Compulsory Hijab, Demand Release Of Jailed Classmates",
-      "url": "https://www.rferl.org/a/iran-university-students-protest-hijab/33866436.html",
-      "lang": "en",
-      "publishedAt": "2026-10-04T10:59:28.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "테헤란 학생들, 강제 히잡 시위, 교도소 동급생 석방 요구",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15541",
-      "titleOriginal": "Palestinian aid worker Saqr Al-Qaisi, who worked with a Turkish charity providing humanitarian assistance in Gaza, was killed in an Israeli air strike targeting a vehicle in Deir al-Balah, central Gaza. Ten other people were injured, accord",
-      "url": "https://t.me/trtworld/15541",
-      "lang": "en",
-      "publishedAt": "2026-10-04T10:52:18.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "가자지구에서 인도적 지원을 제공하는 터키 자선단체와 협력한 팔레스타인 구호 요원 사크르 알카이시는 가자지구 중부 데이르 알 발라에서 차량을 겨냥한 이스라엘 공습으로 사망했다. 다른 10명이 다쳤습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19237",
-      "titleOriginal": "Russia’s defense ministry claims it will intensify strikes on military and defense-industrial facilities in Kyiv and other Ukrainian regions after Zelensky’s statement that Ukraine will step up strikes on Russian oil refineries.",
-      "url": "https://t.me/wartranslated/19237",
-      "lang": "en",
-      "publishedAt": "2026-10-04T10:09:21.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아 국방부는 우크라이나가 러시아 정유 공장에 대한 공격을 강화할 것이라는 젤렌스키의 성명 이후 키예프와 다른 우크라이나 지역의 군사 및 국방 산업 시설에 대한 공격을 강화할 것이라고 주장한다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78094",
-      "titleOriginal": "India's shipments reach $399 billion, eyes $1 trillion export target: Report",
-      "url": "https://cfo.economictimes.indiatimes.com/news/economy/indias-shipments-reach-399-billion-eyes-1-trillion-export-target-report/134592889",
-      "lang": "en",
-      "publishedAt": "2026-10-04T09:54:29.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "인도 출하량 $ 399억 달성, 수출 목표 $ 1조 달성: 보고서",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19236",
-      "titleOriginal": "More footage of LVDS Samara burning.",
-      "url": "https://t.me/wartranslated/19236",
-      "lang": "en",
-      "publishedAt": "2026-10-04T09:49:37.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "LVDS 사마라가 불타는 더 많은 영상",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19235",
-      "titleOriginal": "In Russia’s Irkutsk region, where plague was previously suspected, workers at local enterprises in Shelekhov were put back on masks after reports of a “especially dangerous infection”. Regional officials still have not officially confirmed ",
-      "url": "https://t.me/wartranslated/19235",
-      "lang": "en",
-      "publishedAt": "2026-10-04T09:44:10.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "이전에 전염병이 의심되었던 러시아의 이르쿠츠크 지역에서 셸레호프의 현지 기업 근로자들은 \"특히 위험한 감염\" 이 보고된 후 마스크를 다시 착용했다. 지역 공무원은 아직 공식적으로 확인하지 않았습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19233",
-      "titleOriginal": "Footage from the scene of today’s Russian jet drone strike on Pivnichnyi Bridge.",
-      "url": "https://t.me/wartranslated/19233",
-      "lang": "en",
-      "publishedAt": "2026-10-04T09:34:00.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "오늘의 러시아 제트 드론이 피브니치니 다리에서 충돌하는 장면의 영상",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19232",
-      "titleOriginal": "Russia’s warnings that it would use its entire arsenal of weapons if Kaliningrad were blockaded are not a threat, Peskov claims.",
-      "url": "https://t.me/wartranslated/19232",
-      "lang": "en",
-      "publishedAt": "2026-10-04T09:32:20.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "페스코프는 칼리닌그라드가 봉쇄되면 전체 무기를 사용할 것이라는 러시아의 경고는 위협이 아니라고 주장한다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19231",
-      "titleOriginal": "Footage from today in Kyiv, Russian occupiers hit the Pivnichnyi Bridge with a jet-powered Shahed or Banderol right in daytime traffic.",
-      "url": "https://t.me/wartranslated/19231",
-      "lang": "en",
-      "publishedAt": "2026-10-04T09:28:36.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "오늘 키예프에서 촬영된 영상에서 러시아 점령자들은 낮 시간 교통 체증으로 제트기 구동식 샤헤드 또는 반데롤로 피브니치니 다리 (Pivnichnyi Bridge) 를 강타했습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91886",
-      "titleOriginal": "Pomegranate Compound Improves Heart Function Up to 80% in Mice With Heart Failure",
-      "url": "https://www.sciencealert.com/pomegranate-compound-improves-heart-function-up-to-80-in-mice-with-heart-failure",
-      "lang": "en",
-      "publishedAt": "2026-10-04T09:13:10.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "석류 화합물은 심부전이 있는 생쥐에서 심장 기능을 최대 80% 까지 향상시킵니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91885",
-      "titleOriginal": "Decaf Coffee Might Have A Surprising Advantage Over Caffeinated, Study Finds",
-      "url": "https://www.sciencealert.com/decaf-coffee-might-have-a-surprising-advantage-over-caffeinated-study-finds",
-      "lang": "en",
-      "publishedAt": "2026-10-04T09:13:05.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "디카페인 커피가 카페인에 비해 놀라운 이점을 가질 수 있음, 연구 결과",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19230",
-      "titleOriginal": "Exilenova+ says Russia has set up layered defenses around the approaches to the Crimean Bridge, with multiple lines against Ukrainian surface and underwater USVs plus FSB patrol ships. The stated aim is to shield the bridge’s vulnerable ele",
-      "url": "https://t.me/wartranslated/19230",
-      "lang": "en",
-      "publishedAt": "2026-10-04T09:09:18.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "Exilenova + 는 러시아가 우크라이나 수면과 수중 USV 및 FSB 순찰선에 대한 여러 노선을 통해 크림 교량 접근 주변에 층층이 쌓인 방어를 구축했다고 말합니다. 명시된 목표는 다리의 취약한 ELE를 보호하는 것입니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78093",
-      "titleOriginal": "Ukraine war briefing: Kyiv to increase oil refinery attacks because of Moscow’s winter strategy, Zelenskyy says",
-      "url": "https://www.theguardian.com/world/2026/oct/04/ukraine-war-briefing-kyiv-to-increase-oil-refinery-attacks-because-of-moscows-winter-strategy-zelenskyy-says",
-      "lang": "en",
-      "publishedAt": "2026-10-04T09:04:06.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "우크라이나 전쟁 브리핑: 키예프, 모스크바의 겨울 전략으로 정유소 공격 증가",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19229",
-      "titleOriginal": "Medvedev says people keep asking why he hasn’t quit X, or Twitter. He says the answer is obvious, someone has to tell the \"truth\" to the West and to Europe.",
-      "url": "https://t.me/wartranslated/19229",
-      "lang": "en",
-      "publishedAt": "2026-10-04T08:53:23.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "메드베데프는 사람들이 왜 그가 X나 트위터를 그만두지 않았는지 자꾸 묻는다고 말합니다. 그는 대답이 분명하다고 말합니다. 누군가는 서구와 유럽에 \"진실\" 을 말해야 합니다",
       "translated": true
     }
   ]
