@@ -1,8 +1,52 @@
 {
-  "updatedAt": "2026-10-06T23:35:48.045Z",
+  "updatedAt": "2026-10-07T04:35:32.340Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:91909",
+      "titleOriginal": "A Russian Lab Worker's Death Has Sparked Plague Fears. We Asked Experts What's Actually Going On.",
+      "url": "https://www.sciencealert.com/a-russian-lab-workers-death-has-sparked-plague-fears-we-asked-experts-whats-actually-going-on",
+      "lang": "en",
+      "publishedAt": "2026-10-07T02:47:10.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "러시아 연구소 노동자의 죽음이 전염병 공포를 불러일으켰습니다. 우리는 전문가에게 실제로 무슨 일이 일어나고 있는지 물었습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78167",
+      "titleOriginal": "‘No more Viktor Orbán’: EU plans 15-year probation period for new member states | European Union",
+      "url": "https://www.theguardian.com/world/2026/oct/06/eu-plans-15-year-probation-period-new-member-states-viktor-orban",
+      "lang": "en",
+      "publishedAt": "2026-10-07T00:49:06.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "더 이상 빅토르 오르반은 없다’: EU, 신규 회원국에 대한 15년 수습 기간 계획 | 유럽 연합",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12380",
+      "titleOriginal": "Kyiv. There have been strikes on non-residential buildings in the Obolonskyi district, and in the Podilsky district missile strikes have been reported on warehouse facilities https://liveuamap.com/en/2026/7-october-00-kyiv-there-have-been-s",
+      "url": "https://liveuamap.com/en/2026/7-october-00-kyiv-there-have-been-strikes-on-nonresidential",
+      "lang": "en",
+      "publishedAt": "2026-10-07T00:42:04.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "키예프. 오볼론스키 지구에서 비주거용 건물에 대한 파업이 있었으며, 포딜스키 지구에서 미사일 공격이 창고 시설에 대해 보고되었습니다 https://liveuamap.com/en/2026/7-october-00-kyiv-there-have-been-s",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9340",
+      "titleOriginal": "OpenAI drops another batch of mathematical breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "lang": "en",
+      "publishedAt": "2026-10-06T23:36:51.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "OpenAI는 또 다른 수학 혁신 배치를 삭제합니다",
+      "translated": true
+    },
     {
       "id": "sciencealert:91908",
       "titleOriginal": "Scientists Find Major Flaws in The Research Behind Collagen Supplements",
@@ -1607,50 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "메카 동맹 (사우디아라비아, 파키스탄, 터키) 은 상호 방위 협정을 활성화하고 사우디아라비아에 신속한 무력 배치를 명령합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45037",
-      "titleOriginal": "BREAKING: President Trump says US ready to ‘help’ Russia with reported plague",
-      "url": "http://bit.ly/4j6F4qs",
-      "lang": "en",
-      "publishedAt": "2026-10-05T19:36:03.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 트럼프 대통령은 미국이 보고된 전염병으로 러시아를 ‘도울’ 준비가 되어 있다고 말한다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9297",
-      "titleOriginal": "All the drama around AI’s takeover of mathematics",
-      "url": "https://telegra.ph/All-the-drama-around-AIs-takeover-of-mathematics-10-05-2",
-      "lang": "en",
-      "publishedAt": "2026-10-05T19:31:43.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "AI의 수학 장악을 둘러싼 모든 드라마",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19265",
-      "titleOriginal": "Russia also attacked the \"Palanca\" border crossing on the border with Moldova. A munition struck a scheduled passenger bus, injuring a border guard. The checkpoint has reportedly suspended operations temporarily.",
-      "url": "https://t.me/wartranslated/19265",
-      "lang": "en",
-      "publishedAt": "2026-10-05T19:29:11.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아는 또한 몰도바와의 국경에서 \"팔랑카\" 국경을 공격했다. 군수품이 예정된 여객 버스를 들이받아 국경 경비원이 다쳤습니다. 체크포인트가 일시적으로 작업을 중단한 것으로 보고되었습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45036",
-      "titleOriginal": "JUST IN - US Treasury Secretary says Operation Economic Outcast is delivering results: Iran’s rial has hit record lows, crude oil tanker loadings fell to zero last month, and Iran's top security official acknowledged the country is facing o",
-      "url": "https://t.me/insiderpaper/45036",
-      "lang": "en",
-      "publishedAt": "2026-10-05T19:14:50.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 미국 재무부 장관, 경제 파탄 작전 (Operation Economic Outcast) 이 성과를 내고 있다고 말함: 이란의 리알 (rial) 이 사상 최저치를 기록했고, 지난달 원유 유조선 적재량이 0으로 떨어졌으며, 이란의 최고 안보 관리는 이란이",
       "translated": true
     }
   ]
