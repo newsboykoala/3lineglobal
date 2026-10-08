@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-10-07T23:16:49.361Z",
+  "updatedAt": "2026-10-08T02:50:07.541Z",
   "count": 150,
   "translatedCount": 149,
   "items": [
+    {
+      "id": "worldnews:78187",
+      "titleOriginal": "Military ordered to be ready for possible Iran strikes as Trump weighs timing",
+      "url": "https://www.axios.com/2026/10/07/trump-us-central-command-iran-israel-war-elections",
+      "lang": "en",
+      "publishedAt": "2026-10-08T02:19:19.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "군은 트럼프가 타이밍을 고려할 때 이란의 공격 가능성에 대비할 것을 명령했다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91916",
+      "titleOriginal": "Scientists Identify a Small Village in Italy Where Women Live Exceptionally Long Lives",
+      "url": "https://www.sciencealert.com/scientists-identify-a-small-village-in-italy-where-women-live-exceptionally-long-lives",
+      "lang": "en",
+      "publishedAt": "2026-10-08T01:44:35.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들은 여성이 예외적으로 장수하는 이탈리아의 작은 마을을 확인합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78186",
+      "titleOriginal": "Musk Attacks Unnamed Indian ‘Oligarchs’ for Locking Out Starlink from India",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-07/musk-attacks-unnamed-indian-oligarchs-for-locking-out-starlink",
+      "lang": "en",
+      "publishedAt": "2026-10-08T01:14:30.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "머스크, 인도 스타링크 봉쇄로 이름 모를 인도 ’과두제' 공격",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91915",
+      "titleOriginal": "One Everyday Habit Is Linked to 49% Higher Risk of Eating Disorder Symptoms in Teens",
+      "url": "https://www.sciencealert.com/one-everyday-habit-is-linked-to-49-higher-risk-of-eating-disorder-symptoms-in-teens",
+      "lang": "en",
+      "publishedAt": "2026-10-08T00:33:07.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "일일 습관은 청소년의 섭식 장애 증상 위험이 49% 더 높은 것과 관련이 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78185",
+      "titleOriginal": "‘No’: Moe shuts down Elon Musk’s calls for Saskatchewan to separate",
+      "url": "https://www.ctvnews.ca/regina/article/no-moe-shuts-down-elon-musks-calls-for-saskatchewan-to-separate/",
+      "lang": "en",
+      "publishedAt": "2026-10-08T00:24:40.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "아니요’: Moe는 일론 머스크의 서스캐처원 분리 요구를 차단합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45105",
+      "titleOriginal": "BREAKING: Health Secretary RFK Jr. is launching a broad federal effort to investigate vaccine injuries, including a new NIH research clinic and a billing code to reimburse doctors for reporting serious vaccine side effects, according to The",
+      "url": "https://t.me/insiderpaper/45105",
+      "lang": "en",
+      "publishedAt": "2026-10-08T00:08:26.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "BREAKING: 보건부 장관 RFK Jr. 는 새로운 NIH 연구 클리닉과 심각한 백신 부작용을 보고한 의사를 보상하기 위한 청구 코드를 포함하여 백신 부상을 조사하기 위한 광범위한 연방 노력을 시작합니다",
+      "translated": true
+    },
     {
       "id": "insiderpaper:45104",
       "titleOriginal": "JUST IN - Military ordered to be ready for possible Iran strikes as Trump weighs timing — Axios",
@@ -1585,72 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "Alexa는 더 이상 Amazon Echo 스피커의 AUX 입력을 제어할 수 없습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9329",
-      "titleOriginal": "The Sonos Beam 2 soundbar is $140 off",
-      "url": "https://telegra.ph/The-Sonos-Beam-2-soundbar-is-140-off-10-06",
-      "lang": "en",
-      "publishedAt": "2026-10-06T19:01:53.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Sonos Beam 2 사운드바가 $ 140 할인됩니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45068",
-      "titleOriginal": "BREAKING: CDC says it is closely monitoring reports of a suspected fatal pneumonic plague case in Russia’s Irkutsk region and working across the U.S. government to assess developments",
-      "url": "https://t.me/insiderpaper/45068",
-      "lang": "en",
-      "publishedAt": "2026-10-06T18:48:25.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 미국 질병통제예방센터 (CDC) 는 러시아 이르쿠츠크 지역에서 치명적인 폐렴 전염병으로 의심되는 사례에 대한 보고서를 면밀히 모니터링하고 있으며, 미국 정부 전반에 걸쳐 개발 상황을 평가하기 위해 노력하고 있다고 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19276",
-      "titleOriginal": "Belarusians are forming their own unit within the Ukrainian Navy. The \"Volya\" Unmanned Systems Company will carry out special combat missions against Russian forces on land and at sea. The unit is manned exclusively by Belarusian volunteers",
-      "url": "https://t.me/wartranslated/19276",
-      "lang": "en",
-      "publishedAt": "2026-10-06T18:46:29.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "벨라루스인들은 우크라이나 해군 내에서 자체 부대를 구성하고 있습니다. \"Volya\" 무인 시스템 회사는 육상과 해상에서 러시아군에 대한 특수 전투 임무를 수행할 것입니다. 이 유닛은 벨라루스 자원봉사자들에 의해서만 관리됩니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78161",
-      "titleOriginal": "South Korea accused by Ukraine of aiding Russia with 176,000 tons of fuel amidst critical shortage",
-      "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-910826",
-      "lang": "en",
-      "publishedAt": "2026-10-06T18:29:11.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "우크라이나가 심각한 부족 상황에서 러시아에 176,000톤의 연료를 지원했다고 비난한 한국",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15553",
-      "titleOriginal": "Israel’s brutality against Palestinians didn’t begin on October 7, 2023. On the third anniversary of its genocidal war on Gaza, we revisit that history and challenge Israel and its allies’ framing of that day as the starting point.",
-      "url": "https://youtu.be/Dt7vKh6g0y0",
-      "lang": "en",
-      "publishedAt": "2026-10-06T18:22:24.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "팔레스타인에 대한 이스라엘의 잔인함은 2023년 10월 7일에 시작되지 않았습니다. 가자지구에서의 대량학살 전쟁 3주년을 맞아, 우리는 그 역사를 재검토하고 이스라엘과 그 동맹국들의 그 날 프레임을 시작점으로 도전한다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9328",
-      "titleOriginal": "The best deals under $25 during October Prime Day",
-      "url": "https://telegra.ph/The-best-deals-under-25-during-October-Prime-Day-10-06-5",
-      "lang": "en",
-      "publishedAt": "2026-10-06T18:17:04.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "10월 프라임 데이 기간 동안 $ 25 미만의 최저가 상품",
       "translated": true
     }
   ]
