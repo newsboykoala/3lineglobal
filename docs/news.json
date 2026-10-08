@@ -1,8 +1,393 @@
 {
-  "updatedAt": "2026-10-08T17:31:04.692Z",
+  "updatedAt": "2026-10-08T22:59:15.259Z",
   "count": 150,
-  "translatedCount": 140,
+  "translatedCount": 150,
   "items": [
+    {
+      "id": "theverge_news:9419",
+      "titleOriginal": "US plans livestream of execution by firing squad",
+      "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+      "lang": "en",
+      "publishedAt": "2026-10-08T22:35:53.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "미국은 사격대에 의한 사형집행의 라이브스트림을 계획하고 있다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45132",
+      "titleOriginal": "WATCH: Massive flooding sweeps away multiple vehicles, including a huge bus, in Las Condes, Chile.",
+      "url": "https://t.me/insiderpaper/45132",
+      "lang": "en",
+      "publishedAt": "2026-10-08T22:30:37.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "동영상 보기: 칠레 라스콘데스 (Las Condes) 에서 대규모 홍수가 대형 버스를 포함한 여러 대의 차량을 휩쓸고 지나갑니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45131",
+      "titleOriginal": "BREAKING 🚀 Elon Musk says he sees a path to SpaceX being worth far more than the entire current global economy.",
+      "url": "https://t.me/insiderpaper/45131",
+      "lang": "en",
+      "publishedAt": "2026-10-08T22:00:31.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "🚀 일론 머스크는 스페이스X로 가는 길이 현재 세계 경제 전체보다 훨씬 더 가치가 있다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9418",
+      "titleOriginal": "Anthropic launches free AI security scans for open-source projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "lang": "en",
+      "publishedAt": "2026-10-08T21:57:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Anthropic, 오픈 소스 프로젝트용 무료 AI 보안 검사 시작",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45130",
+      "titleOriginal": "ALERT - A powerful M6.86 solar flare has triggered a radio blackout and sent coronal mass ejections (CMEs) toward Earth, signaling an elevated risk of geomagnetic unrest over the coming days",
+      "url": "https://x.com/theinsiderpaper/status/2108312361291706381?s=46",
+      "lang": "en",
+      "publishedAt": "2026-10-08T21:52:17.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "경고 - 강력한 M 6.86 태양 플레어가 무선 정전을 유발하고 관상 질량 방출 (CME) 을 지구로 보내 향후 며칠 동안 지자기 불안의 위험이 높아짐을 알립니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9417",
+      "titleOriginal": "SpaceX announces plan to become a ‘major mobile carrier’",
+      "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+      "lang": "en",
+      "publishedAt": "2026-10-08T21:31:31.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "SpaceX, ‘주요 이동통신사‘ 로 거듭날 계획 발표",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78205",
+      "titleOriginal": "Seychelles giant tortoise numbers hit record 180,000 in conservation triumph",
+      "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+      "lang": "en",
+      "publishedAt": "2026-10-08T21:19:31.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "세이셸 거대 거북이, 보존 승리 기록 18만 명 돌파",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9416",
+      "titleOriginal": "AMD will bring FSR 4 to handhelds by the end of 2026",
+      "url": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
+      "lang": "en",
+      "publishedAt": "2026-10-08T21:17:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "AMD는 2026년 말까지 FSR 4를 핸드헬드에 도입할 예정입니다",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12393",
+      "titleOriginal": "The U.S. State Department has issued an alert to Americans currently in the Middle East, urging them to \"exercise heightened vigilance due to the complex security environment.\" The State Department added: \"The hostilities have the potential",
+      "url": "https://iran.liveuamap.com/en/2026/8-october-20-the-us-state-department-has-issued-an-alert",
+      "lang": "en",
+      "publishedAt": "2026-10-08T21:00:19.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "미국 국무부는 현재 중동에 있는 미국인들에게 \"복잡한 안보 환경 때문에 경계심을 강화해야 한다\" 고 촉구하는 경보를 발령했다. \"국무부는 다음과 같이 덧붙였다:\" 적대 행위에는 잠재력이 있습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45129",
+      "titleOriginal": "JUST IN - War Secretary Pete Hegseth said Thursday the public will be able to watch the execution of the Fort Hood shooter by firing squad, Axios reports",
+      "url": "https://t.me/insiderpaper/45129",
+      "lang": "en",
+      "publishedAt": "2026-10-08T20:48:26.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "방금 - 피트 헥세스 (Pete Hegseth) 전쟁 장관은 목요일에 대중이 Fort Hood 총격범의 처형을 볼 수있을 것이라고 말했다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9415",
+      "titleOriginal": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
+      "url": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
+      "lang": "en",
+      "publishedAt": "2026-10-08T20:41:40.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "애플이 3주 만에 첫 터치스크린 맥북을 출시할 것으로 알려졌다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19323",
+      "titleOriginal": "Here are some Russian chronicles for you: the adventures of Russians queuing at petrol stations. Enjoy.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-10-08T20:25:22.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "다음은 러시아 연대기입니다. 주유소에서 줄을 서는 러시아인들의 모험. 즐거운 시간 보내세요",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91923",
+      "titleOriginal": "'The Most Accurate Clock in The World': Atomic Clock Just Set a New World Record",
+      "url": "https://www.sciencealert.com/the-most-accurate-clock-in-the-world-atomic-clock-just-set-a-new-world-record",
+      "lang": "en",
+      "publishedAt": "2026-10-08T20:21:23.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "세계에서 가장 정확한 시계': 세계 신기록을 세운 원자시계",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9414",
+      "titleOriginal": "California is trying to shut down robot vs. human cage matches",
+      "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "lang": "en",
+      "publishedAt": "2026-10-08T20:16:04.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "캘리포니아는 로봇 대 인간 케이지 매치를 종료하려고 합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78204",
+      "titleOriginal": "Maduro Charged With Ordering Torture of Americans in Venezuelan Prison",
+      "url": "https://www.nytimes.com/2026/10/08/nyregion/nicolas-maduro-venezuela-torture-americans.html?smid=nytcore-ios-share",
+      "lang": "en",
+      "publishedAt": "2026-10-08T20:14:31.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "마두로, 베네수엘라 교도소에서 미국인 고문 명령 혐의로 기소",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19322",
+      "titleOriginal": "In the Kyiv region, debris from a drone struck right next to people on the grounds of a nursery school.",
+      "url": "https://t.me/wartranslated/19322",
+      "lang": "en",
+      "publishedAt": "2026-10-08T20:08:47.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "키예프 지역에서는 보육원 부지에 있는 사람들 바로 옆에 드론의 잔해가 덮쳤습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9413",
+      "titleOriginal": "ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside",
+      "url": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video",
+      "lang": "en",
+      "publishedAt": "2026-10-08T19:51:53.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "조지아의 ICE 수감자들은 시설의 화상 통화 소프트웨어를 사용하여 내부 상황을 폭로했습니다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15572",
+      "titleOriginal": "Ultra-Orthodox Jewish protesters, known as Haredim, blocked roads in West Jerusalem on October 8, lying on the ground as Israeli police intervened.",
+      "url": "https://t.me/trtworld/15572",
+      "lang": "en",
+      "publishedAt": "2026-10-08T19:47:04.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "이스라엘 경찰이 개입하면서 하레딤으로 알려진 초정통 유대인 시위대가 10월 8일 서예루살렘의 도로를 막았다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9412",
+      "titleOriginal": "Microsoft’s new Windows Search is exactly what Windows 11 needs",
+      "url": "https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11",
+      "lang": "en",
+      "publishedAt": "2026-10-08T19:31:49.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Microsoft의 새로운 Windows 검색은 Windows 11에 꼭 필요한 기능입니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19321",
+      "titleOriginal": "Ukraine and the US are holding talks on a possible partial ceasefire in the Black Sea and in the energy sector, according to Zelenskyy.",
+      "url": "https://t.me/wartranslated/19321",
+      "lang": "en",
+      "publishedAt": "2026-10-08T19:31:06.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "젤렌스키에 따르면 우크라이나와 미국은 흑해와 에너지 부문에서 부분적인 휴전 가능성을 놓고 협상을 벌이고 있다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45128",
+      "titleOriginal": "NOW - Trump awarded Elon Musk the National Medal of Science, the nation’s highest honor for scientific and technological achievement",
+      "url": "https://t.me/insiderpaper/45128",
+      "lang": "en",
+      "publishedAt": "2026-10-08T19:19:39.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "이제 - 트럼프는 일론 머스크에게 과학 기술 성취에 대한 미국 최고의 영예인 국가 과학 훈장을 수여했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9411",
+      "titleOriginal": "Paramount is making a Cyberpunk 2077 film",
+      "url": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie",
+      "lang": "en",
+      "publishedAt": "2026-10-08T19:16:31.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "파라마운트는 사이버펑크 2077 영화를 만들고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19320",
+      "titleOriginal": "Zelenskyy on the attack on the Yandex data centre: \"Data centres - as you all know, they have been attacking our data centres and continue to do so. We have responded. I cannot disclose all the details.\"",
+      "url": "https://t.me/wartranslated/19320",
+      "lang": "en",
+      "publishedAt": "2026-10-08T19:11:46.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "Yandex 데이터 센터 공격에 대한 Zelenskyy: \"데이터 센터 - 아시다시피, 그들은 우리 데이터 센터를 공격해 왔고 계속 그렇게 하고 있습니다. 답변을 드렸습니다. 모든 세부 사항을 공개할 수는 없습니다",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12392",
+      "titleOriginal": "Continuous clashes on multiple Yemeni fronts as Yemeni government forces seek to gain field advances and consolidate control https://yemen.liveuamap.com/en/2026/8-october-18-continuous-clashes-on-multiple-yemeni-fronts",
+      "url": "https://yemen.liveuamap.com/en/2026/8-october-18-continuous-clashes-on-multiple-yemeni-fronts",
+      "lang": "en",
+      "publishedAt": "2026-10-08T18:52:53.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "예멘 정부군이 현장 진격을 얻고 통제를 강화하기 위해 노력함에 따라 여러 예멘 전선에서 지속적인 충돌 https://yemen.liveuamap.com/en/2026/8-october-18-continuous-clashes-on-multiple-yemeni-fronts",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9409",
+      "titleOriginal": "I only bought Pokémon Legends: Z-A during Prime Day, and it’s still on sale",
+      "url": "https://telegra.ph/I-only-bought-Pok%C3%A9mon-Legends-Z-A-during-Prime-Day-and-it-10-08-2",
+      "lang": "en",
+      "publishedAt": "2026-10-08T18:50:33.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "프라임 데이 때만 포켓몬 레전드: Z-A를 샀는데 아직 세일 중이에요",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9410",
+      "titleOriginal": "Tim Cook says ‘I’m not meddling’ in the new Apple CEO’s business",
+      "url": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo",
+      "lang": "en",
+      "publishedAt": "2026-10-08T18:50:33.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "팀 쿡은 새로운 애플 CEO의 사업에 ’간섭하지 않는다' 고 말한다",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12391",
+      "titleOriginal": "Zelensky said Ukraine has retaliated against Russian strikes on Ukrainian data centers. Responding to a question about the overnight attack on a Yandex data center, the Ukrainian president said: “We can certainly do the same. We always resp",
+      "url": "https://liveuamap.com/en/2026/8-october-18-zelensky-said-ukraine-has-retaliated-against",
+      "lang": "en",
+      "publishedAt": "2026-10-08T18:49:05.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "젤렌스키는 우크라이나가 우크라이나 데이터 센터에 대한 러시아의 공격에 보복했다고 말했다. 우크라이나 대통령은 얀덱스 데이터 센터에 대한 하룻밤 동안의 공격에 대한 질문에 \"우리는 확실히 똑같이 할 수 있습니다. 우리는 항상 존중합니다",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12390",
+      "titleOriginal": "Mark Carney: \"In three weeks, the President of the European Commission, Ursula von der Leyen, and the President of the European Council, António Costa, will be in Montreal. And that is when Canada will launch a new transformative alliance w",
+      "url": "https://canada.liveuamap.com/en/2026/8-october-17-mark-carney-in-three-weeks-the-president-of",
+      "lang": "en",
+      "publishedAt": "2026-10-08T18:40:28.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "Mark Carney: \"3주 후면 유럽연합 집행위원회 의장인 Ursula von der Leyen과 유럽연합 이사회 의장인 António Costa가 몬트리올에 도착합니다. 그리고 그때 캐나다는 새로운 변혁적 동맹을 시작할 것입니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9408",
+      "titleOriginal": "Forza Horizon 6 is being delayed on PS5 to January 2027",
+      "url": "https://www.theverge.com/news/989314/forza-horizon-6-ps5-release-date-january-2027-delay",
+      "lang": "en",
+      "publishedAt": "2026-10-08T18:16:42.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "포르자 호라이즌 6가 PS5에서 2027년 1월로 지연되고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78203",
+      "titleOriginal": "Zelenskyy responds to Rubio: You cannot negotiate with Russia and talk about a diplomatic stalemate at the same time",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/08/8057060/",
+      "lang": "en",
+      "publishedAt": "2026-10-08T18:09:16.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "젤렌스키는 루비오에게 이렇게 대답한다: 당신은 러시아와 협상할 수 없으며 동시에 외교적 교착 상태에 대해 이야기할 수 없다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45127",
+      "titleOriginal": "BREAKING - France school protests see 71,500 demonstrators, over 500 arrests: ministry bit.ly/4yCVQSG",
+      "url": "https://t.co/6L8JTJIBwB",
+      "lang": "en",
+      "publishedAt": "2026-10-08T18:07:26.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보 - 프랑스 학교 시위에서 71,500명의 시위대, 500명 이상 체포: 사역 bit.ly/4yCVQSG",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9406",
+      "titleOriginal": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+      "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+      "lang": "en",
+      "publishedAt": "2026-10-08T18:07:00.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "SpaceXAI는 논란의 여지가 있는 Linux 배포판인 Omarchy를 뒷받침하며 $ 150만 달러의 컴퓨팅을 제공합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9407",
+      "titleOriginal": "USA Today becomes the latest publisher to sue OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "lang": "en",
+      "publishedAt": "2026-10-08T18:07:00.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "USA Today가 OpenAI를 고소하는 최신 퍼블리셔가 됨",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21886",
+      "titleOriginal": "NOW - Trump speaking at Science Summit: \"We have an extremely high IQ audience, for a change. For a change—it's very nice!\"",
+      "url": "https://t.me/disclosetv/21886",
+      "lang": "en",
+      "publishedAt": "2026-10-08T17:48:00.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "이제 - 과학 정상 회담에서 연설하는 트럼프: \"우리는 변화를 위해 IQ 청중이 매우 높습니다. 거스름돈으로 아주 좋아요!",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9405",
+      "titleOriginal": "Older Pixel watches are losing free cellular access to several safety features",
+      "url": "https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending",
+      "lang": "en",
+      "publishedAt": "2026-10-08T17:46:22.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "구형 픽셀 시계는 여러 안전 기능에 대한 무료 셀룰러 액세스를 잃어 가고 있습니다",
+      "translated": true
+    },
     {
       "id": "worldnews:78202",
       "titleOriginal": "Polish SIM cards found in Russian drones downed in Poland",
@@ -671,8 +1056,8 @@
       "publishedAt": "2026-10-08T11:33:23.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Mystery feline sparks reports of 'Catfoot' roaming English countryside",
-      "translated": false
+      "title": "영국 시골을 돌아다니는 '캣풋 (Catfoot)' 에 대한 미스터리한 고양이의 불꽃",
+      "translated": true
     },
     {
       "id": "worldnews:78194",
@@ -682,8 +1067,8 @@
       "publishedAt": "2026-10-08T11:29:40.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Ukraine's defence forces strike Gazprom oil refinery in Bashkortostan, 1,400 km from border",
-      "translated": false
+      "title": "우크라이나 방위군이 국경에서 1,400km 떨어진 바슈코르토스탄의 가스프롬 정유소를 공격합니다",
+      "translated": true
     },
     {
       "id": "liveuamap:12389",
@@ -693,8 +1078,8 @@
       "publishedAt": "2026-10-08T11:19:25.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "A senior Pakistani military official tells The New York Times that Pakistani fighter jets are taking part in strikes against the Houthis in Yemen https://yemen.liveuamap.com/en/2026/8-october-10-a-senior-pakistani-military-official-tells-th",
-      "translated": false
+      "title": "파키스탄 군 고위 관리는 뉴욕 타임즈에 파키스탄 전투기가 예멘 후티에 대한 공격에 참여하고 있다고 https://yemen.liveuamap.com/en/2026/8-october-10-a-senior-pakistani-military-official-tells-th",
+      "translated": true
     },
     {
       "id": "sciencealert:91917",
@@ -704,8 +1089,8 @@
       "publishedAt": "2026-10-08T10:52:00.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "First Images of DNA 'Zipping' Together Confirm a 20-Year-Old Prediction",
-      "translated": false
+      "title": "DNA '지핑' 의 첫 번째 이미지가 함께 20세 예측을 확인합니다",
+      "translated": true
     },
     {
       "id": "wartranslated:19307",
@@ -715,8 +1100,8 @@
       "publishedAt": "2026-10-08T10:48:45.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "Additionally, in Sasovo, Ryazan Region, the \"Sasta\" machine tool plant is ablaze following an attack by the Defense Forces of Ukraine.",
-      "translated": false
+      "title": "또한, 랴잔 지역의 사소보에서는 우크라이나 방위군의 공격으로 \"사스타\" 공작 기계 공장이 불타고 있습니다",
+      "translated": true
     },
     {
       "id": "insiderpaper:45112",
@@ -726,8 +1111,8 @@
       "publishedAt": "2026-10-08T10:41:02.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "BREAKING: World oil prices soar 5% on reports US could launch new attack on Iran",
-      "translated": false
+      "title": "속보: 미국이 이란에 새로운 공격을 가할 수 있다는 보고서에 따라 세계 유가가 5% 치솟음",
+      "translated": true
     },
     {
       "id": "wartranslated:19306",
@@ -737,8 +1122,8 @@
       "publishedAt": "2026-10-08T10:25:31.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "It is reported that a Yandex data centre in Sasovo, in the Ryazan Region of the RF, is on fire following an attack.",
-      "translated": false
+      "title": "RF의 랴잔 (Ryazan) 지역에 있는 사소보 (Sasovo) 에 있는 얀덱스 (Yandex) 데이터 센터가 공격을 받은 후 화재가 발생한 것으로 보고되고 있습니다",
+      "translated": true
     },
     {
       "id": "insiderpaper:45111",
@@ -748,8 +1133,8 @@
       "publishedAt": "2026-10-08T10:25:30.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "SOUTH KOREA TEST FIRES FIRST SOUTH KOREAN HYPERSONIC MISSILE SYSTEM: PRESIDENTIAL OFFICE",
-      "translated": false
+      "title": "한국, 한국 최초의 초음속 미사일 시스템 시험 발사: 대통령 집무실",
+      "translated": true
     },
     {
       "id": "trtworld:15565",
@@ -759,8 +1144,8 @@
       "publishedAt": "2026-10-08T10:21:52.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "What does Gaza look like through the eyes of a child?",
-      "translated": false
+      "title": "아이의 눈으로 본 가자의 모습은 어떨까요?",
+      "translated": true
     },
     {
       "id": "wartranslated:19305",
@@ -1266,391 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "ChatGPT의 '지능형 UI’ 업데이트는 응답을 그림, 차트 및 버튼으로 채웁니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9375",
-      "titleOriginal": "Nvidia’s powerful RTX Spark laptops can cost up to $7,000",
-      "url": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000",
-      "lang": "en",
-      "publishedAt": "2026-10-07T19:11:41.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "엔비디아의 강력한 RTX 스파크 노트북은 최대 $ 7,000의 비용이 들 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45096",
-      "titleOriginal": "NEW: Elon Musk says Starlink's entry in India 'blocked' by 'certain oligarchs,' alleges 'monopolistic chokehold'",
-      "url": "https://t.me/insiderpaper/45096",
-      "lang": "en",
-      "publishedAt": "2026-10-07T19:07:34.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "새로운 소식: 일론 머스크 (Elon Musk) 는 스타링크의 인도 진출이 '특정 과두제' 에 의해 '차단' 되었다고 말하며, '독점적 질식사' 라고 주장합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9374",
-      "titleOriginal": "It appears .agent and .agi are about to be the hot new domains",
-      "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
-      "lang": "en",
-      "publishedAt": "2026-10-07T18:46:24.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": ".agent 및 .agi가 곧 인기 있는 새 도메인이 될 것으로 보입니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9373",
-      "titleOriginal": "Everything announced at Microsoft’s Surface Laptop Ultra event",
-      "url": "https://telegra.ph/Everything-announced-at-Microsofts-Surface-Laptop-Ultra-eve-10-07",
-      "lang": "en",
-      "publishedAt": "2026-10-07T18:46:22.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Microsoft의 Surface Laptop Ultra 이벤트에서 발표된 모든 것",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12385",
-      "titleOriginal": "The Saudi General Civil Aviation Authority reports that an attack on Abha Airport resulted in the death of two residents and the injury of 28 Saudi nationals and residents. https://yemen.liveuamap.com/en/2026/7-october-18-the-saudi-general-",
-      "url": "https://yemen.liveuamap.com/en/2026/7-october-18-the-saudi-general-civil-aviation-authority-reports",
-      "lang": "en",
-      "publishedAt": "2026-10-07T18:32:07.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "사우디 민간 항공 당국은 아바 공항에 대한 공격으로 2명의 주민이 사망하고 28명의 사우디 국민과 주민이 부상당했다고 보고했습니다. https://yemen.liveuamap.com/en/2026/7-october-18-the-saudi-general-",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9372",
-      "titleOriginal": "Microsoft is giving Copilot more control over Windows and your files",
-      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "lang": "en",
-      "publishedAt": "2026-10-07T18:06:43.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Microsoft는 Copilot에 Windows 및 파일에 대한 더 많은 제어 권한을 부여하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9371",
-      "titleOriginal": "The Meta Quest 3S gets a rare discount during October Prime Day",
-      "url": "https://telegra.ph/The-Meta-Quest-3S-gets-a-rare-discount-during-October-Prime-10-07-3",
-      "lang": "en",
-      "publishedAt": "2026-10-07T18:06:42.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "메타 퀘스트 3S는 10월 프라임 데이에 드문 할인을 받습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78180",
-      "titleOriginal": "Armed, masked intruders enter Latvia from Belarus and carry out sabotage",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/07/8056797/",
-      "lang": "en",
-      "publishedAt": "2026-10-07T18:04:30.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "무장한 가면을 쓴 침입자가 벨라루스에서 라트비아로 침입하여 사보타주를 수행합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9370",
-      "titleOriginal": "How Microsoft built its MacBook Pro competitor",
-      "url": "https://www.theverge.com/tech/1006356/microsoft-surface-laptop-ultra-behind-the-scenes",
-      "lang": "en",
-      "publishedAt": "2026-10-07T18:01:52.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Microsoft가 MacBook Pro 경쟁업체를 구축한 방법",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78179",
-      "titleOriginal": "Russia plague did not escape from test tube, says dead scientist’s mother",
-      "url": "https://www.telegraph.co.uk/world-news/2026/10/07/us-formally-demands-russia-explain-plague-outbreak/?WT.mc_id=tmgoff_reddit_demands-russia-explain-plague-outbreak/&amp;accesscontrol=facebookchannel_open",
-      "lang": "en",
-      "publishedAt": "2026-10-07T17:59:48.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아 전염병은 시험관에서 탈출하지 않았다, 죽은 과학자의 어머니는 말한다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9369",
-      "titleOriginal": "What The Social Reckoning gets right — and wrong",
-      "url": "https://www.theverge.com/policy/1007069/aaron-sorkin-social-reckoning-real-life",
-      "lang": "en",
-      "publishedAt": "2026-10-07T17:57:04.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "사회적 판단이 옳고 그른 것",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9367",
-      "titleOriginal": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-      "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-      "lang": "en",
-      "publishedAt": "2026-10-07T17:57:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Surface RTX Spark Dev Box는 $ 5,999에 예약 주문할 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9368",
-      "titleOriginal": "The Surface Laptop Ultra finally has a release date — and a starting price of $2,599",
-      "url": "https://www.theverge.com/news/1006378/microsoft-surface-laptop-ultra-pricing-release-date",
-      "lang": "en",
-      "publishedAt": "2026-10-07T17:57:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Surface Laptop Ultra의 출시 날짜와 시작 가격은 $ 2,599입니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45095",
-      "titleOriginal": "BREAKING - President Trump, asked whether the reported plague in Russia is a biological weapon: “We’re going to find out soon enough, but we don’t think so.”",
-      "url": "https://t.me/insiderpaper/45095",
-      "lang": "en",
-      "publishedAt": "2026-10-07T17:48:39.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 트럼프 대통령이 러시아에서 보고된 전염병이 생물학적 무기인지 물었다. \"우리는 곧 알게 될 것이지만 그렇게 생각하지 않는다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19299",
-      "titleOriginal": "Trump does not think that the plague in Russia is a biological weapon.",
-      "url": "https://t.me/wartranslated/19299",
-      "lang": "en",
-      "publishedAt": "2026-10-07T17:47:35.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "트럼프는 러시아의 전염병이 생물학적 무기라고 생각하지 않는다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9366",
-      "titleOriginal": "Microsoft’s Surface Laptop Ultra has built-in magnetic USB-C charging",
-      "url": "https://www.theverge.com/news/1006445/microsofts-surface-laptop-ultra-has-built-in-magnetic-usb-c-charging",
-      "lang": "en",
-      "publishedAt": "2026-10-07T17:45:33.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Microsoft의 Surface Laptop Ultra에는 마그네틱 USB-C 충전 기능이 내장되어 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19298",
-      "titleOriginal": "The State Emergency Service of Ukraine reported that the death toll from the Russian strike on a residential building in Pryluky, Chernihiv Region, has risen to 18. Among the dead are four children.",
-      "url": "https://t.me/wartranslated/19298",
-      "lang": "en",
-      "publishedAt": "2026-10-07T17:41:31.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 국가 비상 서비스 (State Emergency Service of Ukraine) 는 체르니히우 (Chernihiv) 지역 프리루키 (Pryluky) 의 한 주거용 건물에 대한 러시아의 파업으로 인한 사망자가 18명으로 증가했다고 전했다. 사망자 중에는 4명의 자녀가 있습니",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19297",
-      "titleOriginal": "Power cuts have begun on the right bank of Kyiv.",
-      "url": "https://t.me/wartranslated/19297",
-      "lang": "en",
-      "publishedAt": "2026-10-07T17:35:38.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "키예프의 오른쪽 둑에서 정전 사태가 시작되었습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78178",
-      "titleOriginal": "Russia has begun sabotage operations against Danish companies supplying Ukraine after broader disruption efforts failed to curb Western military support for the ​country, says Danish intelligence official",
-      "url": "https://www.reuters.com/business/aerospace-defense/denmark-says-russia-has-conducted-sabotage-attacks-against-its-defense-firms-2026-10-07/",
-      "lang": "en",
-      "publishedAt": "2026-10-07T17:34:30.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "덴마크 정보 당국은 러시아가 우크라이나에 대한 서방의 군사 지원을 억제하는 데 실패한 후 우크라이나에 공급하는 덴마크 기업에 대한 사보타주 작전을 시작했다고 밝혔다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15561",
-      "titleOriginal": "Three years. Two starkly different realities.",
-      "url": "https://t.me/trtworld/15561",
-      "lang": "en",
-      "publishedAt": "2026-10-07T17:22:57.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "3년. 완전히 다른 두 현실",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19296",
-      "titleOriginal": "\"Russia is set to escalate its shelling.\" - Zelenskyy.",
-      "url": "https://t.me/wartranslated/19296",
-      "lang": "en",
-      "publishedAt": "2026-10-07T17:17:30.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아는 포격을 확대할 예정이다.\" - 젤렌스키",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45094",
-      "titleOriginal": "JUST IN - Trump: \"Today, I'm pleased to announce that every single eligible minor child in America has now been automatically enrolled in a Trump Account.\"",
-      "url": "https://t.me/insiderpaper/45094",
-      "lang": "en",
-      "publishedAt": "2026-10-07T17:13:03.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 트럼프: \"오늘, 미국의 모든 미성년자 자녀가 트럼프 계정에 자동으로 등록되었음을 발표하게 되어 기쁩니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9364",
-      "titleOriginal": "The Apple Watch Series 12 is a good deal at $50 off",
-      "url": "https://www.theverge.com/gadgets/1006806/apple-watch-series-12-prime-day-deal-sale",
-      "lang": "en",
-      "publishedAt": "2026-10-07T17:01:05.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Apple Watch Series 12는 $ 50 할인된 가격에 구매할 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9363",
-      "titleOriginal": "The scariest thing about gray-market peptides is how little we know",
-      "url": "https://www.theverge.com/column/1006902/optimizer-bpc-157-gray-market-real-world-usage",
-      "lang": "en",
-      "publishedAt": "2026-10-07T17:01:03.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "회색 시장 펩타이드의 가장 무서운 점은 우리가 아는 것이 거의 없다는 것입니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19295",
-      "titleOriginal": "At around 6:00 a.m., Russia launched a missile strike on Pryluky, Chernihiv Oblast. One missile hit a five-story residential building. At this time, the bodies of three children have been recovered from under the rubble, and the death toll ",
-      "url": "https://t.me/wartranslated/19295",
-      "lang": "en",
-      "publishedAt": "2026-10-07T16:47:31.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "오전 6시경, 러시아는 체르니히우주 프리루키에 미사일 공격을 개시했다. 미사일 한 발이 5층짜리 주택 건물을 덮쳤습니다. 이때 세 아이의 시신은 잔해 밑에서 수습되었고 사망자는",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45093",
-      "titleOriginal": "JUST IN - Putin tells Tehran ready to help mediate Middle East war: Iran state media",
-      "url": "https://insiderpaper.com/putin-tells-tehran-ready-to-help-mediate-middle-east-war-iran-state-media/",
-      "lang": "en",
-      "publishedAt": "2026-10-07T16:47:05.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 푸틴, 테헤란에 중동 전쟁 중재 지원 준비 완료: 이란 국영 언론",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9362",
-      "titleOriginal": "Windows and Surface live blog: On the ground at Microsoft’s event",
-      "url": "https://www.theverge.com/news/1006303/microsoft-windows-surface-event-live-blog-surface-laptop-ultra-rtx-spark",
-      "lang": "en",
-      "publishedAt": "2026-10-07T16:36:59.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Windows 및 Surface 라이브 블로그: Microsoft 이벤트 현장",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9361",
-      "titleOriginal": "Disney Plus will stream Super Bowl LXI",
-      "url": "https://www.theverge.com/streaming/1006911/disney-plus-super-bowl-lxi-streaming",
-      "lang": "en",
-      "publishedAt": "2026-10-07T16:32:01.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "디즈니 플러스가 슈퍼볼 LXI를 스트리밍합니다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15560",
-      "titleOriginal": "Spain has approved 21 emergency housing measures after nationwide protests over soaring rents and evictions. With a snap election set for November 29, the housing crisis is now at the centre of the country’s political battle",
-      "url": "https://t.me/trtworld/15560",
-      "lang": "en",
-      "publishedAt": "2026-10-07T16:30:09.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "스페인은 치솟는 임대료와 퇴거에 대한 전국적인 시위 끝에 21개의 긴급 주택 대책을 승인했습니다. 11월 29일에 치러지는 SNAP 선거를 통해 주택 위기는 이제 국가의 정치 싸움의 중심에 서 있습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45092",
-      "titleOriginal": "BREAKING - Western civilisation stands ‘at an inflection point’, Rubio says",
-      "url": "https://insiderpaper.com/western-civilisation-is-at-an-inflection-point-rubio/",
-      "lang": "en",
-      "publishedAt": "2026-10-07T16:20:44.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "브레이킹 - 서구 문명은 '변곡점에 있다’ 고 Rubio는 말합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45091",
-      "titleOriginal": "BREAKING - France summons Iranian ambassador over ‘disinformation campaign’ about school protests: ministry",
-      "url": "https://insiderpaper.com/france-summons-iranian-ambassador-over-disinformation-campaign-about-school-protests-ministry/",
-      "lang": "en",
-      "publishedAt": "2026-10-07T16:17:24.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 프랑스, 학교 시위에 대한 ‘허위 정보 캠페인’ 으로 이란 대사 소환: 교육부",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9360",
-      "titleOriginal": "A free mod for Titanfall 2 makes it one of the best VR games ever",
-      "url": "https://www.theverge.com/games/1006448/titanfall-2-vr-mod-circuitlord-jordan-juarez",
-      "lang": "en",
-      "publishedAt": "2026-10-07T16:16:43.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Titanfall 2의 무료 모드 덕분에 최고의 VR 게임 중 하나가 되었습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9359",
-      "titleOriginal": "Doxxing Jane Doe",
-      "url": "https://www.theverge.com/report/1006636/jane-doe-cornell-dox",
-      "lang": "en",
-      "publishedAt": "2026-10-07T16:02:09.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Doxxing Jane Doe",
-      "translated": false
-    },
-    {
-      "id": "theverge_news:9358",
-      "titleOriginal": "ChatGPT is getting college planning tools",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-      "lang": "en",
-      "publishedAt": "2026-10-07T16:02:08.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "ChatGPT는 대학 계획 도구를 얻고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9357",
-      "titleOriginal": "Xreal’s most affordable display glasses are $50 off",
-      "url": "https://telegra.ph/Xreals-most-affordable-display-glasses-are-50-off-10-07",
-      "lang": "en",
-      "publishedAt": "2026-10-07T16:02:04.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Xreal에서 가장 저렴한 디스플레이 안경은 $ 50 할인",
       "translated": true
     }
   ]
