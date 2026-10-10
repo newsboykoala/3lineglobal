@@ -1,17 +1,138 @@
 {
-  "updatedAt": "2026-10-09T21:49:38.881Z",
+  "updatedAt": "2026-10-10T01:32:37.472Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
     {
-      "id": "worldnews:78235",
-      "titleOriginal": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "url": "https://www.bbc.com/news/articles/cm1dwgr666wno",
+      "id": "sciencealert:91932",
+      "titleOriginal": "New Trial Compared Muscle Gains in Vegetarians And Meat Eaters. One Difference Stood Out.",
+      "url": "https://www.sciencealert.com/new-trial-compared-muscle-gains-in-vegetarians-and-meat-eaters-one-difference-stood-out",
       "lang": "en",
-      "publishedAt": "2026-10-09T21:39:38.000Z",
+      "publishedAt": "2026-10-10T01:09:28.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "새로운 시험은 채식주의자와 육식주의자의 근육 증가를 비교했습니다. 한 가지 차이점이 두드러졌습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78239",
+      "titleOriginal": "Zelenskyy confirms Ukrainian strikes on two Russian oil refineries: upgraded drones used",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/09/8057217/",
+      "lang": "en",
+      "publishedAt": "2026-10-10T00:59:35.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "Zelenskyy, 러시아 석유 정제소 2곳에 대한 우크라이나 공격 확인: 업그레이드된 드론 사용",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78238",
+      "titleOriginal": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "url": "https://bbc.com/news/articles/cm1dwgr666wno",
+      "lang": "en",
+      "publishedAt": "2026-10-10T00:39:30.000Z",
       "source": "WorldNews",
       "region": "종합",
       "title": "젤렌스키가 푸틴에게 '선물' 이라고 비판하면서 트럼프는 러시아 디젤에 대한 거래를 발표했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78237",
+      "titleOriginal": "Palestinian Authority Says Elections Are to Be Postponed",
+      "url": "https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html?unlocked_article_code=1.HVE.jOf7.vUVlGO2QkEJA&amp;smid=url-share",
+      "lang": "en",
+      "publishedAt": "2026-10-09T23:04:27.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "팔레스타인 당국은 선거가 연기될 것이라고 밝혔습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19369",
+      "titleOriginal": "Trump announced finishing a highly «successful» discussion with Putin, securing immediate Russian deliveries of over 300 thousand tons of diesel fuel globally and to the US, plus 500 thousand throughout November, followed right away by anot",
+      "url": "https://t.me/wartranslated/19369",
+      "lang": "en",
+      "publishedAt": "2026-10-09T22:56:00.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "트럼프 대통령은 푸틴 대통령과 매우 «성공적인» 논의를 끝내고, 전 세계와 미국에 30만 톤 이상의 디젤 연료를 즉각적으로 공급하고, 11월 내내 50만 달러를 더한 다음 즉시 애노트를 공급하겠다고 발표했다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19368",
+      "titleOriginal": "Just a Russian trying to shoot down a Ukrainian \"Morok\" drone with a potato.",
+      "url": "https://t.me/wartranslated/19368",
+      "lang": "en",
+      "publishedAt": "2026-10-09T22:45:54.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "감자로 우크라이나 \"모록\" 드론을 격추하려는 러시아인입니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19367",
+      "titleOriginal": "Zelensky says any easing of sanctions on Russia without a clear, lasting de-escalation deal is weakness that lets Russia kill more and fight longer. He says Russia is compensating for its weakest frontline position of the war with terror ag",
+      "url": "https://t.me/wartranslated/19367",
+      "lang": "en",
+      "publishedAt": "2026-10-09T22:42:32.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "젤렌스키는 명확하고 지속적인 감정 완화 협상 없이 러시아에 대한 제재를 완화하는 것은 러시아가 더 많이 죽이고 더 오래 싸우게 하는 약점이라고 말한다. 그는 러시아가 테러와의 전쟁에서 가장 약한 최전선 위치를 보상하고 있다고 말한다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19361",
+      "titleOriginal": "The US Treasury is immediately issuing a temporary license allowing Russian diesel to reach the global market, suspending sanctions on Russian diesel fuel until April 7, 2027.",
+      "url": "https://t.me/wartranslated/19361",
+      "lang": "en",
+      "publishedAt": "2026-10-09T22:34:26.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "미국 재무부는 2027년 4월 7일까지 러시아 디젤 연료에 대한 제재를 중단하고 러시아 디젤이 세계 시장에 도달할 수 있도록 임시 면허를 즉시 발급하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45150",
+      "titleOriginal": "Vice President JD Vance said Friday he's \"not going to be watching\" the livestream of the firing squad execution of the Fort Hood shooter",
+      "url": "https://t.me/insiderpaper/45150",
+      "lang": "en",
+      "publishedAt": "2026-10-09T22:33:17.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "제이디 밴스 (JD Vance) 부사장은 금요일 포트 후드 총격범의 총격 분대 처형에 대한 생중계 방송을 \"지켜보지 않을 것\" 이라고 말했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78236",
+      "titleOriginal": "U.S. lifts sanctions on sale of Russian diesel in global markets until April 7 next year",
+      "url": "https://www.thehindu.com/news/international/us-lifts-sanctions-on-sale-of-russian-diesel-in-global-markets/article71565823.ece",
+      "lang": "en",
+      "publishedAt": "2026-10-09T22:14:09.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국, 내년 4월 7일까지 세계 시장에서 러시아산 디젤 판매에 대한 제재 해제",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91931",
+      "titleOriginal": "Our Solar System May Be Destroyed 100 Times Faster Than We Thought",
+      "url": "https://www.sciencealert.com/our-solar-system-may-be-destroyed-100-times-faster-than-we-thought",
+      "lang": "en",
+      "publishedAt": "2026-10-09T22:08:53.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "우리의 태양계는 생각보다 100배 더 빨리 파괴될 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9440",
+      "titleOriginal": "Decade-old RAM is making a comeback",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "lang": "en",
+      "publishedAt": "2026-10-09T21:57:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "10년 된 RAM이 다시 돌아옵니다",
       "translated": true
     },
     {
@@ -100,28 +221,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "트럼프 대통령은 러시아가 수백만 톤의 디젤을 미국과 세계 시장에 공급하기로 합의했다고 말했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19360",
-      "titleOriginal": "The US Treasury is immediately issuing a temporary license allowing Russian diesel to reach the global market, suspending sanctions on Russian diesel fuel until April 7, 2027.",
-      "url": "https://t.me/wartranslated/19360",
-      "lang": "en",
-      "publishedAt": "2026-10-09T19:33:37.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "미국 재무부는 2027년 4월 7일까지 러시아 디젤 연료에 대한 제재를 중단하고 러시아 디젤이 세계 시장에 도달할 수 있도록 임시 면허를 즉시 발급하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19359",
-      "titleOriginal": "Trump announced finishing a highly «successful» discussion with Putin, securing immediate Russian deliveries of over 300 thousand tons of diesel fuel globally and to the US, plus 500 thousand throughout November, followed right away by anot",
-      "url": "https://t.me/wartranslated/19359",
-      "lang": "en",
-      "publishedAt": "2026-10-09T19:27:59.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "트럼프 대통령은 푸틴 대통령과 매우 «성공적인» 논의를 끝내고, 전 세계와 미국에 30만 톤 이상의 디젤 연료를 즉각적으로 공급하고, 11월 내내 50만 달러를 더한 다음 즉시 애노트를 공급하겠다고 발표했다",
       "translated": true
     },
     {
@@ -1552,105 +1651,6 @@
       "source": "Insider Paper",
       "region": "속보",
       "title": "속보: 미국은 리야드 공항 공격 이후 시민들에게 '경계 강화 운동' 을 하라고 지시합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9401",
-      "titleOriginal": "Are you ready for you ready for everything to look like TikTok?",
-      "url": "https://www.theverge.com/tech/1006069/instagram-facebook-full-screen-reels-test-tiktok",
-      "lang": "en",
-      "publishedAt": "2026-10-08T16:51:41.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "모든 것이 TikTok처럼 보일 준비가 되셨나요?",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19319",
-      "titleOriginal": "Monitoring channels report that the Ukrainian Defence Forces have struck the Omsk Oil Refinery, the largest oil refinery in the Russian Federation.",
-      "url": "https://t.me/wartranslated/19319",
-      "lang": "en",
-      "publishedAt": "2026-10-08T16:49:19.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "모니터링 채널은 우크라이나 방위군이 러시아 연방에서 가장 큰 정유소인 옴스크 정유소를 강타했다고 보고합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45125",
-      "titleOriginal": "BREAKING - Trump says anyone who does not call AI 'super intelligence' is 'the enemy' bit.ly/4ASxAhb",
-      "url": "https://t.co/Bn6giW7hwN",
-      "lang": "en",
-      "publishedAt": "2026-10-08T16:43:42.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 트럼프는 AI를 '슈퍼 인텔리전스' 라고 부르지 않는 사람은 '적' 이라고 말합니다. bit.ly/4ASxAhb",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9400",
-      "titleOriginal": "Amazon is phasing out Fire Tablets because they weren’t ‘giving customers what they were asking for’",
-      "url": "https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay",
-      "lang": "en",
-      "publishedAt": "2026-10-08T16:42:00.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Amazon이 Fire Tablets를 단계적으로 폐지하는 이유는 고객이 요청한 것을 제공하지 않았기 때문입니다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15571",
-      "titleOriginal": "\"It’s terrible and horrifying, in my view, a great desecration of God's name, that the people of Israel, who are God's people, established a state of destruction and heresy. This is a great lesson we must learn.\"",
-      "url": "https://t.me/trtworld/15571",
-      "lang": "en",
-      "publishedAt": "2026-10-08T16:40:26.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "하나님의 백성인 이스라엘 백성이 파괴와 이단의 국가를 세운 것은 하나님의 이름을 크게 더럽히는 끔찍하고 끔찍한 일입니다. 이것은 우리가 배워야 할 훌륭한 교훈입니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21885",
-      "titleOriginal": "JUST IN - Trump says anyone who uses the term Artificial Intelligence, instead of Super Intelligence, is \"THE ENEMY!\"",
-      "url": "https://truthsocial.com/@realDonaldTrump/posts/117406176604364910",
-      "lang": "en",
-      "publishedAt": "2026-10-08T16:27:42.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "방금 - 트럼프는 슈퍼 인텔리전스 대신 인공 지능이라는 용어를 사용하는 사람은 \"적\" 이라고 말합니다!",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45124",
-      "titleOriginal": "NOW — PRESIDENT TRUMP SAYS U.S. WILL NOT BE ATTACKING IRAN AT ANY TIME PRIOR TO MIDTERM ELECTIONS",
-      "url": "https://t.me/insiderpaper/45124",
-      "lang": "en",
-      "publishedAt": "2026-10-08T16:24:15.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "지금 — 트럼프 대통령은 미국이 중간선거 전에 언제든지 이란을 공격하지 않을 것이라고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45123",
-      "titleOriginal": "BREAKING: Trump says anyone who will use term Artificial Intelligence (AI) instead of Super Intelligence (SI) will be considered enemy by the White House",
-      "url": "https://t.me/insiderpaper/45123",
-      "lang": "en",
-      "publishedAt": "2026-10-08T16:21:18.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 트럼프는 슈퍼 인텔리전스 (SI) 대신 인공 지능 (AI) 이라는 용어를 사용하는 사람은 백악관에 의해 적으로 간주 될 것이라고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78201",
-      "titleOriginal": "Ukraine says it hit Russia's largest oil refinery",
-      "url": "https://www.reuters.com/business/energy/ukraine-says-it-hit-russias-largest-oil-refinery-2026-10-08/",
-      "lang": "en",
-      "publishedAt": "2026-10-08T16:19:37.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "우크라이나가 러시아 최대 정유 공장을 강타했다고 밝혔습니다",
       "translated": true
     }
   ]
