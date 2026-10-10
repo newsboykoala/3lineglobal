@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-10-10T19:08:15.809Z",
+  "updatedAt": "2026-10-10T22:49:45.711Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "theverge_news:9452",
+      "titleOriginal": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "lang": "en",
+      "publishedAt": "2026-10-10T22:12:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Satya Nadella는 모든 AI 모델이 ‘손상‘ 되었다고 가정해야 한다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91938",
+      "titleOriginal": "People With Dementia May Actually Live Longer if They Carry Extra Weight",
+      "url": "https://www.sciencealert.com/people-with-dementia-may-actually-live-longer-if-they-carry-extra-weight",
+      "lang": "en",
+      "publishedAt": "2026-10-10T21:07:53.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "치매 환자가 추가 체중을 지닐 경우 실제로 더 오래 살 수 있음",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91937",
+      "titleOriginal": "Adding 1 Mushroom-Derived Molecule to Salt Can Make It Taste 71% Saltier",
+      "url": "https://www.sciencealert.com/adding-1-mushroom-derived-molecule-to-salt-can-make-it-taste-71-saltier",
+      "lang": "en",
+      "publishedAt": "2026-10-10T21:07:49.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "버섯 유래 분자 1개를 소금에 첨가하면 맛이 71% 더 좋아질 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91936",
+      "titleOriginal": "Weaker Bones Have Been Linked to Faster Brain Aging in a New Study",
+      "url": "https://www.sciencealert.com/weaker-bones-have-been-linked-to-faster-brain-aging-in-a-new-study",
+      "lang": "en",
+      "publishedAt": "2026-10-10T19:37:19.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "새로운 연구에서 약한 뼈는 더 빠른 뇌 노화로 연결되었습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19395",
+      "titleOriginal": "Talks have stalled as the US pitched unfreezing Russian assets, selling a Lukoil stake, and resuming Belarus potash exports, NYT reports. Ukraine pushed back, demanding security guarantees and more military aid.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-10-10T19:12:06.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "NYT는 미국이 러시아 자산을 동결하지 않고 루코일 지분을 매각하고 벨라루스의 칼륨 수출을 재개하면서 회담이 중단됐다고 보도했다. 우크라이나는 안보 보장과 더 많은 군사 원조를 요구하며 반발했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78261",
+      "titleOriginal": "Trump tells Ukraine to replace Zelensky over Russia fuel deal",
+      "url": "https://www.axios.com/2026/10/10/trump-ukraine-zelensky-replace-putin-diesel",
+      "lang": "en",
+      "publishedAt": "2026-10-10T19:09:22.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프는 우크라이나에게 러시아 연료 거래보다 젤렌스키를 대체하라고 말한다",
+      "translated": true
+    },
     {
       "id": "theverge_news:9451",
       "titleOriginal": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
@@ -1585,72 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "Yandex는 48시간 만에 두 번째 데이터 센터 공격을 받았으며 현재 러시아 최대 사이트가 손상되었습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19332",
-      "titleOriginal": "Ukraine's General Staff confirmed its forces struck facilities in Russia overnight involved in missile launches and missile fuel production, hitting a Barmin Institute branch in Nizhny Novgorod region, the Redkino experimental plant in Tver",
-      "url": "https://t.me/wartranslated/19332",
-      "lang": "en",
-      "publishedAt": "2026-10-09T09:52:53.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나의 총참모부는 러시아에서 하룻밤 사이에 미사일 발사와 미사일 연료 생산에 관여한 군대가 트베르의 레드키노 실험 공장인 니즈니노브고로드 지역의 바민 연구소 지점을 강타했음을 확인했다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91927",
-      "titleOriginal": "People With Narcolepsy Have Surprisingly Youthful Brains, But Scientists Don't Know Why",
-      "url": "https://www.sciencealert.com/people-with-narcolepsy-have-surprisingly-youthful-brains-but-scientists-dont-know-why",
-      "lang": "en",
-      "publishedAt": "2026-10-09T09:47:55.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "Narcolepsy를 가진 사람들은 놀랍게도 젊은 두뇌를 가지고 있지만 과학자들은 그 이유를 모릅니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45138",
-      "titleOriginal": "UN condemns US decision to livestream Nidal Hasan execution as 'torture' — AFP",
-      "url": "https://t.me/insiderpaper/45138",
-      "lang": "en",
-      "publishedAt": "2026-10-09T09:38:40.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "유엔, 니달 하산 처형 생중계에 대한 미국의 결정을 '고문' 으로 규탄 — AFP",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78213",
-      "titleOriginal": "'We stand with Pakistan against India': Houthi leader urges Pakistan to stay away from Saudi-Houthi war",
-      "url": "https://www.india.com/news/world/we-stand-with-pakistan-against-india-houthi-leader-urges-pakistan-to-stay-away-from-saudi-houthi-war-8534122/",
-      "lang": "en",
-      "publishedAt": "2026-10-09T09:19:35.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "우리는 인도에 맞서 파키스탄과 함께합니다': 후티 지도자는 파키스탄이 사우디-후티 전쟁을 멀리할 것을 촉구합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45137",
-      "titleOriginal": "BREAKING: Navi Pillay, South African former UN human rights commissioner, has been awarded 2026 Nobel Peace Prize",
-      "url": "https://x.com/theinsiderpaper/status/2108485905090806236?s=46",
-      "lang": "en",
-      "publishedAt": "2026-10-09T09:13:37.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 남아프리카공화국 전 유엔 인권위원장 나비 필레이 (Navi Pillay) 가 2026년 노벨 평화상을 수상했습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45136",
-      "titleOriginal": "Children as young as 10 can be given fat jabs, WHO says",
-      "url": "https://insiderpaper.com/children-as-young-as-10-can-be-given-fat-jabs-who-says/",
-      "lang": "en",
-      "publishedAt": "2026-10-09T08:29:36.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "10세 미만의 어린이에게는 지방 잽을 줄 수 있다고 WHO는 말합니다",
       "translated": true
     }
   ]
