@@ -1,8 +1,129 @@
 {
-  "updatedAt": "2026-10-10T01:32:37.472Z",
+  "updatedAt": "2026-10-10T08:09:19.401Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "trtworld:15581",
+      "titleOriginal": "New York City police have released CCTV and bodycam footage showing the moment federal immigration officers opened fire on a Dominican man during an arrest in New York.",
+      "url": "https://t.me/trtworld/15581",
+      "lang": "en",
+      "publishedAt": "2026-10-10T07:42:42.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "뉴욕시 경찰은 뉴욕에서 체포된 연방 이민국 직원이 도미니카 남성에게 발포한 순간을 보여주는 CCTV와 바디캠 영상을 공개했습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19372",
+      "titleOriginal": "Russia's Novoshakhtinsk Oil Refinery Plant's Rostov branch, a fuel depot with over 210,000 cubic meters of storage capacity, was hit overnight in Rostov region. The facility supplies fuel to Russia's Southern Military District, and taking i",
+      "url": "https://t.me/wartranslated/19372",
+      "lang": "en",
+      "publishedAt": "2026-10-10T07:13:28.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아의 노보샤흐틴스크 정유 공장의 로스토프 지점은 로스토프 지역에서 하룻밤 사이에 210,000 입방 미터 이상의 저장 용량을 가진 연료 저장고에 타격을 입었습니다. 이 시설은 러시아 남부 군사 지구에 연료를 공급하고",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19371",
+      "titleOriginal": "Talks between Ukraine and the US in Miami ended early, with no second day planned, RFE/RL's Washington correspondent Alex Raufoglu reports, citing sources.",
+      "url": "https://t.me/wartranslated/19371",
+      "lang": "en",
+      "publishedAt": "2026-10-10T07:07:35.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "RFE/RL의 워싱턴 특파원 알렉스 라우포글루 (Alex Raufoglu) 는 마이애미에서 우크라이나와 미국 간의 회담이 두 번째 날 계획없이 일찍 끝났다고 보도했다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15580",
+      "titleOriginal": "Follow our Daily News Brief for Saturday, October 10th",
+      "url": "https://trt.world/c57v",
+      "lang": "en",
+      "publishedAt": "2026-10-10T07:06:05.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "10월 10일 토요일 일일 뉴스 브리프를 팔로우하세요",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9441",
+      "titleOriginal": "My brief romance with an AI bird feeder",
+      "url": "https://telegra.ph/My-brief-romance-with-an-AI-bird-feeder-10-10-6",
+      "lang": "en",
+      "publishedAt": "2026-10-10T07:05:04.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "인공지능 조류 먹이 공급장치와 함께하는 나의 간략한 로맨스",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78246",
+      "titleOriginal": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
+      "lang": "en",
+      "publishedAt": "2026-10-10T06:44:21.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프가 러시아산 디젤 구매 계약을 발표하자 젤렌스키가 분노했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78245",
+      "titleOriginal": "U.S. official: Trump cut deal with Putin after Zelensky ignored his requests",
+      "url": "https://www.axios.com/2026/10/10/trump-zelensky-putin-diesel-deal-war",
+      "lang": "en",
+      "publishedAt": "2026-10-10T05:04:39.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국 관리: 젤렌스키가 그의 요청을 무시한 후 트럼프는 푸틴과 거래를 중단했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78244",
+      "titleOriginal": "Trump announces deal for Russian diesel as Zelensky calls it a 'gift to Putin'",
+      "url": "https://www.bbc.com/news/articles/cm1dwgr666wno",
+      "lang": "en",
+      "publishedAt": "2026-10-10T04:24:21.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "젤렌스키가 '푸틴을 위한 선물' 이라고 부르는 러시아 디젤에 대한 거래를 발표한 트럼프",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78242",
+      "titleOriginal": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+      "url": "https://www.cnbc.com/amp/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
+      "lang": "en",
+      "publishedAt": "2026-10-10T03:59:42.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아 제재법 위반 혐의로 기소된 푸틴과 트럼프의 디젤 계약",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78241",
+      "titleOriginal": "Trump Warns Norway He Won’t Forget Nobel Peace Prize Snub",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-10/trump-warns-norway-he-won-t-forget-nobel-peace-prize-snub?srnd=homepage-americas",
+      "lang": "en",
+      "publishedAt": "2026-10-10T02:54:37.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프, 노르웨이에 노벨 평화상 수상 잊지 않을 것 경고",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78240",
+      "titleOriginal": "Israel Denounces the Decision to Award the Nobel Peace Prize to Navi Pillay",
+      "url": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay-un-genocide-report-israel.html",
+      "lang": "en",
+      "publishedAt": "2026-10-10T02:09:18.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "이스라엘, Navi Pillay에게 노벨 평화상 수여 결정 비난",
+      "translated": true
+    },
     {
       "id": "sciencealert:91932",
       "titleOriginal": "New Trial Compared Muscle Gains in Vegetarians And Meat Eaters. One Difference Stood Out.",
@@ -1530,127 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "포르자 호라이즌 6가 PS5에서 2027년 1월로 지연되고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78203",
-      "titleOriginal": "Zelenskyy responds to Rubio: You cannot negotiate with Russia and talk about a diplomatic stalemate at the same time",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/08/8057060/",
-      "lang": "en",
-      "publishedAt": "2026-10-08T18:09:16.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "젤렌스키는 루비오에게 이렇게 대답한다: 당신은 러시아와 협상할 수 없으며 동시에 외교적 교착 상태에 대해 이야기할 수 없다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45127",
-      "titleOriginal": "BREAKING - France school protests see 71,500 demonstrators, over 500 arrests: ministry bit.ly/4yCVQSG",
-      "url": "https://t.co/6L8JTJIBwB",
-      "lang": "en",
-      "publishedAt": "2026-10-08T18:07:26.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 프랑스 학교 시위에서 71,500명의 시위대, 500명 이상 체포: 사역 bit.ly/4yCVQSG",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9406",
-      "titleOriginal": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-      "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
-      "lang": "en",
-      "publishedAt": "2026-10-08T18:07:00.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "SpaceXAI는 논란의 여지가 있는 Linux 배포판인 Omarchy를 뒷받침하며 $ 150만 달러의 컴퓨팅을 제공합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9407",
-      "titleOriginal": "USA Today becomes the latest publisher to sue OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "lang": "en",
-      "publishedAt": "2026-10-08T18:07:00.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "USA Today가 OpenAI를 고소하는 최신 퍼블리셔가 됨",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21886",
-      "titleOriginal": "NOW - Trump speaking at Science Summit: \"We have an extremely high IQ audience, for a change. For a change—it's very nice!\"",
-      "url": "https://t.me/disclosetv/21886",
-      "lang": "en",
-      "publishedAt": "2026-10-08T17:48:00.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "이제 - 과학 정상 회담에서 연설하는 트럼프: \"우리는 변화를 위해 IQ 청중이 매우 높습니다. 거스름돈으로 아주 좋아요!",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9405",
-      "titleOriginal": "Older Pixel watches are losing free cellular access to several safety features",
-      "url": "https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending",
-      "lang": "en",
-      "publishedAt": "2026-10-08T17:46:22.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "구형 픽셀 시계는 여러 안전 기능에 대한 무료 셀룰러 액세스를 잃어 가고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78202",
-      "titleOriginal": "Polish SIM cards found in Russian drones downed in Poland",
-      "url": "https://kyivindependent.com/polish-sim-cards-found-in-russian-drones-downed-in-poland/",
-      "lang": "en",
-      "publishedAt": "2026-10-08T17:04:43.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "폴란드에서 추락한 러시아 드론에서 발견된 폴란드 SIM 카드",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9403",
-      "titleOriginal": "Trump administration says Microsoft ‘abused’ worker visa program and is cutting off access",
-      "url": "https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance",
-      "lang": "en",
-      "publishedAt": "2026-10-08T17:02:03.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "트럼프 행정부는 마이크로소프트가 근로자 비자 프로그램을 ‘악용했다’ 며 접근을 차단하고 있다고 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9404",
-      "titleOriginal": "Anthropic bans ‘abusive or cruel behavior’ towards Claude",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "lang": "en",
-      "publishedAt": "2026-10-08T17:02:03.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "클로드에 대한 ‘학대 또는 잔인한 행동’ 을 금지하는 인류애",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9402",
-      "titleOriginal": "New York accuses TikTok of serving users ‘placebo’ safety features",
-      "url": "https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features",
-      "lang": "en",
-      "publishedAt": "2026-10-08T17:02:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "뉴욕은 TikTok이 사용자에게 ‘위약‘ 안전 기능을 제공한다고 비난합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45126",
-      "titleOriginal": "BREAKING: US tells citizens to 'exercise heightened vigilance' after Riyadh airport attacks",
-      "url": "https://t.me/insiderpaper/45126",
-      "lang": "en",
-      "publishedAt": "2026-10-08T16:54:54.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 미국은 리야드 공항 공격 이후 시민들에게 '경계 강화 운동' 을 하라고 지시합니다",
       "translated": true
     }
   ]
