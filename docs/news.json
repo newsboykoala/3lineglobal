@@ -1,8 +1,85 @@
 {
-  "updatedAt": "2026-10-11T01:34:59.277Z",
+  "updatedAt": "2026-10-11T08:20:52.410Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78268",
+      "titleOriginal": "Estonia's PM urges EU to help 'smash Russian oil refineries to smithereens'",
+      "url": "https://newsukraine.rbc.ua/news/estonia-s-pm-urges-eu-to-help-smash-russian-1791659120.html",
+      "lang": "en",
+      "publishedAt": "2026-10-11T08:19:26.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "에스토니아의 PM은 EU가 '러시아 정유 공장을 분쇄하여 분쇄' 할 것을 촉구합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78267",
+      "titleOriginal": "A 73% average decline in wildlife populations: an overview of the 2026 Living Planet Index report",
+      "url": "https://ourworldindata.org/2026-lpi-update",
+      "lang": "en",
+      "publishedAt": "2026-10-11T07:19:31.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "야생 동물 개체수의 73% 평균 감소: 2026 Living Planet Index 보고서 개요",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45154",
+      "titleOriginal": "ALERT - Nepal hit by flash floods again as raging waters sweep away several houses and damage infrastructure",
+      "url": "https://t.me/insiderpaper/45154",
+      "lang": "en",
+      "publishedAt": "2026-10-11T06:46:38.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "경고 - 성난 물이 여러 주택과 피해 인프라를 휩쓸면서 네팔이 다시 돌발성 홍수로 타격을 입음",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78266",
+      "titleOriginal": "Finnish PM Petteri Orpo calls on EU to end tourist visa issuance to Russian citizens",
+      "url": "https://english.nv.ua/nation/finnish-pm-urges-europe-to-stop-issuing-tourist-visas-to-russians-50648879.html",
+      "lang": "en",
+      "publishedAt": "2026-10-11T06:24:27.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "핀란드 PM 페테리 오르포 (Petteri Orpo) 는 EU에 러시아 시민에 대한 관광 비자 발급을 중단할 것을 촉구합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45153",
+      "titleOriginal": "JUST IN - Russian Yandex data centre operations disrupted after drone strike",
+      "url": "https://insiderpaper.com/russian-yandex-data-centre-operations-disrupted-after-drone-strike/",
+      "lang": "en",
+      "publishedAt": "2026-10-11T06:21:08.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "JUST IN - 드론 공격 후 러시아 Yandex 데이터 센터 운영 중단",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78265",
+      "titleOriginal": "Armed, masked intruders enter Latvia from Belarus and carry out sabotage",
+      "url": "https://www.yahoo.com/news/world/articles/masked-armed-men-enter-latvia-224300672.html",
+      "lang": "en",
+      "publishedAt": "2026-10-11T04:14:26.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "무장한 가면을 쓴 침입자가 벨라루스에서 라트비아로 침입하여 사보타주를 수행합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91940",
+      "titleOriginal": "Scientists Find Squid Are Covered in Hair-Like Cells Remarkably Similar to The Ones in Human Ears",
+      "url": "https://www.sciencealert.com/scientists-find-squid-are-covered-in-hair-like-cells-remarkably-similar-to-the-ones-in-human-ears",
+      "lang": "en",
+      "publishedAt": "2026-10-11T02:55:29.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들은 오징어가 사람의 귀에 있는 것과 매우 유사한 털 같은 세포에 덮여 있다는 것을 발견했습니다",
+      "translated": true
+    },
     {
       "id": "sciencealert:91939",
       "titleOriginal": "Scientists Collected Deep-Sea Rocks. They Spontaneously Caught Fire in The Lab.",
@@ -1574,83 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "핀란드, 우크라이나에 긴급 방위 지원 물품 발송",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78215",
-      "titleOriginal": "Former UN human rights chief Navi Pillay wins the Nobel Peace Prize",
-      "url": "https://news.sky.com/story/former-un-human-rights-chief-navi-pillay-wins-the-nobel-peace-prize-13596724",
-      "lang": "en",
-      "publishedAt": "2026-10-09T11:24:19.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "나비 필레이 전 유엔 인권최고대표, 노벨 평화상 수상",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45141",
-      "titleOriginal": "NEW - Unbelievable footage shows a man escaping just seconds before a Russian drone strikes the spot where he was walking in Ukraine",
-      "url": "https://t.me/insiderpaper/45141",
-      "lang": "en",
-      "publishedAt": "2026-10-09T11:15:53.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "신규 - 믿을 수 없는 영상은 러시아 드론이 우크라이나에서 걷던 지점을 공격하기 불과 몇 초 전에 한 남성이 탈출하는 장면을 보여줍니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19338",
-      "titleOriginal": "A Russian MANPADS missile hit the roof of a confectionery store in Belgorod.",
-      "url": "https://t.me/wartranslated/19338",
-      "lang": "en",
-      "publishedAt": "2026-10-09T11:08:59.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아 MANPADS 미사일이 벨고로드의 과자점 지붕에 충돌했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19337",
-      "titleOriginal": "An attack is being reported right now on the Ukhta oil refinery in Russia's Komi Republic, owned by Lukoil, which can process about 4.2 million tons of oil per year.",
-      "url": "https://t.me/wartranslated/19337",
-      "lang": "en",
-      "publishedAt": "2026-10-09T11:07:29.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "연간 약 420만 톤의 석유를 처리할 수 있는 루코일이 소유한 러시아 코미 공화국의 우크타 정유소에 대한 공격이 보고되고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45140",
-      "titleOriginal": "JUST IN - Massive tornado tears through western Sicily in Marsala, sending multiple cars flying into the air",
-      "url": "https://t.me/insiderpaper/45140",
-      "lang": "en",
-      "publishedAt": "2026-10-09T10:55:19.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 마르살라의 서부 시칠리아를 관통하는 거대한 토네이도 눈물, 여러 대의 자동차가 공중으로 날아오르는 모습",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15578",
-      "titleOriginal": "Former UN human rights chief and International Court of Justice judge Navanethem “Navi” Pillay, 85, has won the 2026 Nobel Peace Prize for her contributions to international law and peace.",
-      "url": "https://t.me/trtworld/15578",
-      "lang": "en",
-      "publishedAt": "2026-10-09T10:25:38.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "전 UN 인권 수석 및 국제사법재판소 판사인 나바네헴 \"나비\" 필레이 (Navi \"Pillay, 85세) 는 국제법과 평화에 기여한 공로로 2026년 노벨 평화상을 수상했습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45139",
-      "titleOriginal": "Pakistan has 'substantial forces' deployed in Saudi Arabia: foreign ministry",
-      "url": "https://t.me/insiderpaper/45139",
-      "lang": "en",
-      "publishedAt": "2026-10-09T10:13:40.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "파키스탄은 사우디아라비아에 '상당한 병력' 을 배치했다: 외무부",
       "translated": true
     }
   ]
