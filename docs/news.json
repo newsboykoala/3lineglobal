@@ -1,8 +1,41 @@
 {
-  "updatedAt": "2026-10-10T22:49:45.711Z",
+  "updatedAt": "2026-10-11T01:34:59.277Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:91939",
+      "titleOriginal": "Scientists Collected Deep-Sea Rocks. They Spontaneously Caught Fire in The Lab.",
+      "url": "https://www.sciencealert.com/scientists-collected-deep-sea-rocks-they-spontaneously-caught-fire-in-the-lab",
+      "lang": "en",
+      "publishedAt": "2026-10-11T00:36:47.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들이 심해 암석을 수집했습니다. 그들은 실험실에서 자발적으로 불을 붙잡았습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78263",
+      "titleOriginal": "At least 12 killed and hundreds injured in Saudi Arabia airport missile strikes",
+      "url": "https://news.sky.com/share/13563284",
+      "lang": "en",
+      "publishedAt": "2026-10-10T23:29:37.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "사우디아라비아 공항 미사일 공격으로 최소 12명 사망 및 수백명 부상",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78262",
+      "titleOriginal": "Russian attack on Ukrainian city kills 20, a day after Trump eases diesel sanctions on Moscow",
+      "url": "https://www.reuters.com/business/aerospace-defense/russian-attack-ukraines-zaporizhzhia-kills-seven-governor-says-2026-10-10/",
+      "lang": "en",
+      "publishedAt": "2026-10-10T22:49:41.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나 도시에 대한 러시아의 공격으로 트럼프가 모스크바에 대한 디젤 제재를 완화 한 지 하루 만에 20 명이 사망했습니다",
+      "translated": true
+    },
     {
       "id": "theverge_news:9452",
       "titleOriginal": "Satya Nadella says we should assume all AI models are ‘compromised’",
@@ -1618,39 +1651,6 @@
       "source": "Insider Paper",
       "region": "속보",
       "title": "파키스탄은 사우디아라비아에 '상당한 병력' 을 배치했다: 외무부",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19333",
-      "titleOriginal": "Montenegro detained Mikhail Zvinchuk, founder of Z-channel Rybar and a former Russian defense ministry press officer, along with his wife and associates on October 9, local media report. The US offered a $10 million reward for him in 2024 o",
-      "url": "https://t.me/wartranslated/19333",
-      "lang": "en",
-      "publishedAt": "2026-10-09T10:01:43.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "현지 언론은 몬테네그로가 10월 9일 그의 아내와 동료들과 함께 Z채널 라이바의 설립자이자 전 러시아 국방부 언론 장교인 미하일 즈빈추크 (Mikhail Zvinchuk) 를 구금했다고 보도했다. 미국은 2024년에 그를 위해 $ 1,000만 달러의 보상을 제공했습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9421",
-      "titleOriginal": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "lang": "en",
-      "publishedAt": "2026-10-09T09:56:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "OpenAI는 AI 안전 연구원 3명을 해고하기로 한 결정을 2배로 낮춥니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78214",
-      "titleOriginal": "Yandex Takes a Second Data Center Hit in 48 Hours—Now Its Biggest Russian Site Is Damaged",
-      "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
-      "lang": "en",
-      "publishedAt": "2026-10-09T09:54:35.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "Yandex는 48시간 만에 두 번째 데이터 센터 공격을 받았으며 현재 러시아 최대 사이트가 손상되었습니다",
       "translated": true
     }
   ]
