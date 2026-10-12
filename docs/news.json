@@ -1,8 +1,52 @@
 {
-  "updatedAt": "2026-10-11T23:28:00.529Z",
+  "updatedAt": "2026-10-12T02:36:05.852Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78292",
+      "titleOriginal": "Carney says U.S.-Russia diesel supply deal hurts Ukraine peace cause",
+      "url": "https://www.ctvnews.ca/canada/article/carney-says-us-russia-diesel-supply-deal-hurts-ukraine-peace-cause-pmo/",
+      "lang": "en",
+      "publishedAt": "2026-10-12T02:14:16.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "Carney는 미국 - 러시아 디젤 공급 거래가 우크라이나 평화에 해를 끼친다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78291",
+      "titleOriginal": "Meta faces election interference accusations from Brazil's Lula da Silva; court gives company 48 hours to clarify",
+      "url": "https://www.hindustantimes.com/world-news/meta-faces-election-interference-accusations-from-brazils-lula-da-silva-court-gives-company-48-hours-to-clarify-101791711200783-amp.html",
+      "lang": "en",
+      "publishedAt": "2026-10-12T01:49:25.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "메타는 브라질의 룰라 다 실바 (Lula da Silva) 의 선거 간섭 비난에 직면해 있습니다. 법원은 회사에 48시간 동안 명확한 설명을 제공합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91949",
+      "titleOriginal": "Just 7 Days of Strength Training Starts Shrinking Fat Cells in Mice",
+      "url": "https://www.sciencealert.com/just-7-days-of-strength-training-starts-shrinking-fat-cells-in-mice",
+      "lang": "en",
+      "publishedAt": "2026-10-12T01:33:14.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "쥐의 지방 세포가 줄어들기 시작하는 단 7일간의 근력 훈련",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91948",
+      "titleOriginal": "An Earth-Sized Planet Could Survive With 2 Suns Just 16 Light-Years Away",
+      "url": "https://www.sciencealert.com/an-earth-sized-planet-could-survive-with-2-suns-just-16-light-years-away",
+      "lang": "en",
+      "publishedAt": "2026-10-12T00:58:24.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "지구 크기의 행성은 불과 16광년 떨어진 두 개의 태양으로 살아남을 수 있습니다",
+      "translated": true
+    },
     {
       "id": "worldnews:78290",
       "titleOriginal": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
@@ -1607,50 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "트럼프 대통령은 푸틴 대통령과 매우 «성공적인» 논의를 끝내고, 전 세계와 미국에 30만 톤 이상의 디젤 연료를 즉각적으로 공급하고, 11월 내내 50만 달러를 더한 다음 즉시 애노트를 공급하겠다고 발표했다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19373",
-      "titleOriginal": "Air defense near Moscow is whining over a wave of balloon-borne drone attacks, saying things are \"only going to get worse\" once Russians figure out \"this shit works\" and start launching them en masse.",
-      "url": "https://t.me/wartranslated/19373",
-      "lang": "en",
-      "publishedAt": "2026-10-10T08:39:50.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "모스크바 근처의 공중 방어는 러시아가 \"이 똥이 작동한다\" 고 파악하고 한꺼번에 발사하기 시작하면 상황이 \"더 악화 될 것\" 이라고 말하면서 풍선에 의한 드론 공격의 물결에 대해 징징 거리고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12396",
-      "titleOriginal": "Yemeni sources for Sky News Arabia: Dozens of deaths and injuries in ongoing clashes in the Strait of Bab al-Mandeb. https://yemen.liveuamap.com/en/2026/10-october-07-yemeni-sources-for-sky-news-arabia-dozens-of",
-      "url": "https://yemen.liveuamap.com/en/2026/10-october-07-yemeni-sources-for-sky-news-arabia-dozens-of",
-      "lang": "en",
-      "publishedAt": "2026-10-10T08:34:00.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "예멘 Sky News Arabia 소식통: Bab al-Mandeb 해협에서 계속되는 충돌로 인한 수십 명의 사망자와 부상. https://yemen.liveuamap.com/en/2026/10-october-07-yemeni-sources-for-sky-news-arabia-dozen",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45151",
-      "titleOriginal": "JUST IN - Officials in Taiwan say they believe China is practicing for a possible maritime blockade using overlapping military, paramilitary and civilian assets, Reuters reported",
-      "url": "https://t.me/insiderpaper/45151",
-      "lang": "en",
-      "publishedAt": "2026-10-10T08:24:10.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 대만 관리들은 중국이 군사, 준군사 및 민간 자산을 중첩하여 해상 봉쇄를 실시하고 있다고 밝혔다고 로이터 통신이 보도했다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15581",
-      "titleOriginal": "New York City police have released CCTV and bodycam footage showing the moment federal immigration officers opened fire on a Dominican man during an arrest in New York.",
-      "url": "https://t.me/trtworld/15581",
-      "lang": "en",
-      "publishedAt": "2026-10-10T07:42:42.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "뉴욕시 경찰은 뉴욕에서 체포된 연방 이민국 직원이 도미니카 남성에게 발포한 순간을 보여주는 CCTV와 바디캠 영상을 공개했습니다",
       "translated": true
     }
   ]
