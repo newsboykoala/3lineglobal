@@ -1,8 +1,206 @@
 {
-  "updatedAt": "2026-10-12T19:57:00.776Z",
+  "updatedAt": "2026-10-13T01:54:49.410Z",
   "count": 150,
-  "translatedCount": 147,
+  "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78312",
+      "titleOriginal": "Netanyahu seeks Saudi approval for Israeli strikes on Houthis in Yemen - report",
+      "url": "https://www.i24news.tv/en/news/israel/defense/artc-netanyahu-seeks-saudi-approval-for-israeli-strikes-on-houthis-in-yemen-report",
+      "lang": "en",
+      "publishedAt": "2026-10-13T00:44:39.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "네타냐후, 예멘 후티에 대한 이스라엘의 파업에 대해 사우디의 승인을 요청 - 보고서",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78311",
+      "titleOriginal": "NAZA: Netanyahu orders identification and prosecution of film’s interviewees",
+      "url": "https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film",
+      "lang": "en",
+      "publishedAt": "2026-10-13T00:34:20.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "NAZA: 네타냐후, 영화 인터뷰 대상자 신원 확인 및 기소 명령",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91955",
+      "titleOriginal": "Why Does IBD Keep Flaring Up? Scientists Found a Clue in The Gut Lining",
+      "url": "https://www.sciencealert.com/why-does-ibd-keep-flaring-up-scientists-found-a-clue-in-the-gut-lining",
+      "lang": "en",
+      "publishedAt": "2026-10-12T23:04:22.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "염증창자질환 (IBD) 이 계속 불타오르는 이유는 무엇인가요? 과학자들은 직감에서 실마리를 찾았습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45194",
+      "titleOriginal": "Sony patent hints at touchscreen PlayStation 6 controller",
+      "url": "https://insiderpaper.com/sony-patent-touchscreen-playstation-6-controller/",
+      "lang": "en",
+      "publishedAt": "2026-10-12T22:17:09.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "터치스크린 PlayStation 6 컨트롤러에 대한 Sony 특허 힌트",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45193",
+      "titleOriginal": "BREAKING: Man dies after falling from the Goliath roller coaster at Six Flags in Cobb County, Georgia",
+      "url": "https://t.me/insiderpaper/45193",
+      "lang": "en",
+      "publishedAt": "2026-10-12T21:43:20.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "브레이킹: 조지아주 콥 카운티의 식스 플래그스 (Six Flags) 에서 골리앗 롤러코스터에서 떨어진 후 사망",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9475",
+      "titleOriginal": "The Social Reckoning is flopping at the box office",
+      "url": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
+      "lang": "en",
+      "publishedAt": "2026-10-12T21:26:42.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "사회적 계산' 이 박스 오피스를 뒤흔들고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21900",
+      "titleOriginal": "NEW - Archbishop Timothy Broglio, who oversees the spiritual care of Catholic members of the U.S. armed forces, says that Catholics in U.S. Army must not participate in firing squad of Fort Hood shooter Nidal Hasan, that will be livestreame",
+      "url": "https://www.disclose.tv/id/mojiuxlw4b/",
+      "lang": "en",
+      "publishedAt": "2026-10-12T21:22:52.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "신규 - 미군 가톨릭 신자들의 영적 보살핌을 감독하는 티모시 브로글리오 대주교는 미군 가톨릭 신자들이 포트 후드 총격범 니달 하산의 사격대에 참여해서는 안 된다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45192",
+      "titleOriginal": "JUST IN - Trump says Putin wants to make a deal more than Zelensky",
+      "url": "https://t.me/insiderpaper/45192",
+      "lang": "en",
+      "publishedAt": "2026-10-12T21:20:43.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "JUST IN - 트럼프, 푸틴이 젤렌스키보다 더 많은 거래를 원한다고 말함",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45191",
+      "titleOriginal": "JUST IN - President Trump says he may meet North Korean leader Kim Jong Un during his Asia trip later this month",
+      "url": "https://t.me/insiderpaper/45191",
+      "lang": "en",
+      "publishedAt": "2026-10-12T21:11:00.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "JUST IN - 트럼프 대통령은 이달 말 아시아 순방 중 김정은 북한 국무위원장을 만날 수도 있다고 말했습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45190",
+      "titleOriginal": "JUST IN - Trump on Ilhan Omar: \"I understand they're looking at her very carefully. I've always found her to be totally crooked, personally... I have nothing to do with it.\"",
+      "url": "https://t.me/insiderpaper/45190",
+      "lang": "en",
+      "publishedAt": "2026-10-12T21:10:43.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "방금 - 일한 오마르에 대한 트럼프: \"나는 그들이 그녀를 매우 주의 깊게 보고 있다는 것을 이해합니다. 개인적으로는 항상 완전 삐뚤어진 걸로 알고 있는데……",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21899",
+      "titleOriginal": "NOW - Trump says that he thinks \"Putin wants to make a deal more than Zelensky.\"",
+      "url": "https://t.me/disclosetv/21899",
+      "lang": "en",
+      "publishedAt": "2026-10-12T21:10:38.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "이제 트럼프는 \"푸틴이 젤렌스키보다 더 많은 거래를 하고 싶다\" 고 생각한다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21898",
+      "titleOriginal": "NOW - Trump says that Russia and Ukraine \"agreed [to a ceasefire] because I said they agreed.\"",
+      "url": "https://t.me/disclosetv/21898",
+      "lang": "en",
+      "publishedAt": "2026-10-12T21:10:18.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "이제 트럼프는 러시아와 우크라이나가 \"내가 동의한다고 말했기 때문에 [휴전에] 동의했다\" 고 말한다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19446",
+      "titleOriginal": "Russian forces are also continuing to terrorise Kharkiv. A Russian strike caused an entire building entrance to collapse, and people may still be trapped beneath the debris.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-10-12T20:59:42.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아군도 하르키우를 계속 위협하고 있습니다. 러시아의 파업으로 건물 입구 전체가 붕괴되었고, 사람들은 여전히 잔해 아래에 갇혀있을 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21897",
+      "titleOriginal": "JUST IN - RJ Mitte, best known for playing Walter White's son in Breaking Bad, dead at 34 by suicide.",
+      "url": "https://www.disclose.tv/id/8nmk4a1iuc/",
+      "lang": "en",
+      "publishedAt": "2026-10-12T20:42:37.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "JUST IN - 브레이킹 배드에서 월터 화이트의 아들을 연기한 것으로 잘 알려진 RJ 미테가 자살로 34세에 사망했습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45189",
+      "titleOriginal": "JUST IN - “Breaking Bad” star RJ Mitte dies at 34",
+      "url": "https://insiderpaper.com/breaking-bad-actor-rj-mitte-suicide-dead/",
+      "lang": "en",
+      "publishedAt": "2026-10-12T20:27:18.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "JUST IN - \"Breaking Bad\" 스타 RJ Mitte, 34세로 사망",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45188",
+      "titleOriginal": "Bill Gates Warns of AI-Powered Cyberattacks and ‘Negative Surprises’ in the Next Year",
+      "url": "https://insiderpaper.com/bill-gates-warns-ai-could-bring-negative-surprises-within-a-year/",
+      "lang": "en",
+      "publishedAt": "2026-10-12T20:14:29.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "빌 게이츠, 내년 AI 기반 사이버 공격과 ‘네거티브 서프라이즈’ 경고",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19445",
+      "titleOriginal": "It was reported that Russian forces had struck a residential building in Kyiv in the evening. Fires were reported on the 12th to 16th floors, with cars in the courtyard also catching fire.",
+      "url": "https://t.me/wartranslated/19445",
+      "lang": "en",
+      "publishedAt": "2026-10-12T20:02:51.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아군이 저녁에 키예프의 주택가를 강타한 것으로 알려졌다. 12층부터 16층까지 화재가 발생했으며, 마당에도 차들이 불을 붙였다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78310",
+      "titleOriginal": "Zelensky Warns China Is Helping Russia Develop Starlink Rival",
+      "url": "https://www.kyivpost.com/post/86825",
+      "lang": "en",
+      "publishedAt": "2026-10-12T19:59:20.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "젤렌스키, 중국이 러시아의 스타링크 라이벌 개발을 돕고 있다고 경고",
+      "translated": true
+    },
     {
       "id": "insiderpaper:45187",
       "titleOriginal": "BREAKING: Actress Selma Blair has been arrested after allegedly attacking flight crew members aboard a Delta plane",
@@ -671,8 +869,8 @@
       "publishedAt": "2026-10-12T10:29:24.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "'Putin doesn't read Truth Social' says Zelenskyy following Russian strikes on power plant",
-      "translated": false
+      "title": "러시아의 발전소 파업 이후 젤렌스키는 '푸틴은 트루스 소셜을 읽지 않는다' 고 말한다",
+      "translated": true
     },
     {
       "id": "wartranslated:19436",
@@ -682,8 +880,8 @@
       "publishedAt": "2026-10-12T10:27:36.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "Peskov stated that Moscow did not support the proposal for a 60-day ceasefire to facilitate the organisation of elections in Ukraine.",
-      "translated": false
+      "title": "페스코프는 모스크바가 우크라이나 선거 조직을 촉진하기 위한 60일 휴전 제안을 지지하지 않는다고 밝혔다",
+      "translated": true
     },
     {
       "id": "insiderpaper:45170",
@@ -693,8 +891,8 @@
       "publishedAt": "2026-10-12T10:22:36.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "COUNTRIES THAT HAVE CONDEMNED THE HOUTHI ATTACK ON RIYADH AIRPORT IN SAUDI ARABIA — LIST",
-      "translated": false
+      "title": "사우디아라비아 리야드 공항에 대한 후티의 공격을 규탄한 국가 — 목록",
+      "translated": true
     },
     {
       "id": "insiderpaper:45169",
@@ -1453,204 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "국방장관 PM에 대한 공격 가능성 속에서 경계 태세를 취하고 있는 폴란드",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91945",
-      "titleOriginal": "Your Mouth's Bacteria May Be Linked to How Quickly You Think",
-      "url": "https://www.sciencealert.com/your-mouths-bacteria-may-be-linked-to-how-quickly-you-think",
-      "lang": "en",
-      "publishedAt": "2026-10-11T13:07:08.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "입안의 박테리아가 얼마나 빨리 생각하는지와 연결될 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9456",
-      "titleOriginal": "What to expect from Apple’s ‘Welcome Home’ event",
-      "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-      "lang": "en",
-      "publishedAt": "2026-10-11T13:02:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Apple의 ‘웰컴 홈‘ 이벤트에서 알아두어야 할 사항",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9457",
-      "titleOriginal": "Vurt wants you to look at vertical videos as a genre of their own",
-      "url": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
-      "lang": "en",
-      "publishedAt": "2026-10-11T13:02:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Vurt는 세로 동영상을 자신만의 장르로 보길 원합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78275",
-      "titleOriginal": "Kyiv pushes back on Trump’s call for a new Ukrainian president as drones hit Russian data hub",
-      "url": "https://www.cnbc.com/2026/10/11/kyiv-pushes-back-on-trumps-call-for-a-new-ukrainian-president.html",
-      "lang": "en",
-      "publishedAt": "2026-10-11T12:54:23.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "키예프는 드론이 러시아 데이터 허브를 강타하면서 새로운 우크라이나 대통령에 대한 트럼프의 요구에 반발하고 있다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19411",
-      "titleOriginal": "The \"Samara\" station was hit for the fourth time in October today, with 100% of its RVSPK-50000 tank farm and about 40% of its RVS-20000 tank farm now damaged or destroyed.",
-      "url": "https://t.me/wartranslated/19411",
-      "lang": "en",
-      "publishedAt": "2026-10-11T12:17:35.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "사마라\" 스테이션은 오늘 10월에 네 번째로 타격을 입었고, RVSPK-50000 탱크 농장의 100% 와 RVS-20000 탱크 농장의 약 40% 가 현재 손상되거나 파괴되었습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9455",
-      "titleOriginal": "Horror is big business",
-      "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
-      "lang": "en",
-      "publishedAt": "2026-10-11T12:01:15.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "공포는 큰 사업입니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9454",
-      "titleOriginal": "Why the LeapPad couldn’t survive the iPad",
-      "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
-      "lang": "en",
-      "publishedAt": "2026-10-11T12:01:13.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "LeapPad가 iPad에서 살아남지 못한 이유",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19410",
-      "titleOriginal": "Trump-Zelensky relations have sunk to their lowest point since their 2025 Oval Office blowup, WSJ reports, with Trump's harsh criticism now threatening 18 months of European efforts to keep the US backing Ukraine and pressuring Russia.",
-      "url": "https://www.wsj.com/world/trump-calls-on-ukraine-to-stop-hitting-russian-refineriesand-replace-zelensky-cc9bada8",
-      "lang": "en",
-      "publishedAt": "2026-10-11T12:00:33.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "WSJ는 트럼프-젤렌스키 관계가 2025년 오벌 오피스 붕괴 이후 가장 낮은 수준으로 가라앉았으며, 트럼프의 가혹한 비판은 현재 미국이 우크라이나를 지원하고 러시아를 압박하는 18개월간의 유럽 노력을 위협하고 있다고 보도했다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78274",
-      "titleOriginal": "Polish PM ‘target of assassination plot’",
-      "url": "https://www.telegraph.co.uk/world-news/2026/10/11/polish-pm-target-of-assassination-plot/?WT.mc_id=tmgoff_reddit_pm-target-of-assassination-plot/&amp;accesscontrol=facebookchannel_open",
-      "lang": "en",
-      "publishedAt": "2026-10-11T11:54:36.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "폴란드 PM ‘암살 음모의 대상",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15584",
-      "titleOriginal": "At least 109 migrants, including 15 children, died and around 116 remain missing after a boat capsized north of Obock, Djibouti, overnight between October 8 and 9, the International Organization for Migration (IOM) said on October 11.",
-      "url": "https://t.me/trtworld/15584",
-      "lang": "en",
-      "publishedAt": "2026-10-11T11:47:50.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "국제이주기구 (IOM) 는 10월 8일부터 9일까지 하룻밤 사이에 지부티 오복 북쪽에서 보트가 전복된 후 어린이 15명을 포함한 최소 109명의 이주민이 사망하고 약 116명이 실종됐다고 11일 밝혔다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78273",
-      "titleOriginal": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-      "url": "https://www.bbc.com/news/articles/cw33x4y8k82no",
-      "lang": "en",
-      "publishedAt": "2026-10-11T11:39:35.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "사우디아라비아 수도 리야드 공항 공격으로 12명 사망, 300명 부상",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78272",
-      "titleOriginal": "Russia has asked the Netherlands to hand over nine International Criminal Court (ICC) officials who were convicted in absentia last year.",
-      "url": "https://www.dutchnews.nl/2026/10/russia-wants-nl-to-hand-over-icc-judges/",
-      "lang": "en",
-      "publishedAt": "2026-10-11T11:34:41.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아는 네덜란드에 지난해 결석으로 유죄 판결을 받은 국제형사재판소 (ICC) 관계자 9명을 넘겨줄 것을 요청했다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78271",
-      "titleOriginal": "Neither Putin nor Trump wanted to hang up first, Kremlin aide says after 'very friendly' call",
-      "url": "https://www.reuters.com/world/neither-putin-nor-trump-wanted-hang-up-first-kremlin-aide-says-after-very-2026-10-10/",
-      "lang": "en",
-      "publishedAt": "2026-10-11T11:29:08.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "푸틴 대통령도 트럼프 대통령도 먼저 전화를 끊고 싶지 않았지만, 크렘린 보좌관은 '매우 우호적인' 통화 후 이렇게 말합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19409",
-      "titleOriginal": "Zelensky and his team are deeply shocked by Trump's latest moves, says Ukraine Context, adding the president hasn't posted a video address in three days.",
-      "url": "https://t.me/wartranslated/19409",
-      "lang": "en",
-      "publishedAt": "2026-10-11T11:03:15.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 맥락에 따르면 젤렌스키와 그의 팀은 트럼프의 최근 행보에 깊은 충격을 받았으며, 대통령은 3일 동안 동영상 주소를 게시하지 않았다고 덧붙였다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9453",
-      "titleOriginal": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "lang": "en",
-      "publishedAt": "2026-10-11T11:00:45.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "현지 AI 사용법을 배우는 것은 흥미롭고, 압도적이며, 좌절스럽습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19408",
-      "titleOriginal": "\"I've been thinking about renaming the Atlantic or Pacific Ocean the 'Trump Ocean' or the 'Ocean of the Americas,'\" Trump says.",
-      "url": "https://t.me/wartranslated/19408",
-      "lang": "en",
-      "publishedAt": "2026-10-11T10:48:43.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "트럼프 대통령은 \"나는 대서양이나 태평양의 이름을 '트럼프 오션' 또는 '아메리카 대륙의 바다' 로 바꾸는 것에 대해 생각해왔다\" 고 말했다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91944",
-      "titleOriginal": "New records could provide context to Trump's UFO file dumps",
-      "url": "https://www.unexplained-mysteries.com/news/400179/new-records-could-provide-context-to-trumps-ufo-file-dumps",
-      "lang": "en",
-      "publishedAt": "2026-10-11T10:26:55.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "새로운 기록은 트럼프의 UFO 파일 덤프에 맥락을 제공할 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91943",
-      "titleOriginal": "Scientists Gave People 2 Nearly Identical Meals. One Triggered Much More Insulin.",
-      "url": "https://www.sciencealert.com/scientists-gave-people-2-nearly-identical-meals-one-triggered-much-more-insulin",
-      "lang": "en",
-      "publishedAt": "2026-10-11T10:06:51.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "과학자들은 사람들에게 거의 동일한 식사 2개를 제공했습니다. 하나는 훨씬 더 많은 인슐린을 발동시켰다",
       "translated": true
     }
   ]
