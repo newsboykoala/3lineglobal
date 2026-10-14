@@ -1,8 +1,63 @@
 {
-  "updatedAt": "2026-10-14T00:55:43.474Z",
+  "updatedAt": "2026-10-14T05:53:28.584Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:91963",
+      "titleOriginal": "Partial Vision Restored in Some Blind Patients With New Experimental Treatment",
+      "url": "https://www.sciencealert.com/partial-vision-restored-in-some-blind-patients-with-new-experimental-treatment",
+      "lang": "en",
+      "publishedAt": "2026-10-14T02:37:40.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "새로운 실험 치료를 받은 일부 맹검 환자에서 부분 시력 회복",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78336",
+      "titleOriginal": "Officials Flagged a $580 Million Oil Bet Made Minutes Before Trump's Iran Reversal, Then Were Told to Back Off",
+      "url": "https://www.ibtimes.co.uk/cftc-insider-trading-referral-iran-oil-bet-1825415",
+      "lang": "en",
+      "publishedAt": "2026-10-14T02:29:35.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "관리들은 트럼프의 이란 반전 전에 몇 분 만에 $ 5억 8천만 달러의 석유 베팅을 신고한 다음 물러나라고 지시했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78335",
+      "titleOriginal": "Social platforms have 'responsibility' to block US execution live stream, Australian Prime Minister says",
+      "url": "https://www.abc.net.au/news/2026-10-13/anthony-albanese-us-execution-live-stream-social-media/107261442",
+      "lang": "en",
+      "publishedAt": "2026-10-14T02:14:28.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "호주 총리는 소셜 플랫폼은 미국 집행 라이브 스트림을 차단할 '책임' 이 있다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21906",
+      "titleOriginal": "NOW - Trump: \"If the Democrats win you will have a 1929-style economic depression... If the Republicans win, you will each receive $5,000 in your pocket... Just recently, I gave all members of our military $1,776, and everybody said that ca",
+      "url": "https://t.me/disclosetv/21906",
+      "lang": "en",
+      "publishedAt": "2026-10-14T01:48:56.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "지금 - 트럼프: \"민주당이 이기면 당신은 1929 스타일의 경제 불황을 가질 것입니다... 공화당이 이기면, 당신은 각각 당신의 주머니에 $ 5,000를 받게됩니다... 방금 최근에, 나는 우리 군대의 모든 구성원에게 $ 1,776을 주었고, 모두가 말했다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21905",
+      "titleOriginal": "NOW - Trump: \"Wait till you see what we do to Iran. We're gonna—we're gonna do a number. Wait till you see... We've had it.\"",
+      "url": "https://t.me/disclosetv/21905",
+      "lang": "en",
+      "publishedAt": "2026-10-14T01:42:41.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "지금 - 트럼프: \"우리가 이란에 무슨 짓을 하는지 볼 때까지 기다리세요. 우리는 숫자를 할 것입니다. 보실 때까지 기다리세요… 잘 먹었습니다",
+      "translated": true
+    },
     {
       "id": "worldnews:78334",
       "titleOriginal": "Meta Censors Over 1,080 Pro-Lula Accounts During Brazilian Presidential Election",
@@ -1596,61 +1651,6 @@
       "source": "Insider Paper",
       "region": "속보",
       "title": "속보: 여배우 셀마 블레어가 델타 여객기에 탑승한 승무원을 공격한 혐의로 체포되었습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78309",
-      "titleOriginal": "Hackers force French supermarket fridges to heat up to 50C in ‘unprecedented’ cyber-attack",
-      "url": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
-      "lang": "en",
-      "publishedAt": "2026-10-12T19:14:23.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "해커들은 프랑스 슈퍼마켓 냉장고를 ‘전례 없는‘ 사이버 공격으로 50°C까지 가열하도록 강요합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78308",
-      "titleOriginal": "Russia was not ready for the data center war it started with Ukraine",
-      "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-      "lang": "en",
-      "publishedAt": "2026-10-12T19:04:28.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아는 우크라이나에서 시작된 데이터 센터 전쟁에 대한 준비가되어 있지 않았습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45186",
-      "titleOriginal": "JUST IN - Russia says it delivered $320 billion worth of hydrocarbons to Europe since 2022",
-      "url": "https://t.me/insiderpaper/45186",
-      "lang": "en",
-      "publishedAt": "2026-10-12T19:02:42.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "방금 도착 - 러시아는 2022년부터 유럽에 3천2백억 달러 ($) 상당의 탄화수소를 공급했다고 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19444",
-      "titleOriginal": "FirePoint CEO Terekh: We have launched our own ballistic missile into Russian territory for the first time.",
-      "url": "https://t.me/wartranslated/19444",
-      "lang": "en",
-      "publishedAt": "2026-10-12T18:51:49.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "FirePoint CEO Terekh: 우리는 처음으로 러시아 영토에 자체 탄도 미사일을 발사했습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78307",
-      "titleOriginal": "NATO's top commander warns Russia that ‌his forces would destroy \"anything and everything\" involved in any attack if Moscow was \"foolish enough\" to launch an assault on alliance territory",
-      "url": "https://www.reuters.com/world/nato-general-sets-out-tough-military-response-any-foolish-russian-attack-2026-10-12/",
-      "lang": "en",
-      "publishedAt": "2026-10-12T18:19:27.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "나토의 최고 사령관은 모스크바가 동맹 영토에 대한 공격을 시작하기에 \"충분히 어리석다\" 면 자신의 군대가 모든 공격과 관련된 \"모든 것과 모든 것\" 을 파괴 할 것이라고 러시아에 경고합니다",
       "translated": true
     }
   ]
