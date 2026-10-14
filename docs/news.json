@@ -1,8 +1,85 @@
 {
-  "updatedAt": "2026-10-13T21:55:51.359Z",
+  "updatedAt": "2026-10-14T00:55:43.474Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78334",
+      "titleOriginal": "Meta Censors Over 1,080 Pro-Lula Accounts During Brazilian Presidential Election",
+      "url": "https://paydayreport.com/meta-censors-over-1-080-pro-lula-accounts-during-brazilian-presidential-election/",
+      "lang": "en",
+      "publishedAt": "2026-10-14T00:39:25.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "브라질 대통령 선거 기간 동안 1,080개 이상의 프로룰라 계정 메타 검열",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91962",
+      "titleOriginal": "Incredibly Creepy Video Shows You a Bee Stinger Like You've Never Seen It Before",
+      "url": "https://www.sciencealert.com/incredibly-creepy-video-shows-you-a-bee-stinger-like-youve-never-seen-it-before",
+      "lang": "en",
+      "publishedAt": "2026-10-14T00:17:44.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "믿을 수 없을 정도로 소름 끼치는 비디오는 당신이 전에 본 적이없는 것처럼 당신에게 꿀벌 침을 보여줍니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91961",
+      "titleOriginal": "Dogs Seem to Agree With Humans That 'Bouba' Is Round And 'Kiki' Is Spiky",
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "lang": "en",
+      "publishedAt": "2026-10-13T23:42:44.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "개들은 인간에게 '부바' 는 둥글고 '키키' 는 뾰족하다는 것에 동의하는 것 같습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45232",
+      "titleOriginal": "BREAKING: Federal agents investigating Rep. Ilhan Omar have issued subpoenas to her relatives as they look into whether her family provided false information in immigration documents, The New York Times reports.",
+      "url": "https://t.me/insiderpaper/45232",
+      "lang": "en",
+      "publishedAt": "2026-10-13T23:32:47.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 일한 오마르 의원을 조사하는 연방 요원들이 그녀의 가족이 이민 서류에 허위 정보를 제공했는지 여부를 조사하면서 친척들에게 소환장을 발급했다고 뉴욕 타임스가 보도했다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45231",
+      "titleOriginal": "BREAKING: Actress Selma Blair has been charged with two additional assault counts over allegedly kicking an officer and a nurse after being removed from a flight.",
+      "url": "https://t.me/insiderpaper/45231",
+      "lang": "en",
+      "publishedAt": "2026-10-13T23:21:53.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 여배우 셀마 블레어 (Selma Blair) 는 비행기에서 퇴장당한 후 장교와 간호사를 발로 차는 혐의로 두 번의 추가 폭행 혐의로 기소되었습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45230",
+      "titleOriginal": "Palantir CEO Warns AI Could Predict Your Next Move Before You Make It",
+      "url": "https://insiderpaper.com/louis-robson-interview-palantir-ceo-alex-karp/",
+      "lang": "en",
+      "publishedAt": "2026-10-13T22:23:48.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "Palantir CEO, 인공지능이 당신의 다음 행보를 예측할 수 있다고 경고",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9520",
+      "titleOriginal": "Apple’s HomeView ad is confusing to everyone except parents",
+      "url": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+      "lang": "en",
+      "publishedAt": "2026-10-13T22:16:03.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Apple의 HomeView 광고는 부모를 제외한 모든 사람들에게 혼란을 줍니다",
+      "translated": true
+    },
     {
       "id": "insiderpaper:45228",
       "titleOriginal": "JUST IN - The New York Post reports that Rep. Ilhan Omar’s staff helped change her birthdate in public records after her 2018 election to Congress, fueling allegations that she misrepresented her age to obtain US citizenship.",
@@ -1574,83 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "나토의 최고 사령관은 모스크바가 동맹 영토에 대한 공격을 시작하기에 \"충분히 어리석다\" 면 자신의 군대가 모든 공격과 관련된 \"모든 것과 모든 것\" 을 파괴 할 것이라고 러시아에 경고합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45185",
-      "titleOriginal": "BREAKING: Sean ‘Diddy’ Combs rushed out of prison to hospital with head injury, TMZ reports",
-      "url": "https://t.me/insiderpaper/45185",
-      "lang": "en",
-      "publishedAt": "2026-10-12T17:30:15.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: Sean ‘Diddy’ Combs는 감옥에서 머리 부상으로 병원으로 달려 갔다고 TMZ는보고합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45184",
-      "titleOriginal": "BREAKING - Iran denies involvement in incident at UK’s Fairford base: state media bit.ly/4jjap9j",
-      "url": "https://t.co/RFSAhhIyFB",
-      "lang": "en",
-      "publishedAt": "2026-10-12T17:10:50.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 이란, 영국 페어포드 기지 사건 연루 부인: 주 언론 bit.ly/4jjap9j",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9474",
-      "titleOriginal": "Meta has some Wonder Full new AI models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "lang": "en",
-      "publishedAt": "2026-10-12T17:01:03.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "메타에는 Wonder Full의 새로운 AI 모델이 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9473",
-      "titleOriginal": "Elon Musk has donated over $276 million to Republican midterm efforts",
-      "url": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
-      "lang": "en",
-      "publishedAt": "2026-10-12T16:56:13.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "일론 머스크는 공화당의 중기 노력에 2억 7,600만 달러 ($) 이상을 기부했습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91954",
-      "titleOriginal": "Bones, Liver, And Blood Fats All Shift Abruptly at Menopause, Huge Study Finds",
-      "url": "https://www.sciencealert.com/bones-liver-and-blood-fats-all-shift-abruptly-at-menopause-huge-study-finds",
-      "lang": "en",
-      "publishedAt": "2026-10-12T16:52:37.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "폐경이 되면 뼈, 간, 혈중 지방이 갑자기 변한다. 엄청난 연구 결과가 나왔다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78306",
-      "titleOriginal": "Lithuanian PM suggests Allies ask Ukraine to strike more Russian data centres",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/12/8057649/",
-      "lang": "en",
-      "publishedAt": "2026-10-12T16:49:40.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "리투아니아 PM은 연합군이 우크라이나에 러시아 데이터 센터를 더 공격하도록 요청할 것을 제안합니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21896",
-      "titleOriginal": "JUST IN - Diddy taken from federal prison due to a medical emergency involving a head injury.",
-      "url": "https://www.disclose.tv/id/h4fgx58r1j/",
-      "lang": "en",
-      "publishedAt": "2026-10-12T16:47:40.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "JUST IN - 머리 부상과 관련된 의료 응급 상황으로 인해 연방 교도소에서 수감된 디디",
       "translated": true
     }
   ]
