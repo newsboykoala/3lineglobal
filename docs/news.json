@@ -1,8 +1,96 @@
 {
-  "updatedAt": "2026-10-15T01:40:45.308Z",
+  "updatedAt": "2026-10-15T07:01:27.536Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "insiderpaper:45276",
+      "titleOriginal": "NEW: The US has drawn up new plans to strike Iran's energy and nuclear sites, potentially using the “mother of all bombs” (MOAB), the largest non-nuclear bomb in its arsenal, if Trump orders attacks to resume before or after the midterm ele",
+      "url": "https://t.me/insiderpaper/45276",
+      "lang": "en",
+      "publishedAt": "2026-10-15T06:35:48.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "신규: 미국은 이란의 에너지 및 핵 기지를 타격하기 위한 새로운 계획을 세웠으며, 잠재적으로 이란의 무기고에서 가장 큰 비핵 폭탄인 \"모든 폭탄의 어머니\" (MOAB) 를 사용하여 트럼프가 중간 선거 전후에 공격을 재개하도록 명령하는 경우",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78362",
+      "titleOriginal": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+      "url": "https://bbc.com/news/articles/c8wy9veedgygo",
+      "lang": "en",
+      "publishedAt": "2026-10-15T06:14:20.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "머스크는 미국 정부가 우크라이나 드론 속도 둔화의 배후에 있을 수 있다고 말한다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15599",
+      "titleOriginal": "Follow our Daily News Brief for Thursday, October 15th",
+      "url": "https://trt.world/c5b6",
+      "lang": "en",
+      "publishedAt": "2026-10-15T05:51:23.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "10월 15일 목요일 일일 뉴스 브리프를 팔로우하세요",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78361",
+      "titleOriginal": "Europe must accelerate the production of weapons to match Russia’s pace and adopt a “war-mode” mentality in its defence sector, warning that failure to do so would negatively impact Europe, says Polish Defence Minister",
+      "url": "https://www.euronews.com/2026/10/13/europe-must-switch-to-war-mode-defence-production-polish-defence-minister-says",
+      "lang": "en",
+      "publishedAt": "2026-10-15T04:59:42.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "유럽은 러시아의 속도에 맞게 무기의 생산을 가속화하고 방위 부문에서 \"전쟁 모드\" 정신을 채택해야하며, 그렇게하지 않으면 유럽에 부정적인 영향을 미칠 것이라고 폴란드 국방 장관은 말합니다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15598",
+      "titleOriginal": "A container ship and a dry bulk carrier have sunk near the Strait of Hormuz in the past 24 hours after being struck by projectiles in separate incidents, maritime officials said on Wednesday.",
+      "url": "https://t.me/trtworld/15598",
+      "lang": "en",
+      "publishedAt": "2026-10-15T04:49:39.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "지난 24 시간 동안 컨테이너 선박과 건식 벌크 캐리어가 별도의 사건으로 발사체에 맞은 후 호르무즈 해협 근처에서 침몰했다고 해양 관계자들이 수요일 밝혔다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78360",
+      "titleOriginal": "Brazil's Senate approves a shorter workweek in major win for Lula ahead of runoff",
+      "url": "https://www.newsday.com/news/nation/brazil-workweek-lula-flavio-bolsonaro-senate-y99823",
+      "lang": "en",
+      "publishedAt": "2026-10-15T04:14:20.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "브라질 상원은 룰라의 유출을 앞두고 주요 승리를 위해 짧은 주당 근무를 승인합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78358",
+      "titleOriginal": "Eutelsat stock surges 23% as is rumored to be a possible star link replacement for Ukraine",
+      "url": "https://www.reuters.com/business/eutelsat-shares-jump-ukraine-flags-curbs-starlink-military-grade-service-2026-10-14/",
+      "lang": "en",
+      "publishedAt": "2026-10-15T03:39:24.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나의 스타 링크 대체 가능성이 있다는 소문이 돌면서 유텔샛 재고가 23% 급증했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78357",
+      "titleOriginal": "Iranian attacks sink two ships in Strait of Hormuz",
+      "url": "https://www.washingtonpost.com/world/2026/10/14/iranian-attack-sinks-container-ship-strait-hormuz/",
+      "lang": "en",
+      "publishedAt": "2026-10-15T02:59:45.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "이란의 공격은 호르무즈 해협에서 두 척의 배를 침몰시킵니다",
+      "translated": true
+    },
     {
       "id": "insiderpaper:45275",
       "titleOriginal": "BREAKING: Brazil's Congress approves shorter workweek",
@@ -1563,94 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "교황 레오가 암 진단을 받고 폐엽이 제거되었다고 바티칸은 말합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19467",
-      "titleOriginal": "Zelenskyy stated that Russia struck CHP-4 in Kyiv without any warning from partners and is preparing new ballistic missile launches, despite Ukraine's support for the energy ceasefire. The military and emergency services are determining all",
-      "url": "http://patreon.com/c/WarTranslated",
-      "lang": "en",
-      "publishedAt": "2026-10-13T20:52:08.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키는 우크라이나의 에너지 정전 지원에도 불구하고 러시아가 파트너의 경고 없이 키예프에서 CHP-4를 공격했으며 새로운 탄도 미사일 발사를 준비하고 있다고 밝혔다. 군대와 응급 구조대가 모든",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19466",
-      "titleOriginal": "Twelve US senators have sent an open letter to Donald Trump demanding the cancellation of the diesel deal with the Russian Federation. The signatories include six Republicans and six Democrats. They called the agreement a \"betrayal of US al",
-      "url": "https://t.me/wartranslated/19466",
-      "lang": "en",
-      "publishedAt": "2026-10-13T20:47:54.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "미국 상원의원 12명이 도널드 트럼프에게 러시아와의 디젤 거래 취소를 요구하는 공개 서한을 보냈다. 서명국에는 공화당원 6명과 민주당원 6명이 포함되어 있습니다. 그들은 협정을 \"미국에 대한 배신\" 이라고 불렀습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9518",
-      "titleOriginal": "OpenAI employee arrested for allegedly planting recording device in its office",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-      "lang": "en",
-      "publishedAt": "2026-10-13T20:45:44.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "OpenAI 직원이 사무실에 녹음 장치를 설치한 혐의로 체포됨",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78331",
-      "titleOriginal": "EU advances Ukraine accession as Hungary lifts veto, paving way for Zelenskyy-Magyar meeting | Euronews",
-      "url": "https://www.euronews.com/2026/10/13/eu-advances-ukraine-accession-as-hungary-lifts-veto-paving-way-for-zelenskyy-magyar-meetin",
-      "lang": "en",
-      "publishedAt": "2026-10-13T20:44:27.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "헝가리가 거부권을 해제함에 따라 EU가 우크라이나 가입을 추진하여 젤렌스키-마갸르 회의를 위한 길을 열다 | Euronews",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91960",
-      "titleOriginal": "After 40 Years, Physicists Finally Observe The 'Energy Ladder' at Quantum Tipping Points",
-      "url": "https://www.sciencealert.com/after-40-years-physicists-finally-observe-the-energy-ladder-at-quantum-tipping-points",
-      "lang": "en",
-      "publishedAt": "2026-10-13T20:42:36.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "40년 후, 물리학자들은 마침내 양자 티핑 포인트에서 '에너지 사다리' 를 관찰합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19465",
-      "titleOriginal": "Today, the \"Central Asia - Center\" underground gas pipeline exploded in Russia's Penza Region. Following the explosion, a pillar of fire rose 70 meters into the air. The blast allegedly occurred due to a high-pressure rupture caused by a te",
-      "url": "https://t.me/wartranslated/19465",
-      "lang": "en",
-      "publishedAt": "2026-10-13T20:38:47.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "오늘 러시아 펜자 지역에서 \"중앙 아시아 - 센터\" 지하 가스 파이프라인이 폭발했습니다. 폭발 후, 불기둥이 70미터 공중으로 솟아올랐다. 폭발은 고압 파열로 인해 발생한 것으로 추정됩니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19464",
-      "titleOriginal": "Zelenskyy reported that the Russians struck the capital with ballistic missiles, hitting a high-rise residential building. There is also information about a strike on a combined heat and power plant, despite the so-called energy \"ceasefire.",
-      "url": "https://t.me/wartranslated/19464",
-      "lang": "en",
-      "publishedAt": "2026-10-13T20:34:29.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키는 러시아가 탄도 미사일로 수도를 강타하여 고층 주택 건물을 강타했다고 보고했다. 소위 에너지 \"휴전\" 에도 불구하고 열병합 발전소 파업에 대한 정보도 있습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45225",
-      "titleOriginal": "President Trump questions Rep. Ilhan Omar’s reported net worth, suggesting possible links to Minnesota fraud and demanding answers about her wealth.",
-      "url": "https://t.me/insiderpaper/45225",
-      "lang": "en",
-      "publishedAt": "2026-10-13T20:30:56.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "트럼프 대통령은 일한 오마르 (Ilhan Omar) 하원의원에게 미네소타 사기에 대한 링크를 제안하고 그녀의 재산에 대한 답변을 요구하면서 순자산에 대해 질문한다",
       "translated": true
     }
   ]
