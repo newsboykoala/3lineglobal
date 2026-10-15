@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-10-15T20:59:16.540Z",
+  "updatedAt": "2026-10-15T23:38:42.726Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "theverge_news:9592",
+      "titleOriginal": "Steam can now show game achievements in separate ‘sets’",
+      "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
+      "lang": "en",
+      "publishedAt": "2026-10-15T23:20:41.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "이제 Steam에서 게임 성과를 별도의 ‘세트‘ 로 표시할 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45303",
+      "titleOriginal": "BREAKING: Alleged shooter in Bend, Oregon elementary school shooting was 16 years old - CBS",
+      "url": "https://t.me/insiderpaper/45303",
+      "lang": "en",
+      "publishedAt": "2026-10-15T23:07:03.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "브레이킹: 오리건 주 벤드에서 총격범으로 추정되는 초등학교 총기 난사 사건의 나이는 16세 - CBS",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9591",
+      "titleOriginal": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "lang": "en",
+      "publishedAt": "2026-10-15T22:51:43.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "ChatGPT는 이제 Chrome 탭을 엿볼 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78382",
+      "titleOriginal": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump",
+      "url": "https://apnews.com/article/russia-ukraine-war-oil-refinery-attacks-resume-0071b4f3792c9912b977b0ee73505b18",
+      "lang": "en",
+      "publishedAt": "2026-10-15T22:44:19.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "젤렌스키가 트럼프에게 배신감을 느낀다고 말하면서 우크라이나는 휴전을 포기하고 러시아 정유 공장을 공격합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9590",
+      "titleOriginal": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "lang": "en",
+      "publishedAt": "2026-10-15T22:36:02.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "세가가 토탈 워: 쇼군 2 리마스터를 비참한 출시 이후 판매 중단",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78381",
+      "titleOriginal": "It is crucial to give Ukraine all the means it needs ​to defend and protect ​its civilian population and its ⁠infrastructure, says France's President Macron",
+      "url": "https://www.reuters.com/business/aerospace-defense/crucial-give-ukraine-all-means-needed-defend-population-infrastructure-frances-2026-10-15/",
+      "lang": "en",
+      "publishedAt": "2026-10-15T22:14:35.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "프랑스의 마크롱 대통령은 우크라이나가 민간인과 인프라를 방어하고 보호하는 데 필요한 모든 수단을 제공하는 것이 중요하다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91979",
+      "titleOriginal": "One Common Eating Habit Is Linked to Higher Risk of 2 Liver Diseases",
+      "url": "https://www.sciencealert.com/one-common-eating-habit-is-linked-to-higher-risk-of-2-liver-diseases",
+      "lang": "en",
+      "publishedAt": "2026-10-15T22:08:58.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "한 가지 일반적인 식사 습관은 두 가지 간 질환의 위험이 높은 것과 관련이 있습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45302",
+      "titleOriginal": "BREAKING: Multiple people dead in Oregon elementary school mass shooting - police",
+      "url": "https://t.me/insiderpaper/45302",
+      "lang": "en",
+      "publishedAt": "2026-10-15T21:51:44.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "브레이킹: 오리건 초등학교 대량 총격 사건으로 다수의 사망자 발생 - 경찰",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45301",
+      "titleOriginal": "BREAKING - Shooter in Oregon school attack is dead: police",
+      "url": "https://t.me/insiderpaper/45301",
+      "lang": "en",
+      "publishedAt": "2026-10-15T21:46:51.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보 - 오리건주 총격범 학교 공격 사망: 경찰",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45300",
+      "titleOriginal": "JUST IN - President Trump did not order any restrictions on Ukraine’s access to SpaceX’s Starshield satellite technology, a senior US official said, Bloomberg reports",
+      "url": "https://t.me/insiderpaper/45300",
+      "lang": "en",
+      "publishedAt": "2026-10-15T21:44:17.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "미국 고위 관리는 트럼프 대통령이 우크라이나의 스페이스X의 스타쉴드 위성 기술에 대한 접근 제한을 명령하지 않았다고 블룸버그 통신이 보도했다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9589",
+      "titleOriginal": "The tech backlash is now in theaters",
+      "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "lang": "en",
+      "publishedAt": "2026-10-15T21:40:55.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "기술적 반발이 이제 극장에 나타났습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9588",
+      "titleOriginal": "Trump posts AI-edited photo to brag about White House restoration work",
+      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "lang": "en",
+      "publishedAt": "2026-10-15T21:11:52.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "트럼프는 백악관 복원 작업에 대해 자랑하기 위해 AI 편집 사진을 게시합니다",
+      "translated": true
+    },
     {
       "id": "sciencealert:91978",
       "titleOriginal": "Scientists Uncover D. Rex: Gigantic New 'King' Fungus From China Traces Its Roots to 65 Million Years",
@@ -1519,138 +1651,6 @@
       "source": "Insider Paper",
       "region": "속보",
       "title": "속보: 플로이드 메이웨더 (Floyd Mayweather) 가 오늘 도널드 트럼프 (Donald Trump) 와 함께 여행 중",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9555",
-      "titleOriginal": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
-      "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
-      "lang": "en",
-      "publishedAt": "2026-10-14T20:07:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Microsoft와 일본은 10억 개가 넘는 사기 메시지 뒤에 있는 사이버 범죄 네트워크를 무너뜨렸습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19478",
-      "titleOriginal": "Elon Musk replied to Mykhailo Fedorov that he did not influence decisions regarding high-speed restrictions on Starshield.",
-      "url": "https://t.me/wartranslated/19478",
-      "lang": "en",
-      "publishedAt": "2026-10-14T19:35:11.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "Elon Musk는 Mykhailo Fedorov에게 Starshield의 고속 제한과 관련된 결정에 영향을 미치지 않는다고 대답했습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9554",
-      "titleOriginal": "The AI race is back on",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "lang": "en",
-      "publishedAt": "2026-10-14T19:12:01.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "AI 경쟁이 다시 시작됩니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9553",
-      "titleOriginal": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "lang": "en",
-      "publishedAt": "2026-10-14T18:51:42.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Character.AI가 파산하면 모든 사용자의 데이터는 어떻게 됩니까?",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91968",
-      "titleOriginal": "Healthy Coral Reversed Bleaching in Its Neighbor With Just 1 Week of Contact",
-      "url": "https://www.sciencealert.com/healthy-coral-reversed-bleaching-in-its-neighbor-with-just-1-week-of-contact",
-      "lang": "en",
-      "publishedAt": "2026-10-14T18:48:13.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "1주일간의 접촉만으로 이웃에서 건강한 산호 역 표백",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9552",
-      "titleOriginal": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
-      "url": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
-      "lang": "en",
-      "publishedAt": "2026-10-14T18:42:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "TV 애호가로서 저는 Apple TV 4K에서 더 많은 것을 기대하고 있었습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45263",
-      "titleOriginal": "JUST IN - Ukraine’s former defense minister Mykhailo Fedorov says Starlink connectivity is being restored at speeds of up to 160 km/h",
-      "url": "https://t.me/insiderpaper/45263",
-      "lang": "en",
-      "publishedAt": "2026-10-14T18:38:44.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 우크라이나의 전 국방부 장관 Mykhailo Fedorov는 Starlink 연결이 최대 160km/h의 속도로 복원되고 있다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9550",
-      "titleOriginal": "Save up to 20 percent on gift cards for REI, Barnes & Noble, and more",
-      "url": "https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale",
-      "lang": "en",
-      "publishedAt": "2026-10-14T18:25:41.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "REI, Barnes & Noble 등을 위한 기프트 카드 최대 20% 할인",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9551",
-      "titleOriginal": "YouTube sticks new labels on AI-generated songs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-      "lang": "en",
-      "publishedAt": "2026-10-14T18:25:41.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "YouTube는 AI로 생성된 노래에 새로운 레이블을 붙입니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78354",
-      "titleOriginal": "Zelensky says he feels betrayed over Trump-Russia deal",
-      "url": "https://kyivindependent.com/zelensky-says-he-feels-betrayed-over-trump-russia-deal/",
-      "lang": "en",
-      "publishedAt": "2026-10-14T18:24:13.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "젤렌스키는 트럼프-러시아 거래에 대해 배신감을 느낀다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45261",
-      "titleOriginal": "JUST IN - Zelensky says he feels betrayed by Trump diesel deal with Russia: interview with Piers Morgan",
-      "url": "https://t.me/insiderpaper/45261",
-      "lang": "en",
-      "publishedAt": "2026-10-14T17:59:46.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - Zelensky는 러시아와의 트럼프 디젤 거래에 배신감을 느낀다고 말합니다: Piers Morgan과의 인터뷰",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78353",
-      "titleOriginal": "FBI Director Patel visits in Russia",
-      "url": "https://en.apa.az/cis-countries/fbi-director-patel-visits-in-russia-530089",
-      "lang": "en",
-      "publishedAt": "2026-10-14T17:59:24.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "파텔 FBI 국장 러시아 방문",
       "translated": true
     }
   ]
