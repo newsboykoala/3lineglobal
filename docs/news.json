@@ -1,8 +1,63 @@
 {
-  "updatedAt": "2026-10-14T23:08:42.209Z",
+  "updatedAt": "2026-10-15T01:40:45.308Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "insiderpaper:45275",
+      "titleOriginal": "BREAKING: Brazil's Congress approves shorter workweek",
+      "url": "https://t.me/insiderpaper/45275",
+      "lang": "en",
+      "publishedAt": "2026-10-15T01:11:32.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "브레이킹: 브라질 의회, 짧은 주당 근무 승인",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91971",
+      "titleOriginal": "Creatine Could Protect The Brain From Gut Inflammation",
+      "url": "https://www.sciencealert.com/creatine-could-protect-the-brain-from-gut-inflammation",
+      "lang": "en",
+      "publishedAt": "2026-10-15T00:48:46.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "크레아틴이 장 염증으로부터 뇌를 보호할 수 있음",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45274",
+      "titleOriginal": "Man Who Survived Cancer Twice, Severe COVID-19 and Fiery Car Crash Dies in Six Flags Roller Coaster Fall",
+      "url": "https://insiderpaper.com/cancer-survivor-dies-in-six-flags-roller-coaster-fall/",
+      "lang": "en",
+      "publishedAt": "2026-10-15T00:35:00.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "암에서 두 번, 심한 코로나19와 불길에 휩싸인 자동차 사고에서 살아남은 남성, 6개의 깃발로 롤러코스터 추락 사망",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45273",
+      "titleOriginal": "DRAMATIC RESCUE: Video shows woman being pulled to safety after being swept away by powerful floodwaters in Istanbul, Turkey",
+      "url": "https://t.me/insiderpaper/45273",
+      "lang": "en",
+      "publishedAt": "2026-10-15T00:17:23.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "극적인 구조: 터키 이스탄불에서 강력한 홍수 물에 휩쓸려 안전한 곳으로 끌려가는 여성의 모습을 담은 동영상",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45272",
+      "titleOriginal": "BREAKING: Trump administration building case to strip Ilhan Omar of U.S. citizenship — WSJ",
+      "url": "https://t.me/insiderpaper/45272",
+      "lang": "en",
+      "publishedAt": "2026-10-14T23:30:00.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 일한 오마르의 미국 시민권을 박탈하기 위한 트럼프 행정부 구축 사례 — WSJ",
+      "translated": true
+    },
     {
       "id": "theverge_news:9558",
       "titleOriginal": "McKinsey is making job applicants spar with a fake AI client",
@@ -1596,61 +1651,6 @@
       "source": "Insider Paper",
       "region": "속보",
       "title": "트럼프 대통령은 일한 오마르 (Ilhan Omar) 하원의원에게 미네소타 사기에 대한 링크를 제안하고 그녀의 재산에 대한 답변을 요구하면서 순자산에 대해 질문한다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12423",
-      "titleOriginal": "Zelensky: Russian ballistic missiles targeted Kyiv's TPP-4 (TEC-4) power plant. Russia has no intention of complying with Trump's proposals https://liveuamap.com/en/2026/13-october-20-zelensky-russian-ballistic-missiles-targeted",
-      "url": "https://liveuamap.com/en/2026/13-october-20-zelensky-russian-ballistic-missiles-targeted",
-      "lang": "en",
-      "publishedAt": "2026-10-13T20:26:52.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "젤렌스키: 러시아 탄도 미사일이 키예프의 TPP-4 (TEC-4) 발전소를 겨냥했습니다. 러시아는 트럼프의 제안을 따를 의도가 없다 https://liveuamap.com/en/2026/13-october-20-zelensky-russian-ballistic-missiles-target",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21904",
-      "titleOriginal": "JUST IN - Pope Leo XIV has lung cancer, the Vatican says, after surgeons removed the lower lobe of his right lung in a 90-minute operation it called successful with no complications.",
-      "url": "https://www.disclose.tv/id/bl9p1s159n/",
-      "lang": "en",
-      "publishedAt": "2026-10-13T20:20:43.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "바로 들어가기 - 교황 레오 14세는 폐암에 걸렸다고 바티칸은 말합니다. 외과의들이 90분간의 수술에서 오른쪽 폐의 하부 엽을 제거한 후 합병증 없이 성공했다고 합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78330",
-      "titleOriginal": "Loud booms heard near Saudi Aramco headquarters in Dhahran, sources say",
-      "url": "https://www.reuters.com/world/middle-east/loud-booms-heard-near-saudi-aramco-headquarters-dhahran-sources-say-2026-10-13/",
-      "lang": "en",
-      "publishedAt": "2026-10-13T20:19:29.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "다란의 사우디아라비아 아람코 본사 근처에서 큰 붐 소리가 들렸다고 소식통이 전했다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9517",
-      "titleOriginal": "It looks like Apple Music is getting a new icon",
-      "url": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
-      "lang": "en",
-      "publishedAt": "2026-10-13T20:07:03.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Apple Music에 새로운 아이콘이 추가된 것 같습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45224",
-      "titleOriginal": "JUST IN - President Trump shared video of a tiger killing man inside a zoo enclosure, with the message: “Don’t ever mess with nature! President DJT”",
-      "url": "https://t.me/insiderpaper/45224",
-      "lang": "en",
-      "publishedAt": "2026-10-13T20:02:34.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 트럼프 대통령이 동물원 내부에서 호랑이가 사람을 죽이는 장면을 담은 동영상을 공유했습니다. \"자연을 절대로 건드리지 마세요! DJT 대통령\" 이라는 메시지와 함께 말이죠",
       "translated": true
     }
   ]
