@@ -1,8 +1,85 @@
 {
-  "updatedAt": "2026-10-16T03:22:32.089Z",
+  "updatedAt": "2026-10-16T08:25:28.866Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "wartranslated:19502",
+      "titleOriginal": "A drone attack is reportedly underway in Vladimir, with Russian air defense actively engaged. A possible strike on a Yandex data center there is also being reported.",
+      "url": "https://t.me/wartranslated/19502",
+      "lang": "en",
+      "publishedAt": "2026-10-16T08:23:21.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "블라디미르에서 드론 공격이 진행 중이며 러시아의 방공이 활발히 이루어지고 있는 것으로 알려졌다. Yandex 데이터 센터에 대한 공격 가능성도 보고되고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19499",
+      "titleOriginal": "Explosions were heard in the Moscow region overnight.",
+      "url": "https://t.me/wartranslated/19499",
+      "lang": "en",
+      "publishedAt": "2026-10-16T08:17:35.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "밤새 모스크바 지역에서 폭발음이 들렸다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19498",
+      "titleOriginal": "The Ryazan refinery got hit again overnight, reportedly, with the fire still raging after burning all night.",
+      "url": "https://t.me/wartranslated/19498",
+      "lang": "en",
+      "publishedAt": "2026-10-16T08:16:29.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "랴잔 정유 공장은 밤새 불타고 난 뒤에도 여전히 불길이 치솟고 있는 것으로 알려졌다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78387",
+      "titleOriginal": "Ukrаinian drоnes reportedly strike Yаndeх dаta center, wаrehouses in overnight attаck on Russiа",
+      "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-yandex-data-center-warehouses-in-overnight-attack-on-russia/",
+      "lang": "ru",
+      "publishedAt": "2026-10-16T07:24:16.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나 드론이 러시아에서 하룻밤 사이에 얀데흐 다타 센터, 와레하우스를 공격했다고 합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78386",
+      "titleOriginal": "US president Donald Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’",
+      "url": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace",
+      "lang": "en",
+      "publishedAt": "2026-10-16T07:04:33.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "도널드 트럼프 미국 대통령이 우크라이나의 러시아 정유공장 파업 재개를 ‘수치‘ 로 규정하고 있다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15606",
+      "titleOriginal": "At least five people have been killed and 16 others wounded when the Houthi militia targeted the Al-Maashiq Presidential Palace in the Yemeni interim capital of Aden with ballistic missiles, according to Yemen's health minister.",
+      "url": "https://t.me/trtworld/15606",
+      "lang": "en",
+      "publishedAt": "2026-10-16T06:08:01.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "예멘 보건부 장관에 따르면 후티 민병대가 예멘 임시 수도 아덴의 알 마아시크 대통령궁을 탄도 미사일로 겨냥했을 때 최소 5명이 사망하고 16명이 부상당했다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45311",
+      "titleOriginal": "BREAKING: Japan’s Meteorological Agency issued an earthquake early warning showing magnitude 9.9 before canceling it minutes later. USGS measured the quake at 6.9",
+      "url": "https://t.me/insiderpaper/45311",
+      "lang": "en",
+      "publishedAt": "2026-10-16T04:13:36.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 일본 기상청은 지진 조기 경보를 발령했으며, 조기 경보를 발령한 지 몇 분 만에 취소했습니다. USGS는 6.9에서 지진을 측정했습니다",
+      "translated": true
+    },
     {
       "id": "worldnews:78384",
       "titleOriginal": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path",
@@ -1574,83 +1651,6 @@
       "source": "Insider Paper",
       "region": "속보",
       "title": "암에서 두 번, 심한 코로나19와 불길에 휩싸인 자동차 사고에서 살아남은 남성, 6개의 깃발로 롤러코스터 추락 사망",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45273",
-      "titleOriginal": "DRAMATIC RESCUE: Video shows woman being pulled to safety after being swept away by powerful floodwaters in Istanbul, Turkey",
-      "url": "https://t.me/insiderpaper/45273",
-      "lang": "en",
-      "publishedAt": "2026-10-15T00:17:23.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "극적인 구조: 터키 이스탄불에서 강력한 홍수 물에 휩쓸려 안전한 곳으로 끌려가는 여성의 모습을 담은 동영상",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45272",
-      "titleOriginal": "BREAKING: Trump administration building case to strip Ilhan Omar of U.S. citizenship — WSJ",
-      "url": "https://t.me/insiderpaper/45272",
-      "lang": "en",
-      "publishedAt": "2026-10-14T23:30:00.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 일한 오마르의 미국 시민권을 박탈하기 위한 트럼프 행정부 구축 사례 — WSJ",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9558",
-      "titleOriginal": "McKinsey is making job applicants spar with a fake AI client",
-      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-      "lang": "en",
-      "publishedAt": "2026-10-14T23:00:50.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "맥킨지 (McKinsey) 는 가짜 AI 클라이언트와 함께 구직자를 스파링하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45271",
-      "titleOriginal": "Researchers discover ‘rogue’ Chinese AI agents — Then the bots start talking back",
-      "url": "https://bit.ly/4zyxutE",
-      "lang": "en",
-      "publishedAt": "2026-10-14T22:54:12.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "연구원들이 ‘불량‘ 중국 AI 요원 발견 — 그런 다음 봇이 다시 말하기 시작함",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45270",
-      "titleOriginal": "JUST IN — Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana have all sued OpenAI in their own state courts, alleging that the artificial intelligence company’s ChatGPT chatbot is an unsafe product that has harmed ",
-      "url": "https://t.me/insiderpaper/45270",
-      "lang": "en",
-      "publishedAt": "2026-10-14T22:36:59.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "방금 — 아이오와, 캔자스, 네브래스카, 웨스트 버지니아, 아칸소, 애리조나, 아이다호 및 몬태나 주 법원에서 OpenAI를 고소하여 인공 지능 회사의 ChatGPT 챗봇이 해를 끼친 안전하지 않은 제품이라고 주장했습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78356",
-      "titleOriginal": "Musk Says US Military and Trump Decide Starshield Limits as Zelensky Accuses Russia of Exploiting Outage",
-      "url": "https://www.kyivpost.com/post/87085",
-      "lang": "en",
-      "publishedAt": "2026-10-14T22:14:21.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "머스크는 Zelensky가 러시아의 정전 악용을 비난함에 따라 미군과 트럼프가 Starshield 한계를 결정한다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45269",
-      "titleOriginal": "NOW - Floyd Mayweather: \"We couldn’t have chosen a better president twice than Donald Trump\"",
-      "url": "https://t.me/insiderpaper/45269",
-      "lang": "en",
-      "publishedAt": "2026-10-14T22:10:18.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "지금 - 플로이드 메이웨더: \"우리는 도널드 트럼프보다 더 나은 대통령을 두 번 선택할 수 없었습니다",
       "translated": true
     }
   ]
