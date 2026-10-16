@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-10-15T23:38:42.726Z",
+  "updatedAt": "2026-10-16T03:22:32.089Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78384",
+      "titleOriginal": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path",
+      "url": "https://apnews.com/article/canada-alberta-carney-separation-vote-referendum-4e39eb0f5bda2438b3c2fedbf6088d09",
+      "lang": "en",
+      "publishedAt": "2026-10-16T03:09:17.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "마크 카니 (Mark Carney) 총리는 앨버타가 분리 경로에 투표함에 따라 미국이 캐나다를 파괴하려고 노력하고 있다고 말했습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91981",
+      "titleOriginal": "A Simple New Chip Could Spot Signs of Alien Life. It's Already Passed Its First Test.",
+      "url": "https://www.sciencealert.com/a-simple-new-chip-could-spot-signs-of-alien-life-its-already-passed-its-first-test",
+      "lang": "en",
+      "publishedAt": "2026-10-16T02:52:54.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "간단한 새 칩이 외계 생명의 징후를 발견할 수 있습니다. 이미 첫 번째 테스트를 통과했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9593",
+      "titleOriginal": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+      "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+      "lang": "en",
+      "publishedAt": "2026-10-16T01:35:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "테슬라 로드스터가 날고, 거꾸로 운전하고, 1초 이내에 60mph를 쳤습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45310",
+      "titleOriginal": "NOW - Tesla Roadster defies gravity with an incredible kickflip over a lineup of Tesla vehicles.",
+      "url": "https://t.me/insiderpaper/45310",
+      "lang": "en",
+      "publishedAt": "2026-10-16T01:22:04.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "이제 테슬라 로드스터는 테슬라 차량 라인업을 뛰어넘는 놀라운 킥플립으로 중력을 거스릅니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45309",
+      "titleOriginal": "BREAKING 🚨 🚨 ELON MUSK JUST UNVEILED A FLYING CAR = TESLA ROADSTER",
+      "url": "https://t.me/insiderpaper/45309",
+      "lang": "en",
+      "publishedAt": "2026-10-16T01:16:25.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "브레이킹 🚨 🚨 일론 머스크가 방금 공개한 하늘을 나는 자동차 = 테슬라 로드스터",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45308",
+      "titleOriginal": "JUST IN - 3 children ages 5, 8 and 11 and a teacher were killed in Bend, Oregon, elementary school shooting, police say - AP",
+      "url": "https://t.me/insiderpaper/45308",
+      "lang": "en",
+      "publishedAt": "2026-10-16T01:03:18.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "JUST IN - 5세, 8세, 11세 어린이 3명과 오리건주 벤드에서 교사가 사망했다고 초등학교 총격 사건, 경찰이 말함 - AP",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45307",
+      "titleOriginal": "BREAKING: Officer-involved shooting reported in downtown Portland, Oregon",
+      "url": "https://t.me/insiderpaper/45307",
+      "lang": "en",
+      "publishedAt": "2026-10-16T00:58:18.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "브레이킹: 오리건주 포틀랜드 시내에서 장교 연루 총격 사건이 보고됨",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45306",
+      "titleOriginal": "WATCH: Wild ‘ramp’ venue revealed for Tesla’s highly anticipated next-gen Roadster unveiling event",
+      "url": "https://t.me/insiderpaper/45306",
+      "lang": "en",
+      "publishedAt": "2026-10-16T00:45:47.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "시청: 테슬라의 매우 기대되는 차세대 로드스터 공개 이벤트를 위해 공개된 와일드 ‘램프’ 장소",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91980",
+      "titleOriginal": "Millions of Americans Use Cannabis to Help Them Sleep. It Could Be Doing The Opposite.",
+      "url": "https://www.sciencealert.com/millions-of-americans-use-cannabis-to-help-them-sleep-it-could-be-doing-the-opposite",
+      "lang": "en",
+      "publishedAt": "2026-10-16T00:28:34.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "수백만 명의 미국인이 대마초를 사용하여 수면을 돕습니다. 반대로 하는 것일 수도 있습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45305",
+      "titleOriginal": "BREAKING - Trump on Rep. Ilhan Omar: “She comes from a country that’s nothing, no leaders.. all they do is shoot each other all day long, and rob ships”",
+      "url": "https://t.me/insiderpaper/45305",
+      "lang": "en",
+      "publishedAt": "2026-10-16T00:24:41.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보 - 일한 오마르 하원의원의 트럼프: “그녀는 아무것도 아닌 나라에서 왔고, 지도자도 없고.. 그들이 하는 일은 하루 종일 서로를 쏘고, 배를 강탈하는 것뿐입니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78383",
+      "titleOriginal": "Order to limit Starshield for Ukraine came from inside White House, sources say",
+      "url": "https://www.reuters.com/world/europe/order-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15/",
+      "lang": "en",
+      "publishedAt": "2026-10-16T00:19:20.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "소식통에 따르면 우크라이나에 대한 스타쉴드 제한 명령은 백악관 내부에서 내려온 것이라고 한다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45304",
+      "titleOriginal": "NEW: OpenAI is warning employees to beware of foreign spies who could use romance and seduction to steal the company’s AI secrets — WSJ",
+      "url": "https://t.me/insiderpaper/45304",
+      "lang": "en",
+      "publishedAt": "2026-10-16T00:16:15.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "새로운 기능: OpenAI는 직원들에게 회사의 AI 비밀을 훔치기 위해 낭만과 유혹을 사용할 수 있는 외국 스파이를 조심하라고 경고하고 있습니다 — WSJ",
+      "translated": true
+    },
     {
       "id": "theverge_news:9592",
       "titleOriginal": "Steam can now show game achievements in separate ‘sets’",
@@ -1519,138 +1651,6 @@
       "source": "Insider Paper",
       "region": "속보",
       "title": "지금 - 플로이드 메이웨더: \"우리는 도널드 트럼프보다 더 나은 대통령을 두 번 선택할 수 없었습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9557",
-      "titleOriginal": "The best feature of Apple’s HomeView might be its simplicity",
-      "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
-      "lang": "en",
-      "publishedAt": "2026-10-14T22:01:52.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Apple HomeView의 가장 큰 특징은 단순성일 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91970",
-      "titleOriginal": "A Rock Dragged 90 Km Into Earth Came Back With a Temperature Story That Breaks The Models",
-      "url": "https://www.sciencealert.com/a-rock-dragged-90-km-into-earth-came-back-with-a-temperature-story-that-breaks-the-models",
-      "lang": "en",
-      "publishedAt": "2026-10-14T21:48:11.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "모델을 깨뜨리는 온도 이야기와 함께 지구로 90Km 끌려간 바위가 돌아왔다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45267",
-      "titleOriginal": "JUST IN - Elon Musk’s companies Tesla Inc. and SpaceX could be merge before December 6, according to analysts at Barclays",
-      "url": "https://t.me/insiderpaper/45267",
-      "lang": "en",
-      "publishedAt": "2026-10-14T21:46:02.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - Barclays의 애널리스트에 따르면 Elon Musk의 회사 Tesla Inc. 와 SpaceX는 12 월 6 일 이전에 합병 될 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78355",
-      "titleOriginal": "French minister accuses Elon Musk of ‘online harassment campaigns’ against European leaders",
-      "url": "https://www.theguardian.com/world/2026/oct/14/french-minister-elon-musk-x-social-media-presidential-election",
-      "lang": "en",
-      "publishedAt": "2026-10-14T21:39:25.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "프랑스 장관은 엘론 머스크가 유럽 지도자들을 상대로 ‘온라인 괴롭힘 캠페인’ 을 벌이고 있다고 비난합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45266",
-      "titleOriginal": "NOW - President Trump: \"They want to mutilate.. cut your children… Your son leaves as Jimmy and comes home in three days as Janet, and they don't even ask you. They can take your child out of school and do whatever the hell they want. Minne",
-      "url": "https://t.me/insiderpaper/45266",
-      "lang": "en",
-      "publishedAt": "2026-10-14T21:36:28.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "지금 - 트럼프 대통령: \"그들은 당신의 아이들을 훼손하고 싶어합니다... 당신의 아들은 지미로 떠나고 재닛으로 사흘 만에 집으로 돌아옵니다. 그들은 당신에게 묻지도 않습니다. 그들은 당신의 아이를 학교에서 데리고 나가서 그들이 원하는대로 할 수 있습니다. 미네",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21908",
-      "titleOriginal": "NOW - Trump says Canada \"will end up being the 51st state\" of the United States, \"just like Greenland.\"",
-      "url": "https://t.me/disclosetv/21908",
-      "lang": "en",
-      "publishedAt": "2026-10-14T21:29:50.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "이제 트럼프는 캐나다가 \"그린란드와 마찬가지로 미국의 51번째 주가 될 것\" 이라고 말한다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45265",
-      "titleOriginal": "BREAKING 🚨 North Korea test-fires two types of submarine-launched strategic cruise missiles: KCNA",
-      "url": "https://t.me/insiderpaper/45265",
-      "lang": "en",
-      "publishedAt": "2026-10-14T21:28:53.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "🚨 북한이 시험 발사하는 두 가지 유형의 잠수함 발사 전략 순항 미사일: KCNA",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9556",
-      "titleOriginal": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "lang": "en",
-      "publishedAt": "2026-10-14T21:20:24.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "8개 주가 OpenAI를 고소하여 ChatGPT가 어린이에게 안전하지 않다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19482",
-      "titleOriginal": "In an interview with Piers Morgan, Zelensky said of Ukraine's relations with the US: \"It is a pity that we are losing a strong partner.\"",
-      "url": "http://patreon.com/c/WarTranslated",
-      "lang": "en",
-      "publishedAt": "2026-10-14T20:50:40.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키는 피어스 모건과의 인터뷰에서 우크라이나와 미국과의 관계에 대해 \"강력한 파트너를 잃게 돼 안타깝다\" 고 말했다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19481",
-      "titleOriginal": "It is reported that the \"Borisoglebsk\" military air base in Russia's Voronezh region is on fire. Warehouses storing guided aerial bombs, parking areas for Su-34 and Su-35 aircraft, and aviation fuel storage facilities are located on its ter",
-      "url": "https://t.me/wartranslated/19481",
-      "lang": "en",
-      "publishedAt": "2026-10-14T20:45:59.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아 보로네시 (Voronezh) 지역의 \"보리소글렙스크 (Borisoglebsk)\" 군 공군 기지가 불타고 있는 것으로 알려졌다. 안내식 공중 폭탄을 보관하는 창고, Su-34 및 Su-35 항공기 주차 구역, 항공 연료 저장 시설이 TER에 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19480",
-      "titleOriginal": "A drone threat alert was declared in multiple regions of the Russian Federation.",
-      "url": "https://t.me/wartranslated/19480",
-      "lang": "en",
-      "publishedAt": "2026-10-14T20:25:48.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아 연방의 여러 지역에 드론 위협 경보가 선포되었습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45264",
-      "titleOriginal": "BREAKING: Floyd Mayweather is traveling with Donald Trump today - reports",
-      "url": "https://t.me/insiderpaper/45264",
-      "lang": "en",
-      "publishedAt": "2026-10-14T20:17:14.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 플로이드 메이웨더 (Floyd Mayweather) 가 오늘 도널드 트럼프 (Donald Trump) 와 함께 여행 중",
       "translated": true
     }
   ]
