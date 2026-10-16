@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-10-16T20:34:26.870Z",
+  "updatedAt": "2026-10-16T23:16:17.693Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "theverge_news:9611",
+      "titleOriginal": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "lang": "en",
+      "publishedAt": "2026-10-16T23:01:22.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Apple의 업데이트된 App Store 규칙은 인공지능 앱을 ‘나체화’ 한 후",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45321",
+      "titleOriginal": "UK COVID-19 Hospital Admissions Surge 41% in Just Two Weeks: report",
+      "url": "https://insiderpaper.com/uk-covid-19-hospital-admissions-surge-41-in-just-two-weeks/",
+      "lang": "en",
+      "publishedAt": "2026-10-16T22:26:10.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "영국 코로나19 병원 입원 단 2주 만에 41% 급증: 보고서",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78404",
+      "titleOriginal": "Former Ukrainian president Yushchenko writes open letter to Trump",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/14/8057910/",
+      "lang": "en",
+      "publishedAt": "2026-10-16T22:09:15.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "유시첸코 전 우크라이나 대통령이 트럼프에게 보내는 공개 서한",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9610",
+      "titleOriginal": "We can finally hear some of Wu-Tang Clan’s Once Upon A Time in Shaolin album",
+      "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "lang": "en",
+      "publishedAt": "2026-10-16T20:51:53.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "드디어 Wu-Tang Clan의 Once Upon A Time in Shaolin 앨범을 들을 수 있게 되었습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9609",
+      "titleOriginal": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "lang": "en",
+      "publishedAt": "2026-10-16T20:51:52.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "테슬라 운전자는 고속도로 순찰차에 충돌했을 때 잠을 자고 FSD를 사용했다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78403",
+      "titleOriginal": "Dutch PM says Trump is taking the wrong tone towards Zelenskyy, Ukraine",
+      "url": "https://nltimes.nl/2026/10/16/dutch-pm-says-trump-taking-wrong-tone-towards-zelenskyy-ukraine",
+      "lang": "en",
+      "publishedAt": "2026-10-16T20:34:03.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "네덜란드 PM은 트럼프가 우크라이나 젤렌스키에 대해 잘못된 어조를 취하고 있다고 말했습니다",
+      "translated": true
+    },
     {
       "id": "sciencealert:91987",
       "titleOriginal": "This Diet And Exercise Combination Put Early-Onset Diabetes Into Remission in Half of Participants",
@@ -1585,72 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "E 잉크는 대부분의 컬러 e-리더에서 발견되는 화면을 업그레이드했습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9577",
-      "titleOriginal": "The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm",
-      "url": "https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm",
-      "lang": "en",
-      "publishedAt": "2026-10-15T16:00:45.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "엔비디아의 RTX 스파크에 관심을 갖는 가장 좋은 이유: ‘모든 것’ 은 Arm에서 실행됩니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91976",
-      "titleOriginal": "Ancient Hole in Neanderthal Shoulder Blade May Be The Oldest Spear Attack Ever Discovered",
-      "url": "https://www.sciencealert.com/ancient-hole-in-neanderthal-shoulder-blade-may-be-the-oldest-spear-attack-ever-discovered",
-      "lang": "en",
-      "publishedAt": "2026-10-15T15:59:47.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "네안데르탈인의 어깨칼날에 있는 고대의 구멍은 지금까지 발견된 것 중 가장 오래된 창 공격일 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9576",
-      "titleOriginal": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom",
-      "url": "https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom",
-      "lang": "en",
-      "publishedAt": "2026-10-15T15:55:51.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "엔비디아, 애플, 구글, 마이크로소프트, 아마존, 메타는 트럼프에게 그의 연회장을 위해 $ 92M를 주었다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19490",
-      "titleOriginal": "Dense smoke is reported rising in Chelyabinsk near the Chelyabinsk State District Power Plant, visible even from the city center. The cause of the smoke is currently unknown.",
-      "url": "https://t.me/wartranslated/19490",
-      "lang": "en",
-      "publishedAt": "2026-10-15T15:47:12.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "도심에서도 볼 수 있는 첼랴빈스크 주립지구 발전소 근처의 첼랴빈스크에서는 연기가 짙게 솟아오르는 것으로 보고되고 있습니다. 현재 연기의 원인은 밝혀지지 않았습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45291",
-      "titleOriginal": "JUST IN - FBI and Postal Service are investigating letters with 'suspicious substances' sent to congressional and election offices — AP",
-      "url": "https://t.me/insiderpaper/45291",
-      "lang": "en",
-      "publishedAt": "2026-10-15T15:28:10.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 연방수사국 (FBI) 과 우체국 (Postal Service) 이 의회 및 선거 사무소에 보낸 '의심스러운 물질' 이 담긴 편지를 조사하고 있습니다. — AP",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45290",
-      "titleOriginal": "BREAKING - Saudi-led coalition says Houthis attacked Riyadh airport 20 times in October",
-      "url": "https://insiderpaper.com/saudi-led-coalition-says-houthis-attacked-riyadh-airport-20-times-in-october/",
-      "lang": "en",
-      "publishedAt": "2026-10-15T15:21:11.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 사우디 주도의 연합은 후티스가 10월에 리야드 공항을 20차례 공격했다고 밝혔습니다",
       "translated": true
     }
   ]
