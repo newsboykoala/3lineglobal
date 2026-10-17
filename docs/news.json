@@ -1,8 +1,52 @@
 {
-  "updatedAt": "2026-10-16T23:16:17.693Z",
+  "updatedAt": "2026-10-17T01:25:26.590Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:91988",
+      "titleOriginal": "After 40 Years, Chornobyl's Radioactive Particles Are Surprisingly Stable",
+      "url": "https://www.sciencealert.com/after-40-years-chornobyls-radioactive-particles-are-surprisingly-stable",
+      "lang": "en",
+      "publishedAt": "2026-10-17T00:30:55.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "40년 후, 초르노빌의 방사성 입자는 놀랍게도 안정적입니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45323",
+      "titleOriginal": "NEW: British Army chief General Sir Roly Walker warns Britons will have to make ‘sacrifices’ to prepare for war",
+      "url": "https://t.me/insiderpaper/45323",
+      "lang": "en",
+      "publishedAt": "2026-10-16T23:58:31.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "새로운 소식: 영국 육군 총사령관 롤리 워커 경 (Sir Roly Walker) 은 영국인들이 전쟁에 대비하기 위해 ‘희생’ 을 해야 할 것이라고 경고합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45322",
+      "titleOriginal": "Ex-Army Sniper Claims Secret Military Battle With Reptilian Beings Near Area 51",
+      "url": "https://insiderpaper.com/ex-army-sniper-claims-secret-military-battle-with-reptilian-beings-near-area-51/",
+      "lang": "en",
+      "publishedAt": "2026-10-16T23:45:19.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "전직 아미 저격수가 51구역 근처의 파충류와 비밀스런 군사적 전투를 벌였다고 주장합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9612",
+      "titleOriginal": "All the news about the iPhone Duo",
+      "url": "https://telegra.ph/All-the-news-about-the-iPhone-Duo-10-16-3",
+      "lang": "en",
+      "publishedAt": "2026-10-16T23:41:41.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "IPhone Duo에 대한 모든 뉴스",
+      "translated": true
+    },
     {
       "id": "theverge_news:9611",
       "titleOriginal": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
@@ -1607,50 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "젤렌스키: \"어제부터 지금까지 러시아는 거의 1,000대의 드론을 발사했습니다. 안타깝게도 러시아는 새로운 파도로 파업의 강도를 완화하려는 미국 대통령의 또 다른 시도에 대응했다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45293",
-      "titleOriginal": "BREAKING - Venezuela's Maduro, wife plead not guilty to new US torture charges",
-      "url": "https://insiderpaper.com/venezuelas-maduro-wife-plead-not-guilty-to-new-us-torture-charges/",
-      "lang": "en",
-      "publishedAt": "2026-10-15T16:21:01.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "파기 - 베네수엘라의 마두로, 아내는 새로운 미국 고문 혐의에 대해 유죄를 인정하지 않습니다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15604",
-      "titleOriginal": "China and North Korea officially opened the long-delayed New Yalu River Bridge on October 15, their most significant land border crossing.",
-      "url": "https://t.me/trtworld/15604",
-      "lang": "en",
-      "publishedAt": "2026-10-15T16:10:47.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "중국과 북한은 지난 10월 15일 가장 중요한 국경을 넘은 신얄루강대교를 공식 개통했다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45292",
-      "titleOriginal": "Saudi coalition says regional actors helped Houthis get ‘advanced technologies’",
-      "url": "https://insiderpaper.com/saudi-coalition-says-regional-actors-helped-houthis-get-advanced-technologies/",
-      "lang": "en",
-      "publishedAt": "2026-10-15T16:02:53.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "사우디 연합은 지역 활동가들이 후티가 ‘첨단 기술‘ 을 얻도록 도왔다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9578",
-      "titleOriginal": "E Ink upgraded the screen found in most color e-readers",
-      "url": "https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness",
-      "lang": "en",
-      "publishedAt": "2026-10-15T16:00:47.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "E 잉크는 대부분의 컬러 e-리더에서 발견되는 화면을 업그레이드했습니다",
       "translated": true
     }
   ]
