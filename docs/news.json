@@ -1,8 +1,85 @@
 {
-  "updatedAt": "2026-10-17T19:02:46.885Z",
+  "updatedAt": "2026-10-17T21:36:40.816Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78431",
+      "titleOriginal": "Elon Musk proposed slowing Starlink in Ukraine to Trump – The Telegraph",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/16/8058435/",
+      "lang": "en",
+      "publishedAt": "2026-10-17T21:09:35.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "일론 머스크 (Elon Musk) 는 우크라이나의 스타링크 (Starlink) 를 트럼프 - 더 텔레그래프 (Trump – The Telegraph)",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78430",
+      "titleOriginal": "Russian Ryazan oil refinery halts operations of one main unit after drone attack, Reuters reports",
+      "url": "https://kyivindependent.com/russian-ryazan-oil-refinery-halts-one-of-its-main-units-after-drone-attacks-reuters-reports/",
+      "lang": "en",
+      "publishedAt": "2026-10-17T20:49:34.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "로이터는 러시아의 랴잔 정유공장이 드론 공격 이후 한 개의 본부대 운영을 중단했다고 보도했다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9623",
+      "titleOriginal": "TikTok bans Musk documentary account",
+      "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+      "lang": "en",
+      "publishedAt": "2026-10-17T19:39:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "TikTok은 Musk 다큐멘터리 계정을 금지합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78429",
+      "titleOriginal": "European diplomats attacked by Israeli settlers in West Bank",
+      "url": "https://www.bbc.com/news/articles/c962ydpmjm3zo",
+      "lang": "en",
+      "publishedAt": "2026-10-17T19:34:18.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "요르단강 서안지구에서 이스라엘 정착민들의 공격을 받은 유럽 외교관들",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19558",
+      "titleOriginal": "Ukrainian drone raid is underway across Bryansk, Belgorod, and occupied Donbas, with explosions reported in Rovenky, FPV strikes on Grayvoron, and drones pushing toward Rostov, Krasnodar, and potentially Moscow.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-10-17T19:32:20.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나 드론 공습은 브랸스크, 벨고로드, 점령지 돈바스 전역에서 진행 중이며, 로벤키에서 폭발이 보고되었고, 그레이보론에서 FPV 공격이 있었으며, 드론은 로스토프, 크라스노다르, 잠재적으로 모스크바로 밀려들고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91993",
+      "titleOriginal": "Scientists Discover an Erectile Dysfunction Drug Could Also Regenerate Muscle",
+      "url": "https://www.sciencealert.com/scientists-discover-an-erectile-dysfunction-drug-could-also-regenerate-muscle",
+      "lang": "en",
+      "publishedAt": "2026-10-17T19:28:31.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들은 발기 부전 약물이 근육을 재생할 수 있다는 것을 발견했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78428",
+      "titleOriginal": "Russia and Iran deepen weapons partnership amid wars in Ukraine, Middle East",
+      "url": "https://www.militarytimes.com/news/your-military/2026/09/15/russia-and-iran-deepen-weapons-partnership-amid-wars-in-ukraine-middle-east/",
+      "lang": "en",
+      "publishedAt": "2026-10-17T19:04:21.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아와 이란은 우크라이나, 중동에서의 전쟁 속에서 무기 파트너십을 심화시킨다",
+      "translated": true
+    },
     {
       "id": "worldnews:78427",
       "titleOriginal": "Russia nears U.S. satellite, raising alarm about intent",
@@ -1574,83 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "젤렌스키는 우크라이나가 전쟁이 하루빨리 끝나기를 원하지만, 러시아가 이에 대비할 조짐을 보이지 않고 있으므로 우크라이나는 겨울을 준비해야 한다고 말합니다. 그는 겨울 패키지가 에너지, 방공 및 자금 조달을 다루고 있으며 EU에 STAN에 감사한다고 말했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19509",
-      "titleOriginal": "A prisoner swap was supposed to happen a while ago, there were agreements in place. But amid the new wave of escalating strikes, Russia started dragging out this process too, Ukraine Context reports.",
-      "url": "https://t.me/wartranslated/19509",
-      "lang": "en",
-      "publishedAt": "2026-10-16T08:56:36.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "얼마 전에 포로 교환이 이루어질 예정이었고, 합의가 이루어졌습니다. 그러나 파업이 격화되는 새로운 물결 속에서 러시아도 이 과정을 끌고 나가기 시작했다고 우크라이나 정황이 보도했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19508",
-      "titleOriginal": "Reuters reports the order to throttle Starshield speed for Ukrainian forces came from inside the White House, sources say. Pentagon leadership was told to limit it, but sources don't know who exactly gave the order. An official told Reuters",
-      "url": "https://www.reuters.com/world/europe/order-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15/",
-      "lang": "en",
-      "publishedAt": "2026-10-16T08:55:36.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "소식통에 따르면 로이터는 우크라이나군의 스타쉴드 속도를 조절하라는 명령이 백악관 내부에서 나왔다고 전했다. 국방부 지도부는 이를 제한하라는 지시를 받았지만, 소식통은 누가 명령을 내렸는지 정확히 알지 못합니다. 한 관계자는 로이터와의 인터뷰에서",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78388",
-      "titleOriginal": "Kellogg backs Ukraine’s strikes on Russian oil refineries, calling them military targets",
-      "url": "https://mezha.net/eng/news/mezha-79d00c71867c1da44cb32827_kellogg_backs_ukraine-s/",
-      "lang": "en",
-      "publishedAt": "2026-10-16T08:49:35.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "켈로그는 우크라이나의 러시아 정유 공장에 대한 공격을 지지하며, 우크라이나를 군사 목표물이라고 부른다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19507",
-      "titleOriginal": "Von der Leyen says the EU backed Trump's energy ceasefire, but Russia didn't honor it \"for even a single minute,\" escalating its aggression instead, meaning no sanctions will be lifted until Russia ends the war.",
-      "url": "https://t.me/wartranslated/19507",
-      "lang": "en",
-      "publishedAt": "2026-10-16T08:45:56.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "폰 데어 레옌 (Von der Leyen) 은 유럽 연합 (EU) 이 트럼프의 에너지 휴전을지지했지만 러시아는 \"단 1 분도\" 그것을 존중하지 않았다며 대신 침략을 확대했다. 즉, 러시아가 전쟁을 끝낼 때까지 제재가 해제되지 않을 것임을 의미한다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19506",
-      "titleOriginal": "Moscow airports remained paralyzed as of this morning.",
-      "url": "https://t.me/wartranslated/19506",
-      "lang": "en",
-      "publishedAt": "2026-10-16T08:45:12.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "모스크바 공항은 오늘 아침 현재 마비된 상태입니다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12439",
-      "titleOriginal": "European Commission President Ursula von der Leyen on Ukraine: We supported Trump's energy ceasefire, but Russia did not respect it for even a minute. Instead, Russia escalated, so we must increase pressure on Moscow. We will not lift any s",
-      "url": "https://liveuamap.com/en/2026/16-october-08-eus-von-der-leyen-on-ukraine-we-supported-trumps",
-      "lang": "en",
-      "publishedAt": "2026-10-16T08:36:22.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "우크라이나에 대한 우르술라 폰 데르 레옌 유럽위원회 위원장: 우리는 트럼프의 에너지 휴전을 지지했지만, 러시아는 단 1분도 이를 존중하지 않았습니다. 대신 러시아는 더 심해졌기 때문에 모스크바에 대한 압박을 강화해야 한다. 우리는 어떤 것도 들어 올리지 않을 것입니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19505",
-      "titleOriginal": "Czech PM Andrej Babiš, known for his ambiguous stance on Ukraine, says Trump has essentially betrayed them by making that deal with Putin, adding \"we have to do something.\"",
-      "url": "https://t.me/wartranslated/19505",
-      "lang": "en",
-      "publishedAt": "2026-10-16T08:29:36.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나에 대한 모호한 입장으로 유명한 체코의 안드레이 바비쉬 (Andrej Babiš) 대통령은 트럼프 대통령이 푸틴 대통령과 거래를 함으로써 근본적으로 그들을 배신했다고 말하며 \"우리는 뭔가를 해야 한다\" 고 덧붙였다",
       "translated": true
     }
   ]
