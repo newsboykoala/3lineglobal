@@ -1,8 +1,63 @@
 {
-  "updatedAt": "2026-10-17T21:36:40.816Z",
+  "updatedAt": "2026-10-17T23:46:44.620Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78434",
+      "titleOriginal": "Romanian F-16s shoot down two drones over Black Sea, authorities say",
+      "url": "https://www.euronews.com/2026/10/17/romanian-f-16s-shoot-down-two-drones-over-black-sea-authorities-say",
+      "lang": "en",
+      "publishedAt": "2026-10-17T23:39:32.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "당국은 루마니아 F-16이 흑해 상공에서 드론 2기를 격추했다고 밝혔다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45327",
+      "titleOriginal": "JUST IN - US 'very disturbed' over images of attack on American photographer in West Bank: Marco Rubio",
+      "url": "https://t.me/insiderpaper/45327",
+      "lang": "en",
+      "publishedAt": "2026-10-17T23:24:44.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "방금 - 웨스트 뱅크에서 미국 사진작가에 대한 공격 이미지에 대해 미국이 '매우 혼란스러워': 마르코 루비오",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91994",
+      "titleOriginal": "Thousands of Handwritten Records Recovered From Archives Reveal The True Scale of Warming in The Congo",
+      "url": "https://www.sciencealert.com/thousands-of-handwritten-records-recovered-from-archives-reveal-the-true-scale-of-warming-in-the-congo",
+      "lang": "en",
+      "publishedAt": "2026-10-17T22:07:54.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "기록 보관소에서 회수한 수천 개의 필기 기록이 콩고에서 온난화의 진정한 규모를 드러냅니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78433",
+      "titleOriginal": "Town hall in Limoges 'largely lost' to blaze set during French protests",
+      "url": "https://sg.news.yahoo.com/fire-rages-town-hall-frances-185017906.html",
+      "lang": "en",
+      "publishedAt": "2026-10-17T21:59:34.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "리모주의 타운 홀은 프랑스 시위 도중 타오르는 불길에 '크게 졌다'",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78432",
+      "titleOriginal": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
+      "url": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
+      "lang": "en",
+      "publishedAt": "2026-10-17T21:44:13.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프는 러시아가 호의를 돌려줄 것이라는 희망으로 푸틴에게 경제적 구제를 제안한다",
+      "translated": true
+    },
     {
       "id": "worldnews:78431",
       "titleOriginal": "Elon Musk proposed slowing Starlink in Ukraine to Trump – The Telegraph",
@@ -1596,61 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "마가 (MAGA) 블로거 로라 루머 (Laura Loomer) 는 젤렌스키 (Zelensky) 를 바꾸거나 선거를 치르면 전쟁이 끝나지 않을 것이라고 말하면서 트럼프에게 박수를 쳤다. 왜냐하면 푸틴은 제국의 야망을 가진 사람이기 때문에 어느 쪽이든 멈추지 않고 있기 때문이라고 UNIAN",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78389",
-      "titleOriginal": "Putin Admits Moscow Failed to Anticipate Ukrainian Strikes on Major E-Commerce Hubs",
-      "url": "https://united24media.com/war-in-ukraine/putin-admits-moscow-failed-to-anticipate-ukrainian-strikes-on-major-e-commerce-hubs-23493",
-      "lang": "en",
-      "publishedAt": "2026-10-16T09:29:37.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "푸틴, 모스크바가 주요 전자상거래 허브에 대한 우크라이나의 파업을 예측하지 못했다고 인정",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19512",
-      "titleOriginal": "WSJ reports Zelensky is ready to halt strikes on Russian refineries for 100 days. Republican senators Wicker and Cramer offered the deal in Kyiv last week, full Starlink restoration and data on Russian launch sites in exchange. The outlet s",
-      "url": "https://www.wsj.com/opinion/volodymyr-zelensky-starlink-deal-energy-targets-donald-trump-russia-ukraine-e313399d",
-      "lang": "en",
-      "publishedAt": "2026-10-16T09:25:49.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "WSJ에 따르면 젤렌스키는 100일 동안 러시아 정유소 파업을 중단할 준비가 되어 있습니다. 공화당 상원의원 위커 (Wicker) 와 크레이머 (Cramer) 는 지난주 키예프에서 협상을 제안했고, 스타링크 (Starlink) 의 완전한 복원과 러시아 발사장에 대한 데이터를 교환했다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45312",
-      "titleOriginal": "JUST IN - AI models under test broke into Indian organisations' live systems and read confidential records undetected, India's cybersecurity agency said, the country's first such official ‌account after similar incidents of rogue AI behavio",
-      "url": "https://t.me/insiderpaper/45312",
-      "lang": "en",
-      "publishedAt": "2026-10-16T09:23:56.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 테스트 중인 AI 모델이 인도 조직의 라이브 시스템에 침입하여 기밀 기록을 감지하지 못했다고 인도의 사이버 보안 기관이 밝혔습니다. 유사한 악성 AI 행동이 발생한 후 인도 최초의 공식 계정입니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19511",
-      "titleOriginal": "Several Russian drones violated Moldova's airspace overnight into October 16 and Friday morning. No crashes or explosions were reported.",
-      "url": "https://t.me/wartranslated/19511",
-      "lang": "en",
-      "publishedAt": "2026-10-16T09:02:54.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "10월 16일과 금요일 아침까지 여러 대의 러시아 드론이 몰도바의 영공을 하룻밤 사이에 침범했습니다. 충돌이나 폭발은 보고되지 않았습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19510",
-      "titleOriginal": "Zelensky says Ukraine wants the war to end as soon as possible, but sees no signs Russia is ready for that, so Ukraine must prepare for winter. He says the winter package covers energy, air defense and financing, and thanked the EU for stan",
-      "url": "https://t.me/wartranslated/19510",
-      "lang": "en",
-      "publishedAt": "2026-10-16T09:02:35.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키는 우크라이나가 전쟁이 하루빨리 끝나기를 원하지만, 러시아가 이에 대비할 조짐을 보이지 않고 있으므로 우크라이나는 겨울을 준비해야 한다고 말합니다. 그는 겨울 패키지가 에너지, 방공 및 자금 조달을 다루고 있으며 EU에 STAN에 감사한다고 말했습니다",
       "translated": true
     }
   ]
