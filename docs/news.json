@@ -1,8 +1,107 @@
 {
-  "updatedAt": "2026-10-17T16:52:23.048Z",
+  "updatedAt": "2026-10-17T19:02:46.885Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78427",
+      "titleOriginal": "Russia nears U.S. satellite, raising alarm about intent",
+      "url": "https://www.axios.com/2026/10/17/russia-ukraine-satellite-space",
+      "lang": "en",
+      "publishedAt": "2026-10-17T18:59:31.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아가 미국 위성에 근접하여 의도에 대한 경각심을 불러일으켰다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78426",
+      "titleOriginal": "S.Korea shifts focus from birthrate to quality of life with new population strategy",
+      "url": "https://www.koreajoongangdaily.com/korea/lee-shifts-focus-from-birthrate-to-quality-of-life-with-koreas-new-population-strategy/12920259",
+      "lang": "en",
+      "publishedAt": "2026-10-17T18:59:30.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "S.Korea는 새로운 인구 전략으로 출산율에서 삶의 질로 초점을 전환합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19557",
+      "titleOriginal": "What Ukrainian troops faced while pulling back from their positions.",
+      "url": "https://t.me/wartranslated/19557",
+      "lang": "en",
+      "publishedAt": "2026-10-17T18:43:15.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나 군대가 자리에서 물러나는 동안 직면한 상황",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19556",
+      "titleOriginal": "Ukraine's MoD says its forces hit six Russian Su-34M bombers in Voronezh region this week and targeted drone launch sites, fuel depots, and repair bases to counter Russian strikes.",
+      "url": "https://t.me/wartranslated/19556",
+      "lang": "en",
+      "publishedAt": "2026-10-17T18:40:56.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나 국방부는 이번 주 보로네시 지역에서 러시아군 Su-34M 폭격기 6대를 공격했으며 러시아의 공격에 대응하기 위해 드론 발사장과 연료 저장소, 수리 기지를 겨냥했다고 밝혔습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19555",
+      "titleOriginal": "Two Romanian Air Force F-16s shot down two drones that illegally entered the country's airspace over the Black Sea, Romania's Foreign Ministry said.",
+      "url": "https://t.me/wartranslated/19555",
+      "lang": "en",
+      "publishedAt": "2026-10-17T18:35:22.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "루마니아 외무부는 루마니아 공군 F-16 2대가 흑해 상공에 불법적으로 진입한 드론 2대를 격추했다고 밝혔다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21922",
+      "titleOriginal": "NOW - Town hall in Limoges, France, set on fire by rioters.",
+      "url": "https://t.me/disclosetv/21922",
+      "lang": "en",
+      "publishedAt": "2026-10-17T17:27:30.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "지금 - 폭도들이 프랑스 리모주의 시청에 불을 질렀습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78425",
+      "titleOriginal": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+      "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "lang": "en",
+      "publishedAt": "2026-10-17T17:14:10.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프는 국익을 위해 그레이엄 법에 따라 광범위한 새로운 러시아 제재와 관세를 면제한다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19554",
+      "titleOriginal": "Ukraine can't confirm its Starshield satellite internet is fully back to normal, Ukraine's charge d'affaires in the US Denys Senik tells Radio Liberty. The Pentagon and SpaceX still haven't responded on lifting speed limits, and Ukraine has",
+      "url": "https://t.me/wartranslated/19554",
+      "lang": "en",
+      "publishedAt": "2026-10-17T17:08:36.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나가 스타쉴드 위성 인터넷이 완전히 정상으로 돌아왔는지 확인할 수 없다고 데니스 세닉 (Denys Senik) 이 라디오 리버티 (Radio Liberty) 에 말했다. 국방부와 SpaceX는 여전히 제한 속도 해제에 응답하지 않았으며 우크라이나는",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9622",
+      "titleOriginal": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+      "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+      "lang": "en",
+      "publishedAt": "2026-10-17T17:03:54.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Mercedes-AMG의 첫 번째 지상 SUV는 1,150마력의 전기 짐승입니다",
+      "translated": true
+    },
     {
       "id": "theverge_news:9621",
       "titleOriginal": "Elon Musk settles lawsuits over $1 million voter giveaway",
@@ -1552,105 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "우크라이나에 대한 모호한 입장으로 유명한 체코의 안드레이 바비쉬 (Andrej Babiš) 대통령은 트럼프 대통령이 푸틴 대통령과 거래를 함으로써 근본적으로 그들을 배신했다고 말하며 \"우리는 뭔가를 해야 한다\" 고 덧붙였다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19504",
-      "titleOriginal": "A Russian jet-powered drone hit the \"Ekvator\" shopping mall in Rivne.",
-      "url": "https://t.me/wartranslated/19504",
-      "lang": "en",
-      "publishedAt": "2026-10-16T08:28:23.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아 제트 드론이 리브네의 \"에크바토르\" 쇼핑몰에 충돌했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19503",
-      "titleOriginal": "Trump says Zelensky is \"not someone we should be dealing with,\" claiming he \"doesn't want to make a deal\" despite saying he does, and blames him for raising world oil prices by hitting Russian refineries.",
-      "url": "https://t.me/wartranslated/19503",
-      "lang": "en",
-      "publishedAt": "2026-10-16T08:27:14.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "트럼프는 젤렌스키가 \"우리가 상대해야 할 사람이 아니다\" 라고 말하면서도 \"거래를 하고 싶지 않다\" 고 주장하고 러시아 정유공장을 강타하여 세계 유가를 인상한 것에 대해 그를 비난한다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19502",
-      "titleOriginal": "A drone attack is reportedly underway in Vladimir, with Russian air defense actively engaged. A possible strike on a Yandex data center there is also being reported.",
-      "url": "https://t.me/wartranslated/19502",
-      "lang": "en",
-      "publishedAt": "2026-10-16T08:23:21.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "블라디미르에서 드론 공격이 진행 중이며 러시아의 방공이 활발히 이루어지고 있는 것으로 알려졌다. Yandex 데이터 센터에 대한 공격 가능성도 보고되고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19499",
-      "titleOriginal": "Explosions were heard in the Moscow region overnight.",
-      "url": "https://t.me/wartranslated/19499",
-      "lang": "en",
-      "publishedAt": "2026-10-16T08:17:35.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "밤새 모스크바 지역에서 폭발음이 들렸다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19498",
-      "titleOriginal": "The Ryazan refinery got hit again overnight, reportedly, with the fire still raging after burning all night.",
-      "url": "https://t.me/wartranslated/19498",
-      "lang": "en",
-      "publishedAt": "2026-10-16T08:16:29.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "랴잔 정유 공장은 밤새 불타고 난 뒤에도 여전히 불길이 치솟고 있는 것으로 알려졌다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78387",
-      "titleOriginal": "Ukrаinian drоnes reportedly strike Yаndeх dаta center, wаrehouses in overnight attаck on Russiа",
-      "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-yandex-data-center-warehouses-in-overnight-attack-on-russia/",
-      "lang": "ru",
-      "publishedAt": "2026-10-16T07:24:16.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "우크라이나 드론이 러시아에서 하룻밤 사이에 얀데흐 다타 센터, 와레하우스를 공격했다고 합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78386",
-      "titleOriginal": "US president Donald Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’",
-      "url": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace",
-      "lang": "en",
-      "publishedAt": "2026-10-16T07:04:33.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "도널드 트럼프 미국 대통령이 우크라이나의 러시아 정유공장 파업 재개를 ‘수치‘ 로 규정하고 있다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15606",
-      "titleOriginal": "At least five people have been killed and 16 others wounded when the Houthi militia targeted the Al-Maashiq Presidential Palace in the Yemeni interim capital of Aden with ballistic missiles, according to Yemen's health minister.",
-      "url": "https://t.me/trtworld/15606",
-      "lang": "en",
-      "publishedAt": "2026-10-16T06:08:01.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "예멘 보건부 장관에 따르면 후티 민병대가 예멘 임시 수도 아덴의 알 마아시크 대통령궁을 탄도 미사일로 겨냥했을 때 최소 5명이 사망하고 16명이 부상당했다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45311",
-      "titleOriginal": "BREAKING: Japan’s Meteorological Agency issued an earthquake early warning showing magnitude 9.9 before canceling it minutes later. USGS measured the quake at 6.9",
-      "url": "https://t.me/insiderpaper/45311",
-      "lang": "en",
-      "publishedAt": "2026-10-16T04:13:36.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 일본 기상청은 지진 조기 경보를 발령했으며, 조기 경보를 발령한 지 몇 분 만에 취소했습니다. USGS는 6.9에서 지진을 측정했습니다",
       "translated": true
     }
   ]
