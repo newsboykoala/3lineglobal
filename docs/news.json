@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-10-17T01:25:26.590Z",
+  "updatedAt": "2026-10-17T05:55:53.179Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78405",
+      "titleOriginal": "Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in US national interest",
+      "url": "https://apnews.com/article/russia-sanctions-trump-ukraine-e50c561ab805883bb4e484c092d8fadd",
+      "lang": "en",
+      "publishedAt": "2026-10-17T02:24:25.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프 대통령은 의회에서 통과된 새로운 러시아 제재를 보류하면서 포기는 미국의 국익을 위한 것이라고 말했습니다",
+      "translated": true
+    },
     {
       "id": "sciencealert:91988",
       "titleOriginal": "After 40 Years, Chornobyl's Radioactive Particles Are Surprisingly Stable",
@@ -1640,17 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "친구는 친구가 AI 상담원에게 데이터를 제공하도록 내버려두지 않습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19491",
-      "titleOriginal": "Zelenskyy: \"Since the start of yesterday and up to now, the Russians have launched nearly 1,000 drones. Unfortunately, Russia responded to yet another attempt by the American president to de-escalate the intensity of strikes with new waves ",
-      "url": "https://t.me/wartranslated/19491",
-      "lang": "en",
-      "publishedAt": "2026-10-15T16:29:35.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키: \"어제부터 지금까지 러시아는 거의 1,000대의 드론을 발사했습니다. 안타깝게도 러시아는 새로운 파도로 파업의 강도를 완화하려는 미국 대통령의 또 다른 시도에 대응했다",
       "translated": true
     }
   ]
