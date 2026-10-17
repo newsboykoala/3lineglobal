@@ -1,8 +1,162 @@
 {
-  "updatedAt": "2026-10-17T05:55:53.179Z",
+  "updatedAt": "2026-10-17T10:17:05.919Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78410",
+      "titleOriginal": "CNBC: Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+      "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+      "lang": "en",
+      "publishedAt": "2026-10-17T10:14:15.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "CNBC: 트럼프의 러시아 디젤 거래는 푸틴에게 돈 이상의 것을 제공 할 수 있습니다 — 그리고 우크라이나에 대한 철자 문제",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91990",
+      "titleOriginal": "2,200-Year-Old Fingerprints Reveal Who Really Built China's Mysterious Terracotta Army",
+      "url": "https://www.sciencealert.com/2200-year-old-fingerprints-reveal-who-really-built-chinas-mysterious-terracotta-army",
+      "lang": "en",
+      "publishedAt": "2026-10-17T10:10:47.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "중국의 신비한 테라코타 군대를 실제로 건설한 2,200년 된 지문 공개",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21917",
+      "titleOriginal": "JUST IN - Pope Leo XIV is fit to be discharged — Vatican",
+      "url": "https://t.me/disclosetv/21917",
+      "lang": "en",
+      "publishedAt": "2026-10-17T09:42:45.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "방금 - 교황 레오 14세 퇴역 적합 — 바티칸",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78409",
+      "titleOriginal": "Russia and US May Announce Joint Data Center Projects, Kremlin Envoy Says",
+      "url": "https://united24media.com/world/russia-and-us-may-announce-joint-data-center-projects-kremlin-envoy-says-23537",
+      "lang": "en",
+      "publishedAt": "2026-10-17T09:24:24.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아와 미국은 공동 데이터 센터 프로젝트를 발표 할 수 있다고 Kremlin Envoy는 말합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19539",
+      "titleOriginal": "Zelensky says Russia carried out one of its largest strikes yet on Ukraine's energy system, hitting more than 15 power generation and transmission facilities across several regions.",
+      "url": "https://t.me/wartranslated/19539",
+      "lang": "en",
+      "publishedAt": "2026-10-17T09:18:15.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "젤렌스키는 러시아가 우크라이나의 에너지 시스템에 대한 가장 큰 파업 중 하나를 수행하여 여러 지역에 걸쳐 15개 이상의 발전 및 송전 시설을 공격했다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91989",
+      "titleOriginal": "Physicists Simulated What Might Happen When Two Wormholes Collide, And Things Got Weird",
+      "url": "https://www.sciencealert.com/physicists-simulated-what-might-happen-when-two-wormholes-collide-and-things-got-weird",
+      "lang": "en",
+      "publishedAt": "2026-10-17T08:40:57.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "물리학자들은 두 개의 웜홀이 충돌하여 상황이 이상해졌을 때 일어날 수 있는 일을 시뮬레이션했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78408",
+      "titleOriginal": "‘Not Trump’s Decision’: Lukashenko Says Ukrainians Must Choose Their President",
+      "url": "https://www.kyivpost.com/post/87306",
+      "lang": "en",
+      "publishedAt": "2026-10-17T08:34:40.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프의 결정이 아니다’: 루카셴코, 우크라이나인은 대통령을 선택해야 한다고 말하다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19538",
+      "titleOriginal": "Desperate passengers at Moscow airports have started praying to the departure boards, waiting for their flights. Ukrainian drones forced a near seven hour airspace shutdown overnight, delaying or canceling more than 370 flights. Sobyanin cl",
+      "url": "https://t.me/wartranslated/19538",
+      "lang": "en",
+      "publishedAt": "2026-10-17T07:59:37.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "모스크바 공항의 필사적인 승객들이 항공편을 기다리며 출국 심사대에 기도를 올리기 시작했습니다. 우크라이나 드론은 하룻밤 사이에 거의 7시간에 가까운 영공을 폐쇄하여 370편 이상의 항공편을 지연 또는 취소했습니다. Sobyanin cl",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19537",
+      "titleOriginal": "Putin's envoy Dmitriev says Russia and the US are discussing a range of economic projects, including a diesel deal he calls crucial \"not only for the US but for the whole world.\" Other items include fertilizers, aluminum, rare earths, Arcti",
+      "url": "https://t.me/wartranslated/19537",
+      "lang": "en",
+      "publishedAt": "2026-10-17T07:56:58.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "푸틴 대통령의 드미트리예프 특사는 러시아와 미국이 \"미국뿐만 아니라 전 세계를 위해 중요한\" 디젤 계약을 포함한 다양한 경제 프로젝트를 논의하고 있다고 말했다. \"기타 품목에는 비료, 알루미늄, 희토류, 아크티",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45324",
+      "titleOriginal": "BREAKING - Trump signs executive order waiving new Russia sanctions",
+      "url": "https://t.me/insiderpaper/45324",
+      "lang": "en",
+      "publishedAt": "2026-10-17T07:54:37.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "파기 - 트럼프, 새로운 러시아 제재 면제 행정명령 서명",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19535",
+      "titleOriginal": "Trump signed an executive order waiving almost all the new Graham Act sanctions on Russia just weeks after signing the law itself, citing US national interests.",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
+      "lang": "en",
+      "publishedAt": "2026-10-17T07:07:30.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "트럼프는 법 자체에 서명 한 지 불과 몇 주 만에 러시아에 대한 거의 모든 새로운 그레이엄 법 제재를 포기하는 행정 명령에 서명했다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19534",
+      "titleOriginal": "Several Russian regions are currently under attack. Neptune missiles aimed at Maikop airfield were shot down over the Black Sea. Rostov region is under missile attack, and air raid alerts are now spreading into Moscow region too. If our tra",
+      "url": "https://t.me/wartranslated/19534",
+      "lang": "en",
+      "publishedAt": "2026-10-17T07:04:41.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "현재 몇몇 러시아 지역이 공격을 받고 있습니다. 마이콥 비행장을 겨냥한 해왕성 미사일이 흑해 상공에서 격추되었습니다. 로스토프 지역은 미사일 공격을 받고 있으며, 이제 공습 경보가 모스크바 지역으로도 확산되고 있습니다. 우리의 TRA가",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15608",
+      "titleOriginal": "Follow our Daily News Brief for Saturday, October 17th",
+      "url": "https://trt.world/c5j9",
+      "lang": "en",
+      "publishedAt": "2026-10-17T06:57:29.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "10월 17일 토요일 일일 뉴스 브리프를 팔로우하세요",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78407",
+      "titleOriginal": "Trump waives Russian sanctions outlined in Graham Act before they take effect",
+      "url": "https://thehill.com/homenews/administration/6155621-trump-waives-russian-sanctions-act-tariffs/amp/",
+      "lang": "en",
+      "publishedAt": "2026-10-17T06:09:34.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프는 그라함 법에 명시된 러시아 제재가 발효되기 전에 이를 포기한다",
+      "translated": true
+    },
     {
       "id": "worldnews:78405",
       "titleOriginal": "Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in US national interest",
@@ -166,17 +320,6 @@
       "source": "Disclose.tv",
       "region": "속보",
       "title": "새로운 소식 - 일론 머스크는 우크라이나의 스타링크 속도를 늦추겠다는 생각으로 트럼프에게 접근했다고 텔레그래프가 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19532",
-      "titleOriginal": "Several Russian regions are currently under attack. Neptune missiles aimed at Maikop airfield were shot down over the Black Sea. Rostov region is under missile attack, and air raid alerts are now spreading into Moscow region too.",
-      "url": "http://patreon.com/c/WarTranslated",
-      "lang": "en",
-      "publishedAt": "2026-10-16T19:26:17.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "현재 몇몇 러시아 지역이 공격을 받고 있습니다. 마이콥 비행장을 겨냥한 해왕성 미사일이 흑해 상공에서 격추되었습니다. 로스토프 지역은 미사일 공격을 받고 있으며, 공습 경보가 모스크바 지역으로도 확산되고 있습니다",
       "translated": true
     },
     {
@@ -1508,149 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "푸틴: \"러시아는 우크라이나의 정유, 물류, 에너지 시설 파업에 대응할 것입니다. 시작하지 말았어야지",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21914",
-      "titleOriginal": "JUST IN - Nearly half of Muslims living in France would consider leaving the country if Le Pen wins the election, according to an Ifop survey for the magazine Marianne.",
-      "url": "https://t.me/disclosetv/21914",
-      "lang": "en",
-      "publishedAt": "2026-10-15T17:55:18.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "JUST IN - 잡지 마리안느 (Marianne) 의 Ifop 조사에 따르면 프랑스에 거주하는 무슬림의 거의 절반이 르펜이 선거에서 이기면 출국을 고려할 것이라고 합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9584",
-      "titleOriginal": "Sony made a $5,900 gold-plated Walkman MP3 player",
-      "url": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player",
-      "lang": "en",
-      "publishedAt": "2026-10-15T17:51:42.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "소니는 $ 5,900 골드 도금 워크맨 MP3 플레이어를 만들었습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9583",
-      "titleOriginal": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
-      "url": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
-      "lang": "en",
-      "publishedAt": "2026-10-15T17:37:03.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Volvo는 핸즈프리 지점 간 주행을 위해 Nvidia의 기술을 사용합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9582",
-      "titleOriginal": "Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off",
-      "url": "https://telegra.ph/Alienwares-latest-34-inch-QD-OLED-gaming-monitor-is-50-off-10-15-4",
-      "lang": "en",
-      "publishedAt": "2026-10-15T17:37:01.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Alienware의 최신 34형 QD-OLED 게이밍 모니터가 $ 50 할인됩니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78376",
-      "titleOriginal": "UK Sends Ukraine More Storm Shadow Missiles to Hit Russian Sites",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-15/uk-sends-ukraine-more-storm-shadow-missiles-to-hit-russian-sites",
-      "lang": "en",
-      "publishedAt": "2026-10-15T17:34:08.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "영국, 우크라이나에 폭풍 그림자 미사일 더 보내 러시아 유적지 타격",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45296",
-      "titleOriginal": "Pacific Ring of Fire rocked by 150+ earthquakes in just 7 days",
-      "url": "https://insiderpaper.com/pacific-ring-of-fire-rocked-by-150-earthquakes-in-just-7-days/",
-      "lang": "en",
-      "publishedAt": "2026-10-15T17:29:46.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "단 7일 만에 150개 이상의 지진으로 흔들리는 태평양 불의 고리",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15605",
-      "titleOriginal": "US President Donald Trump announced plans for major oil, gas, and mineral exploration in Greenland amid elevated global energy prices due to months of war on Iran, despite Greenland halting new oil licensing in 2021 over environmental conce",
-      "url": "https://t.me/trtworld/15605",
-      "lang": "en",
-      "publishedAt": "2026-10-15T17:28:12.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "도널드 트럼프 (Donald Trump) 미국 대통령은 2021년 그린란드가 환경 보호에 대한 신규 석유 허가를 중단했음에도 불구하고 이란과의 전쟁으로 인해 전 세계 에너지 가격이 상승하는 가운데 그린란드에서 주요 석유, 가스 및 광물 탐사 계획을 발표했습니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21913",
-      "titleOriginal": "NEW - U.S. voters rank government corruption as top concern, above inflation and healthcare — Fox News poll",
-      "url": "https://t.me/disclosetv/21913",
-      "lang": "en",
-      "publishedAt": "2026-10-15T17:26:18.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "새로운 소식 - 미국 유권자들은 정부의 부패를 인플레이션과 건강 관리의 최우선 관심사로 꼽습니다. — 폭스 뉴스 여론 조사",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9581",
-      "titleOriginal": "Google is making inline links more prominent in AI responses",
-      "url": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links",
-      "lang": "en",
-      "publishedAt": "2026-10-15T17:25:52.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Google은 AI 응답에서 인라인 링크를 더욱 두드러지게 만들고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9580",
-      "titleOriginal": "Sony’s WH-1000XM6 headphones are $130 off today only",
-      "url": "https://telegra.ph/Sonys-WH-1000XM6-headphones-are-130-off-today-only-10-15-4",
-      "lang": "en",
-      "publishedAt": "2026-10-15T17:21:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "소니의 WH-1000XM6 헤드폰은 오늘만 $ 130 할인됩니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45295",
-      "titleOriginal": "Deadly fungus that attacks the brain is on the rise in the US, CDC warns",
-      "url": "https://insiderpaper.com/deadly-fungus-that-attacks-the-brain-is-on-the-rise-in-the-us-cdc-warns/",
-      "lang": "en",
-      "publishedAt": "2026-10-15T16:56:55.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "미국 질병통제예방센터 (CDC) 는 미국에서 뇌를 공격하는 치명적인 균류가 증가하고 있다고 경고했다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45294",
-      "titleOriginal": "BREAKING - France, Germany strike deal on future of car industry: diplomats",
-      "url": "https://insiderpaper.com/france-germany-strike-deal-on-future-of-car-industry-diplomats/",
-      "lang": "en",
-      "publishedAt": "2026-10-15T16:42:12.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 프랑스, 독일, 자동차 산업의 미래에 대한 파업 거래: 외교관",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9579",
-      "titleOriginal": "Friends don’t let friends feed their data to AI agents",
-      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-      "lang": "en",
-      "publishedAt": "2026-10-15T16:30:51.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "친구는 친구가 AI 상담원에게 데이터를 제공하도록 내버려두지 않습니다",
       "translated": true
     }
   ]
