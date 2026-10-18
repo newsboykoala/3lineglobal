@@ -1,8 +1,173 @@
 {
-  "updatedAt": "2026-10-18T18:47:34.780Z",
+  "updatedAt": "2026-10-18T21:17:33.092Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "disclosetv:21930",
+      "titleOriginal": "NEW - 2026 Nobel Peace Prize Laurete, Navanethem “Navi” Pillay , says there has been \"a lot of irresponsible speech,\" from Trump and that his legal advisors should \"inform him of international law,\" that places a responsibility on political",
+      "url": "https://t.me/disclosetv/21930",
+      "lang": "en",
+      "publishedAt": "2026-10-18T21:05:01.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "새로운 소식 - 2026년 노벨 평화상 수상자 로레테, 나바네헴 \"나비\" 필레이는 트럼프로부터 \"무책임한 연설\" 이 많이 있었고 그의 법률 고문은 정치적 책임을 지는 \"국제법\" 을 그에게 알려야 한다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19604",
+      "titleOriginal": "Trump says he won't sign new Russia sanctions, claiming it would hurt his \"progress\" in peace talks. He also blames Zelensky's refinery strikes for global diesel price pain and insists Zelensky \"never wanted\" to end the war, not Russia's on",
+      "url": "https://t.me/wartranslated/19604",
+      "lang": "en",
+      "publishedAt": "2026-10-18T20:48:03.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "트럼프 대통령은 새로운 러시아 제재에 서명하지 않겠다고 말하면서 평화 회담에서 자신의 \"진전\" 을 해칠 것이라고 주장했다. 그는 또한 젤렌스키의 정유 공장 파업이 글로벌 디젤 가격의 고통을 초래한다고 비난하며 젤렌스키가 러시아가 아닌 전쟁을 끝내기 위해 \"결코 원하지 않았다\" 고 주장한",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45335",
+      "titleOriginal": "BREAKING: Trump says Zelensky does not want to end the war and says Ukrainian strikes on Russian refineries are hurting global diesel markets, including the U.S.",
+      "url": "https://t.me/insiderpaper/45335",
+      "lang": "en",
+      "publishedAt": "2026-10-18T20:43:59.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 트럼프는 젤렌스키가 전쟁을 끝내고 싶지 않다고 말하며 러시아 정유공장에 대한 우크라이나의 파업이 미국을 포함한 글로벌 디젤 시장에 해를 끼치고 있다고 말했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78461",
+      "titleOriginal": "Lithuania says attempted Starlink arson was Russia-linked sabotage",
+      "url": "https://www.reuters.com/business/media-telecom/lithuania-says-attempted-starlink-arson-was-russia-linked-sabotage-2026-10-18/",
+      "lang": "en",
+      "publishedAt": "2026-10-18T20:34:25.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "리투아니아, 스타링크 방화 시도는 러시아와 연계된 사보타지였다고 주장",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78460",
+      "titleOriginal": "Canada confirms plan to diversify away from Elon Musk's Starlink",
+      "url": "https://cultmtl.com/2026/09/canada-confirms-plan-to-diversify-away-from-elon-musks-starlink/",
+      "lang": "en",
+      "publishedAt": "2026-10-18T20:29:19.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "캐나다, 일론 머스크의 스타링크에서 벗어나 다각화 계획 확정",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21929",
+      "titleOriginal": "NEW - Meta’s new commercial terms let it use web scrapers to crawl sites associated with business accounts, effective October 30.",
+      "url": "https://www.disclose.tv/id/mofiz3xz9v/",
+      "lang": "en",
+      "publishedAt": "2026-10-18T20:18:32.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "새로운 기능 - Meta의 새로운 상업 용어는 10월 30일부터 웹 스크레이퍼를 사용하여 비즈니스 계정과 연결된 사이트를 크롤링할 수 있도록 합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19603",
+      "titleOriginal": "Zelensky tells Bloomberg steps have been taken to pressure Ukraine into capitulating to Russia, though he stops short of blaming US partners directly, saying \"that's just how it looks.\"",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/zelenskyy-says-trump-is-pushing-ukraine-to-capitulate-to-russia?srnd=homepage-europe",
+      "lang": "en",
+      "publishedAt": "2026-10-18T20:17:23.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "젤렌스키는 블룸버그가 우크라이나가 러시아에 항복하도록 압력을 가하기 위한 조치를 취했다고 말하지만, 미국 파트너를 직접 비난하는 것은 멈추지 않고 \"그렇게 보인다\" 고 말한다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19602",
+      "titleOriginal": "US Energy Secretary Chris Wright claims on CNN that allowing Russian diesel sales is actually pressure on Russia, not a concession. He argues Russia has no diesel surplus to export unless it scales down the war, calling it a \"creative\" ince",
+      "url": "https://t.me/wartranslated/19602",
+      "lang": "en",
+      "publishedAt": "2026-10-18T20:14:24.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "크리스 라이트 (Chris Wright) 미국 에너지부 장관은 CNN에서 러시아의 디젤 판매를 허용하는 것은 사실상 러시아에 대한 압력이지 양보가 아니라고 주장한다. 그는 러시아가 전쟁을 축소하지 않는 한 수출할 디젤 잉여가 없다고 주장하며, 이를 \"창조적\" 잉스라고 부른다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19601",
+      "titleOriginal": "Russian monitoring resources report up to 350 drones in the air right now, with the heaviest concentration over Belgorod and Voronezh regions. Smaller clusters are tracked near Kursk, Rostov, Luhansk, and western Crimea. If our translations",
+      "url": "https://t.me/wartranslated/19601",
+      "lang": "en",
+      "publishedAt": "2026-10-18T20:13:19.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아 모니터링 자원은 현재 공중에서 최대 350대의 드론을 보고하고 있으며, 벨고로드와 보로네시 지역에 가장 많은 드론이 집중되어 있습니다. 더 작은 클러스터는 쿠르스크, 로스토프, 루한스크 및 크림반도 서부 근처에서 추적됩니다. 우리의 번역은",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92003",
+      "titleOriginal": "One Blood Type Seems to Carry a Higher Risk of Type 2 Diabetes",
+      "url": "https://www.sciencealert.com/one-blood-type-seems-to-carry-a-higher-risk-of-type-2-diabetes",
+      "lang": "en",
+      "publishedAt": "2026-10-18T20:02:51.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "한 혈액형이 제2형 당뇨병의 더 높은 위험을 수반하는 것으로 보입니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21928",
+      "titleOriginal": "NEW - Following their election victory in Berlin, the far-left \"Die Linke\" party, the Greens, and the SPD want to radically reshape Germany’s capital: voting rights for all foreigners after 5 years, mass nationalizations, more immigration, ",
+      "url": "https://t.me/disclosetv/21928",
+      "lang": "en",
+      "publishedAt": "2026-10-18T19:41:49.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "새로운 소식 - 베를린에서 선거에서 승리한 후, 극좌파 \"Die Linke\" 정당, 녹색당 및 SPD는 독일의 수도를 근본적으로 재구성하기를 원합니다. 5 년 후 모든 외국인을위한 투표권, 대량 국적화, 더 많은 이민,",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9632",
+      "titleOriginal": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+      "url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
+      "lang": "en",
+      "publishedAt": "2026-10-18T19:37:00.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "미스터 오르간은 내가 본 가장 불안한 다큐멘터리 중 하나입니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78459",
+      "titleOriginal": "Zelenskyy says Ukraine will not prevail if US officially sides with Russia",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/18/8058646/",
+      "lang": "en",
+      "publishedAt": "2026-10-18T19:29:36.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "젤렌스키는 미국이 러시아를 공식적으로 편들면 우크라이나가 우세하지 않을 것이라고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19599",
+      "titleOriginal": "Air raid sirens are sounding across Russian territory right now.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-10-18T19:26:15.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "현재 러시아 영토 전역에 공습 사이렌 소리가 들리고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19598",
+      "titleOriginal": "Russian drone strikes on Black Sea merchant ships are creeping toward NATO shores, The Guardian reports, six vessels hit in just 10 days. Analysts warn escalation near Bulgaria and Romania could push NATO toward Article 4 consultations.",
+      "url": "https://www.theguardian.com/business/2026/oct/18/drone-attacks-ships-black-sea-russia-ukraine-war",
+      "lang": "en",
+      "publishedAt": "2026-10-18T19:01:40.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "가디언은 흑해 상선에 대한 러시아 드론 공격이 나토 해안을 향해 기승을 부리고 있다고 보도했다. 단 10일 만에 6척의 선박이 충돌했다. 분석가들은 불가리아와 루마니아 근처의 에스컬레이션이 NATO를 제4조 협의로 밀어붙일 수 있다고 경고한다",
+      "translated": true
+    },
     {
       "id": "theverge_news:9631",
       "titleOriginal": "A woman was arrested in Philly for blocking a delivery robot",
@@ -78,17 +243,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "어젯밤 상트페테르부르크 석유 저장고 파업의 순간",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19594",
-      "titleOriginal": "Air raid sirens are sounding across Russian territory right now.",
-      "url": "https://t.me/wartranslated/19594",
-      "lang": "en",
-      "publishedAt": "2026-10-18T17:08:15.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "현재 러시아 영토 전역에 공습 사이렌 소리가 들리고 있습니다",
       "translated": true
     },
     {
@@ -1497,160 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "CNBC: 트럼프의 러시아 디젤 거래는 푸틴에게 돈 이상의 것을 제공 할 수 있습니다 — 그리고 우크라이나에 대한 철자 문제",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91990",
-      "titleOriginal": "2,200-Year-Old Fingerprints Reveal Who Really Built China's Mysterious Terracotta Army",
-      "url": "https://www.sciencealert.com/2200-year-old-fingerprints-reveal-who-really-built-chinas-mysterious-terracotta-army",
-      "lang": "en",
-      "publishedAt": "2026-10-17T10:10:47.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "중국의 신비한 테라코타 군대를 실제로 건설한 2,200년 된 지문 공개",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21917",
-      "titleOriginal": "JUST IN - Pope Leo XIV is fit to be discharged — Vatican",
-      "url": "https://t.me/disclosetv/21917",
-      "lang": "en",
-      "publishedAt": "2026-10-17T09:42:45.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "방금 - 교황 레오 14세 퇴역 적합 — 바티칸",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78409",
-      "titleOriginal": "Russia and US May Announce Joint Data Center Projects, Kremlin Envoy Says",
-      "url": "https://united24media.com/world/russia-and-us-may-announce-joint-data-center-projects-kremlin-envoy-says-23537",
-      "lang": "en",
-      "publishedAt": "2026-10-17T09:24:24.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아와 미국은 공동 데이터 센터 프로젝트를 발표 할 수 있다고 Kremlin Envoy는 말합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19539",
-      "titleOriginal": "Zelensky says Russia carried out one of its largest strikes yet on Ukraine's energy system, hitting more than 15 power generation and transmission facilities across several regions.",
-      "url": "https://t.me/wartranslated/19539",
-      "lang": "en",
-      "publishedAt": "2026-10-17T09:18:15.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키는 러시아가 우크라이나의 에너지 시스템에 대한 가장 큰 파업 중 하나를 수행하여 여러 지역에 걸쳐 15개 이상의 발전 및 송전 시설을 공격했다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91989",
-      "titleOriginal": "Physicists Simulated What Might Happen When Two Wormholes Collide, And Things Got Weird",
-      "url": "https://www.sciencealert.com/physicists-simulated-what-might-happen-when-two-wormholes-collide-and-things-got-weird",
-      "lang": "en",
-      "publishedAt": "2026-10-17T08:40:57.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "물리학자들은 두 개의 웜홀이 충돌하여 상황이 이상해졌을 때 일어날 수 있는 일을 시뮬레이션했습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78408",
-      "titleOriginal": "‘Not Trump’s Decision’: Lukashenko Says Ukrainians Must Choose Their President",
-      "url": "https://www.kyivpost.com/post/87306",
-      "lang": "en",
-      "publishedAt": "2026-10-17T08:34:40.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "트럼프의 결정이 아니다’: 루카셴코, 우크라이나인은 대통령을 선택해야 한다고 말하다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19538",
-      "titleOriginal": "Desperate passengers at Moscow airports have started praying to the departure boards, waiting for their flights. Ukrainian drones forced a near seven hour airspace shutdown overnight, delaying or canceling more than 370 flights. Sobyanin cl",
-      "url": "https://t.me/wartranslated/19538",
-      "lang": "en",
-      "publishedAt": "2026-10-17T07:59:37.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "모스크바 공항의 필사적인 승객들이 항공편을 기다리며 출국 심사대에 기도를 올리기 시작했습니다. 우크라이나 드론은 하룻밤 사이에 거의 7시간에 가까운 영공을 폐쇄하여 370편 이상의 항공편을 지연 또는 취소했습니다. Sobyanin cl",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19537",
-      "titleOriginal": "Putin's envoy Dmitriev says Russia and the US are discussing a range of economic projects, including a diesel deal he calls crucial \"not only for the US but for the whole world.\" Other items include fertilizers, aluminum, rare earths, Arcti",
-      "url": "https://t.me/wartranslated/19537",
-      "lang": "en",
-      "publishedAt": "2026-10-17T07:56:58.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "푸틴 대통령의 드미트리예프 특사는 러시아와 미국이 \"미국뿐만 아니라 전 세계를 위해 중요한\" 디젤 계약을 포함한 다양한 경제 프로젝트를 논의하고 있다고 말했다. \"기타 품목에는 비료, 알루미늄, 희토류, 아크티",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45324",
-      "titleOriginal": "BREAKING - Trump signs executive order waiving new Russia sanctions",
-      "url": "https://t.me/insiderpaper/45324",
-      "lang": "en",
-      "publishedAt": "2026-10-17T07:54:37.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "파기 - 트럼프, 새로운 러시아 제재 면제 행정명령 서명",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19535",
-      "titleOriginal": "Trump signed an executive order waiving almost all the new Graham Act sanctions on Russia just weeks after signing the law itself, citing US national interests.",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
-      "lang": "en",
-      "publishedAt": "2026-10-17T07:07:30.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "트럼프는 법 자체에 서명 한 지 불과 몇 주 만에 러시아에 대한 거의 모든 새로운 그레이엄 법 제재를 포기하는 행정 명령에 서명했다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19534",
-      "titleOriginal": "Several Russian regions are currently under attack. Neptune missiles aimed at Maikop airfield were shot down over the Black Sea. Rostov region is under missile attack, and air raid alerts are now spreading into Moscow region too. If our tra",
-      "url": "https://t.me/wartranslated/19534",
-      "lang": "en",
-      "publishedAt": "2026-10-17T07:04:41.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "현재 몇몇 러시아 지역이 공격을 받고 있습니다. 마이콥 비행장을 겨냥한 해왕성 미사일이 흑해 상공에서 격추되었습니다. 로스토프 지역은 미사일 공격을 받고 있으며, 이제 공습 경보가 모스크바 지역으로도 확산되고 있습니다. 우리의 TRA가",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15608",
-      "titleOriginal": "Follow our Daily News Brief for Saturday, October 17th",
-      "url": "https://trt.world/c5j9",
-      "lang": "en",
-      "publishedAt": "2026-10-17T06:57:29.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "10월 17일 토요일 일일 뉴스 브리프를 팔로우하세요",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78407",
-      "titleOriginal": "Trump waives Russian sanctions outlined in Graham Act before they take effect",
-      "url": "https://thehill.com/homenews/administration/6155621-trump-waives-russian-sanctions-act-tariffs/amp/",
-      "lang": "en",
-      "publishedAt": "2026-10-17T06:09:34.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "트럼프는 그라함 법에 명시된 러시아 제재가 발효되기 전에 이를 포기한다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78405",
-      "titleOriginal": "Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in US national interest",
-      "url": "https://apnews.com/article/russia-sanctions-trump-ukraine-e50c561ab805883bb4e484c092d8fadd",
-      "lang": "en",
-      "publishedAt": "2026-10-17T02:24:25.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "트럼프 대통령은 의회에서 통과된 새로운 러시아 제재를 보류하면서 포기는 미국의 국익을 위한 것이라고 말했습니다",
       "translated": true
     }
   ]
