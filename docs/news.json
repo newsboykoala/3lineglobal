@@ -1,8 +1,107 @@
 {
-  "updatedAt": "2026-10-18T03:16:55.383Z",
+  "updatedAt": "2026-10-18T08:15:24.523Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78444",
+      "titleOriginal": "Ukraine resumes drone strikes on Russian oil refineries following collapse of energy infrastructure ceasefire",
+      "url": "https://www.reuters.com/world/zelenskiy-says-ukraine-will-resume-strikes-russian-refineries-ft-reports-2026-10-15/",
+      "lang": "en",
+      "publishedAt": "2026-10-18T08:04:40.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나, 에너지 인프라 휴전 후 러시아 정유소에서 드론 공격 재개",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19565",
+      "titleOriginal": "Rubio says Ukraine currently has no access to Starshield and wants it to strike deeper into Russian territory. He stressed Starlink and Starshield are different systems, one commercial, the other for military use.",
+      "url": "https://t.me/wartranslated/19565",
+      "lang": "en",
+      "publishedAt": "2026-10-18T07:15:37.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "루비오는 우크라이나는 현재 스타쉴드에 접근할 수 없으며 러시아 영토를 더 깊이 공격하기를 원한다고 말합니다. 그는 Starlink와 Starshield는 서로 다른 시스템이며, 하나는 상업용이고 다른 하나는 군사용으로 사용된다고 강조했습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19564",
+      "titleOriginal": "Ukrainian drones unleashed hell on St. Petersburg overnight, attacking an oil loading port, an oil depot, an Ozon logistics warehouse, and VK's data center, under a massive drone strike. A bridge was also hit.",
+      "url": "https://t.me/wartranslated/19564",
+      "lang": "en",
+      "publishedAt": "2026-10-18T07:14:26.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나 드론은 상트페테르부르크에서 하룻밤 사이에 거대한 드론 공격으로 석유 적재 항구, 석유 저장소, 오존 물류 창고 및 VK의 데이터 센터를 공격했습니다. 다리도 부딪혔다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78443",
+      "titleOriginal": "Zelenskyy Says Starlink Restrictions Apply Only in Ukraine While SpaceX Ignores Kyiv’s Inquiries",
+      "url": "https://united24media.com/war-in-ukraine/zelenskyy-says-starlink-restrictions-apply-only-in-ukraine-while-spacex-ignores-kyivs-inquiries-23549",
+      "lang": "en",
+      "publishedAt": "2026-10-18T07:09:12.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "Zelenskyy는 SpaceX가 키예프의 문의를 무시하는 동안 우크라이나에서만 스타링크 제한이 적용된다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15611",
+      "titleOriginal": "Follow our Daily News Brief for Sunday, October 18th",
+      "url": "https://trt.world/c5jf",
+      "lang": "en",
+      "publishedAt": "2026-10-18T06:41:06.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "10월 18일 일요일 일일 뉴스 브리프를 팔로우하세요",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12443",
+      "titleOriginal": "Yemeni sources: Clashes intensify between government forces and Houthi militants after their attack on areas of the Old Airport in Taiz. https://yemen.liveuamap.com/en/2026/18-october-06-yemeni-sources-clashes-intensify-between-government",
+      "url": "https://yemen.liveuamap.com/en/2026/18-october-06-yemeni-sources-clashes-intensify-between-government",
+      "lang": "en",
+      "publishedAt": "2026-10-18T06:34:43.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "예멘 소식통: 타이즈 구 공항 지역에 대한 정부군과 후티 무장 세력 간의 충돌이 심화되고 있습니다. https://yemen.liveuamap.com/en/2026/18-october-06-yemeni-sources-clashes-intensify-between-government",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78442",
+      "titleOriginal": "UK and EU agree to hold Brexit ‘reset’ summit on Nov. 20",
+      "url": "https://www.politico.eu/article/andy-burnham-antonio-costa-uk-eu-brexit-reset-summit-november/",
+      "lang": "en",
+      "publishedAt": "2026-10-18T06:34:06.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "영국과 EU, 11월 20일 브렉시트 ‘리셋’ 정상회담 개최 합의",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12442",
+      "titleOriginal": "At least seven people are dead and dozens more injured following an explosion and fire at CFB Wainwright, according to multiple military sources https://canada.liveuamap.com/en/2026/18-october-05-at-least-seven-people-are-dead-and-dozens-mo",
+      "url": "https://canada.liveuamap.com/en/2026/18-october-05-at-least-seven-people-are-dead-and-dozens-more",
+      "lang": "en",
+      "publishedAt": "2026-10-18T06:29:46.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "여러 군사 소식통에 따르면 CFB Wainwright에서 폭발과 화재가 발생하여 최소 7 명이 사망하고 수십 명이 더 다쳤습니다. https://canada.liveuamap.com/en/2026/18-october-05-at-least-seven-people-are-dead-and-d",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78441",
+      "titleOriginal": "France protests: Violent clashes, looting and buildings ablaze as over 1,000 arrested",
+      "url": "https://bbc.com/news/articles/c6d937wedj7jo",
+      "lang": "en",
+      "publishedAt": "2026-10-18T05:14:36.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "프랑스 시위: 1,000명 이상이 체포됨에 따라 폭력적인 충돌, 약탈 및 건물이 타오름",
+      "translated": true
+    },
     {
       "id": "worldnews:78439",
       "titleOriginal": "Canada's prime minister says 'serious incident' caused a major fire at a military base in Alberta",
@@ -1552,105 +1651,6 @@
       "source": "ScienceAlert",
       "region": "과학",
       "title": "식수에서 미세 플라스틱을 제거하는 놀랍도록 간단한 방법이 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78393",
-      "titleOriginal": "‘We Pay for It’: Germany Demands Starlink Restrictions in Ukraine Be Lifted",
-      "url": "https://www.kyivpost.com/post/87287",
-      "lang": "en",
-      "publishedAt": "2026-10-16T12:04:39.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "We Pay for It’: 독일, 우크라이나 스타링크 제한 해제 요구",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9595",
-      "titleOriginal": "Surface Laptop Ultra review: a different kind of MacBook Pro",
-      "url": "https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review",
-      "lang": "en",
-      "publishedAt": "2026-10-16T12:02:06.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Surface Laptop Ultra 리뷰: 다른 종류의 MacBook Pro",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9596",
-      "titleOriginal": "The iPhone Duo is now available to preorder at $1,999",
-      "url": "https://www.theverge.com/gadgets/988582/apple-iphone-duo-preorder-buy-foldable",
-      "lang": "en",
-      "publishedAt": "2026-10-16T12:02:06.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "IPhone Duo는 이제 $ 1,999로 예약 주문할 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78392",
-      "titleOriginal": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
-      "url": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
-      "lang": "en",
-      "publishedAt": "2026-10-16T11:49:40.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아, 유럽을 화나게 하는 미국의 초청으로 방콕의 G20 테이블에 복귀",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19519",
-      "titleOriginal": "It's not for Trump to dictate who should lead Ukraine, that's for the Ukrainian people to decide, Lukashenko says.",
-      "url": "https://t.me/wartranslated/19519",
-      "lang": "en",
-      "publishedAt": "2026-10-16T11:30:08.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "루카셴코는 누가 우크라이나를 이끌어야 하는지를 트럼프가 결정하는 것이 아니라 우크라이나 국민이 결정해야 한다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19518",
-      "titleOriginal": "Fire breaks out near an oil refinery in Ryazan after an overnight attack.",
-      "url": "https://t.me/wartranslated/19518",
-      "lang": "en",
-      "publishedAt": "2026-10-16T11:23:35.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "하룻밤 사이에 랴잔의 정유소 근처에서 화재가 발생합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45315",
-      "titleOriginal": "NEW: Porn showing choking or incest to be banned from early November, UK government says",
-      "url": "https://t.me/insiderpaper/45315",
-      "lang": "en",
-      "publishedAt": "2026-10-16T11:16:49.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "새로운 소식: 영국 정부가 11월 초부터 질식이나 근친상간을 금지한다고 밝힌 포르노",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45314",
-      "titleOriginal": "NEW: China has told Israel to stop its \"forced establishment\" of settlements in the West Bank and reverse its actions, Chinese foreign minister says - BBC",
-      "url": "https://t.me/insiderpaper/45314",
-      "lang": "en",
-      "publishedAt": "2026-10-16T11:09:04.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "새로운 소식: 중국은 이스라엘에게 요르단강 서안의 정착촌에 대한 \"강제 설립\" 을 중단하고 행동을 뒤집으라고 말했다고 중국 외무장관이 말했습니다. - BBC",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78391",
-      "titleOriginal": "Poland provided aid to defend Kyiv, Zelensky says",
-      "url": "https://kyivindependent.com/poland-provided-aid-to-defend-kyiv-zelensky-says/",
-      "lang": "en",
-      "publishedAt": "2026-10-16T10:54:21.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "폴란드가 키예프를 방어하기 위해 원조를 제공했다고 젤렌스키는 말합니다",
       "translated": true
     }
   ]
