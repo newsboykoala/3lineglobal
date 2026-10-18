@@ -1,8 +1,52 @@
 {
-  "updatedAt": "2026-10-18T21:17:33.092Z",
+  "updatedAt": "2026-10-18T23:30:34.264Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "theverge_news:9633",
+      "titleOriginal": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+      "lang": "en",
+      "publishedAt": "2026-10-18T22:31:12.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "사바나 경찰이 그녀의 얼음 요원 남편에게 Flock 로그인을 제공했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78462",
+      "titleOriginal": "'I want this war end' — Trumр defends pro-Russian policies in scathing diatribe against Zelensky",
+      "url": "https://kyivindependent.com/i-want-this-war-end-trump-defends-pro-russian-policies-in-scathing-diatribe-against-zelensky-2/",
+      "lang": "ru",
+      "publishedAt": "2026-10-18T22:29:16.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "나는 이 전쟁을 끝내고 싶다' — Trumр은 Zelensky에 대항하여 규범을 깎아내리는 친러시아 정책을 옹호한다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21932",
+      "titleOriginal": "NOW - Commander of 1st Canadian Division, Major General Wade Rutland says that a grass fire was ignited during a training session at CFB Wainwright, with strong winds causing the fire to spread and shift direction. The cause is \"under activ",
+      "url": "https://t.me/disclosetv/21932",
+      "lang": "en",
+      "publishedAt": "2026-10-18T21:49:52.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "지금 - 웨이드 러틀랜드 (Wade Rutland) 캐나다 제1사단 사령관은 CFB 웨인라이트 (Wainwright) 에서 훈련이 진행되는 동안 잔디 화재가 발생했으며, 강한 바람이 불어 화재가 확산되고 방향이 바뀌었다고 말합니다. 원인은 \"under activ",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21931",
+      "titleOriginal": "NEW - Japan to launch round-trip mission to Mars's moons with an unmanned Martian Moons eXploration (MMX) probe, in collaboration with U.S. and European space agencies.",
+      "url": "https://www.disclose.tv/id/g4v4f6a1px/",
+      "lang": "en",
+      "publishedAt": "2026-10-18T21:22:48.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "새로운 기능 - 일본은 미국 및 유럽 우주 기관과 공동으로 무인 MMX (Martian Moons eXploration) 프로브를 사용하여 화성 위성에 대한 왕복 임무를 시작합니다",
+      "translated": true
+    },
     {
       "id": "disclosetv:21930",
       "titleOriginal": "NEW - 2026 Nobel Peace Prize Laurete, Navanethem “Navi” Pillay , says there has been \"a lot of irresponsible speech,\" from Trump and that his legal advisors should \"inform him of international law,\" that places a responsibility on political",
@@ -1607,50 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "우크라이나 전쟁: ‘감사합니다, 프랑스’ – 젤렌스키는 무기 생산에 대한 약속된 면허를 확보했다고 발표했습니다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12440",
-      "titleOriginal": "Egyptian President: Egypt will implement any measures requested by Saudi Arabia to defend its security and sovereignty, according to instructions from King Salman and his Crown Prince. https://yemen.liveuamap.com/en/2026/17-october-10-egypt",
-      "url": "https://yemen.liveuamap.com/en/2026/17-october-10-egyptian-president-egypt-will-implement-any",
-      "lang": "en",
-      "publishedAt": "2026-10-17T10:45:10.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "이집트 대통령: 이집트는 살만 왕과 그의 황태자의 지시에 따라 사우디 아라비아의 안보와 주권을 지키기 위해 사우디 아라비아가 요청한 모든 조치를 이행 할 것입니다. https://yemen.liveuamap.com/en/2026/17-october-10-egypt",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19540",
-      "titleOriginal": "It is reported that a fire broke out overnight in Balakovo, Saratov Region, Russia. Monitoring channels write that the target of the attack was the industrial zone of the \"MZ Balakovo\" metallurgical plant and the region's energy infrastruct",
-      "url": "https://t.me/wartranslated/19540",
-      "lang": "en",
-      "publishedAt": "2026-10-17T10:42:37.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아 사라토프 지역 발라코보에서 하룻밤 사이에 화재가 발생한 것으로 알려졌습니다. 모니터링 채널은 공격의 대상이 \"MZ Balakovo\" 야금 공장의 공업 지대와 해당 지역의 에너지 인프라였다고 기록합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45325",
-      "titleOriginal": "BREAKING - Dozens arrested in Paris as day of protests begins across France",
-      "url": "https://t.me/insiderpaper/45325",
-      "lang": "en",
-      "publishedAt": "2026-10-17T10:35:01.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 프랑스 전역에서 시위가 시작되는 날 파리에서 수십 명이 체포됨",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78410",
-      "titleOriginal": "CNBC: Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
-      "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-      "lang": "en",
-      "publishedAt": "2026-10-17T10:14:15.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "CNBC: 트럼프의 러시아 디젤 거래는 푸틴에게 돈 이상의 것을 제공 할 수 있습니다 — 그리고 우크라이나에 대한 철자 문제",
       "translated": true
     }
   ]
