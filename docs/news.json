@@ -1,8 +1,107 @@
 {
-  "updatedAt": "2026-10-17T23:46:44.620Z",
+  "updatedAt": "2026-10-18T03:16:55.383Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78439",
+      "titleOriginal": "Canada's prime minister says 'serious incident' caused a major fire at a military base in Alberta",
+      "url": "https://apnews.com/article/canada-alberta-military-base-fire-wainwright-1a41899da5b6e797b000061fa4da9c6a",
+      "lang": "en",
+      "publishedAt": "2026-10-18T02:59:39.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "캐나다의 총리는 '심각한 사건' 이 앨버타의 군사 기지에서 큰 화재를 일으켰다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78438",
+      "titleOriginal": "Flames, explosions reported amid large Ukrainian drone attack on St. Petersburg",
+      "url": "https://kyivindependent.com/flames-explosions-reported-amid-large-ukrainian-drone-attack-on-st-petersburg/",
+      "lang": "en",
+      "publishedAt": "2026-10-18T02:54:32.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나의 대형 드론이 상트페테르부르크를 공격한 가운데 발생한 화염, 폭발 사고",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91996",
+      "titleOriginal": "Earth's Core Is Leaking All Sorts of Materials That Have Been Trapped Since Our Planet's Birth",
+      "url": "https://www.sciencealert.com/earths-core-is-leaking-all-sorts-of-materials-that-have-been-trapped-since-our-planets-birth",
+      "lang": "en",
+      "publishedAt": "2026-10-18T02:46:25.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "지구의 핵은 우리 행성의 탄생 이후 갇혀 있던 모든 종류의 물질을 유출하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78437",
+      "titleOriginal": "Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-suspends-new-russia-sanctions-deal-purchase-diesel-citing-nation-rcna603991",
+      "lang": "en",
+      "publishedAt": "2026-10-18T01:49:29.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "젤렌스키는 트럼프가 의회에서 통과된 새로운 러시아 제재를 포기하면서 ’푸틴에게 보답하고 있다' 고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45330",
+      "titleOriginal": "BREAKING: Canada's PM Mark Carney says a “serious incident” has sparked a major fire at Canadian Forces Base Wainwright in Alberta.",
+      "url": "https://t.me/insiderpaper/45330",
+      "lang": "en",
+      "publishedAt": "2026-10-18T01:44:45.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 캐나다의 마크 카니 (Mark Carney) 총리는 \"심각한 사건\" 이 앨버타 주 웨인라이트 (Wainwright) 캐나다군 기지에서 큰 화재를 일으켰다고 말했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78436",
+      "titleOriginal": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "url": "https://www.bbc.com/news/articles/cxr5yvzv7rp0o",
+      "lang": "en",
+      "publishedAt": "2026-10-18T01:09:24.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프는 Zelensky와 함께 ROW가 강화됨에 따라 몇 가지 러시아 제재를 면제합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45328",
+      "titleOriginal": "JUST IN - Mr. Beast says he wants the newly unveiled Tesla’s flying Roadster for a video",
+      "url": "https://t.me/insiderpaper/45328",
+      "lang": "en",
+      "publishedAt": "2026-10-18T00:50:14.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "JUST IN - Mr. Beast는 새로 공개된 테슬라의 비행 로드스터를 동영상으로 찍고 싶다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78435",
+      "titleOriginal": "Ukraine FM says Russian-held town is a 'death trap' with starving residents, Zelensky says genocide",
+      "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-911991",
+      "lang": "en",
+      "publishedAt": "2026-10-18T00:34:27.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나 FM은 러시아가 점령한 마을은 굶주리는 주민들이 사는 '죽음의 함정' 이라고 말합니다. 젤렌스키는 대량 학살에 대해 이렇게 말합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:91995",
+      "titleOriginal": "A New Injection Makes Fat Cells Self-Destruct, And Might Prevent GLP-1 Weight Regain",
+      "url": "https://www.sciencealert.com/a-new-injection-makes-fat-cells-self-destruct-and-might-prevent-glp-1-weight-regain",
+      "lang": "en",
+      "publishedAt": "2026-10-18T00:27:04.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "새로운 주사는 지방 세포를 자멸시키고 GLP-1 체중 회복을 방지할 수 있습니다",
+      "translated": true
+    },
     {
       "id": "worldnews:78434",
       "titleOriginal": "Romanian F-16s shoot down two drones over Black Sea, authorities say",
@@ -1552,105 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "폴란드가 키예프를 방어하기 위해 원조를 제공했다고 젤렌스키는 말합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19517",
-      "titleOriginal": "Radio Svoboda reports Zelensky and Hungarian PM Madyar are holding their first ever meeting right now, one on one with no delegations present, citing a source in the Ukrainian delegation.",
-      "url": "https://t.me/wartranslated/19517",
-      "lang": "en",
-      "publishedAt": "2026-10-16T10:45:28.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "라디오 스보보다 (Radio Svoboda) 는 젤렌스키와 헝가리 마드야르 (Madyar) 총리가 우크라이나 대표단의 한 소식통을 인용해 대표단 없이 일대일로 첫 회의를 열고 있다고 보도했다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19516",
-      "titleOriginal": "Lukashenko claims if Ukraine doesn't agree to a peace settlement this year, it will be even harder next year, and after that, impossible.",
-      "url": "https://t.me/wartranslated/19516",
-      "lang": "en",
-      "publishedAt": "2026-10-16T10:41:52.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "루카셴코는 우크라이나가 올해 평화 정착에 동의하지 않는다면 내년에는 더욱 어려워질 것이며, 그 이후에는 불가능할 것이라고 주장합니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:91982",
-      "titleOriginal": "Google's Quantum Computer Just Achieved a Major Breakthrough With 'Magic States'",
-      "url": "https://www.sciencealert.com/googles-quantum-computer-just-achieved-a-major-breakthrough-with-magic-states",
-      "lang": "en",
-      "publishedAt": "2026-10-16T10:41:08.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "Google의 Quantum 컴퓨터가 'Magic States' 를 통해 획기적인 발전을 이루었습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19514",
-      "titleOriginal": "Ukraine's General Staff says deep-strike drones hit a 55Zh6U Nebo-U radar station near Magri, Krasnodar region, overnight, sparking a fire. The radar, worth about 100 million dollars, is used to detect and track aircraft and missiles.",
-      "url": "https://t.me/wartranslated/19514",
-      "lang": "en",
-      "publishedAt": "2026-10-16T10:23:03.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 총참모부는 딥 스트라이크 드론이 크라스노다르 지역 마그리 인근의 55Zh6U 네보우 레이더 스테이션을 하룻밤 사이에 덮쳐 화재가 발생했다고 밝혔습니다. 약 1억 달러에 달하는 이 레이더는 항공기와 미사일을 탐지하고 추적하는 데 사용됩니다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15607",
-      "titleOriginal": "When asked about his relationship with Israeli Prime Minister Benjamin Netanyahu during an interview, US President Donald Trump stated that he does not trust anyone in politics.",
-      "url": "https://t.me/trtworld/15607",
-      "lang": "en",
-      "publishedAt": "2026-10-16T10:10:18.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "인터뷰에서 베냐민 네타냐후 이스라엘 총리와의 관계에 대해 물었을 때 도널드 트럼프 미국 대통령은 정치에서 아무도 신뢰하지 않는다고 말했다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45313",
-      "titleOriginal": "President Trump says he won't use nuclear weapons or send ground troops to Iran - Newsmax Interview",
-      "url": "https://t.me/insiderpaper/45313",
-      "lang": "en",
-      "publishedAt": "2026-10-16T10:03:41.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "트럼프 대통령은 핵무기를 사용하지 않거나 지상군을 이란에 파견하지 않겠다고 말했습니다. - Newsmax Interview",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9594",
-      "titleOriginal": "Time is a-changin’: say goodbye to the leap second",
-      "url": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
-      "lang": "en",
-      "publishedAt": "2026-10-16T10:02:01.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Time is a-changin ’: say goodbye to the leap second",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78390",
-      "titleOriginal": "Zelensky thanks EU's 'real leaders' for their continued support as bloc confirms new sanctions package on the way",
-      "url": "https://kyivindependent.com/zelensky-thanks-eus-real-leaders-for-their-continued-support-as-bloc-confirms-new-sanctions-package-on-the-way/",
-      "lang": "en",
-      "publishedAt": "2026-10-16T09:49:44.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "Zelensky는 블록이 새로운 제재 패키지를 확인함에 따라 EU의 '진정한 지도자' 들의 지속적인 지원에 감사드립니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19513",
-      "titleOriginal": "MAGA blogger Laura Loomer clapped back at Trump, saying swapping out Zelensky or holding elections won't end the war, because Putin's the one with imperial ambitions, and he's not stopping either way, UNIAN reports.",
-      "url": "https://t.me/wartranslated/19513",
-      "lang": "en",
-      "publishedAt": "2026-10-16T09:39:50.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "마가 (MAGA) 블로거 로라 루머 (Laura Loomer) 는 젤렌스키 (Zelensky) 를 바꾸거나 선거를 치르면 전쟁이 끝나지 않을 것이라고 말하면서 트럼프에게 박수를 쳤다. 왜냐하면 푸틴은 제국의 야망을 가진 사람이기 때문에 어느 쪽이든 멈추지 않고 있기 때문이라고 UNIAN",
       "translated": true
     }
   ]
