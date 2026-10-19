@@ -1,8 +1,63 @@
 {
-  "updatedAt": "2026-10-18T23:30:34.264Z",
+  "updatedAt": "2026-10-19T03:29:25.674Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:92005",
+      "titleOriginal": "New Form of Superconductor Behavior Discovered That We've Never Seen Before",
+      "url": "https://www.sciencealert.com/new-form-of-superconductor-behavior-discovered-that-weve-never-seen-before",
+      "lang": "en",
+      "publishedAt": "2026-10-19T02:27:16.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "이전에 볼 수 없었던 새로운 형태의 초전도체 거동이 발견되었습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78465",
+      "titleOriginal": "Report: Putin wants to discuss Ukraine's future with Trump and Chinese president - without Zelensky",
+      "url": "https://www.ynetnews.com/article/293cgzz6n",
+      "lang": "en",
+      "publishedAt": "2026-10-19T00:34:41.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "보고서: 푸틴 대통령은 젤렌스키 없이 트럼프 대통령과 중국 대통령과 우크라이나의 미래에 대해 논의하고자 합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92004",
+      "titleOriginal": "A Saline Injection Could Offer Longer Relief From Carpal Tunnel Pain",
+      "url": "https://www.sciencealert.com/a-saline-injection-could-offer-longer-relief-from-carpal-tunnel-pain",
+      "lang": "en",
+      "publishedAt": "2026-10-19T00:07:34.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "염수를 주입하면 손목 터널 통증에서 더 오래 벗어날 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78464",
+      "titleOriginal": "Trump Pressed Ukraine to Capitulate to Russia, Zelenskyy Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/zelenskyy-says-trump-is-pushing-ukraine-to-capitulate-to-russia?srnd=homepage-europe",
+      "lang": "en",
+      "publishedAt": "2026-10-18T23:39:39.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "젤렌스키는 트럼프가 우크라이나가 러시아에 항복하도록 압박했다고 말한다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78463",
+      "titleOriginal": "Lula Leads 51% to 49% in Vox Brasil Poll",
+      "url": "https://www.riotimesonline.com/vox-brasil-poll-lula-51-flavio-49-runoff-2026/",
+      "lang": "en",
+      "publishedAt": "2026-10-18T23:29:42.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "룰라, 복스 브라질 여론조사에서 51% ~ 49% 선두",
+      "translated": true
+    },
     {
       "id": "theverge_news:9633",
       "titleOriginal": "A Savannah police officer gave her Flock login to her ICE agent husband",
@@ -1596,61 +1651,6 @@
       "source": "Liveuamap",
       "region": "분쟁",
       "title": "이란 외무장관: 사우디아라비아와 예멘 간의 분쟁을 막기 위한 지원을 제공할 준비가 되었습니다 https://yemen.liveuamap.com/en/2026/17-october-11-iranian-foreign-minister-ready-to-provide-assistance",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19543",
-      "titleOriginal": "Zelensky says the easing of sanctions will keep going, calling the diesel deal just a first step. He argues this won't stop Putin, who instead feels emboldened by such support, and it certainly won't end the war.",
-      "url": "https://t.me/wartranslated/19543",
-      "lang": "en",
-      "publishedAt": "2026-10-17T11:43:04.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키는 제재 완화가 계속 진행될 것이며, 디젤 거래는 단지 첫 단계일 뿐이라고 말합니다. 그는 이것이 푸틴을 막지 못할 것이라고 주장한다. 대신 푸틴은 그러한 지원에 대담해졌다고 느끼고, 확실히 전쟁을 끝내지 못할 것이다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19542",
-      "titleOriginal": "Ukraine's General Staff confirms two strikes, hitting the Robaavia drone manufacturing plant near Lenina in Russia's Rostov region on October 16, and a logistics warehouse for a Russian missile brigade near Latyshi in Bryansk region on Octo",
-      "url": "https://t.me/wartranslated/19542",
-      "lang": "en",
-      "publishedAt": "2026-10-17T11:14:50.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 총참모부가 10월 16일 러시아 로스토프 지역의 레니나 인근 로바비아 드론 제조 공장과 옥토의 브랸스크 지역의 라티시 인근 러시아 미사일 여단을 위한 물류 창고에서 두 차례 공격을 확인했다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78412",
-      "titleOriginal": "Italy calls US weakening of Ukraine a \"major mistake\", says Putin cannot be stopped this way",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/17/8058469/",
-      "lang": "en",
-      "publishedAt": "2026-10-17T11:14:15.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "이탈리아는 미국의 우크라이나 약화를 \"중대한 실수\" 라고 부르며 푸틴을 이런 식으로 막을 수는 없다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15609",
-      "titleOriginal": "Eyewitness footage shows the aftermath of an attack by dozens of masked illegal Israeli settlers on Palestinian olive harvesters, including Washington Post photojournalist Heidi Levine, in the village of Abu Falah in the occupied West Bank ",
-      "url": "https://t.me/trtworld/15609",
-      "lang": "en",
-      "publishedAt": "2026-10-17T11:02:07.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "목격자 영상은 워싱턴 포스트 사진작가 하이디 레바인을 포함한 수십 명의 가면을 쓴 불법 이스라엘 정착민들이 점령된 웨스트 뱅크의 아부 팔라 (Abu Falah) 마을에서 팔레스타인 올리브 수확기를 공격한 여파를 보여줍니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78411",
-      "titleOriginal": "War in Ukraine: ‘Thank you, France’ – Zelensky announces he has secured the promised licences to produce weapons",
-      "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-merci-la-france-zelensky-annonce-avoir-obtenu-les-licences-de-production-darmes-promises-17-10-2026-L3R62HD62VAEXH652MAMXCRZZA.php",
-      "lang": "en",
-      "publishedAt": "2026-10-17T10:59:27.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "우크라이나 전쟁: ‘감사합니다, 프랑스’ – 젤렌스키는 무기 생산에 대한 약속된 면허를 확보했다고 발표했습니다",
       "translated": true
     }
   ]
