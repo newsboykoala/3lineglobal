@@ -1,8 +1,96 @@
 {
-  "updatedAt": "2026-10-20T00:31:14.676Z",
+  "updatedAt": "2026-10-20T05:41:33.869Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "trtworld:15617",
+      "titleOriginal": "Funding shortages are forcing the UN’s World Food Programme (WFP) to cut food aid in Palestine’s Gaza, leaving 500,000 people without monthly assistance, while about 1.4 million people, or two-thirds of Gaza’s current population, face acute",
+      "url": "https://t.me/trtworld/15617",
+      "lang": "en",
+      "publishedAt": "2026-10-20T05:07:14.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "기금 부족으로 유엔의 세계식량계획 (WFP) 이 팔레스타인 가자지구에 식량 원조를 삭감하도록 강요하고 있으며, 50만 명의 사람들이 월간 원조를 받지 못하고 있는 반면, 가자지구 인구의 약 140만 명, 즉 현재 인구의 3분의 2가 심각한 상황에 직면해 있습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9651",
+      "titleOriginal": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+      "url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+      "lang": "en",
+      "publishedAt": "2026-10-20T04:03:53.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Baseus의 새로운 보안 카메라에는 움직이는 대상을 추적하고 추적하는 스포트라이트가 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78493",
+      "titleOriginal": "Trump open to summit with Xi and Putin — to discuss denuclearization",
+      "url": "https://www.axios.com/2026/10/19/trump-summit-xi-putin-denuclearization-ukraine",
+      "lang": "en",
+      "publishedAt": "2026-10-20T03:34:09.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프, 시진핑 · 푸틴과 정상회담 열어 비핵화 논의",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92013",
+      "titleOriginal": "In 2025, Trawlers Suddenly Started Pulling Up Rare Hybrid Crabs in Record Numbers in The Bering Sea. Now We Know Why",
+      "url": "https://www.sciencealert.com/in-2025-trawlers-suddenly-started-pulling-up-rare-hybrid-crabs-in-record-numbers-in-the-bering-sea-now-we-know-why",
+      "lang": "en",
+      "publishedAt": "2026-10-20T02:28:52.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "2025년, 트롤러들은 베링 해에서 기록적인 숫자의 희귀 잡종 게를 갑자기 끌어올리기 시작했습니다. 이제 그 이유를 알 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78492",
+      "titleOriginal": "Russians Locked Out of Bank Accounts and Apartments as Ukraine Hits Data Centers",
+      "url": "https://www.nbcnews.com/world/russia/russia-ukraine-yandex-data-centers-attacks-trump-rcna602753",
+      "lang": "en",
+      "publishedAt": "2026-10-20T02:24:35.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나가 데이터 센터를 강타함에 따라 러시아인들은 은행 계좌와 아파트에서 잠겼습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45377",
+      "titleOriginal": "BREAKING: Trump says \"France is being burned to the ground by migrants, jihadists and communists who hate Christianity\"",
+      "url": "https://t.me/insiderpaper/45377",
+      "lang": "en",
+      "publishedAt": "2026-10-20T01:23:28.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 트럼프 \"기독교를 증오하는 이주민, 지하드주의자, 공산주의자들에 의해 프랑스가 불타고 있다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45374",
+      "titleOriginal": "JUST IN 🚨 North Korean state media releases apparent ‘proof of life’ photos of Kim Jong Un inspecting shoes and women’s coats following viral rumors of his death.",
+      "url": "https://t.me/insiderpaper/45374",
+      "lang": "en",
+      "publishedAt": "2026-10-20T01:23:27.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "🚨 북한 국영 언론은 김정은이 사망 소문에 따라 신발과 여성 코트를 검사하는 명백한 ‘생명의 증거' 사진을 공개했다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21937",
+      "titleOriginal": "NOW - Trump: \"Nobody appreciates how great a president I am.\"",
+      "url": "https://t.me/disclosetv/21937",
+      "lang": "en",
+      "publishedAt": "2026-10-20T00:44:05.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "지금 - 트럼프: \"아무도 내가 얼마나 훌륭한 대통령인지 높이 평가하지 않는다",
+      "translated": true
+    },
     {
       "id": "disclosetv:21936",
       "titleOriginal": "NOW - Trump: \"In Europe, globalist left-wing politicians have treasonously imported millions and millions of third-world migrants who are totally incompatible with the West.\"",
@@ -1563,94 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "러시아는 우크라이나 드론 공격으로부터 방대한 산업 제국을 방어할 수 없다는 것을 인정합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78455",
-      "titleOriginal": "Russian man linked to deadly London hospitals hack arrested",
-      "url": "https://www.bbc.com/news/articles/c9vgr61kml3mo",
-      "lang": "en",
-      "publishedAt": "2026-10-18T16:04:29.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "치명적인 런던 병원과 연결된 러시아 남성 해킹 체포",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19586",
-      "titleOriginal": "Zelensky says Ukraine still holds Dobropillia, Kostiantynivka, Orikhiv, Oleksiievo-Druzhkivka, Novopavlivka, Novoandriivka and Velykomykhailivka. Ukrainian forces are destroying Russians 20 km from Zaporizhzhia, not five as someone is \"fant",
-      "url": "https://t.me/wartranslated/19586",
-      "lang": "en",
-      "publishedAt": "2026-10-18T15:50:29.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "Zelensky는 우크라이나는 여전히 Dobropillia, Kostiantynivka, Orikhiv, Oleksiievo-Druzhkivka, Novopavlivka, Novoandriivka 및 Velykomykhailivka를 보유하고 있다고 말합니다. 우크라이나 군대는 자포리자",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78454",
-      "titleOriginal": "Hungary ready to allow Ukrainian grain transit to Western Europe, prime minister says",
-      "url": "https://kyivindependent.com/hungary-ready-to-allow-ukrainian-grain-transit-to-western-europe-prime-minister-says/",
-      "lang": "en",
-      "publishedAt": "2026-10-18T15:44:16.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "헝가리가 우크라이나의 곡물 운송을 서유럽으로 허용할 준비가 되었다고 총리가 말했습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92002",
-      "titleOriginal": "Best of Both Worlds: 'Hybrid' Quantum Computers Could Be Just Around The Corner, Researchers Say",
-      "url": "https://www.sciencealert.com/best-of-both-worlds-hybrid-quantum-computers-could-be-just-around-the-corner-researchers-say",
-      "lang": "en",
-      "publishedAt": "2026-10-18T15:32:21.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "두 세계의 최고: 연구원들은 '하이브리드' 양자 컴퓨터가 모퉁이만 돌면 될 수 있다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45333",
-      "titleOriginal": "JUST IN - Zelenksy 'reckless' to claim US slowed Starlink: Treasury Sec",
-      "url": "https://t.me/insiderpaper/45333",
-      "lang": "en",
-      "publishedAt": "2026-10-18T15:26:41.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "방금 - Zelenksy, 미국이 Starlink: Treasury Sec를 늦췄다고 주장하는 '무모한",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9629",
-      "titleOriginal": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
-      "url": "https://telegra.ph/Lenovos-fast-comfy-SteamOS-handheld-is-hundreds-off-10-18",
-      "lang": "en",
-      "publishedAt": "2026-10-18T15:02:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Lenovo의 빠르고 편안한 SteamOS 핸드헬드는 수백 가지 할인 혜택을 제공합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19585",
-      "titleOriginal": "Zelensky says the US government ordered the Starlink and Starshield speed limits, which SpaceX carried out technically. He confirms the restrictions haven't been lifted, with speed still capped at 161 km/h.",
-      "url": "https://t.me/wartranslated/19585",
-      "lang": "en",
-      "publishedAt": "2026-10-18T14:18:56.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "Zelensky는 미국 정부가 SpaceX가 기술적으로 수행한 Starlink 및 Starshield 속도 제한을 명령했다고 말합니다. 그는 제한이 해제되지 않았으며 속도는 여전히 161km/h로 제한되어 있음을 확인합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78453",
-      "titleOriginal": "India expands cancer drug price caps, slashing costs on 137 medicines by up to 70% from November 9.",
-      "url": "https://www.telegraphindia.com/india/india-expands-cancer-drug-price-caps-slashing-costs-on-137-medicines-by-up-to-70-per-cent-from-november-9/cid/2185316",
-      "lang": "en",
-      "publishedAt": "2026-10-18T14:14:42.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "인도는 11월 9일부터 137개 의약품에 대한 비용을 최대 70% 까지 삭감하는 암 치료제 가격 상한선을 확대한다",
       "translated": true
     }
   ]
