@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-10-21T01:24:16.152Z",
+  "updatedAt": "2026-10-21T06:21:14.133Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "trtworld:15622",
+      "titleOriginal": "CCTV footage shows looters smashing windows and ransacking a jewellery shop in Lyon, as student-led demonstrations continue in several cities",
+      "url": "https://t.me/trtworld/15622",
+      "lang": "en",
+      "publishedAt": "2026-10-21T05:36:32.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "CCTV 영상에는 학생 주도 시위가 여러 도시에서 계속되는 가운데 약탈자들이 리옹의 한 보석 가게에서 창문을 부수고 약탈하는 모습이 담겨 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78519",
+      "titleOriginal": "Marine life dramatically declined in Gulf of Mexico in years after BP oil spill, study finds",
+      "url": "https://www.nbcnews.com/science/environment/marine-life-declined-gulf-mexico-bp-oil-spill-deepwater-horizon-study-rcna604457",
+      "lang": "en",
+      "publishedAt": "2026-10-21T04:29:13.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "BP 기름 유출 후 몇 년 동안 멕시코만에서 해양 생물이 급격히 감소한 연구 결과",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78517",
+      "titleOriginal": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+      "lang": "en",
+      "publishedAt": "2026-10-21T03:59:46.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "손상된 TLS 인증서 8개를 발견한 후 인터넷이 고도의 경고를 보냅니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92023",
+      "titleOriginal": "A Strange New Time Crystal Emerges From Synchronized Vibrations",
+      "url": "https://www.sciencealert.com/a-strange-new-time-crystal-emerges-from-synchronized-vibrations",
+      "lang": "en",
+      "publishedAt": "2026-10-21T03:11:43.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "동기화 된 진동에서 이상한 새로운 시간 크리스탈이 나타납니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78516",
+      "titleOriginal": "Musk chose to restrict Ukraine's access to SpaceX satellite network, sources say",
+      "url": "https://www.cbsnews.com/news/elon-musk-ukraine-spacex-starshield-trump-administration/",
+      "lang": "en",
+      "publishedAt": "2026-10-21T02:24:31.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "소식통에 따르면 머스크는 우크라이나의 스페이스X 위성 네트워크 접근을 제한하기로 결정했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78515",
+      "titleOriginal": "Saudi Arabia to execute man for being at protests and funerals when he was 15",
+      "url": "https://www.theguardian.com/global-development/2026/oct/16/saudi-arabia-to-execute-man-for-being-at-protests-and-funerals-when-he-was-15",
+      "lang": "en",
+      "publishedAt": "2026-10-21T01:54:16.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "사우디아라비아, 15세 때 시위와 장례식에 참석했다는 이유로 사형 집행",
+      "translated": true
+    },
     {
       "id": "sciencealert:92022",
       "titleOriginal": "The Way You Sleep Can Reveal Your Risk of Heart Failure Up to 10 Years in Advance",
@@ -1585,72 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "HIMARS는 남부 전선의 러시아 지휘소, 대피소, 통신 시스템 및 병력 집중을 없애고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45367",
-      "titleOriginal": "BREAKING: Cristiano Ronaldo suspended by Portugal after dispute with Jesus",
-      "url": "https://t.me/insiderpaper/45367",
-      "lang": "en",
-      "publishedAt": "2026-10-19T18:16:18.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 예수와의 분쟁 후 포르투갈에 의해 정지된 크리스티아누 호날두",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45366",
-      "titleOriginal": "BREAKING - German government partnering with Nvidia on industrial AI: statement",
-      "url": "https://insiderpaper.com/german-government-partnering-with-nvidia-on-industrial-ai-statement/",
-      "lang": "en",
-      "publishedAt": "2026-10-19T18:01:33.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 독일 정부가 산업용 AI에 대해 엔비디아와 협력: 성명서",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78487",
-      "titleOriginal": "EU Rejects Reported US Push to Restore Russian Gas Imports Under Ukraine Peace Deal",
-      "url": "https://united24media.com/world/eu-rejects-reported-us-push-to-restore-russian-gas-imports-under-ukraine-peace-deal-23607",
-      "lang": "en",
-      "publishedAt": "2026-10-19T17:39:16.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "EU, 우크라이나 평화 협정에 따른 러시아 가스 수입 복구에 대한 미국의 압박 보고 거부",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45365",
-      "titleOriginal": "BREAKING - Trump tells Netanyahu he'll have 'tremendous' election win",
-      "url": "https://insiderpaper.com/trump-tells-netanyahu-hell-have-tremendous-election-win/",
-      "lang": "en",
-      "publishedAt": "2026-10-19T17:10:31.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 트럼프는 네타냐후에게 선거에서 '엄청난' 승리를 거둘 것이라고 말한다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78486",
-      "titleOriginal": "Russian Drone Hits Park Full of Families in Kharkiv Region, Killing Infant and Two Women",
-      "url": "https://united24media.com/war-in-ukraine/russian-drone-hits-park-full-of-families-in-kharkiv-region-killing-infant-and-two-women-23605",
-      "lang": "en",
-      "publishedAt": "2026-10-19T17:09:19.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아 드론이 하르키우 지역의 가족으로 가득 찬 공원을 강타하여 유아와 여성 2명을 살해했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19617",
-      "titleOriginal": "Images showing the aftermath of a massive drone attack on Saint Petersburg:",
-      "url": "https://t.me/wartranslated/19617",
-      "lang": "en",
-      "publishedAt": "2026-10-19T16:57:02.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "상트페테르부르크에 대한 대규모 드론 공격의 여파를 보여주는 이미지:",
       "translated": true
     }
   ]
