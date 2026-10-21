@@ -1,8 +1,85 @@
 {
-  "updatedAt": "2026-10-20T22:56:46.602Z",
+  "updatedAt": "2026-10-21T01:24:16.152Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:92022",
+      "titleOriginal": "The Way You Sleep Can Reveal Your Risk of Heart Failure Up to 10 Years in Advance",
+      "url": "https://www.sciencealert.com/the-way-you-sleep-can-reveal-your-risk-of-heart-failure-up-to-10-years-in-advance",
+      "lang": "en",
+      "publishedAt": "2026-10-21T00:11:27.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "수면 방식은 최대 10년 전에 심부전 위험을 나타낼 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9684",
+      "titleOriginal": "YouTube might be testing hiding the dislike button",
+      "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+      "lang": "en",
+      "publishedAt": "2026-10-21T00:04:00.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "YouTube에서 '싫어요' 버튼을 숨기는 테스트 중일 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21943",
+      "titleOriginal": "NOW - Trump: \"I've never studied the body of a man before. It's not my thing. Nothing wrong with it, of course. Nothing. I always proceeded by saying nothing wrong, but it's never been my thing, to be honest with you. But I looked at his as",
+      "url": "https://t.me/disclosetv/21943",
+      "lang": "en",
+      "publishedAt": "2026-10-20T23:55:27.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "이제 - 트럼프: \"나는 남자의 몸을 연구해 본 적이 없다. 내 취향이 아니야. 물론 잘못된 것은 없습니다. 아무것도 아닙니다. 저는 항상 아무 잘못도 말하지 않고 진행했지만, 솔직히 말씀드리자면 제 일은 결코 아니었습니다. 그러나 나는 그의 다음과 같은 모습을 보았다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92021",
+      "titleOriginal": "Researchers Identify New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients",
+      "url": "https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients",
+      "lang": "en",
+      "publishedAt": "2026-10-20T23:36:42.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "연구자들은 4명 중 1명의 환자에게 영향을 미치는 우울증의 새로운 '일주기' 아형을 확인합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78514",
+      "titleOriginal": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "lang": "en",
+      "publishedAt": "2026-10-20T23:29:24.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "Meta, 브라질 법원의 Bolsonaro 우대 종식 명령 무시",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9683",
+      "titleOriginal": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "lang": "en",
+      "publishedAt": "2026-10-20T23:05:03.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "판사가 샘 알트먼의 여동생의 성추행 소송을 기각함",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45404",
+      "titleOriginal": "GTA 6 launch could cost US economy $1 billion as 1.5 million workers expected to skip work",
+      "url": "https://insiderpaper.com/gta-6-cost-us-economy-1-billion-report/",
+      "lang": "en",
+      "publishedAt": "2026-10-20T22:58:36.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "GTA 6 출시로 150만 명의 근로자가 작업을 건너뛸 것으로 예상되므로 미국 경제에 $ 10억이 소요될 수 있습니다",
+      "translated": true
+    },
     {
       "id": "insiderpaper:45403",
       "titleOriginal": "WATCH: Rare pink dolphin spotted off the coast of Oman",
@@ -1574,83 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "상트페테르부르크에 대한 대규모 드론 공격의 여파를 보여주는 이미지:",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45364",
-      "titleOriginal": "NEW: Brand new boxed-pack Rolex Watch found next to trash can amid looting and riots in France",
-      "url": "https://t.me/insiderpaper/45364",
-      "lang": "en",
-      "publishedAt": "2026-10-19T16:56:46.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "신상품: 프랑스에서 약탈과 폭동이 일어나는 가운데 쓰레기통 옆에서 발견된 새로운 박스형 롤렉스 시계",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78485",
-      "titleOriginal": "Swiss army rejected US tech firm Palantir on five occasions",
-      "url": "https://www.swissinfo.ch/eng/best-of-srg-content/swiss-army-rejected-us-tech-firm-palantir-on-five-occasions/92238602?utm_source=multiple&amp;utm_medium=website&amp;utm_campaign=news_en&amp;utm_content=o&amp;utm_term=wpblock_highlighted-compact-news-carousel",
-      "lang": "en",
-      "publishedAt": "2026-10-19T16:54:34.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "스위스 육군은 5차례에 걸쳐 미국 기술 회사 팔란티르 (Palantir) 를 거부했다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45363",
-      "titleOriginal": "BREAKING - France announces curfews in northern cities for Monday and Tuesday nights bit.ly/4dID3NI",
-      "url": "https://t.co/qiZsTovxus",
-      "lang": "en",
-      "publishedAt": "2026-10-19T16:14:20.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 프랑스, 월요일과 화요일 밤의 북부 도시 통행금지 발표 bit.ly/4dID3NI",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9645",
-      "titleOriginal": "Apple teases MacBook Pro event next week",
-      "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
-      "lang": "en",
-      "publishedAt": "2026-10-19T16:08:14.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Apple, 다음 주 MacBook Pro 이벤트 개최",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45362",
-      "titleOriginal": "JUST IN - Florida issues arrest warrant for Cuba's Raul Castro",
-      "url": "https://insiderpaper.com/florida-issues-arrest-warrant-for-cubas-raul-castro/",
-      "lang": "en",
-      "publishedAt": "2026-10-19T16:05:43.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "방금 도착 - 플로리다, 쿠바의 라울 카스트로 체포 영장 발부",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45361",
-      "titleOriginal": "BREAKING - A self-proclaimed Kenyan preacher and his associates were found guilty of murdering 191 people, mostly children, in an infamous starvation cult by a Mombasa court on Monday. bit.ly/4sjFfRS",
-      "url": "https://t.co/a9ZmGzdKXf",
-      "lang": "en",
-      "publishedAt": "2026-10-19T15:56:18.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 자칭 케냐 설교자와 그의 동료들은 월요일 몸바사 법원에서 악명 높은 굶주림 사이비 종교에서 191명 (대부분 어린이) 을 살해한 혐의로 유죄 판결을 받았다. bit.ly/4sjFfRS",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9644",
-      "titleOriginal": "Amazon is funding a new nuclear plant in Indiana",
-      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
-      "lang": "en",
-      "publishedAt": "2026-10-19T15:48:52.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "아마존은 인디애나에 새로운 원자력 발전소에 자금을 지원하고 있습니다",
       "translated": true
     }
   ]
