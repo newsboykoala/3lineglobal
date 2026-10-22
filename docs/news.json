@@ -1,8 +1,85 @@
 {
-  "updatedAt": "2026-10-22T00:06:29.822Z",
+  "updatedAt": "2026-10-22T05:11:45.861Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "trtworld:15625",
+      "titleOriginal": "Britain’s King Charles III hosted a state banquet at Windsor Castle on Tuesday for Oman’s Sultan Haitham bin Tarik, praising the country’s peacemaking efforts and quoting a hadith of Prophet Muhammad in Arabic.",
+      "url": "https://t.me/trtworld/15625",
+      "lang": "en",
+      "publishedAt": "2026-10-22T04:04:09.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "영국의 찰스 3세 국왕은 화요일 윈저 성에서 오만의 술탄 하이탐 빈 타릭 (Sultan Haitham bin Tarik) 을 위한 국가 연회를 개최하여 국가의 평화 조성에 대한 노력을 칭찬하고 아랍어로 예언자 무하마드의 하디스를 인용했습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92032",
+      "titleOriginal": "New Fossil Confirms a Human Ancestor Appeared 200,000 Years Earlier Than Expected",
+      "url": "https://www.sciencealert.com/new-fossil-confirms-a-human-ancestor-appeared-200000-years-earlier-than-expected",
+      "lang": "en",
+      "publishedAt": "2026-10-22T03:25:25.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "새로운 화석은 인간 조상이 예상보다 20만 년 일찍 나타났음을 확인합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78547",
+      "titleOriginal": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
+      "url": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
+      "lang": "en",
+      "publishedAt": "2026-10-22T03:19:42.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국과 이스라엘, 선거 이후 이란에 대한 파업 재개 계획 수립",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45441",
+      "titleOriginal": "Farmer Finds Mysterious 11-Foot Metal Object in Minnesota Cornfield",
+      "url": "https://insiderpaper.com/mysterious-11-foot-metal-object-found-in-minnesota-cornfield/",
+      "lang": "en",
+      "publishedAt": "2026-10-22T02:58:42.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "미네소타 옥수수밭에서 신비로운 11피트 금속 물체를 발견한 농부",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78546",
+      "titleOriginal": "US orders embassy staff and families to leave Saudi Arabia",
+      "url": "https://www.turkiyetoday.com/region/us-orders-embassy-staff-and-families-to-leave-saudi-arabia-3230789",
+      "lang": "en",
+      "publishedAt": "2026-10-22T01:24:15.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국, 대사관 직원 및 가족에게 사우디아라비아 출국 명령",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45440",
+      "titleOriginal": "The US and Israeli militaries have developed plans for renewed strikes against Iran after the US midterm elections, The New York Times reported",
+      "url": "https://t.me/insiderpaper/45440",
+      "lang": "en",
+      "publishedAt": "2026-10-22T00:29:31.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "뉴욕타임스는 미국과 이스라엘 군대가 미국 중간선거 이후 이란에 대한 새로운 공격 계획을 수립했다고 보도했다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92031",
+      "titleOriginal": "'Low-Oxygen' Drug Combination Reverses Parkinson's Symptoms in Mice",
+      "url": "https://www.sciencealert.com/low-oxygen-drug-combination-reverses-parkinsons-symptoms-in-mice",
+      "lang": "en",
+      "publishedAt": "2026-10-22T00:24:22.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "저산소' 약물 조합, 생쥐에서 파킨슨 증상 반전",
+      "translated": true
+    },
     {
       "id": "theverge_news:9721",
       "titleOriginal": "YouTube says it isn’t testing hiding the dislike button",
@@ -1574,83 +1651,6 @@
       "source": "Insider Paper",
       "region": "속보",
       "title": "동영상: 오만 해안에서 발견된 희귀 분홍 돌고래",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9682",
-      "titleOriginal": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
-      "url": "https://telegra.ph/Trump-is-giving-Nick-Shirley-10000-and-launching-a-25-mil-10-20-3",
-      "lang": "en",
-      "publishedAt": "2026-10-20T22:24:35.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "트럼프는 Nick Shirley에게 $ 10,000를 제공하고 $ 25,000,000의 사기 현상금 프로그램을 시작합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9681",
-      "titleOriginal": "Google’s more personalized Gemini AI is heading to your car",
-      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "lang": "en",
-      "publishedAt": "2026-10-20T22:19:42.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Google의 더욱 개인화된 Gemini AI가 차량으로 향하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45402",
-      "titleOriginal": "BREAKING: Elon Musk says SpaceX could generate $1 trillion in revenue in 2028, calling the possibility “no longer impossible.”",
-      "url": "https://t.me/insiderpaper/45402",
-      "lang": "en",
-      "publishedAt": "2026-10-20T22:10:51.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 일론 머스크 (Elon Musk) 는 스페이스X가 2028년에 $ 1조 매출을 올릴 수 있다고 말하면서 그 가능성을 \"더 이상 불가능하지 않다\" 고 말했습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45401",
-      "titleOriginal": "A US military plane started to patrol the Black Sea following Bulgaria’s call for help after recent drone attacks on ships off the Bulgarian coast, prime minister said",
-      "url": "https://t.co/MCPIoiETTm",
-      "lang": "en",
-      "publishedAt": "2026-10-20T22:01:58.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "총리는 최근 불가리아 해안에서 드론이 선박을 공격한 후 불가리아의 도움 요청에 따라 미군 여객기가 흑해를 순찰하기 시작했다고 말했다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9680",
-      "titleOriginal": "Tesla and SpaceX are discussing a possible merger, Musk says",
-      "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
-      "lang": "en",
-      "publishedAt": "2026-10-20T21:34:11.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "머스크는 테슬라와 스페이스X가 합병 가능성을 논의하고 있다고 말한다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19638",
-      "titleOriginal": "Ukrainian soldiers have become the first in the world to evacuate a wounded fighter from the front line using an aerial drone. The 92nd Assault Brigade reported. They deployed a heavy hexacopter manufactured by Ukraine's Gurzuf Defence. The",
-      "url": "http://patreon.com/c/WarTranslated",
-      "lang": "en",
-      "publishedAt": "2026-10-20T21:30:31.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 군인들이 세계 최초로 공중 드론을 이용해 부상당한 전투기를 최전방에서 대피시켰습니다. 제92강습여단이 보고했다. 그들은 우크라이나의 Gurzuf Defence에서 제조 한 무거운 육각 항공기를 배치했습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78513",
-      "titleOriginal": "Musk ordered Starlink slowdown in Ukraine: WSJ",
-      "url": "https://thehill.com/policy/international/6161243-musk-ordered-starshield-slowdown/",
-      "lang": "en",
-      "publishedAt": "2026-10-20T21:24:30.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "머스크, 우크라이나 스타링크 경기 둔화 명령: WSJ",
       "translated": true
     }
   ]
