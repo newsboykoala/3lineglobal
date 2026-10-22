@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-10-21T21:18:45.349Z",
+  "updatedAt": "2026-10-22T00:06:29.822Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "theverge_news:9721",
+      "titleOriginal": "YouTube says it isn’t testing hiding the dislike button",
+      "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+      "lang": "en",
+      "publishedAt": "2026-10-21T23:49:52.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "YouTube는 '싫어요' 버튼을 숨기는 테스트가 아니라고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9720",
+      "titleOriginal": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+      "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+      "lang": "en",
+      "publishedAt": "2026-10-21T23:49:51.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Tesla는 고객이 내년에 robotaxi 차량단에 자신의 차량을 추가할 수 있다고 말합니다. 그렇게 될까요?",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21945",
+      "titleOriginal": "NEW - Irish government runs an advert discouraging grandparents from hugging their grandchildren without consent.",
+      "url": "https://t.me/disclosetv/21945",
+      "lang": "en",
+      "publishedAt": "2026-10-21T23:21:00.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "신규 - 아일랜드 정부는 조부모가 동의 없이 손자를 껴안지 못하도록 광고를 진행합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45439",
+      "titleOriginal": "NEW: Tropical Storm Vance has formed in the Pacific Ocean",
+      "url": "https://t.me/insiderpaper/45439",
+      "lang": "en",
+      "publishedAt": "2026-10-21T23:10:39.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "신규: 태평양에 열대성 폭풍 밴스가 형성되었습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45438",
+      "titleOriginal": "BREAKING: Internet Archive founder Brewster Kahle says the platform faced cyberattacks shortly after PHP security flaws were disclosed.",
+      "url": "https://t.me/insiderpaper/45438",
+      "lang": "en",
+      "publishedAt": "2026-10-21T23:03:04.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 인터넷 아카이브 창립자 브루스터 칼 (Brewster Kahle) 은 PHP 보안 결함이 공개된 직후 플랫폼이 사이버 공격에 직면했다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78545",
+      "titleOriginal": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "url": "https://www.bbc.com/news/articles/cq3djn5nxx12o",
+      "lang": "en",
+      "publishedAt": "2026-10-21T22:44:32.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아가 우크라이나 평화 회담 재개를 위한 미국의 요청에 동의한 후 미사일이 키예프를 강타했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9719",
+      "titleOriginal": "Data centers could erase decades of air quality gains",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "lang": "en",
+      "publishedAt": "2026-10-21T22:40:50.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "데이터 센터는 수십 년간의 대기 질 향상을 지울 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92030",
+      "titleOriginal": "One-Quarter of Data Centers Are Located in Water-Stressed Areas, Study Shows",
+      "url": "https://www.sciencealert.com/one-quarter-of-data-centers-are-located-in-water-stressed-areas-study-shows",
+      "lang": "en",
+      "publishedAt": "2026-10-21T22:38:50.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "데이터 센터의 1/4은 물 스트레스가 많은 지역에 위치하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45437",
+      "titleOriginal": "Americans who moved to Europe after Trump win now say they regret leaving the U.S. - Fox News, Wired",
+      "url": "https://t.me/insiderpaper/45437",
+      "lang": "en",
+      "publishedAt": "2026-10-21T22:29:02.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "트럼프가 승리한 후 유럽으로 이주한 미국인들은 이제 미국을 떠난 것을 후회한다고 말합니다 - Fox News, Wired",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78544",
+      "titleOriginal": "U.S. embassy accuses Canadian politicians of interfering in American elections",
+      "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/us-embassy-accuses-canadian-politicians-of-interfering-in-american-elections/",
+      "lang": "en",
+      "publishedAt": "2026-10-21T21:59:27.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국 대사관은 캐나다 정치인들이 미국 선거에 간섭하고 있다고 비난합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45436",
+      "titleOriginal": "Websites and services reported taken offline during the October 21",
+      "url": "http://Overheid.nl/",
+      "lang": "en",
+      "publishedAt": "2026-10-21T21:56:08.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "10월 21일 동안 오프라인으로 전환된 웹사이트 및 서비스",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9718",
+      "titleOriginal": "Meta to create a new class of shares to fund AI push",
+      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "lang": "en",
+      "publishedAt": "2026-10-21T21:35:31.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "AI PUSH 자금을 조달하기 위한 새로운 주식 클래스를 생성하는 메타",
+      "translated": true
+    },
     {
       "id": "worldnews:78543",
       "titleOriginal": "Kremlin claims China is \"already preparing\" trilateral summit with US and Russia",
@@ -1519,138 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "머스크, 우크라이나 스타링크 경기 둔화 명령: WSJ",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78512",
-      "titleOriginal": "Musk ordered Starlink slowdown for Ukraine: WSJ",
-      "url": "https://justthenews.com/politics-policy/musk-ordered-starlink-slowdown-ukraine-wsj",
-      "lang": "en",
-      "publishedAt": "2026-10-20T21:14:40.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "머스크, 우크라이나 스타링크 경기 둔화 명령: WSJ",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9679",
-      "titleOriginal": "SpaceX will try catching Starship and its booster for first time, Musk says",
-      "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
-      "lang": "en",
-      "publishedAt": "2026-10-20T21:04:26.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "머스크는 SpaceX가 Starship과 그 부스터를 처음으로 잡을 것이라고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9678",
-      "titleOriginal": "Netflix is telling investors not to worry, even though you’re watching less and less",
-      "url": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
-      "lang": "en",
-      "publishedAt": "2026-10-20T20:54:42.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "넷플릭스는 당신이 점점 더 적게 보고 있음에도 불구하고 투자자들에게 걱정하지 말라고 말하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21942",
-      "titleOriginal": "JUST IN - Elon Musk ordered the slowdown of a \"military-grade version\" of Starlink relied on by Ukraine, the WSJ says.",
-      "url": "https://www.disclose.tv/id/iz9dpvbviq/",
-      "lang": "en",
-      "publishedAt": "2026-10-20T20:54:18.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "방금 - 일론 머스크는 우크라이나가 의존하는 스타링크의 \"군사 등급 버전\" 의 둔화를 명령했다고 WSJ는 말합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45400",
-      "titleOriginal": "US ENVOY STEVE WITKOFF TO MEET PUTIN ON WEDNESDAY: US OFFICIAL",
-      "url": "https://t.me/insiderpaper/45400",
-      "lang": "en",
-      "publishedAt": "2026-10-20T20:52:19.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "미국 특사 스티브 위트코프 (STEVE WITKOFF) 가 수요일 푸틴 대통령을 만나다: 미국 관료",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45399",
-      "titleOriginal": "JUST IN - US President Donald Trump on Tuesday hailed Marine Le Pen as France's \"conservative voice\" following widespread riots",
-      "url": "https://t.me/insiderpaper/45399",
-      "lang": "en",
-      "publishedAt": "2026-10-20T20:47:09.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 도널드 트럼프 미국 대통령은 화요일 마린 르 펜을 광범위한 폭동 이후 프랑스의 \"보수적 목소리\" 로 환영했다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92020",
-      "titleOriginal": "A Lost Schrödinger Manuscript Reveals a Surprising Twist in Quantum Physics",
-      "url": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
-      "lang": "en",
-      "publishedAt": "2026-10-20T20:35:22.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "잃어버린 슈뢰딩거 원고는 양자 물리학에서 놀라운 반전을 드러냅니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92019",
-      "titleOriginal": "Cats And Their Owners Seem to Share A Weird, Hormonal Connection",
-      "url": "https://www.sciencealert.com/cats-and-their-owners-seem-to-share-a-weird-hormonal-connection",
-      "lang": "en",
-      "publishedAt": "2026-10-20T20:35:19.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "고양이와 주인은 이상하고 호르몬이 많은 관계를 공유하는 것 같습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9677",
-      "titleOriginal": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
-      "url": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
-      "lang": "en",
-      "publishedAt": "2026-10-20T20:34:44.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "스냅은 아이언맨 일을 하기 위해 로버트 다우니 주니어에게 돈을 지불하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9675",
-      "titleOriginal": "Oura adds two new cardiovascular health tracking features to its smart rings",
-      "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
-      "lang": "en",
-      "publishedAt": "2026-10-20T20:29:52.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "OURA는 스마트 링에 두 가지 새로운 심혈관 건강 추적 기능을 추가했습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9676",
-      "titleOriginal": "SpaceX says big AI growth fueled revenue jump",
-      "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
-      "lang": "en",
-      "publishedAt": "2026-10-20T20:29:52.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "스페이스X, 큰 AI 성장으로 매출 급증",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45398",
-      "titleOriginal": "BREAKING: SpaceX posted its first quarterly profit as a public company on Tuesday with revenue more than doubling, driven by its artificial intelligence business",
-      "url": "https://t.me/insiderpaper/45398",
-      "lang": "en",
-      "publishedAt": "2026-10-20T20:26:18.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: SpaceX는 화요일에 인공 지능 사업에 힘 입어 매출이 두 배 이상 증가한 상장 회사로서 첫 분기 이익을 올렸습니다",
       "translated": true
     }
   ]
