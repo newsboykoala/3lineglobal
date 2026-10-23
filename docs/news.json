@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-10-23T01:23:38.787Z",
+  "updatedAt": "2026-10-23T06:18:36.536Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "trtworld:15631",
+      "titleOriginal": "Follow our Daily News Brief for Friday, October 23rd",
+      "url": "https://trt.world/c5rd",
+      "lang": "en",
+      "publishedAt": "2026-10-23T06:02:11.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "10월 23일 금요일 일일 뉴스 브리프를 팔로우하세요",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15630",
+      "titleOriginal": "Israel has opened around 850 polling stations in territories it illegally occupies in besieged Gaza, Lebanon and Syria ahead of the October 27 election, The Times of Israel reported.",
+      "url": "https://t.me/trtworld/15630",
+      "lang": "en",
+      "publishedAt": "2026-10-23T04:22:12.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "이스라엘은 10월 27일 선거를 앞두고 포위된 가자지구, 레바논, 시리아에 불법적으로 점령한 지역에 약 850개의 투표소를 열었다고 타임스 오브 이스라엘이 보도했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78570",
+      "titleOriginal": "Canadian Officers Don’t Want to Serve in the U.S. Anymore",
+      "url": "https://www.theatlantic.com/national-security/2026/10/military-cooperation-canada-trump/689057/",
+      "lang": "en",
+      "publishedAt": "2026-10-23T03:59:29.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "캐나다 장교들은 더 이상 미국에서 복무하고 싶지 않습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78569",
+      "titleOriginal": "Deadly Russian missile strike on Kyiv used cluster warheads, hours after Putin-Witkoff meeting",
+      "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/",
+      "lang": "en",
+      "publishedAt": "2026-10-23T03:09:32.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "푸틴-위트코프 회담 후 몇 시간 만에 키예프에 대한 치명적인 러시아 미사일 공격이 클러스터 탄두를 사용했습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92041",
+      "titleOriginal": "Mole Rats Get Stressed When Earth's Magnetic Field Vanishes, Study Suggests",
+      "url": "https://www.sciencealert.com/mole-rats-get-stressed-when-earths-magnetic-field-vanishes-study-suggests",
+      "lang": "en",
+      "publishedAt": "2026-10-23T02:34:38.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "지구의 자기장이 사라지면 두더지 쥐가 스트레스를 받는다, 연구 제안",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78568",
+      "titleOriginal": "Amid Starlink crisis, Finnish tech giants announce plan to help Ukraine build its own sovereign satellite system",
+      "url": "https://kyivindependent.com/amid-starlink-crisis-finnish-tech-giants-announce-plan-to-help-ukraine-build-its-own-sovereign-satellite-system/",
+      "lang": "en",
+      "publishedAt": "2026-10-23T01:39:11.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "스타링크 사태 속에서 핀란드 기술 대기업들은 우크라이나가 자체 주권 위성 시스템을 구축할 수 있도록 지원할 계획을 발표했습니다",
+      "translated": true
+    },
     {
       "id": "worldnews:78567",
       "titleOriginal": "Rosneft admits losses from Ukraine's refinery strikes becoming unsustainable, Bloomberg reports",
@@ -1585,72 +1651,6 @@
       "source": "Insider Paper",
       "region": "속보",
       "title": "10월 21일 동안 오프라인으로 전환된 웹사이트 및 서비스",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9718",
-      "titleOriginal": "Meta to create a new class of shares to fund AI push",
-      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-      "lang": "en",
-      "publishedAt": "2026-10-21T21:35:31.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "AI PUSH 자금을 조달하기 위한 새로운 주식 클래스를 생성하는 메타",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78543",
-      "titleOriginal": "Kremlin claims China is \"already preparing\" trilateral summit with US and Russia",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/21/8059094/",
-      "lang": "en",
-      "publishedAt": "2026-10-21T21:09:40.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "크렘린은 중국이 미국과 러시아와의 3국 정상회담을 \"이미 준비하고 있다\" 고 주장한다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92029",
-      "titleOriginal": "Obesity Linked to Twice The Volume of Brain Abnormalities, Study Finds",
-      "url": "https://www.sciencealert.com/obesity-linked-to-twice-the-volume-of-brain-abnormalities-study-finds",
-      "lang": "en",
-      "publishedAt": "2026-10-21T21:08:10.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "두 배의 뇌 이상으로 연결된 비만, 연구 결과",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45435",
-      "titleOriginal": "NEW: US Federal authorities bust massive marriage fraud ring that arranged 200 bogus weddings to get green cards, Washington Times reports",
-      "url": "https://t.me/insiderpaper/45435",
-      "lang": "en",
-      "publishedAt": "2026-10-21T21:07:11.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "새로운 소식: 미국 연방 당국이 영주권을 받기 위해 200건의 가짜 결혼식을 준비한 대규모 결혼 사기 고리를 단속했다고 워싱턴 타임스가 보도했습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9717",
-      "titleOriginal": "New York’s first microdrama film festival searches for its audience",
-      "url": "https://telegra.ph/New-Yorks-first-microdrama-film-festival-searches-for-its-a-10-21",
-      "lang": "en",
-      "publishedAt": "2026-10-21T20:49:54.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "뉴욕 최초의 마이크로드라마 영화제가 관객을 찾습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9716",
-      "titleOriginal": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
-      "url": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
-      "lang": "en",
-      "publishedAt": "2026-10-21T20:49:52.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "메타는 아동 안전 정착금을 지불하지 않아도 된다면 $ 220억 이상을 벌었을 것이라고 말합니다",
       "translated": true
     }
   ]
