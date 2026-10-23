@@ -1,8 +1,107 @@
 {
-  "updatedAt": "2026-10-22T22:58:53.920Z",
+  "updatedAt": "2026-10-23T01:23:38.787Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78567",
+      "titleOriginal": "Rosneft admits losses from Ukraine's refinery strikes becoming unsustainable, Bloomberg reports",
+      "url": "https://kyivindependent.com/rosneft-admits-losses-from-ukraines-refinery-strikes-becoming-unsustainable-bloomberg-reports/",
+      "lang": "en",
+      "publishedAt": "2026-10-23T00:49:38.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "블룸버그 통신은 로스네프트가 우크라이나의 정유 공장 파업으로 인한 손실이 지속 불가능해지고 있음을 인정했다고 보도했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78566",
+      "titleOriginal": "Ukraine's population had shrunk to 28.5 million by mid-2026",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/22/8059280/",
+      "lang": "en",
+      "publishedAt": "2026-10-23T00:34:18.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나의 인구는 2026년 중반까지 2850만 명으로 줄어들었다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9769",
+      "titleOriginal": "Etsy is cracking down on AI slop listings",
+      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+      "lang": "en",
+      "publishedAt": "2026-10-23T00:20:02.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Etsy는 AI 슬롭 숙소를 단속하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45467",
+      "titleOriginal": "Moderna shares crashed 17.5% after details from a closely guarded mRNA-based cancer-vaccine study were shared on social media, raising concerns that the treatment might not be as effective as initially hoped.",
+      "url": "https://t.me/insiderpaper/45467",
+      "lang": "en",
+      "publishedAt": "2026-10-23T00:09:25.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "근접 보호된 mRNA 기반 암 백신 연구의 세부 사항이 소셜 미디어에 공유된 후 Moderna 점유율이 17.5% 하락하여 치료가 처음에 기대했던 것만큼 효과적이지 않을 수 있다는 우려가 제기되었습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45466",
+      "titleOriginal": "BREAKING: Japan core September inflation accelerates to 2.1% - official data",
+      "url": "https://t.me/insiderpaper/45466",
+      "lang": "en",
+      "publishedAt": "2026-10-22T23:35:02.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 일본 9월 핵심 인플레이션 2.1% 로 가속화 - 공식 데이터",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19675",
+      "titleOriginal": "Near Kupyansk in the Kharkiv region, the Armed Forces of Ukraine and Russian troops engaged in combat inside Soviet-era pipelines at distances as close as 4 meters from each other.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-10-22T23:08:11.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "하르키우 지역의 쿠피얀스크 근처에서 우크라이나 군과 러시아 군대는 서로 4미터 떨어진 거리에서 소련 시대 파이프라인 내에서 전투를 벌였습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9768",
+      "titleOriginal": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+      "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+      "lang": "en",
+      "publishedAt": "2026-10-22T23:04:12.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Spotify는 가족 계획 공유를 너무 광범위하게 사용하여 사람들을 괴롭히고 있다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9767",
+      "titleOriginal": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+      "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+      "lang": "en",
+      "publishedAt": "2026-10-22T23:04:11.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "차세대 Xbox는 $ 1,800의 비용이 들지 않습니다. 안 돼요, 안 돼요?",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92040",
+      "titleOriginal": "Scientists Just Cracked a Quantum Mystery That's Puzzled Physicists For Decades",
+      "url": "https://www.sciencealert.com/scientists-just-cracked-a-quantum-mystery-thats-puzzled-physicists-for-decades",
+      "lang": "en",
+      "publishedAt": "2026-10-22T23:02:27.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들은 수십 년 동안 수수께끼에 빠진 물리학자들의 양자 수수께끼를 방금 깨뜨렸습니다",
+      "translated": true
+    },
     {
       "id": "wartranslated:19674",
       "titleOriginal": "The 2nd National Guard Corps \" Khartia\" announced that the Ukrainian Defense Forces conducted an underground counteroffensive operation - \"Veles,\" advancing more than 15 km into enemy rear areas in the Kupyansk sector.",
@@ -1552,105 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "메타는 아동 안전 정착금을 지불하지 않아도 된다면 $ 220억 이상을 벌었을 것이라고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9715",
-      "titleOriginal": "PHP: The three letters that shut down sites all over the internet today",
-      "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
-      "lang": "en",
-      "publishedAt": "2026-10-21T20:40:01.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "PHP: 오늘날 인터넷을 통해 사이트를 종료하는 세 글자",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9714",
-      "titleOriginal": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
-      "url": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
-      "lang": "en",
-      "publishedAt": "2026-10-21T20:29:42.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "플라잉 로드스터는 테슬라의 평평한 3분기 매출을 올릴 수 없습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78542",
-      "titleOriginal": "EU seeks to lobby Canada and U.K. to help plug Ukraine’s €70 billion budget gap",
-      "url": "https://english.nv.ua/nation/european-union-scrambles-to-cover-ukraine-s-70-billion-funding-shortfall-for-2027-50652056.html",
-      "lang": "en",
-      "publishedAt": "2026-10-21T20:24:31.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "EU는 우크라이나의 € 700억 예산 격차를 해소하기 위해 캐나다와 영국에 로비를 하고자 합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19661",
-      "titleOriginal": "Meanwhile, the Russians have lost two aircraft in a day.",
-      "url": "http://patreon.com/c/WarTranslated",
-      "lang": "en",
-      "publishedAt": "2026-10-21T20:20:44.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "한편, 러시아는 하루에 두 대의 항공기를 잃었습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9713",
-      "titleOriginal": "Bose acquires Skullcandy to help it reach a wider audience",
-      "url": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
-      "lang": "en",
-      "publishedAt": "2026-10-21T20:20:03.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Bose는 Skullcandy를 인수하여 더 많은 고객에게 다가갈 수 있도록 돕습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45434",
-      "titleOriginal": "BREAKING: Tesla Q3 earnings beat Wall Street estimates",
-      "url": "https://t.me/insiderpaper/45434",
-      "lang": "en",
-      "publishedAt": "2026-10-21T20:17:12.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 테슬라 3분기 실적, 월스트리트 예상치 상회",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19660",
-      "titleOriginal": "Following an RM-48U ballistic missile strike in Kyiv, a massive crater formed just a few meters away from residential buildings.",
-      "url": "https://t.me/wartranslated/19660",
-      "lang": "en",
-      "publishedAt": "2026-10-21T20:17:10.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "키예프에서 RM-48U 탄도 미사일 공격이 있은 후, 주거용 건물에서 불과 몇 미터 떨어진 곳에 거대한 분화구가 형성되었습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19659",
-      "titleOriginal": "To avoid starving to death, people in the occupied town of Oleshky are boiling grass. A local resident reported this.",
-      "url": "https://t.me/wartranslated/19659",
-      "lang": "en",
-      "publishedAt": "2026-10-21T20:11:38.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "굶어 죽지 않기 위해 점령한 올레쉬키 마을 사람들은 풀을 끓이고 있습니다. 현지 주민이 신고했습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45433",
-      "titleOriginal": "Netanyahu says ‘toppling’ Iran government only way to end threat",
-      "url": "https://t.co/hHbtJ1UnhV",
-      "lang": "en",
-      "publishedAt": "2026-10-21T20:08:39.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "네타냐후는 이란 정부를 ‘무너뜨리는’ 유일한 방법은 위협을 종식시키는 것이라고 말한다",
       "translated": true
     }
   ]
