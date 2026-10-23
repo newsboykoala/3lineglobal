@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-10-23T20:12:58.868Z",
+  "updatedAt": "2026-10-23T23:19:47.791Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "disclosetv:21955",
+      "titleOriginal": "NEW - Warhound, founded by Anduril’s co-founder Palmer Luckey and software entrepreneur Ben Lamm, “will produce genetically enhanced working dogs and equip them with advanced technology to ensure they have battlefield situational awareness.",
+      "url": "https://t.me/disclosetv/21955",
+      "lang": "en",
+      "publishedAt": "2026-10-23T22:43:58.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "새로운 소식 - Anduril의 공동 설립자 Palmer Luckey와 소프트웨어 사업가 Ben Lamm이 설립한 Warhound는 \"유전적으로 향상된 작업견을 생산하고 전장의 상황 인식을 보장하기 위해 첨단 기술을 장착할 것입니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78585",
+      "titleOriginal": "Freed US citizen Stephen Hubbard was tortured in Russian jail, former Ukrainian prisoners say",
+      "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo",
+      "lang": "en",
+      "publishedAt": "2026-10-23T22:19:15.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "해방된 미국 시민 스티븐 허버드 (Stephen Hubbard) 가 러시아 감옥에서 고문을 당했다고 전 우크라이나 수감자들이 말했습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92048",
+      "titleOriginal": "Your Brain May Be Switching Between Two Versions of Reality 15 Times a Second",
+      "url": "https://www.sciencealert.com/your-brain-may-be-switching-between-two-versions-of-reality-15-times-a-second",
+      "lang": "en",
+      "publishedAt": "2026-10-23T22:07:43.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "두뇌가 두 가지 버전의 현실 사이에서 초당 15번 전환할 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9791",
+      "titleOriginal": "Xbox’s first chief operating officer is out after just a few months",
+      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+      "lang": "en",
+      "publishedAt": "2026-10-23T21:41:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Xbox의 첫 최고 운영 책임자 (COO) 가 불과 몇 달 만에 퇴사했습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45489",
+      "titleOriginal": "FBI warns of two critical security flaws in PHP that could allow attackers to breach websites, steal sensitive information and disrupt business operations. Urges website operators to install security updates immediately.",
+      "url": "https://t.me/insiderpaper/45489",
+      "lang": "en",
+      "publishedAt": "2026-10-23T21:40:35.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "FBI는 PHP에서 공격자가 웹사이트를 침해하고 민감한 정보를 훔치며 비즈니스 운영을 방해할 수 있는 두 가지 치명적인 보안 결함에 대해 경고합니다. 웹사이트 운영자가 보안 업데이트를 즉시 설치하도록 촉구합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45488",
+      "titleOriginal": "BREAKING - US Secretary of State Marco Rubio urges those seeking positive change in Cuba to secretly cooperate with the CIA, saying “now is the time.”",
+      "url": "https://t.me/insiderpaper/45488",
+      "lang": "en",
+      "publishedAt": "2026-10-23T21:21:21.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보 - 마르코 루비오 미국 국무장관은 쿠바에서 긍정적인 변화를 추구하는 사람들에게 비밀리에 CIA에 협조할 것을 촉구하며 \"지금이 적기\" 라고 말했다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9790",
+      "titleOriginal": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "lang": "en",
+      "publishedAt": "2026-10-23T21:20:02.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "OpenAI는 이제 인터넷에 액세스할 수 없는 프론티어 AI 모델을 교육합니다",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12461",
+      "titleOriginal": "Israeli military: Our operation in Hebron includes efforts to reshape the security situation in the area. https://israelpalestine.liveuamap.com/en/2026/23-october-21-israeli-army-our-operation-in-hebron-includes",
+      "url": "https://israelpalestine.liveuamap.com/en/2026/23-october-21-israeli-army-our-operation-in-hebron-includes",
+      "lang": "en",
+      "publishedAt": "2026-10-23T21:04:47.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "이스라엘 군: 헤브론에서의 작전에는 해당 지역의 안보 상황을 재구성하려는 노력이 포함됩니다. https://israelpalestine.liveuamap.com/en/2026/23-october-21-israeli-army-our-operation-in-hebron-includes",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45487",
+      "titleOriginal": "JUST - Iranian president to meet with Putin next week in Moscow: Iran's FM",
+      "url": "https://t.me/insiderpaper/45487",
+      "lang": "en",
+      "publishedAt": "2026-10-23T20:30:09.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "JUST - 이란 대통령, 다음 주 모스크바에서 푸틴 대통령과 면담 예정: 이란의 FM",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19727",
+      "titleOriginal": "Air raid sirens are spreading across a number of Russian regions right now.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-10-23T20:29:55.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "현재 러시아 여러 지역에 공습 사이렌이 확산되고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19726",
+      "titleOriginal": "Rubio claims the war in Ukraine is really just about Donbas, roughly 11% of the country that Russia wants but can't take militarily while Ukraine won't give up over sovereignty and security concerns. He says the key now is finding a comprom",
+      "url": "https://t.me/wartranslated/19726",
+      "lang": "en",
+      "publishedAt": "2026-10-23T20:27:58.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "루비오는 우크라이나 전쟁이 러시아가 원하지만 군사적으로 받아들일 수 없는 국가의 약 11% 인 돈바스에 관한 것이라고 주장합니다. 반면 우크라이나는 주권과 안보 문제를 포기하지 않을 것입니다. 그는 이제 핵심은 타협점을 찾는 것이라고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19725",
+      "titleOriginal": "Trump floats slapping 200% tariffs on both Russia and Ukraine to force a peace deal, crediting similar threats for ending five other wars. He then admits it probably wouldn't work here since the US doesn't buy enough from either country.",
+      "url": "https://t.me/wartranslated/19725",
+      "lang": "en",
+      "publishedAt": "2026-10-23T20:27:00.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "트럼프 대통령은 평화 협정을 체결하기 위해 러시아와 우크라이나에 200% 의 관세를 부과하며 5번의 다른 전쟁을 끝낸 것과 유사한 위협을 인정했다. 그런 다음 그는 미국이 어느 한 국가에서 충분히 구매하지 않기 때문에 여기에서 작동하지 않을 것이라고 인정합니다",
+      "translated": true
+    },
     {
       "id": "wartranslated:19724",
       "titleOriginal": "Russia's General Staff officially announced a \"quiet regime\" on the Kherson front starting 4am Moscow time on October 27, for a humanitarian operation in Oleshky.",
@@ -1519,138 +1651,6 @@
       "source": "Disclose.tv",
       "region": "속보",
       "title": "JUST IN - 미국, 중동 국가에서 미국 외교관의 가족에 대한 \"대규모 대피\" 실시: 보고서",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9747",
-      "titleOriginal": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise",
-      "url": "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
-      "lang": "en",
-      "publishedAt": "2026-10-22T17:44:01.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "일론 머스크는 테슬라가 2030년까지 5백만 대의 자동차를 판매할 것이라고 말합니다. 수학은 그렇지 않다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9746",
-      "titleOriginal": "Someone hacked the Switch 2 by using an old game and AI",
-      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-      "lang": "en",
-      "publishedAt": "2026-10-22T17:29:35.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "누군가가 오래된 게임과 AI를 사용하여 Switch 2를 해킹했습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45456",
-      "titleOriginal": "Saucer-shaped cloud hovering motionless over D.C. sparks UFO speculation",
-      "url": "https://insiderpaper.com/washington-dc-ufo-cloud/",
-      "lang": "en",
-      "publishedAt": "2026-10-22T17:18:49.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "접시 모양의 구름이 D.C. 상공을 움직이지 않고 맴돌고 있습니다. UFO 추측을 불러일으킵니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21949",
-      "titleOriginal": "ICYMI - U.S. Postal Service releases new \"traditional\" Diwali Forever stamp, to honor the \"rich and multifaceted heritage of America,\" says USPS' Shibani Gambhir, in an official press release.",
-      "url": "https://www.disclose.tv/id/vlco1tgwbc/",
-      "lang": "en",
-      "publishedAt": "2026-10-22T17:16:46.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "ICYMI - US Postal Service는 공식 보도 자료에서 USPS의 Shibani Gambhir가 \"미국의 풍부하고 다각적 인 유산\" 을 기리기 위해 새로운 \"전통적인\" Diwali Forever 우표를 발표했습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9745",
-      "titleOriginal": "Arc browser is shutting down",
-      "url": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down",
-      "lang": "en",
-      "publishedAt": "2026-10-22T17:10:00.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "아크 브라우저가 종료되고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19670",
-      "titleOriginal": "Presidential advisor \"Flash\" reported that tonight Russia attacked Kyiv with an Iskander missile carrying a K5 cluster warhead, designed to inflict maximum casualties and damage to personnel and equipment across a 400 by 400 meter area.",
-      "url": "https://t.me/wartranslated/19670",
-      "lang": "en",
-      "publishedAt": "2026-10-22T17:02:22.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "대통령 고문 \"플래시\" 는 오늘 밤 러시아가 400 x 400 미터 지역에 걸쳐 인력과 장비에 최대 사상자와 피해를 입히도록 설계된 K5 클러스터 탄두를 탑재한 이스칸데르 미사일로 키예프를 공격했다고 보도했다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21948",
-      "titleOriginal": "NEW - Musk invests about $1 billion in David Ellison's Skydance Corporation.",
-      "url": "https://www.disclose.tv/id/yhljslvvop/",
-      "lang": "en",
-      "publishedAt": "2026-10-22T16:57:39.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "신규 - Musk는 David Ellison의 Skydance Corporation에 약 10억 $ 를 투자합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9744",
-      "titleOriginal": "The disastrous PHP vulnerabilities were exploited days before the patch",
-      "url": "https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch",
-      "lang": "en",
-      "publishedAt": "2026-10-22T16:50:04.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "비참한 PHP 취약점은 패치 며칠 전에 악용되었습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9743",
-      "titleOriginal": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-      "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-      "lang": "en",
-      "publishedAt": "2026-10-22T16:24:50.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "와일드우드의 디렉터는 AI가 ‘우리가 이 스튜디오에 있는 모든 것과 반대된다’ 고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15629",
-      "titleOriginal": "A suspect requested a cigarette while being arrested after fleeing a traffic stop in North Fort Myers, Florida. Lee County Sheriff’s Office said he drove erratically and faces six charges",
-      "url": "https://t.me/trtworld/15629",
-      "lang": "en",
-      "publishedAt": "2026-10-22T16:22:02.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "용의자는 플로리다주 노스 포트 마이어스의 교통 정류장을 탈출한 후 체포되는 동안 담배를 요청했습니다. 리 카운티 보안관 사무소 (Lee County Sheriff's Office) 는 불규칙하게 운전했으며 6 건의 혐의에 직면 해 있다고 말했다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45455",
-      "titleOriginal": "BREAKING - Authorities have banned all protests Saturday in France's southern city of Marseille, and suspended public transport on that day",
-      "url": "https://t.me/insiderpaper/45455",
-      "lang": "en",
-      "publishedAt": "2026-10-22T16:18:26.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 당국은 토요일 프랑스 남부 도시 마르세유에서 모든 시위를 금지했으며, 이날 대중교통을 일시 중단했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19669",
-      "titleOriginal": "A Russian soldier filmed a pile of destroyed military equipment on a short stretch of road leading to Chasovoy Yar.",
-      "url": "https://t.me/wartranslated/19669",
-      "lang": "en",
-      "publishedAt": "2026-10-22T16:12:38.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아 군인이 차소보이 야르 (Chasovoy Yar) 로 이어지는 짧은 도로에서 파괴된 군사 장비 더미를 촬영했습니다",
       "translated": true
     }
   ]
