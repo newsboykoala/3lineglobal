@@ -1,17 +1,72 @@
 {
-  "updatedAt": "2026-10-24T21:03:45.410Z",
+  "updatedAt": "2026-10-24T23:32:24.696Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
     {
-      "id": "worldnews:78606",
-      "titleOriginal": "Musk says he was behind Starlink speed restriction after service in Ukraine is restored",
-      "url": "https://apnews.com/article/russia-ukraine-war-starlink-drones-a3a0139dfc23365550306dd66fe43daa",
+      "id": "disclosetv:21960",
+      "titleOriginal": "NOW - Obama says that Iran is \"in a stronger strategic position now than before the war started.\"",
+      "url": "https://t.me/disclosetv/21960",
       "lang": "en",
-      "publishedAt": "2026-10-24T20:54:30.000Z",
+      "publishedAt": "2026-10-24T23:03:06.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "이제 오바마는 이란이 \"전쟁이 시작되기 전보다 더 강력한 전략적 위치에 있다\" 고 말한다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78608",
+      "titleOriginal": "Musk says he was behind Starlink speed restriction after service in Ukraine is restored",
+      "url": "https://www.yahoo.com/news/articles/ukraine-says-starlink-speed-limits-104548676.html",
+      "lang": "en",
+      "publishedAt": "2026-10-24T22:54:23.000Z",
       "source": "WorldNews",
       "region": "종합",
       "title": "머스크는 우크라이나에서 서비스가 복구된 후 스타링크 속도 제한의 배후에 있었다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92056",
+      "titleOriginal": "Physicists May Have Inadvertently Built a Qubit That Can Run Backward in Time",
+      "url": "https://www.sciencealert.com/physicists-may-have-inadvertently-built-a-qubit-that-can-run-backward-in-time",
+      "lang": "en",
+      "publishedAt": "2026-10-24T21:36:44.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "물리학자들은 의도치 않게 시간을 거슬러 올라갈 수 있는 Qubit을 만들었을 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9800",
+      "titleOriginal": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "lang": "en",
+      "publishedAt": "2026-10-24T21:35:32.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Blue Planet III는 AI 시대의 거친 가장자리를 유지하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78607",
+      "titleOriginal": "Musk says he was behind Starlink speed restriction in Ukraine | CBC News",
+      "url": "https://www.cbc.ca/news/world/ukraine-starlink-satellite-restored-9.7394719",
+      "lang": "en",
+      "publishedAt": "2026-10-24T21:09:16.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "머스크는 우크라이나에서 스타링크 속도 제한의 배후에 있었다고 말합니다 | CBC 뉴스",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15638",
+      "titleOriginal": "French police arrested nearly 1,000 people nationwide, Interior Minister Laurent Nunez said, as violent clashes broke out after largely peaceful demonstrations. Authorities estimated nationwide turnout at 410,000, including 110,000 in Paris",
+      "url": "https://t.me/trtworld/15638",
+      "lang": "en",
+      "publishedAt": "2026-10-24T21:07:40.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "로랑 누네즈 내무장관은 대체로 평화적인 시위 이후 격렬한 충돌이 발생하면서 프랑스 경찰이 전국적으로 거의 1,000명을 체포했다고 말했다. 당국은 파리의 11만 명을 포함해 전국 투표율을 41만 명으로 추산했다",
       "translated": true
     },
     {
@@ -1596,61 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "우크라이나 국방부는 덴마크가 F-16 기내 대포를 위해 우크라이나에 5만 20mm 라운드를 제공했다고 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78574",
-      "titleOriginal": "Tanker with 40,000 tons of Russian diesel is on its way to New York",
-      "url": "https://www.turkiyetoday.com/business/first-russian-diesel-tanker-heads-to-new-york-after-putin-trump-deal-report-3230864",
-      "lang": "en",
-      "publishedAt": "2026-10-23T10:44:25.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "4만 톤의 러시아산 디젤을 탑재한 유조선이 뉴욕으로 향하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19697",
-      "titleOriginal": "Peskov says Russia-US-Ukraine trilateral talks are set for Abu Dhabi in the first half of November, focused on security guarantees for Russia and Ukraine after a peace settlement.",
-      "url": "https://t.me/wartranslated/19697",
-      "lang": "en",
-      "publishedAt": "2026-10-23T10:40:43.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "페스코프 장관은 러시아-미국-우크라이나 3자 회담이 11월 상순에 아부다비에서 열릴 예정이며, 평화 정착 이후 러시아와 우크라이나의 안보 보장에 초점을 맞추고 있다고 말했습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45471",
-      "titleOriginal": "BREAKING: French and British air forces stage first joint nuclear strike simulation exercise - statement",
-      "url": "https://t.me/insiderpaper/45471",
-      "lang": "en",
-      "publishedAt": "2026-10-23T10:40:22.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "브레이킹: 프랑스와 영국 공군의 첫 번째 합동 핵 타격 시뮬레이션 훈련 단계 - 성명서",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92042",
-      "titleOriginal": "Something Strange Is Living in The Old Fuel Leaking From WWII Shipwrecks",
-      "url": "https://www.sciencealert.com/something-strange-is-living-in-the-old-fuel-leaking-from-wwii-shipwrecks",
-      "lang": "en",
-      "publishedAt": "2026-10-23T10:39:23.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "제2차 세계대전 난파선에서 새어나온 오래된 연료에 뭔가 이상한 것이 살고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19696",
-      "titleOriginal": "Ukraine's human rights ombudsman Dmytro Lubinets says seven more civilians have returned home, including a 90-year-old woman with limited mobility, a 50-year-old who suffered a heart attack and stroke, and a young woman with her child who w",
-      "url": "https://t.me/wartranslated/19696",
-      "lang": "en",
-      "publishedAt": "2026-10-23T10:37:56.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나의 인권 옴부즈맨 드미트로 루비네츠 (Dmytro Lubinets) 는 거동이 불편한 90세 여성, 심장마비와 뇌졸중을 겪은 50세 여성, 자녀를 둔 젊은 여성 등 7명의 민간인이 집으로 돌아왔다고 말했습니다",
       "translated": true
     }
   ]
