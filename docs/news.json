@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-10-23T23:19:47.791Z",
+  "updatedAt": "2026-10-24T01:49:03.418Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78586",
+      "titleOriginal": "Report: 'Iran advancing sophisticated plots to assassinate senior US officials'",
+      "url": "https://www.ynetnews.com/article/ftxig9ynq",
+      "lang": "en",
+      "publishedAt": "2026-10-24T01:24:31.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "보고서: '미국 고위 관리들을 암살하기 위해 정교한 음모를 전진시키는 이란",
+      "translated": true
+    },
     {
       "id": "disclosetv:21955",
       "titleOriginal": "NEW - Warhound, founded by Anduril’s co-founder Palmer Luckey and software entrepreneur Ben Lamm, “will produce genetically enhanced working dogs and equip them with advanced technology to ensure they have battlefield situational awareness.",
@@ -1640,17 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "Amazon은 Kindle Unlimited를 Kindle Plus로 개명하고 오디오북에 대한 액세스를 확장합니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21950",
-      "titleOriginal": "JUST IN - U.S. is carrying out a \"large-scale evacuation\" of family members of American diplomats in Middle Eastern countries: reports",
-      "url": "https://t.me/disclosetv/21950",
-      "lang": "en",
-      "publishedAt": "2026-10-22T17:49:50.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "JUST IN - 미국, 중동 국가에서 미국 외교관의 가족에 대한 \"대규모 대피\" 실시: 보고서",
       "translated": true
     }
   ]
