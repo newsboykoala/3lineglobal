@@ -1,8 +1,63 @@
 {
-  "updatedAt": "2026-10-24T01:49:03.418Z",
+  "updatedAt": "2026-10-24T06:54:41.667Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78591",
+      "titleOriginal": "Executives quit $25-billion Alaskan gas venture in the Beaufort Sea over claims of secret Russian control",
+      "url": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
+      "lang": "en",
+      "publishedAt": "2026-10-24T05:04:41.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "임원들은 러시아의 비밀 통제에 대한 주장에 대해 보퍼트 해에서 $ 250억 규모의 알래스카 가스 벤처를 그만두었다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78589",
+      "titleOriginal": "Wolves roam into Finnish villages after Google destroys 1,300 acres of forest for AI data centers — forest where wolf packs used to live is now an expanse of mud",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud",
+      "lang": "en",
+      "publishedAt": "2026-10-24T03:14:16.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "Google이 AI 데이터 센터를 위해 1,300에이커의 숲을 파괴한 후 늑대가 핀란드 마을을 돌아다닙니다. 늑대 무리가 살던 숲은 이제 진흙이 가득합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78588",
+      "titleOriginal": "U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
+      "url": "https://www.axios.com/2026/10/24/iran-war-us-embassies-evacuations-threat",
+      "lang": "en",
+      "publishedAt": "2026-10-24T03:09:26.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국 정보기관 메모, 해외 공무원을 죽이려는 이란의 \"선진적\" 음모에 대해 경고",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92050",
+      "titleOriginal": "NASA's Perseverance Just Broke The Off-World Driving Record, While Mostly Steering Itself",
+      "url": "https://www.sciencealert.com/nasas-perseverance-just-drove-farther-than-any-vehicle-on-another-world-mostly-steering-itself",
+      "lang": "en",
+      "publishedAt": "2026-10-24T02:48:32.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "NASA의 인내심은 대부분 스스로 조종하면서 오프 월드 운전 기록을 깨뜨 렸습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78587",
+      "titleOriginal": "US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say",
+      "url": "https://www.reuters.com/business/autos-transportation/us-has-years-asked-musk-alter-starlink-service-ukraine-middle-east-sources-say-2026-10-24/",
+      "lang": "en",
+      "publishedAt": "2026-10-24T02:44:20.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국 소식통에 따르면 머스크는 수년간 우크라이나, 중동의 스타링크 서비스를 변경해달라고 요청해왔다",
+      "translated": true
+    },
     {
       "id": "worldnews:78586",
       "titleOriginal": "Report: 'Iran advancing sophisticated plots to assassinate senior US officials'",
@@ -1596,61 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "BioWare 종료 후 Mass Effect 5 트레일러 누출",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9750",
-      "titleOriginal": "Tesla driver using Full Self-Driving struck and killed a man crossing I-80",
-      "url": "https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california",
-      "lang": "en",
-      "publishedAt": "2026-10-22T18:10:54.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "완전 자율 주행을 사용하는 테슬라 운전자가 I-80을 가로지르는 한 남성을 치고 살해했습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9749",
-      "titleOriginal": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-      "lang": "en",
-      "publishedAt": "2026-10-22T18:06:04.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Microsoft는 AI 도구가 진단 조건에서 의사보다 우수하다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45457",
-      "titleOriginal": "BREAKING: Casualties reported after strong 7.0 earthquake strikes China's Tibet, state media reports",
-      "url": "https://insiderpaper.com/strong-7-0-magnitude-earthquake-strikes-chinas-tibet-usgs/",
-      "lang": "en",
-      "publishedAt": "2026-10-22T17:55:12.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 7.0의 강력한 지진이 중국 티벳을 강타한 후 사상자가 보고되었다고 주 언론이 보도함",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21951",
-      "titleOriginal": "JUST IN - Former House Speaker Kevin McCarthy predicts Republicans will lose control of the House in two weeks: \"Republicans are going to lose it.\"",
-      "url": "https://www.disclose.tv/id/66muary10g/",
-      "lang": "en",
-      "publishedAt": "2026-10-22T17:53:49.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "방금 - 케빈 매카시 전 하원 의장은 공화당이 2주 안에 하원에 대한 통제력을 잃을 것이라고 예측합니다. \"공화당이 잃을 것입니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9748",
-      "titleOriginal": "Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks",
-      "url": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks",
-      "lang": "en",
-      "publishedAt": "2026-10-22T17:51:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Amazon은 Kindle Unlimited를 Kindle Plus로 개명하고 오디오북에 대한 액세스를 확장합니다",
       "translated": true
     }
   ]
