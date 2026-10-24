@@ -1,8 +1,151 @@
 {
-  "updatedAt": "2026-10-24T18:19:30.040Z",
+  "updatedAt": "2026-10-24T21:03:45.410Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78606",
+      "titleOriginal": "Musk says he was behind Starlink speed restriction after service in Ukraine is restored",
+      "url": "https://apnews.com/article/russia-ukraine-war-starlink-drones-a3a0139dfc23365550306dd66fe43daa",
+      "lang": "en",
+      "publishedAt": "2026-10-24T20:54:30.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "머스크는 우크라이나에서 서비스가 복구된 후 스타링크 속도 제한의 배후에 있었다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21959",
+      "titleOriginal": "NOW - Kamala Harris says for the last year and a half \"we have been piiissed... that phase where we felt hopeless and powerless is over.\"",
+      "url": "https://t.me/disclosetv/21959",
+      "lang": "en",
+      "publishedAt": "2026-10-24T20:23:13.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "지금 - 카말라 해리스는 지난 1년 반 동안 \"우리는 절망하고 무력감을 느꼈던 그 단계가 끝났습니다.\" 라고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78605",
+      "titleOriginal": "Russia has lost over 1.5 million troops in Ukraine since the beginning of its full-scale invasion in 2022, as per a report by the General Staff of the Armed Forces of Ukraine",
+      "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-576-600-troops-in-ukraine-since-feb-24-2022/",
+      "lang": "en",
+      "publishedAt": "2026-10-24T20:19:39.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나 육군 총참모부의 보고서에 따르면 러시아는 2022년 본격적인 침공이 시작된 이후 우크라이나에서 150만 명 이상의 병력을 잃었다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19753",
+      "titleOriginal": "A wave of Russian regions are under drone attack right now, with at least four airports shut down.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-10-24T20:14:43.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "현재 러시아 지역의 물결이 드론 공격을 받고 있으며, 최소 4개의 공항이 폐쇄되었습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19752",
+      "titleOriginal": "Also in Omsk, an Ozon warehouse was struck.",
+      "url": "https://t.me/wartranslated/19752",
+      "lang": "en",
+      "publishedAt": "2026-10-24T20:13:02.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "또한 옴스크에서는 오존 창고가 타격을 입었습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19751",
+      "titleOriginal": "Ukraine's ex defense adviser Sternenko calls Musk's claim that Ukraine misused Starlink on combat drones false, saying it was technically impossible since only the military Starshield system could support moving terminals since February.",
+      "url": "https://t.me/wartranslated/19751",
+      "lang": "en",
+      "publishedAt": "2026-10-24T20:10:52.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나의 전 국방 고문인 스테르넨코는 우크라이나가 2월 이후 군사용 스타쉴드 시스템만 움직이는 터미널을 지원할 수 있었기 때문에 기술적으로 불가능하다고 말하면서 전투용 드론에 스타링크를 오용했다는 머스크의 주장을 반박한다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92055",
+      "titleOriginal": "Squid Are Even More Alien-Like Than We Thought, With an Unmatched Ability to Change Genetic Expression",
+      "url": "https://www.sciencealert.com/squid-are-even-more-alien-like-than-we-thought-with-an-unmatched-ability-to-change-genetic-expression",
+      "lang": "en",
+      "publishedAt": "2026-10-24T20:05:56.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "오징어는 유전자 발현을 바꿀 수 있는 타의 추종을 불허하는 능력으로 우리가 생각했던 것보다 훨씬 더 외계인 같은 존재입니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92054",
+      "titleOriginal": "Common Liver Disease May Actually Have 5 Distinct Types With Different Health Risks",
+      "url": "https://www.sciencealert.com/common-liver-disease-may-actually-have-5-distinct-types-with-different-health-risks",
+      "lang": "en",
+      "publishedAt": "2026-10-24T20:05:51.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "일반적인 간 질환은 실제로 건강 위험이 다른 5 가지 유형을 가질 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21958",
+      "titleOriginal": "NEW - Japan's revised Imperial House Law enforcing male-only succession takes effect today, meaning that Emperor Naruhito’s only child, 24-year-old Princess Aiko, remains ineligible to become empress, and any children she has in the future ",
+      "url": "https://www.disclose.tv/id/pm5za375rx/",
+      "lang": "en",
+      "publishedAt": "2026-10-24T20:03:38.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "신간 - 일본의 개정 황실법이 남성 전용 승계를 시행함에 따라 오늘부터 효력이 발생합니다. 즉, 나루히토 천황의 외아들인 24세 아이코 공주는 황후가 될 자격이 없으며, 앞으로 그녀가 가진 모든 자녀는 황후가 될 수 없습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78604",
+      "titleOriginal": "Netanyahu authorises support for Argentina over Falklands",
+      "url": "https://www.telegraph.co.uk/world-news/2026/10/24/netanyahu-authorises-support-argentina-claim-falklands/?WT.mc_id=tmgoff_reddit_authorises-support-argentina-claim-falklands/&amp;accesscontrol=facebookchannel_open",
+      "lang": "en",
+      "publishedAt": "2026-10-24T19:09:30.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "네타냐후, 포클랜드에 대한 아르헨티나 지원 승인",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21957",
+      "titleOriginal": "NEW - EPFL neurotech lab in Switzerland develops \"LogSync,\" an implantable brain chip that measures how different parts of the brain communicate with each other, then uses that data to decide when and how to trigger electrical stimulation t",
+      "url": "https://www.disclose.tv/id/vf2c0ztsmh/",
+      "lang": "en",
+      "publishedAt": "2026-10-24T19:00:07.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "새로운 기능 - 스위스의 EPFL neurotech 연구소는 뇌의 서로 다른 부분이 서로 통신하는 방식을 측정하는 이식형 뇌 칩인 \"LogSync\" 를 개발한 다음 해당 데이터를 사용하여 전기 자극을 트리거하는 시기와 방법을 결정합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9799",
+      "titleOriginal": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "lang": "en",
+      "publishedAt": "2026-10-24T18:35:42.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "펜실베이니아는 AI로 생성된 광고에 라벨이 필요합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78603",
+      "titleOriginal": "Ukrainian forces strike Russian targets 2,500 kilometers from border",
+      "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-russian-targets-2-500-kilometers-from-border/",
+      "lang": "en",
+      "publishedAt": "2026-10-24T18:29:11.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나군이 국경에서 2,500km 떨어진 러시아 표적을 공격합니다",
+      "translated": true
+    },
     {
       "id": "wartranslated:19750",
       "titleOriginal": "SpaceX still hasn't responded to Ukraine about the earlier Starlink/Starshield restrictions, a Ukrainian official tells Radio Liberty's Alex Raufoglu. The source says Washington is in contact with Kyiv, but \"no one has explained what happen",
@@ -34,17 +177,6 @@
       "source": "Insider Paper",
       "region": "속보",
       "title": "새로운 소식 - 아돌프 히틀러의 악명 높은 알파인 휴양지인 독수리의 둥지는 독일 베르히테스가덴에서 하룻밤 사이에 대규모 화재로 거의 완전히 파괴되었습니다. 경찰은 방화를 의심합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19749",
-      "titleOriginal": "Also in Omsk, an Ozon warehouse was struck.",
-      "url": "https://t.me/wartranslated/19749",
-      "lang": "en",
-      "publishedAt": "2026-10-24T16:07:40.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "또한 옴스크에서는 오존 창고가 타격을 입었습니다",
       "translated": true
     },
     {
@@ -1519,138 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "우크라이나의 인권 옴부즈맨 드미트로 루비네츠 (Dmytro Lubinets) 는 거동이 불편한 90세 여성, 심장마비와 뇌졸중을 겪은 50세 여성, 자녀를 둔 젊은 여성 등 7명의 민간인이 집으로 돌아왔다고 말했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19694",
-      "titleOriginal": "A Malta flagged tanker with 40,000 tons of Russian diesel is sailing to New York under Trump's deal with Putin for 300,000 tons of October exports, Reuters reports , timed to land November 7, four days after the US election.",
-      "url": "https://www.reuters.com/business/energy/tanker-carrying-40000-t-russian-diesel-heads-new-york-after-putin-trump-deal-2026-10-23/",
-      "lang": "en",
-      "publishedAt": "2026-10-23T10:35:26.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "로이터는 4만 톤의 러시아 디젤을 탑재한 몰타 국적의 유조선이 트럼프가 푸틴 대통령과 30만 톤의 10월 수출을 위해 뉴욕으로 항해하고 있다고 미국 대선 4일 후인 11월 7일 착륙할 예정이라고 보도했다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78573",
-      "titleOriginal": "Israel orders army to prepare to fully close West Bank after attack",
-      "url": "https://news.sky.com/share/13602577",
-      "lang": "en",
-      "publishedAt": "2026-10-23T10:19:37.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "이스라엘 군대는 공격 후 웨스트 뱅크를 완전히 폐쇄 할 준비를 명령합니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21953",
-      "titleOriginal": "JUST IN - Three oil tankers carrying Russian Diesel are en route to the United States, Tanker Trackers say.",
-      "url": "https://t.me/disclosetv/21953",
-      "lang": "en",
-      "publishedAt": "2026-10-23T10:13:10.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "JUST IN - 러시아 디젤을 실은 유조선 3척이 미국으로 향하고 있다고 Tanker Trackers는 말합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9770",
-      "titleOriginal": "No, the iPhone Duo isn’t a small phone",
-      "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
-      "lang": "en",
-      "publishedAt": "2026-10-23T10:04:43.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "아니요, iPhone Duo는 작은 휴대폰이 아닙니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45470",
-      "titleOriginal": "BREAKING - Gunman kills one, wounds four in French town outside Paris: police",
-      "url": "https://t.me/insiderpaper/45470",
-      "lang": "en",
-      "publishedAt": "2026-10-23T09:55:18.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "파손 - 총잡이가 파리 외곽 프랑스 마을에서 1명 사망, 4명 부상: 경찰",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15632",
-      "titleOriginal": "Israel is moving to seal off the entire occupied West Bank after Israeli forces shot dead two Palestinians in Hebron following allegations they had opened fire at illegal Israeli settlers, wounding five people.",
-      "url": "https://t.me/trtworld/15632",
-      "lang": "en",
-      "publishedAt": "2026-10-23T09:02:22.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "이스라엘군이 헤브론에서 팔레스타인인 2명을 사살한 후 이스라엘이 점령한 요르단강 서안 전체를 봉쇄하기 위해 움직이고 있다. 불법 이스라엘 정착민들에게 발포해 5명이 부상을 입었다는 주장에 따라 이스라엘군은 헤브론에서 팔레스타인인 2명을 사살했다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45469",
-      "titleOriginal": "JUST IN - Israel has closed West Bank city after at least five Israelis wounded in shooting attack, reports say",
-      "url": "https://t.me/insiderpaper/45469",
-      "lang": "en",
-      "publishedAt": "2026-10-23T08:49:08.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 이스라엘이 최소 5명의 이스라엘인이 총격 공격으로 부상을 입은 후 웨스트 뱅크 도시를 폐쇄했다고 보도했다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78572",
-      "titleOriginal": "UK Rejects Witkoff’s Characterization of Putin as ‘Humanitarian’ - Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-22/uk-rejects-witkoff-s-characterization-of-putin-as-humanitarian?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjY3NDk4OCwiZXhwIjoxNzkzMjc5Nzg4LCJhcnRpY2xlSWQiOiJUTkIyRVpLSkg2VkEwMCIsImJjb25uZWN0SWQiOiIxMTJGOEY3MUY4Mzk0NTJBOEE1N0E1M0M2MTA1QkY0QSJ9.ksQtN7pfkRa_04w3T_3DL3023xjAW8xhM2Koe_Pina4&amp;utm_source=reddit&amp;utm_medium=social&amp;utm_content=business&amp;utm_campaign=giftlink&amp;leadSource=article-gifting",
-      "lang": "en",
-      "publishedAt": "2026-10-23T08:14:14.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "영국, 위트코프가 푸틴을 ‘인도주의적‘ 으로 규정하는 것을 거부 - 블룸버그",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45468",
-      "titleOriginal": "JUST IN - A Malta-flagged tanker with a cargo of 40,000 ‌metric tons of Russian diesel on board is heading towards New York ⁠following Putin-Trump deal, LSEG data showed on Friday — Reuters",
-      "url": "https://t.me/insiderpaper/45468",
-      "lang": "en",
-      "publishedAt": "2026-10-23T07:25:03.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 푸틴-트럼프 합의에 따라 4만 미터톤의 러시아산 디젤 화물을 실은 몰타발 유조선이 뉴욕으로 향하고 있습니다. LSEG 데이터는 금요일에 나타났습니다. — 로이터",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15631",
-      "titleOriginal": "Follow our Daily News Brief for Friday, October 23rd",
-      "url": "https://trt.world/c5rd",
-      "lang": "en",
-      "publishedAt": "2026-10-23T06:02:11.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "10월 23일 금요일 일일 뉴스 브리프를 팔로우하세요",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15630",
-      "titleOriginal": "Israel has opened around 850 polling stations in territories it illegally occupies in besieged Gaza, Lebanon and Syria ahead of the October 27 election, The Times of Israel reported.",
-      "url": "https://t.me/trtworld/15630",
-      "lang": "en",
-      "publishedAt": "2026-10-23T04:22:12.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "이스라엘은 10월 27일 선거를 앞두고 포위된 가자지구, 레바논, 시리아에 불법적으로 점령한 지역에 약 850개의 투표소를 열었다고 타임스 오브 이스라엘이 보도했다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78570",
-      "titleOriginal": "Canadian Officers Don’t Want to Serve in the U.S. Anymore",
-      "url": "https://www.theatlantic.com/national-security/2026/10/military-cooperation-canada-trump/689057/",
-      "lang": "en",
-      "publishedAt": "2026-10-23T03:59:29.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "캐나다 장교들은 더 이상 미국에서 복무하고 싶지 않습니다",
       "translated": true
     }
   ]
