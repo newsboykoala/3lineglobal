@@ -1,17 +1,83 @@
 {
-  "updatedAt": "2026-10-24T15:28:08.288Z",
+  "updatedAt": "2026-10-24T18:19:30.040Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
     {
-      "id": "wartranslated:19746",
-      "titleOriginal": "Also in Omsk, an Ozon warehouse was struck.",
-      "url": "https://t.me/wartranslated/19746",
+      "id": "wartranslated:19750",
+      "titleOriginal": "SpaceX still hasn't responded to Ukraine about the earlier Starlink/Starshield restrictions, a Ukrainian official tells Radio Liberty's Alex Raufoglu. The source says Washington is in contact with Kyiv, but \"no one has explained what happen",
+      "url": "https://t.me/wartranslated/19750",
       "lang": "en",
-      "publishedAt": "2026-10-24T15:25:43.000Z",
+      "publishedAt": "2026-10-24T17:43:20.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나 관계자는 스페이스X가 이전 스타링크/스타쉴드 제한에 대해 우크라이나에 아직 응답하지 않았다고 라디오 리버티의 알렉스 라우폴루에게 전했다. 소식통은 워싱턴이 키예프와 접촉하고 있다고 말하지만, \"아무도 무슨 일이 일어나는지 설명하지 않았다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78602",
+      "titleOriginal": "Zelenskyy says China can force Putin to end Russia's war against Ukraine",
+      "url": "https://newsukraine.rbc.ua/news/china-has-influence-to-push-putin-to-stop-1792852286.html",
+      "lang": "en",
+      "publishedAt": "2026-10-24T16:54:19.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "젤렌스키는 중국이 푸틴에게 우크라이나에 대한 러시아의 전쟁을 끝내도록 강요할 수 있다고 말한다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45492",
+      "titleOriginal": "NEW - Adolf Hitler’s infamous Alpine retreat, the Eagle’s Nest, has been almost completely destroyed in a massive overnight fire in Berchtesgaden, Germany. Police suspect arson.",
+      "url": "https://t.me/insiderpaper/45492",
+      "lang": "en",
+      "publishedAt": "2026-10-24T16:34:45.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "새로운 소식 - 아돌프 히틀러의 악명 높은 알파인 휴양지인 독수리의 둥지는 독일 베르히테스가덴에서 하룻밤 사이에 대규모 화재로 거의 완전히 파괴되었습니다. 경찰은 방화를 의심합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19749",
+      "titleOriginal": "Also in Omsk, an Ozon warehouse was struck.",
+      "url": "https://t.me/wartranslated/19749",
+      "lang": "en",
+      "publishedAt": "2026-10-24T16:07:40.000Z",
       "source": "War Translated",
       "region": "분쟁",
       "title": "또한 옴스크에서는 오존 창고가 타격을 입었습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19748",
+      "titleOriginal": "Russia's energy ministry reports a massive blackout across occupied Ukrainian territories, including parts of Donetsk, Luhansk, Zaporizhzhia and Kherson regions, plus Crimea. They blame \"external interference,\" likely a reference to some ve",
+      "url": "https://t.me/wartranslated/19748",
+      "lang": "en",
+      "publishedAt": "2026-10-24T15:47:30.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아 에너지부는 도네츠크, 루한스크, 자포리자, 헤르손 지역과 크림반도를 포함한 점령된 우크라이나 영토에서 대규모 정전이 발생했다고 보고했다. 그들은 \"외부 간섭\" 을 비난합니다. 아마도 어떤 것에 대한 언급 일 것입니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78601",
+      "titleOriginal": "Zelenskyy imposes sanctions on Russian missile manufacturers and military industry suppliers",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/24/8059537/",
+      "lang": "en",
+      "publishedAt": "2026-10-24T15:39:23.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "젤렌스키, 러시아 미사일 제조업체 및 군사 산업 공급 업체에 제재 부과",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19747",
+      "titleOriginal": "A Ukrainian strike drone flies straight into a truck packed with Russian occupiers.",
+      "url": "https://t.me/wartranslated/19747",
+      "lang": "en",
+      "publishedAt": "2026-10-24T15:34:37.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나 공격 드론이 러시아 점령군으로 가득 찬 트럭으로 곧장 날아갑니다",
       "translated": true
     },
     {
@@ -1585,72 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "캐나다 장교들은 더 이상 미국에서 복무하고 싶지 않습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78569",
-      "titleOriginal": "Deadly Russian missile strike on Kyiv used cluster warheads, hours after Putin-Witkoff meeting",
-      "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/",
-      "lang": "en",
-      "publishedAt": "2026-10-23T03:09:32.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "푸틴-위트코프 회담 후 몇 시간 만에 키예프에 대한 치명적인 러시아 미사일 공격이 클러스터 탄두를 사용했습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92041",
-      "titleOriginal": "Mole Rats Get Stressed When Earth's Magnetic Field Vanishes, Study Suggests",
-      "url": "https://www.sciencealert.com/mole-rats-get-stressed-when-earths-magnetic-field-vanishes-study-suggests",
-      "lang": "en",
-      "publishedAt": "2026-10-23T02:34:38.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "지구의 자기장이 사라지면 두더지 쥐가 스트레스를 받는다, 연구 제안",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78568",
-      "titleOriginal": "Amid Starlink crisis, Finnish tech giants announce plan to help Ukraine build its own sovereign satellite system",
-      "url": "https://kyivindependent.com/amid-starlink-crisis-finnish-tech-giants-announce-plan-to-help-ukraine-build-its-own-sovereign-satellite-system/",
-      "lang": "en",
-      "publishedAt": "2026-10-23T01:39:11.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "스타링크 사태 속에서 핀란드 기술 대기업들은 우크라이나가 자체 주권 위성 시스템을 구축할 수 있도록 지원할 계획을 발표했습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78567",
-      "titleOriginal": "Rosneft admits losses from Ukraine's refinery strikes becoming unsustainable, Bloomberg reports",
-      "url": "https://kyivindependent.com/rosneft-admits-losses-from-ukraines-refinery-strikes-becoming-unsustainable-bloomberg-reports/",
-      "lang": "en",
-      "publishedAt": "2026-10-23T00:49:38.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "블룸버그 통신은 로스네프트가 우크라이나의 정유 공장 파업으로 인한 손실이 지속 불가능해지고 있음을 인정했다고 보도했다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78566",
-      "titleOriginal": "Ukraine's population had shrunk to 28.5 million by mid-2026",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/22/8059280/",
-      "lang": "en",
-      "publishedAt": "2026-10-23T00:34:18.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "우크라이나의 인구는 2026년 중반까지 2850만 명으로 줄어들었다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9769",
-      "titleOriginal": "Etsy is cracking down on AI slop listings",
-      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-      "lang": "en",
-      "publishedAt": "2026-10-23T00:20:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Etsy는 AI 슬롭 숙소를 단속하고 있습니다",
       "translated": true
     }
   ]
