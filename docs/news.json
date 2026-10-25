@@ -1,8 +1,184 @@
 {
-  "updatedAt": "2026-10-25T13:35:13.016Z",
+  "updatedAt": "2026-10-25T17:25:44.031Z",
   "count": 150,
   "translatedCount": 148,
   "items": [
+    {
+      "id": "trtworld:15641",
+      "titleOriginal": "Israeli settlers attacked a Palestinian family home and stole at least 14 sheep overnight in Masafer Yatta in the occupied West Bank. CCTV footage showed settlers sneaking into the yard. The farmer said the attackers damaged belongings and ",
+      "url": "https://t.me/trtworld/15641",
+      "lang": "en",
+      "publishedAt": "2026-10-25T17:19:19.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "이스라엘 정착민들은 팔레스타인 가정집을 공격하여 점령지인 요르단강 서안의 마사퍼 야타에서 하룻밤 사이에 최소 14마리의 양을 훔쳤습니다. CCTV 영상에는 정착민들이 마당으로 몰래 들어오는 모습이 담겼다. 농부는 공격자들이 소지품을 손상시키고",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19779",
+      "titleOriginal": "Footage shows an FP-2 strike drone flying over targets that were just hit, with the operator checking the strike results on the fly before continuing on its way.",
+      "url": "https://t.me/wartranslated/19779",
+      "lang": "en",
+      "publishedAt": "2026-10-25T17:17:56.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "영상은 FP-2 스트라이크 드론이 방금 맞은 목표물을 향해 날아가는 것을 보여주며, 운전자는 이동을 계속하기 전에 즉석에서 타격 결과를 확인합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9804",
+      "titleOriginal": "This Switch 2 sequel accessory was a few millimeters away from being good",
+      "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+      "lang": "en",
+      "publishedAt": "2026-10-25T17:06:33.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "이 스위치 2 후속 액세서리는 좋은 것으로부터 몇 밀리미터 떨어져 있었습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19778",
+      "titleOriginal": "Trump: \"I think both Russia and Ukraine want to make a deal, we're going to have some talks soon.\"",
+      "url": "https://t.me/wartranslated/19778",
+      "lang": "en",
+      "publishedAt": "2026-10-25T17:02:01.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "트럼프: \"나는 러시아와 우크라이나가 합의를 원한다고 생각한다. 우리는 곧 대화를 할 것이다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19777",
+      "titleOriginal": "Trump says Russia wasn't supplying oil just to them, it was supplying it to the whole world, and that was very good.",
+      "url": "https://t.me/wartranslated/19777",
+      "lang": "en",
+      "publishedAt": "2026-10-25T17:01:00.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "트럼프는 러시아가 그들에게만 석유를 공급하는 것이 아니라 전 세계에 공급하고 있다고 말했고, 그것은 매우 좋았다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19776",
+      "titleOriginal": "Elon Musk says the slaughter of Ukrainians and Russians needs to stop and sympathy is owed even to poor Russian conscripts who have no choice but to fight and die under drone strikes. Really?",
+      "url": "https://t.me/wartranslated/19776",
+      "lang": "en",
+      "publishedAt": "2026-10-25T16:32:07.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "일론 머스크는 우크라이나인과 러시아인의 학살은 멈춰야 하며, 드론 공격에 맞서 싸우고 죽을 수밖에 없는 가난한 러시아 징집병에게도 동정이 필요하다고 말합니다. 정말인가요?",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9803",
+      "titleOriginal": "Now you can watch Instagram Reels on your Apple TV",
+      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+      "lang": "en",
+      "publishedAt": "2026-10-25T16:21:31.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "이제 Apple TV에서 Instagram Reels를 시청할 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78628",
+      "titleOriginal": "Musk Fears Russia Could Target Starlink Satellites With Anti-Satellite Weapons",
+      "url": "https://united24media.com/war-in-ukraine/musk-fears-russia-could-target-starlink-satellites-with-anti-satellite-weapons-23786",
+      "lang": "en",
+      "publishedAt": "2026-10-25T15:54:12.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "머스크는 러시아가 반위성 무기로 스타링크 위성을 표적으로 삼을 수 있다고 우려한다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19773",
+      "titleOriginal": "A mobile AI-powered turret mounted on a pickup truck has been built to shoot down Russian drones.",
+      "url": "https://t.me/wartranslated/19773",
+      "lang": "en",
+      "publishedAt": "2026-10-25T15:29:24.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아 드론을 격추하기 위해 픽업 트럭에 장착된 이동식 AI 구동 포탑이 제작되었습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19772",
+      "titleOriginal": "Ukraine's military struck Russia's Proton plant in Oryol with four missiles, sparking a major fire. The factory supplies components for Kh-101 cruise missiles, Iskander-M ballistics, and Pantsir-S1 systems.",
+      "url": "https://t.me/wartranslated/19772",
+      "lang": "en",
+      "publishedAt": "2026-10-25T15:26:41.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나의 군대는 오욜에 있는 러시아의 양성자 공장을 4개의 미사일로 공격하여 큰 화재를 일으켰습니다. 공장은 Kh-101 순항 미사일, Iskander-M 탄도 및 Pantsir-S1 시스템용 부품을 공급합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78627",
+      "titleOriginal": "Germany in talks to buy Ukrainian jet-powered drones",
+      "url": "https://kyivindependent.com/germany-in-talks-to-buy-ukrainian-jet-powered-drones/",
+      "lang": "en",
+      "publishedAt": "2026-10-25T15:19:14.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "독일, 우크라이나 제트기용 드론 구매 협상 중",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19771",
+      "titleOriginal": "The Financial Times counts more than 570 ships attacked in the Black Sea since the start of the year. At least 40 sailors have been killed. That includes both Russian and Ukrainian attacks.",
+      "url": "https://www.ft.com/content/8c874f60-0041-476d-9c53-8524c374443f",
+      "lang": "en",
+      "publishedAt": "2026-10-25T15:11:01.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "파이낸셜 타임즈는 연초 이후 흑해에서 공격받은 570척 이상의 선박을 세고 있습니다. 최소 40명의 선원이 사망했습니다. 여기에는 러시아와 우크라이나의 공격이 모두 포함됩니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19770",
+      "titleOriginal": "The US ambassador to Turkey says the US could strike Iran again as soon as this weekend. Israeli jets have been flying drills over Iraq that looked like practice for a strike on Iran, days before Israel votes on Tuesday. The USS Theodore Ro",
+      "url": "https://t.me/wartranslated/19770",
+      "lang": "en",
+      "publishedAt": "2026-10-25T14:53:23.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "터키 주재 미국 대사는 미국이 이번 주말에 이란을 다시 공격할 수 있다고 말했습니다. 이스라엘 제트기들은 화요일 이스라엘이 투표하기 며칠 전부터 이란에 대한 공격 연습처럼 보이는 훈련을 이라크 상공으로 날아오고 있다. USS 시어도어 로",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19769",
+      "titleOriginal": "Moscow will host the 2030 World Weightlifting Championships. It’s the first competition of this level in Russia since 2022. Back in June, the IWF let athletes from Russia and Belarus of all ages return to international competitions under th",
+      "url": "https://t.me/wartranslated/19769",
+      "lang": "en",
+      "publishedAt": "2026-10-25T14:33:56.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "모스크바에서는 2030년 세계 역도 선수권 대회가 개최됩니다. 2022년 이후 러시아에서 이 수준의 첫 번째 대회입니다. 지난 6월, IWF는 러시아와 벨라루스의 모든 연령대의 선수들이 국제 대회에 복귀할 수 있도록 허용했습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19768",
+      "titleOriginal": "Russian Deputy PM Alexander Novak claims Moscow can supply the US with diesel “as much as our partners want” from what Russia exports. It comes after Trump’s diesel deal with Russian dictator Putin and the US easing sanctions on Russian die",
+      "url": "https://t.me/wartranslated/19768",
+      "lang": "en",
+      "publishedAt": "2026-10-25T13:57:23.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "알렉산더 노박 (Alexander Novak) 러시아 부총리는 모스크바가 러시아가 수출하는 것에서 \"파트너가 원하는 만큼\" 디젤을 미국에 공급할 수 있다고 주장한다. 그것은 트럼프가 러시아 독재자 푸틴과 디젤 거래를 맺고 미국이 러시아의 죽음에 대한 제재를 완화 한 후에 나온 것입니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78626",
+      "titleOriginal": "Ukraine strikes Russian titanium plant more than 1,400 kilometers from border, monitoring channel claims",
+      "url": "https://kyivindependent.com/ukraine-strikes-russian-titanium-plant-more-than-1-400-kilometers-from-border-monitoring-channel-claims/",
+      "lang": "en",
+      "publishedAt": "2026-10-25T13:44:14.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나는 국경에서 1,400km 이상 떨어진 러시아 티타늄 공장을 공격하여 채널 클레임을 모니터링합니다",
+      "translated": true
+    },
     {
       "id": "theverge_news:9802",
       "titleOriginal": "r/opensource just banned AI, non-English speakers and more",
@@ -1456,17 +1632,6 @@
       "translated": true
     },
     {
-      "id": "wartranslated:19723",
-      "titleOriginal": "Ukraine's military struck Russia's Proton plant in Oryol with four missiles, sparking a major fire. The factory supplies components for Kh-101 cruise missiles, Iskander-M ballistics, and Pantsir-S1 systems.",
-      "url": "https://t.me/wartranslated/19723",
-      "lang": "en",
-      "publishedAt": "2026-10-23T16:53:43.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나의 군대는 오욜에 있는 러시아의 양성자 공장을 4개의 미사일로 공격하여 큰 화재를 일으켰습니다. 공장은 Kh-101 순항 미사일, Iskander-M 탄도 및 Pantsir-S1 시스템용 부품을 공급합니다",
-      "translated": true
-    },
-    {
       "id": "theverge_news:9782",
       "titleOriginal": "The first broken iPhone Duos are here",
       "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
@@ -1486,171 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "러시아와 우크라이나는 올레쉬키에서 인도적 지원을 제공하고 민간인 대피를 준비하기 위해 일시적인 휴전에 합의했다고 백악관이 발표하면서 멜라니아 트럼프가 거래를 중개한 것으로 평가했다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45482",
-      "titleOriginal": "BREAKING - Russia to observe Oleshky truce from 0100 GMT on October 27: army chief bit.ly/4shKOzX",
-      "url": "https://t.co/NwwcVKki1H",
-      "lang": "en",
-      "publishedAt": "2026-10-23T16:13:40.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 러시아, 10월 27일 0100 GMT부터 Oleshky 휴전을 관측: 육군 참모총장 bit.ly/4shKOzX",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45481",
-      "titleOriginal": "BREAKING - Kremlin says its military working out timing of truce in Ukraine’s Oleshky",
-      "url": "https://t.co/IqQfm1Xo4J",
-      "lang": "en",
-      "publishedAt": "2026-10-23T15:59:57.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "깨짐 - 크렘린은 우크라이나의 올레슈키에서 휴전 시기를 해결하기 위해 군사적 노력을 기울이고 있다고 말한다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45480",
-      "titleOriginal": "JUST IN - Trump on Elon Musk: \"He's a very good person. He's not going to do anything wrong. He's a very brilliant person or Starlink wouldn't exist and other things, but Elon will never do anything wrong. I know him very well. He's a fair ",
-      "url": "https://t.me/insiderpaper/45480",
-      "lang": "en",
-      "publishedAt": "2026-10-23T15:49:13.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "방금 - 일론 머스크에 대한 트럼프: \"그는 매우 좋은 사람입니다. 그는 잘못을 저지르지 않을 것입니다. 그는 매우 똑똑한 사람입니다. 스타링크는 존재하지 않을 것입니다. 하지만 엘론은 절대로 잘못을 저지르지 않을 것입니다. 나는 그를 잘 안다. 그는 공정합니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92046",
-      "titleOriginal": "Researchers Developed a Molecule to Fight Alzheimer's – Then Found It's Already in Our Blood",
-      "url": "https://www.sciencealert.com/researchers-developed-a-molecule-to-fight-alzheimers-then-found-its-already-in-our-blood",
-      "lang": "en",
-      "publishedAt": "2026-10-23T15:38:54.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "연구원들은 알츠하이머와 싸우기 위해 분자를 개발했습니다 – 그런 다음 그것이 이미 우리 혈액에 있다는 것을 발견했습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45479",
-      "titleOriginal": "BREAKING - Jordan church attack carried out by 'group of extremists': interior minister",
-      "url": "https://insiderpaper.com/jordan-church-attack-carried-out-by-group-of-extremists-interior-minister/",
-      "lang": "en",
-      "publishedAt": "2026-10-23T15:28:43.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - '극단주의자 그룹' 에 의한 요르단 교회 공격: 내무부 장관",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19719",
-      "titleOriginal": "Trump says Elon Musk is \"a very good person\" who would never do anything bad regarding Ukraine, calling him \"a fair person.\"",
-      "url": "https://t.me/wartranslated/19719",
-      "lang": "en",
-      "publishedAt": "2026-10-23T15:27:18.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "트럼프 대통령은 일론 머스크가 우크라이나에 대해 결코 나쁜 짓을 하지 않을 \"매우 좋은 사람\" 이라고 말하며 그를 \"공정한 사람\" 이라고 부릅니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9781",
-      "titleOriginal": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
-      "url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
-      "lang": "en",
-      "publishedAt": "2026-10-23T15:25:19.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "FED는 로봇 택시가 청록색 조명으로 ‘운전 중입니다’ 라는 신호를 보내기를 원합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9780",
-      "titleOriginal": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
-      "url": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
-      "lang": "en",
-      "publishedAt": "2026-10-23T15:20:10.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "SpaceX의 이동 통신사 푸시는 80,000개의 셀 사이트를 두드리는 것과 관련이 있다고 합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45478",
-      "titleOriginal": "China's first AI film hits cinemas, but ticket sales lag",
-      "url": "https://insiderpaper.com/chinas-first-ai-film-hits-cinemas-but-ticket-sales-lag/",
-      "lang": "en",
-      "publishedAt": "2026-10-23T15:05:57.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "중국 최초의 인공지능 영화는 영화관을 강타하지만 티켓 판매는 지연됩니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45477",
-      "titleOriginal": "A multi-storey building collapsed mid-construction in the Kenyan capital on Friday, with many feared trapped in the rubble and accusations of dangerous building work.",
-      "url": "https://insiderpaper.com/casualties-feared-as-multi-storey-building-collapses-in-nairobi/",
-      "lang": "en",
-      "publishedAt": "2026-10-23T14:55:38.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "금요일 케냐 수도에서 다층 건물이 공사 도중 붕괴되었고, 많은 사람들이 잔해에 갇혀 위험한 건물 작업에 대한 비난을 받았습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78583",
-      "titleOriginal": "All Four Moscow Airports Halt Flights Amid Reports of Drones Approaching the Capital",
-      "url": "https://united24media.com/world/all-four-moscow-airports-halt-flights-amid-reports-of-drones-approaching-the-capital-23753",
-      "lang": "en",
-      "publishedAt": "2026-10-23T14:54:26.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "수도로 접근하는 드론에 대한 신고가 접수된 가운데 모스크바 공항 4곳이 모두 항공편 운항을 중단했습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9779",
-      "titleOriginal": "Meta delays new business terms after publisher pushback on AI scraping",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "lang": "en",
-      "publishedAt": "2026-10-23T14:50:03.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "AI 스크래핑에 대한 게시자의 반발 후 메타가 새로운 비즈니스 조건을 지연합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9778",
-      "titleOriginal": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
-      "url": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
-      "lang": "en",
-      "publishedAt": "2026-10-23T14:45:03.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "SIGMA FP2는 ‘세계에서 가장 작은‘ 풀 프레임 카메라에 상당한 업그레이드를 제공합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78582",
-      "titleOriginal": "US Reportedly Plans to ‘Offer’ Ukraine EU Membership for Dropping NATO Bid",
-      "url": "https://www.kyivpost.com/post/87977",
-      "lang": "en",
-      "publishedAt": "2026-10-23T14:04:24.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "미국이 NATO 입찰 중단을 위해 우크라이나 EU 회원국 가입을 ‘제안’ 할 계획인 것으로 알려졌다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9776",
-      "titleOriginal": "Apple revives the original iPod as an Apple Music easter egg",
-      "url": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
-      "lang": "en",
-      "publishedAt": "2026-10-23T14:00:52.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Apple은 원래 iPod을 Apple Music 부활절 달걀로 부활시킵니다",
       "translated": true
     }
   ]
