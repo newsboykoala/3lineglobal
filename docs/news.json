@@ -1,8 +1,63 @@
 {
-  "updatedAt": "2026-10-24T23:32:24.696Z",
+  "updatedAt": "2026-10-25T03:26:23.248Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78613",
+      "titleOriginal": "4 Bodies Found in Haiti Are Thought to Be Those of Missing Salvadoran Soldiers",
+      "url": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html?unlocked_article_code=1.LFE.B39r._uezoQ7AOTGS&amp;smid=url-share",
+      "lang": "en",
+      "publishedAt": "2026-10-25T01:24:24.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "아이티에서 발견된 4구의 시신은 실종된 엘살바도르 군인들의 것으로 추정됩니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78612",
+      "titleOriginal": "'We can start a different story': Masses in Tel Aviv demand Oct. 7 inquiry, days before election",
+      "url": "https://www.timesofisrael.com/we-can-start-a-different-story-masses-in-tel-aviv-demand-oct-7-inquiry-days-before-election/",
+      "lang": "en",
+      "publishedAt": "2026-10-25T01:04:45.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우리는 다른 이야기를 시작할 수 있다': 텔아비브 미사 수요 10월 7일, 선거 며칠 전",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78611",
+      "titleOriginal": "Finland teaching Britain how to thwart Russia’s hybrid warfare",
+      "url": "https://www.telegraph.co.uk/world-news/2026/10/24/finland-teaching-britain-how-thwart-russia-hybrid-warfare/?WT.mc_id=tmgoff_reddit_how-thwart-russia-hybrid-warfare/&amp;accesscontrol=facebookchannel_open",
+      "lang": "en",
+      "publishedAt": "2026-10-25T00:59:35.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "영국에게 러시아의 하이브리드 전쟁을 저지하는 방법을 가르치는 핀란드",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78610",
+      "titleOriginal": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff | Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro?utm_source=dlvr.it&amp;utm_medium=bluesky&amp;CMP=bsky_gu",
+      "lang": "en",
+      "publishedAt": "2026-10-25T00:54:25.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "브라질 대선 출마 전날 수만 명의 룰라 지지자 집회 | 브라질",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78609",
+      "titleOriginal": "Elon Musk Admits SpaceX Restricted Ukraine's Starlink Access",
+      "url": "https://www.mediaite.com/media/news/elon-musk-admits-spacex-purposely-restricted-ukraines-starlink-access-in-war-with-russia-that-loophole-was-closed/",
+      "lang": "en",
+      "publishedAt": "2026-10-25T00:19:26.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "Elon Musk, SpaceX 제한 우크라이나의 Starlink 액세스 허용",
+      "translated": true
+    },
     {
       "id": "disclosetv:21960",
       "titleOriginal": "NOW - Obama says that Iran is \"in a stronger strategic position now than before the war started.\"",
@@ -1596,61 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "스타트업은 파머 럭키의 군사 기술로 유전적으로 강화된 개를 장착합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45472",
-      "titleOriginal": "NEW: Tropical Storm Vance has formed in the Pacific Ocean",
-      "url": "https://t.me/insiderpaper/45472",
-      "lang": "en",
-      "publishedAt": "2026-10-23T10:59:23.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "신규: 태평양에 열대성 폭풍 밴스가 형성되었습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78575",
-      "titleOriginal": "Starshield Restrictions for Ukraine Still in Place",
-      "url": "https://militarnyi.com/en/news/starshield-restrictions-for-ukraine-still-in-place-ukrainian-defence-ministry-sources/",
-      "lang": "en",
-      "publishedAt": "2026-10-23T10:54:21.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "아직 제자리에 있는 우크라이나에 대한 Starshield 제한",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19700",
-      "titleOriginal": "There are reports of a possible prisoner exchange between Ukraine and Russia today.",
-      "url": "https://t.me/wartranslated/19700",
-      "lang": "en",
-      "publishedAt": "2026-10-23T10:51:35.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "현재 우크라이나와 러시아 간의 포로 교환 가능성에 대한 보고가 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19699",
-      "titleOriginal": "Ukrainian drones hit occupied Luhansk overnight, striking the Marshal industrial valve plant and its onsite Lugakom data center. The factory, which supplies oil, gas, chemical and energy sectors, had grown output over 20% last year under an",
-      "url": "https://t.me/wartranslated/19699",
-      "lang": "en",
-      "publishedAt": "2026-10-23T10:50:57.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 드론은 하룻밤 사이에 루한스크를 강타하여 마샬 산업용 밸브 공장과 현장 Lugakom 데이터 센터를 강타했습니다. 석유, 가스, 화학 및 에너지 부문을 공급하는 공장은 작년 한 해 동안 생산량이 20% 이상 증가했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19698",
-      "titleOriginal": "Denmark has handed Ukraine 50,000 20mm rounds for F-16 onboard cannons, Ukraine's defense ministry says.",
-      "url": "https://t.me/wartranslated/19698",
-      "lang": "en",
-      "publishedAt": "2026-10-23T10:47:14.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 국방부는 덴마크가 F-16 기내 대포를 위해 우크라이나에 5만 20mm 라운드를 제공했다고 밝혔습니다",
       "translated": true
     }
   ]
