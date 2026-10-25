@@ -1,8 +1,96 @@
 {
-  "updatedAt": "2026-10-25T03:26:23.248Z",
+  "updatedAt": "2026-10-25T08:39:44.471Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:92057",
+      "titleOriginal": "Talking Inside Your Head Changes Your Pupils in a Totally Different Way to Talking Out Loud",
+      "url": "https://www.sciencealert.com/talking-inside-your-head-changes-your-pupils-in-a-totally-different-way-to-talking-out-loud",
+      "lang": "en",
+      "publishedAt": "2026-10-25T08:15:48.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "머리 속에서 말하기는 학생들을 크게 말하는 것과 완전히 다른 방식으로 변화시킵니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45494",
+      "titleOriginal": "NEW - British Airways jet narrowly avoids collision with mystery ‘UFO’ after takeoff from Heathrow Airport, GB News reports",
+      "url": "https://t.me/insiderpaper/45494",
+      "lang": "en",
+      "publishedAt": "2026-10-25T07:57:01.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "새로운 소식 - 영국항공 제트기가 히드로 공항에서 이륙한 후 미스터리 ‘UFO’ 와의 충돌을 좁게 방지했다고 GB 뉴스가 보도했습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19756",
+      "titleOriginal": "Russia's defense ministry claims its air defenses shot down 532 Ukrainian drones overnight.",
+      "url": "https://t.me/wartranslated/19756",
+      "lang": "en",
+      "publishedAt": "2026-10-25T07:51:46.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아 국방부는 자국 방공망이 우크라이나 드론 532기를 하룻밤 사이에 격추했다고 주장하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19755",
+      "titleOriginal": "The AVISMA chemical and metallurgical plant in Berezniki, Perm region, came under sanctions today. Its titanium alloys go into military aircraft, jet engines, and rocket and space technology.",
+      "url": "https://t.me/wartranslated/19755",
+      "lang": "en",
+      "publishedAt": "2026-10-25T07:48:50.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "페름 지역 베레즈니키에 있는 AVISMA 화학 및 야금 공장은 오늘 제재를 받았습니다. 티타늄 합금은 군용 항공기, 제트 엔진, 로켓 및 우주 기술에 사용됩니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19754",
+      "titleOriginal": "Russia completely destroyed the \"Epicenter\" hypermarket in Kharkiv.",
+      "url": "https://t.me/wartranslated/19754",
+      "lang": "en",
+      "publishedAt": "2026-10-25T07:47:39.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아는 하르키우의 \"진앙지\" 대형마트를 완전히 파괴했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78616",
+      "titleOriginal": "B.C. Conservatives win majority government, return to power after nearly a century",
+      "url": "https://www.theglobeandmail.com/canada/article-bc-election-david-eby-ndp-lorne-doerkson-conservatives/",
+      "lang": "en",
+      "publishedAt": "2026-10-25T07:19:24.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "BC 보수당은 과반수 정부를 획득하고 거의 한 세기 후에 권력으로 복귀합니다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15639",
+      "titleOriginal": "Follow our Daily News Brief for Sunday, October 25th",
+      "url": "https://trt.world/c5zx",
+      "lang": "en",
+      "publishedAt": "2026-10-25T07:01:29.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "10월 25일 일요일 일일 뉴스 브리프를 팔로우하세요",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78614",
+      "titleOriginal": "Ukrainian forces reportedly strike Russian targets 2,500 kilometers from border",
+      "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-russian-targets-2-500-kilometers-from-border/",
+      "lang": "en",
+      "publishedAt": "2026-10-25T03:59:45.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나군이 국경에서 2,500km 떨어진 러시아 표적을 공격한 것으로 알려졌다",
+      "translated": true
+    },
     {
       "id": "worldnews:78613",
       "titleOriginal": "4 Bodies Found in Haiti Are Thought to Be Those of Missing Salvadoran Soldiers",
@@ -1563,94 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "우크라이나 상황에 따르면 현재 270명에 대한 270명의 수감자 교환이 진행 중입니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19709",
-      "titleOriginal": "Ukraine's 10th National Guard Brigade says its operators have taken down a massive number of Shaheds, Gerberas, Parodiya drones and more, and they're asking for donations to finish funding operation \"Interception.\"",
-      "url": "https://t.me/wartranslated/19709",
-      "lang": "en",
-      "publishedAt": "2026-10-23T11:50:41.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나의 제10방위여단은 운영자들이 엄청난 수의 샤헤드, 거베라, 파로디야 드론 등을 격추했으며, \"요격\" 작전을 완료하기 위해 기부를 요청하고 있다고 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19707",
-      "titleOriginal": "Ukraine's 60th Brigade destroyed a North Korean \"Koksan\" self-propelled gun along with several vehicles, quad bikes, buggies, and the Russian infantry riding them, as part of operation \"Vivaldi.\"",
-      "url": "https://t.me/wartranslated/19707",
-      "lang": "en",
-      "publishedAt": "2026-10-23T11:29:51.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나의 제60여단은 \"비발디\" 작전의 일환으로 북한의 \"곡산\" 자주포와 여러 대의 차량, 쿼드 바이크, 버기, 러시아 보병대를 파괴했다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19705",
-      "titleOriginal": "Footage of a kamikaze drone strike on a pickup carrying Russian occupiers in Nova Tavolzhanka, Russia's Belgorod region.",
-      "url": "https://t.me/wartranslated/19705",
-      "lang": "en",
-      "publishedAt": "2026-10-23T11:27:21.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아의 벨고로드 지역인 노바 타볼장카에서 러시아 점령자들을 태운 픽업에서 카미카제 드론이 충돌하는 장면",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92043",
-      "titleOriginal": "'Humanoid predator' reportedly sighted along US-Mexico border",
-      "url": "https://www.unexplained-mysteries.com/news/400191/humanoid-predator-reportedly-sighted-along-us-mexico-border",
-      "lang": "en",
-      "publishedAt": "2026-10-23T11:18:52.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "미국-멕시코 국경을 따라 목격된 것으로 알려진 '휴머노이드 프레데터",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19704",
-      "titleOriginal": "Morning footage of the attack on Voronezh. \"Missiles, missiles, missiles are falling. These aren't drones anymore, these are missiles. Looks like the ceasefire is over,\" a Russian comments.",
-      "url": "https://t.me/wartranslated/19704",
-      "lang": "en",
-      "publishedAt": "2026-10-23T11:14:42.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "보로네시 공격의 아침 영상. \"미사일, 미사일, 미사일이 떨어지고 있습니다. 이들은 더 이상 드론이 아니라 미사일입니다. 휴전이 끝난 것 같다\" 고 말했다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19703",
-      "titleOriginal": "Russians are reporting a cruise missile strike on Voronezh this morning. A local \"correspondent\" in Voronezh reports at least three missiles flew right over his head this morning, and the city's airfield may also have been hit.",
-      "url": "https://t.me/wartranslated/19703",
-      "lang": "en",
-      "publishedAt": "2026-10-23T11:13:27.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아가 오늘 아침 보로네시에서 순항 미사일 공격을 보고하고 있습니다. 보로네시의 현지 \"특파원\" 은 오늘 아침 적어도 세 개의 미사일이 그의 머리 위로 날아갔으며 도시의 비행장도 타격을 입었을 수 있다고 보고합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19702",
-      "titleOriginal": "A commercial ship flying Comoros flag sank near Romanian territorial waters after a drone attack in the Black Sea, 24 km off Constanta. Of the 13 crew, 10 Ukrainian and 3 Azerbaijani, nine were rescued, one died, and three remain missing.",
-      "url": "https://www.digi24.ro/stiri/actualitate/inca-o-nava-lovita-de-drone-in-marea-neagra-vasul-se-scufunda-in-apropiere-de-constanta-4005519",
-      "lang": "en",
-      "publishedAt": "2026-10-23T11:10:28.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "콘스탄차에서 24km 떨어진 흑해에서 드론 공격이 발생한 후 루마니아 영해 근처에서 코모로 국기를 날리는 상업용 선박이 침몰했습니다. 승무원 13명 중 우크라이나인 10명과 아제르바이잔인 3명 중 9명은 구조됐고, 1명은 사망했으며, 3명은 여전히 실종 상태다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9771",
-      "titleOriginal": "Startup equips genetically enhanced dogs with Palmer Luckey’s military tech",
-      "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
-      "lang": "en",
-      "publishedAt": "2026-10-23T11:00:52.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "스타트업은 파머 럭키의 군사 기술로 유전적으로 강화된 개를 장착합니다",
       "translated": true
     }
   ]
