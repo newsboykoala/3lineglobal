@@ -1,8 +1,96 @@
 {
-  "updatedAt": "2026-10-25T22:19:24.077Z",
+  "updatedAt": "2026-10-26T00:34:04.619Z",
   "count": 150,
   "translatedCount": 148,
   "items": [
+    {
+      "id": "worldnews:78638",
+      "titleOriginal": "Lula Wins a Record Fourth Term in Brazil in a Surprise Comeback",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-25/lula-wins-a-record-fourth-term-in-brazil-in-a-surprise-comeback",
+      "lang": "en",
+      "publishedAt": "2026-10-26T00:19:37.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "룰라, 깜짝 컴백으로 브라질에서 4번째 임기 기록 달성",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78637",
+      "titleOriginal": "Donald Trump backs Orban for UN secretary-general with Russia, China support",
+      "url": "https://www.jpost.com/international/article-912846",
+      "lang": "en",
+      "publishedAt": "2026-10-26T00:19:36.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "도널드 트럼프, 러시아와 유엔 사무총장 오르반 지지, 중국 지원",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21972",
+      "titleOriginal": "JUST IN - President Luiz Inacio Lula da Silva wins the Presidential runoff in Brazil, securing a fourth term by beating Flavio Bolsonaro, the eldest son of former President Jair ​Bolsonaro.",
+      "url": "https://t.me/disclosetv/21972",
+      "lang": "en",
+      "publishedAt": "2026-10-26T00:19:31.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "JUST IN - Luiz Inacio Lula da Silva 대통령은 브라질에서 대통령 선거에서 승리하여 Jair Bolsonaro 전 대통령의 장남인 Flavio Bolsonaro를 꺾고 4번째 임기를 확보했습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92062",
+      "titleOriginal": "Women Appear to Experience Psychedelic Drugs More Intensely, And We Don't Know Why",
+      "url": "https://www.sciencealert.com/women-appear-to-experience-psychedelic-drugs-more-intensely-and-we-dont-know-why",
+      "lang": "en",
+      "publishedAt": "2026-10-26T00:17:15.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "여성들은 사이키델릭 약물을 더 강렬하게 경험하는 것처럼 보이지만, 우리는 그 이유를 모릅니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78636",
+      "titleOriginal": "Lula re-elected for a fourth term.",
+      "url": "https://www1.folha.uol.com.br/poder/eleicoes/2026/apuracao/2turno/brasil/",
+      "lang": "en",
+      "publishedAt": "2026-10-26T00:09:29.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "룰라는 네 번째 임기로 재선되었습니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21971",
+      "titleOriginal": "JUST IN - Trump endorses Netanyahu once again ahead of the Israeli election.",
+      "url": "https://t.me/disclosetv/21971",
+      "lang": "en",
+      "publishedAt": "2026-10-25T23:07:53.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "방금 - 트럼프가 이스라엘 선거를 앞두고 네타냐후를 다시 한 번 지지합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78635",
+      "titleOriginal": "Kremlin Says Preparations Underway for Putin, Trump, and Xi Summit",
+      "url": "https://www.kyivpost.com/post/88117",
+      "lang": "en",
+      "publishedAt": "2026-10-25T22:59:36.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "크렘린, 푸틴, 트럼프, 시진핑 정상회담 준비 중",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21970",
+      "titleOriginal": "JUST IN - Duchess of Sussex's estranged father told his first wife he went to the Far East \"because 12-year-olds are legal there\" — The Sun",
+      "url": "https://t.me/disclosetv/21970",
+      "lang": "en",
+      "publishedAt": "2026-10-25T22:41:24.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "방금 - 서식스의 소외된 아버지 공작 부인은 첫 번째 아내에게 \"12살짜리 아이들이 그곳에서 합법적이기 때문에\" 극동으로 갔다고 말했다. — 더 선",
+      "translated": true
+    },
     {
       "id": "theverge_news:9808",
       "titleOriginal": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
@@ -1563,94 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "우크라이나 국방부는 우크라이나의 스타링크 속도 제한이 해제되었는지 확인할 수 없다고 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78591",
-      "titleOriginal": "Executives quit $25-billion Alaskan gas venture in the Beaufort Sea over claims of secret Russian control",
-      "url": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
-      "lang": "en",
-      "publishedAt": "2026-10-24T05:04:41.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "임원들은 러시아의 비밀 통제에 대한 주장에 대해 보퍼트 해에서 $ 250억 규모의 알래스카 가스 벤처를 그만두었다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78589",
-      "titleOriginal": "Wolves roam into Finnish villages after Google destroys 1,300 acres of forest for AI data centers — forest where wolf packs used to live is now an expanse of mud",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud",
-      "lang": "en",
-      "publishedAt": "2026-10-24T03:14:16.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "Google이 AI 데이터 센터를 위해 1,300에이커의 숲을 파괴한 후 늑대가 핀란드 마을을 돌아다닙니다. 늑대 무리가 살던 숲은 이제 진흙이 가득합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78588",
-      "titleOriginal": "U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
-      "url": "https://www.axios.com/2026/10/24/iran-war-us-embassies-evacuations-threat",
-      "lang": "en",
-      "publishedAt": "2026-10-24T03:09:26.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "미국 정보기관 메모, 해외 공무원을 죽이려는 이란의 \"선진적\" 음모에 대해 경고",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92050",
-      "titleOriginal": "NASA's Perseverance Just Broke The Off-World Driving Record, While Mostly Steering Itself",
-      "url": "https://www.sciencealert.com/nasas-perseverance-just-drove-farther-than-any-vehicle-on-another-world-mostly-steering-itself",
-      "lang": "en",
-      "publishedAt": "2026-10-24T02:48:32.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "NASA의 인내심은 대부분 스스로 조종하면서 오프 월드 운전 기록을 깨뜨 렸습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78587",
-      "titleOriginal": "US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say",
-      "url": "https://www.reuters.com/business/autos-transportation/us-has-years-asked-musk-alter-starlink-service-ukraine-middle-east-sources-say-2026-10-24/",
-      "lang": "en",
-      "publishedAt": "2026-10-24T02:44:20.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "미국 소식통에 따르면 머스크는 수년간 우크라이나, 중동의 스타링크 서비스를 변경해달라고 요청해왔다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78586",
-      "titleOriginal": "Report: 'Iran advancing sophisticated plots to assassinate senior US officials'",
-      "url": "https://www.ynetnews.com/article/ftxig9ynq",
-      "lang": "en",
-      "publishedAt": "2026-10-24T01:24:31.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "보고서: '미국 고위 관리들을 암살하기 위해 정교한 음모를 전진시키는 이란",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21955",
-      "titleOriginal": "NEW - Warhound, founded by Anduril’s co-founder Palmer Luckey and software entrepreneur Ben Lamm, “will produce genetically enhanced working dogs and equip them with advanced technology to ensure they have battlefield situational awareness.",
-      "url": "https://t.me/disclosetv/21955",
-      "lang": "en",
-      "publishedAt": "2026-10-23T22:43:58.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "새로운 소식 - Anduril의 공동 설립자 Palmer Luckey와 소프트웨어 사업가 Ben Lamm이 설립한 Warhound는 \"유전적으로 향상된 작업견을 생산하고 전장의 상황 인식을 보장하기 위해 첨단 기술을 장착할 것입니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78585",
-      "titleOriginal": "Freed US citizen Stephen Hubbard was tortured in Russian jail, former Ukrainian prisoners say",
-      "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo",
-      "lang": "en",
-      "publishedAt": "2026-10-23T22:19:15.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "해방된 미국 시민 스티븐 허버드 (Stephen Hubbard) 가 러시아 감옥에서 고문을 당했다고 전 우크라이나 수감자들이 말했습니다",
       "translated": true
     }
   ]
