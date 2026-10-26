@@ -1,8 +1,85 @@
 {
-  "updatedAt": "2026-10-26T00:34:04.619Z",
+  "updatedAt": "2026-10-26T05:47:54.056Z",
   "count": 150,
   "translatedCount": 148,
   "items": [
+    {
+      "id": "worldnews:78646",
+      "titleOriginal": "Global leaders react to Brazil President Lula's reelection",
+      "url": "https://www.yahoo.com/news/articles/global-leaders-react-brazil-president-011421621.html",
+      "lang": "en",
+      "publishedAt": "2026-10-26T05:14:40.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "룰라 브라질 대통령의 재선에 대한 글로벌 리더들의 반응",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78644",
+      "titleOriginal": "Vladimir Putin seems to have Donald Trump exactly where he wants him",
+      "url": "https://www.abc.net.au/news/2026-10-22/trump-gives-putin-a-huge-victory-in-russia-ukraine-war/107295366",
+      "lang": "en",
+      "publishedAt": "2026-10-26T03:59:41.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "블라디미르 푸틴은 자신이 원하는 곳에 도널드 트럼프가 있는 것 같다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78643",
+      "titleOriginal": "Sanctioned Russian energy giant, Novatek, has been secretly funding a multibillion-dollar U.S. gas project that has been discussed in negotiations between the White House and the Kremlin over ending the war in Ukraine, NYT reports",
+      "url": "https://kyivindependent.com/sanctioned-russian-energy-giant-secretly-funded-us-gas-project-nyt-reports/",
+      "lang": "en",
+      "publishedAt": "2026-10-26T02:49:42.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나 전쟁 종식을 놓고 백악관과 크렘린 간 협상에서 논의된 수십억 달러 규모의 미국 가스 프로젝트에 러시아 제재 대상인 노바텍이 비밀리에 자금을 지원하고 있다고 NYT가 보도했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78642",
+      "titleOriginal": "Israel: Demonstrators rally against government ahead of election",
+      "url": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election",
+      "lang": "en",
+      "publishedAt": "2026-10-26T02:44:17.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "이스라엘: 시위대, 선거를 앞두고 정부에 반대하는 집회",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78641",
+      "titleOriginal": "Bolsonaro refuses to concede, says he will seek annulment of Brazil vote",
+      "url": "https://sg.news.yahoo.com/bolsonaro-refuses-concede-says-seek-015448463.html",
+      "lang": "en",
+      "publishedAt": "2026-10-26T02:29:21.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "보우소나루는 양보하기를 거부하며, 브라질 투표 무효를 요구할 것이라고 말한다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78640",
+      "titleOriginal": "Lula pulls off Brazil’s first-ever run-off comeback to beat Trump ally Flavio Bolsonaro",
+      "url": "https://www.scmp.com/news/china/article/3372099/lula-pulls-brazils-first-ever-run-comeback-beat-trump-ally-flavio-bolsonaro?utm_source=Reddit&amp;utm_medium=Social",
+      "lang": "en",
+      "publishedAt": "2026-10-26T01:34:13.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "룰라는 트럼프의 동맹국 플라비오 보우소나루를 꺾기 위해 브라질 최초의 런오프 컴백을 성공시켰다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78639",
+      "titleOriginal": "In a historic turnaround, Lula is re-elected and will govern Brazil for a fourth time",
+      "url": "https://noticias.uol.com.br/eleicoes/2026/10/25/em-virada-historica-lula-e-eleito-presidente-do-brasil-pela-quarta-vez.htm",
+      "lang": "en",
+      "publishedAt": "2026-10-26T00:39:43.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "역사적으로 룰라는 재선에 성공하여 네 번째로 브라질을 통치하게 됩니다",
+      "translated": true
+    },
     {
       "id": "worldnews:78638",
       "titleOriginal": "Lula Wins a Record Fourth Term in Brazil in a Surprise Comeback",
@@ -1574,83 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "우크라이나가 고위급 회담 후 속도 제한을 돌파함에 따라 스타링크가 시속 400km 이상으로 돌아왔습니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21956",
-      "titleOriginal": "NEW - Police have detained a suspect after a major fire broke out at Adolf Hitler’s former Alpine retreat, the Eagle’s Nest, in Bavaria's Berchtesgarden, Germany.",
-      "url": "https://www.disclose.tv/id/48lxhic1dp/",
-      "lang": "en",
-      "publishedAt": "2026-10-24T08:26:54.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "신규 - 독일 바이에른 베르히테스가르덴에 위치한 아돌프 히틀러의 전 알파인 휴양지인 독수리 둥지에서 대형 화재가 발생한 후 경찰이 용의자를 검거했습니다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15637",
-      "titleOriginal": "Follow our Daily News Brief for Saturday, October 24th",
-      "url": "https://trt.world/c5rb",
-      "lang": "en",
-      "publishedAt": "2026-10-24T08:15:39.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "10월 24일 토요일 일일 뉴스 브리프를 팔로우하세요",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19731",
-      "titleOriginal": "A drone attack hit the \"Tolyattikauchuk\" chemical plant in Tolyatti, Samara region, 890 km from the border.",
-      "url": "https://t.me/wartranslated/19731",
-      "lang": "en",
-      "publishedAt": "2026-10-24T07:55:01.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "국경에서 890km 떨어진 사마라 지역 톨랴티 (Tolyatti) 의 \"톨랴티카우추크 (Tolyattikauchuk)\" 화학 공장에서 드론 공격이 발생했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19730",
-      "titleOriginal": "Drones knocked out key power substations in occupied Crimea, triggering a massive blackout and forcing authorities to ration electricity and water, Russian occupation head Aksyonov says. Rostov also went dark after explosions there.",
-      "url": "https://t.me/wartranslated/19730",
-      "lang": "en",
-      "publishedAt": "2026-10-24T07:52:05.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아의 점령 책임자 악쇼노프 (Aksyonov) 는 드론이 점령한 크림반도의 주요 변전소를 파괴하여 대규모 정전을 일으키고 당국이 전기와 물을 배급하도록 강요했다고 말합니다. 로스토프도 그곳에서 폭발한 후 어두워졌다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19729",
-      "titleOriginal": "The 2nd National Guard Corps \"Khartia\" announced that the Ukrainian Defense Forces conducted an underground counteroffensive operation - \"Veles,\" advancing more than 15 km into enemy rear areas in the Kupyansk sector. The grouping combined ",
-      "url": "https://t.me/wartranslated/19729",
-      "lang": "en",
-      "publishedAt": "2026-10-24T07:51:28.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "제2국방군 \"카르티아\" 는 우크라이나 국방군이 지하 반격 작전인 \"벨레스\" 를 수행하여 쿠피얀스크 부문의 적군 후방 지역으로 15km 이상 전진했다고 발표했다. 이 그룹은 결합했다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78592",
-      "titleOriginal": "Starlink still restricted for Ukraine despite Trump saying Musk lifted speed limits",
-      "url": "https://www.politico.eu/article/starlink-still-restricted-for-ukraine-donald-trump-elon-musk-lifted-speed-limits/",
-      "lang": "en",
-      "publishedAt": "2026-10-24T07:49:30.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "트럼프가 머스크가 속도 제한을 해제했다고 말했음에도 불구하고 스타링크는 여전히 우크라이나로 제한되었습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19728",
-      "titleOriginal": "Ukraine's defense ministry says it cannot confirm the Starlink speed limit in Ukraine has been lifted.",
-      "url": "https://t.me/wartranslated/19728",
-      "lang": "en",
-      "publishedAt": "2026-10-24T07:36:00.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 국방부는 우크라이나의 스타링크 속도 제한이 해제되었는지 확인할 수 없다고 밝혔습니다",
       "translated": true
     }
   ]
