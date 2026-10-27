@@ -1,8 +1,118 @@
 {
-  "updatedAt": "2026-10-27T02:18:27.930Z",
+  "updatedAt": "2026-10-27T08:13:35.229Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "insiderpaper:45524",
+      "titleOriginal": "BREAKING: Houthi official says Egypt's military support for Saudi 'declaration of war' — AFP",
+      "url": "https://t.me/insiderpaper/45524",
+      "lang": "en",
+      "publishedAt": "2026-10-27T08:12:55.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 후티 관료, 사우디에 대한 이집트의 군사적 지원 '선전포고' — AFP",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12472",
+      "titleOriginal": "Russia is observing the ceasefire in the area of the humanitarian mission in Oleshky. No violations have been recorded so far, a Ukrainian Marine Corps spokesperson said. https://liveuamap.com/en/2026/27-october-07-------",
+      "url": "https://liveuamap.com/en/2026/27-october-07-------",
+      "lang": "en",
+      "publishedAt": "2026-10-27T07:49:29.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "러시아는 올레슈키의 인도주의적 임무 지역에서 휴전을 관측하고 있다. 우크라이나 해병대 대변인은 지금까지 위반 사항이 기록되지 않았다고 밝혔다. https://liveuamap.com/en/2026/27-october-07-------",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45523",
+      "titleOriginal": "Pentagon UFO Files Reveal Chilling ‘Skinwalker’ Encounters in Utah",
+      "url": "https://insiderpaper.com/pentagon-ufo-files-reveal-chilling-skinwalker-encounters-in-utah/",
+      "lang": "en",
+      "publishedAt": "2026-10-27T07:37:18.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "펜타곤 UFO 파일 공개, 유타에서 만나는 차가운 ‘스킨워커",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12471",
+      "titleOriginal": "Overnight Russia launched several ballistic missiles Iskander-M/S-400 and 280 strike drones, - Ukrainian Air Force https://liveuamap.com/en/2026/27-october-07-overnight-russia-launched-several-ballistic",
+      "url": "https://liveuamap.com/en/2026/27-october-07-overnight-russia-launched-several-ballistic",
+      "lang": "en",
+      "publishedAt": "2026-10-27T07:21:43.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "밤새 러시아는 여러 탄도 미사일 Iskander-M/S-400 및 280 타격 드론을 발사했습니다. - 우크라이나 공군 https://liveuamap.com/en/2026/27-october-07-overnight-russia-launched-several-ballistic",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45522",
+      "titleOriginal": "British Airways jet narrowly misses collision with mystery metallic object after takeoff from Heathrow Airport",
+      "url": "https://insiderpaper.com/british-airways-jet-narrowly-misses-mystery-metallic-object-by-just-50-feet/",
+      "lang": "en",
+      "publishedAt": "2026-10-27T06:48:29.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "영국항공 제트기는 히드로 공항에서 이륙한 후 미스터리한 금속 물체와의 충돌을 간신히 놓칩니다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15646",
+      "titleOriginal": "Follow our Daily News Brief for Tuesday, October 27th",
+      "url": "https://trt.world/c5zq",
+      "lang": "en",
+      "publishedAt": "2026-10-27T06:10:02.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "10월 27일 화요일 일일 뉴스 브리프를 팔로우하세요",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78668",
+      "titleOriginal": "Russian Missiles Hit Kyiv University",
+      "url": "https://www.kyivpost.com/post/88241",
+      "lang": "en",
+      "publishedAt": "2026-10-27T05:49:22.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "키예프 대학에 충돌한 러시아 미사일",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78667",
+      "titleOriginal": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
+      "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
+      "lang": "en",
+      "publishedAt": "2026-10-27T04:59:50.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "네타냐후는 선거에 앞서 이란을 공격하도록 군부를 압박한 것으로 알려졌다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78665",
+      "titleOriginal": "Toronto re-elects Olivia Chow as mayor",
+      "url": "https://www.ctvnews.ca/toronto/article/olivia-chow-re-elected-as-toronto-mayor/",
+      "lang": "en",
+      "publishedAt": "2026-10-27T03:14:34.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "토론토, 올리비아 차우 시장 재선",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92071",
+      "titleOriginal": "One Dose of Experimental Antibody Kept HIV-Like Virus in Remission For 4 Years in a Monkey",
+      "url": "https://www.sciencealert.com/one-dose-of-experimental-antibody-kept-hiv-like-virus-in-remission-for-4-years-in-a-monkey",
+      "lang": "en",
+      "publishedAt": "2026-10-27T02:31:42.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "원숭이에서 4년 동안 HIV 유사 바이러스를 관해 상태로 유지한 실험 항체 1회 투여량",
+      "translated": true
+    },
     {
       "id": "wartranslated:19809",
       "titleOriginal": "It is reported that this evening the Russians struck Kyiv with ballistic missiles. The strikes hit a university campus, a park, and residential buildings. The strike hit a crowded area with no nearby military targets. Unfortunately, there a",
@@ -1541,116 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "젤렌스키는 미국, 우크라이나, 러시아 3자 회담에서 원하는 것을 나열합니다. 에너지 휴전, 바다, 곡물, 모든 것을 위한 교환 또는 지도자 회의",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19785",
-      "titleOriginal": "Zelensky says Russia will demine the roads out of Oleshky so people head toward Russia and stay there. The mission starts October 27. He expects some residents to be evacuated to Ukrainian-controlled territory anyway, and says the main thin",
-      "url": "https://t.me/wartranslated/19785",
-      "lang": "en",
-      "publishedAt": "2026-10-25T19:12:01.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키는 러시아가 올레슈키에서 도로를 파괴하여 사람들이 러시아로 향하고 그곳에 머무를 것이라고 말합니다. 미션은 10월 27일에 시작됩니다. 그는 일부 주민들이 어쨌든 우크라이나가 통제하는 영토로 대피하기를 기대하며, 주요 얇은",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19784",
-      "titleOriginal": "Ukraine will not accept neutrality or military restrictions, which are red lines, Zelenskyy says, adding that Ukrainian strikes on oil refineries have not affected oil prices while Kyiv will demand that Russia halt energy and shipping strik",
-      "url": "https://t.me/wartranslated/19784",
-      "lang": "en",
-      "publishedAt": "2026-10-25T19:01:41.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "Zelenskyy는 우크라이나가 정유소에 대한 우크라이나의 파업은 유가에 영향을 미치지 않았으며 키예프는 러시아에 에너지 및 해운 파업 중단을 요구할 것이라고 덧붙였다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19783",
-      "titleOriginal": "Zelenskyy says November trilateral talks between Ukraine, US, and Russia should aim for a leadership-level summit, with negotiating teams also addressing a Black Sea ceasefire and strikes on energy infrastructure.",
-      "url": "https://t.me/wartranslated/19783",
-      "lang": "en",
-      "publishedAt": "2026-10-25T19:00:11.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키는 11월 우크라이나, 미국, 러시아 간의 3자 회담은 지도부 차원의 정상 회담을 목표로 해야 하며, 협상팀도 흑해 휴전과 에너지 인프라에 대한 타격을 해결해야 한다고 말한다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78631",
-      "titleOriginal": "Netanyahu presses Trump for more support ahead of tight Tuesday election",
-      "url": "https://www.axios.com/2026/10/25/netanyahu-trump-israeli-elections",
-      "lang": "en",
-      "publishedAt": "2026-10-25T18:59:34.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "네타냐후는 빡빡한 화요일 선거를 앞두고 트럼프에게 더 많은 지지를 요청한다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78630",
-      "titleOriginal": "Andy Burnham says he wants an “honest discussion” with the British public about the possibility of a return to free movement between the UK and the EU as part of his plans for a new relationship with the bloc",
-      "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu?CMP=share_btn_url",
-      "lang": "en",
-      "publishedAt": "2026-10-25T18:34:25.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "앤디 번햄 (Andy Burnham) 은 블록과의 새로운 관계에 대한 계획의 일환으로 영국과 EU 간의 자유로운 이동으로 돌아갈 가능성에 대해 영국 대중과 \"정직한 토론\" 을 원한다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19782",
-      "titleOriginal": "The US has fully restored intelligence sharing with Ukraine and lifted restrictions on Starshield, Zelenskyy says.",
-      "url": "https://t.me/wartranslated/19782",
-      "lang": "en",
-      "publishedAt": "2026-10-25T18:28:13.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키는 미국이 우크라이나와의 정보 공유를 완전히 복원하고 스타쉴드에 대한 제한을 해제했다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19780",
-      "titleOriginal": "Ukraine is making progress in diplomacy, Zelenskyy says, expressing hope for a successful outcome in upcoming negotiations.",
-      "url": "https://t.me/wartranslated/19780",
-      "lang": "en",
-      "publishedAt": "2026-10-25T18:23:52.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키는 우크라이나가 외교에서 진전을 보이고 있으며, 다가오는 협상에서 성공적인 결과를 얻을 수 있기를 희망한다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21961",
-      "titleOriginal": "NEW - Venezuelan opposition leader and Nobel laureate María Corina Machado returns to Venezuela.",
-      "url": "https://www.disclose.tv/id/r18sh8wxoa/",
-      "lang": "en",
-      "publishedAt": "2026-10-25T18:09:36.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "새로운 소식 - 베네수엘라의 야당 지도자이자 노벨상 수상자인 마리아 코리나 마차도가 베네수엘라로 돌아옵니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78629",
-      "titleOriginal": "Russia Turns Black Sea Into World’s Deadliest Shipping Route as 570 Ships Are Hit",
-      "url": "https://united24media.com/war-in-ukraine/russia-turns-black-sea-into-worlds-deadliest-shipping-route-as-570-ships-are-hit-23784",
-      "lang": "en",
-      "publishedAt": "2026-10-25T18:04:13.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "570척의 선박이 타격을 입으면서 러시아가 흑해를 세계에서 가장 치명적인 해운 루트로 바꾼다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15641",
-      "titleOriginal": "Israeli settlers attacked a Palestinian family home and stole at least 14 sheep overnight in Masafer Yatta in the occupied West Bank. CCTV footage showed settlers sneaking into the yard. The farmer said the attackers damaged belongings and ",
-      "url": "https://t.me/trtworld/15641",
-      "lang": "en",
-      "publishedAt": "2026-10-25T17:19:19.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "이스라엘 정착민들은 팔레스타인 가정집을 공격하여 점령지인 요르단강 서안의 마사퍼 야타에서 하룻밤 사이에 최소 14마리의 양을 훔쳤습니다. CCTV 영상에는 정착민들이 마당으로 몰래 들어오는 모습이 담겼다. 농부는 공격자들이 소지품을 손상시키고",
       "translated": true
     }
   ]
