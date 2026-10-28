@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-10-28T04:16:43.296Z",
+  "updatedAt": "2026-10-28T10:44:29.146Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:92084",
+      "titleOriginal": "Astronomers Discover a Giant New Dwarf Planet Candidate Hiding Beyond Pluto",
+      "url": "https://www.sciencealert.com/astronomers-discover-giant-new-dwarf-planet-candidate-hiding-beyond-pluto",
+      "lang": "en",
+      "publishedAt": "2026-10-28T10:36:46.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "천문학자들이 명왕성 너머에 숨어 있는 거대한 새로운 드워프 행성 후보를 발견하다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78694",
+      "titleOriginal": "Putin lectured Nordic leaders on Russian history during latest call, FT reports",
+      "url": "https://www.yahoo.com/news/world/articles/putin-lectured-nordic-leaders-russian-042816563.html",
+      "lang": "en",
+      "publishedAt": "2026-10-28T10:29:26.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "푸틴 대통령은 최근 통화에서 북유럽 지도자들에게 러시아 역사에 대해 강의했다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45556",
+      "titleOriginal": "BREAKING: Pakistan has closed its airspace to all commercial carriers from Taiwan in support of China’s One-China policy - Bloomberg",
+      "url": "https://t.me/insiderpaper/45556",
+      "lang": "en",
+      "publishedAt": "2026-10-28T10:17:23.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 파키스탄은 중국의 한-중 정책을 지원하기 위해 대만의 모든 상업 항공사에 영공을 폐쇄했습니다 - 블룸버그",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78693",
+      "titleOriginal": "Zelensky Warns of Russia’s ‘Economic Marriage’ With US as Ukraine Feels ‘Home Alone’ Without Patriots",
+      "url": "https://www.kyivpost.com/post/88388",
+      "lang": "en",
+      "publishedAt": "2026-10-28T09:59:18.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "젤렌스키, 우크라이나가 애국자 없이 ‘나홀로 집’ 처럼 느껴지면서 미국과 러시아의 ‘경제적 결혼’ 을 경고하다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:21984",
+      "titleOriginal": "JUST IN - At least 39 dead after two trains collide in Spain on the Madrid-Andalusia line, with 2 carriages reportedly falling down an embankment.",
+      "url": "https://t.me/disclosetv/21984",
+      "lang": "en",
+      "publishedAt": "2026-10-28T09:19:30.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "JUST IN - 마드리드-안달루시아 노선에서 두 대의 열차가 스페인에서 충돌한 후 최소 39명이 사망했으며, 마차 2대가 승강장에서 추락한 것으로 알려졌습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78692",
+      "titleOriginal": "Israel election results: Netanyahu bloc at 56 seats as nearly 60% of polling stations report",
+      "url": "https://www.ynetnews.com/article/hjnatbkaml",
+      "lang": "en",
+      "publishedAt": "2026-10-28T08:49:39.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "이스라엘 선거 결과: 투표소의 거의 60% 가 56석으로 네타냐후 블록이 보고함",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15652",
+      "titleOriginal": "Neither Netanyahu nor the anti-Netanyahu coalitions have been able to secure a majority to form government, while Arab parties have made historic gains",
+      "url": "https://t.me/trtworld/15652",
+      "lang": "en",
+      "publishedAt": "2026-10-28T08:37:47.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "네타냐후와 반 네타냐후 연합은 정부를 구성하기 위해 다수를 확보할 수 없었지만 아랍 정당은 역사적인 이득을 얻었습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78691",
+      "titleOriginal": "UAE honours Captain Smit Machchhar for bravery during flydubai cockpit attack",
+      "url": "https://www.indiatoday.in/world/story/uae-honours-indian-pilot-smit-machchhar-flydubai-crew-bravery-3026569-2026-10-28",
+      "lang": "en",
+      "publishedAt": "2026-10-28T08:09:25.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "아랍에미리트연합 (UAE) 은 플라이두바이 조종석 공격에서 용감한 선장 스미트 마흐차르 (Smit Machchhar) 를 기",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78690",
+      "titleOriginal": "El Salvador rushes 1,000 troops to Haiti after gang ambush, source says",
+      "url": "https://www.reuters.com/world/americas/around-1000-soldiers-el-salvador-have-deployed-haiti-source-says-2026-10-27/",
+      "lang": "en",
+      "publishedAt": "2026-10-28T06:44:33.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "소식통은 엘살바도르가 갱단의 매복 공격 이후 1,000명의 군대를 아이티로 돌진시켰다고 전했습니다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15651",
+      "titleOriginal": "Follow our Daily News Brief for Wednesday, October 28th",
+      "url": "https://trt.world/cv9n",
+      "lang": "en",
+      "publishedAt": "2026-10-28T06:25:15.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "10월 28일 수요일 일일 뉴스 브리프를 팔로우하세요",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78689",
+      "titleOriginal": "Zelenskiy: \"Ukrainian forces are retaking territory through a series of offensives, including one operation previously unannounced in which Kyiv's troops used gas ​pipelines to outflank Russian positions\"",
+      "url": "https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-says-territory-recaptured-forces-offensive-2026-10-27/",
+      "lang": "en",
+      "publishedAt": "2026-10-28T05:54:23.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "젤렌스키: \"우크라이나 군대는 일련의 공격을 통해 영토를 탈환하고 있습니다. 여기에는 이전에 예고되지 않은 한 번의 작전이 포함됩니다. 이 작전에서 키예프의 군대는 가스 파이프라인을 사용하여 러시아의 위치를 앞질렀습니다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15650",
+      "titleOriginal": "The first exit polls from Israel’s pivotal general election on Tuesday showed historic gains for the country’s Arab parties, whose supporters turned out in large numbers.",
+      "url": "https://t.me/trtworld/15650",
+      "lang": "en",
+      "publishedAt": "2026-10-28T04:52:12.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "화요일 이스라엘의 중추적 인 총선에서 첫 번째 출구 여론 조사는 지지자들이 많은 것으로 나타난 아랍 정당들에게 역사적인 이득을 보여주었습니다",
+      "translated": true
+    },
     {
       "id": "worldnews:78687",
       "titleOriginal": "Flavio Bolsonaro and family to receive US visas after leaving Brazil, State Department says",
@@ -1519,138 +1651,6 @@
       "source": "Liveuamap",
       "region": "분쟁",
       "title": "다라 사나 특파원: 나시브와 무자이리브 마을 부근에서 공습으로 인해 여러 폭발음이 들렸습니다. https://syria.liveuamap.com/en/2026/26-october-19-sana-correspondent-in-daraa-several-explosions",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19806",
-      "titleOriginal": "The Kremlin has suggested that the ceasefire in Ukraine could be extended, following the example of Oleshky. Kremlin spokesperson Peskov did not rule out the possibility that the humanitarian initiatives of US First Lady Melania Trump could",
-      "url": "https://t.me/wartranslated/19806",
-      "lang": "en",
-      "publishedAt": "2026-10-26T19:57:42.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "크렘린은 올레슈키의 예에 따라 우크라이나에서 휴전이 연장될 수 있다고 제안했다. 페스코프 크렘린 대변인은 미국 영부인 멜라니아 트럼프의 인도주의적 계획이",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92068",
-      "titleOriginal": "Spiders Can Rack Up REM-Like Sleep Debt (And May Even Dream), Just Like Humans",
-      "url": "https://www.sciencealert.com/spiders-can-rack-up-rem-like-sleep-debt-and-may-even-dream-just-like-humans",
-      "lang": "en",
-      "publishedAt": "2026-10-26T19:55:26.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "거미는 인간과 마찬가지로 REM과 같은 수면 부채 (그리고 심지어 꿈도 꿀 수 있음) 를 쌓을 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21977",
-      "titleOriginal": "JUST IN - Trump offers $1,000,000 for anyone who reports voter fraud, in past or upcoming elections, that results in an arrest and conviction.",
-      "url": "https://truthsocial.com/@realDonaldTrump/117508870323063258",
-      "lang": "en",
-      "publishedAt": "2026-10-26T19:39:29.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "방금 - 트럼프는 과거 또는 다가오는 선거에서 유권자 사기를 신고하는 사람에게 $ 1,000,000를 제공하여 체포와 유죄 판결을 내립니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9826",
-      "titleOriginal": "iPhone Duo now supports Apple Pencil with iOS 27.2",
-      "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
-      "lang": "en",
-      "publishedAt": "2026-10-26T18:56:03.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "iPhone Duo는 이제 iOS 27.2에서 Apple Pencil을 지원합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9825",
-      "titleOriginal": "The NBA’s response to gambling scandals is to add more gambling partnerships",
-      "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
-      "lang": "en",
-      "publishedAt": "2026-10-26T18:27:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "도박 스캔들에 대한 NBA의 대응은 더 많은 도박 파트너십을 추가하는 것입니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21976",
-      "titleOriginal": "NEW - Anthropic says, \"the physical effects of climate change may increase our operating costs,\" warning in its IPO filing that hotter temperatures mean more electricity and water to keep data centers cool. Read here: https://www.disclose.t",
-      "url": "https://www.disclose.tv/id/zllu0yumkr/",
-      "lang": "en",
-      "publishedAt": "2026-10-26T18:22:51.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "새로운 기능 - Anthropic은 IPO 서류에서 \"기후 변화의 물리적 영향으로 운영 비용이 증가할 수 있다\" 고 말하면서 더 뜨거운 온도는 데이터 센터를 시원하게 유지하기 위해 더 많은 전기와 물을 의미한다고 경고했습니다. 다음 링크에서 읽어보세요: https://www.disclo",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45516",
-      "titleOriginal": "BREAKING - Israel dismisses UN-backed probe’s allegations of genocide as ‘propaganda’",
-      "url": "https://t.co/n7FMGHPmAQ",
-      "lang": "en",
-      "publishedAt": "2026-10-26T18:13:49.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 이스라엘, 유엔 지원 프로브의 대량 학살 혐의를 ‘선전‘ 으로 일축",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19805",
-      "titleOriginal": "The Wall Street Journal reports that Finland and Austria have seized $500 million worth of Russian real estate following a lawsuit by Ukraine. This concerns Russian assets that could be confiscated in favor of \"Naftogaz of Ukraine\" as compe",
-      "url": "https://www.wsj.com/world/russia/how-the-seizure-of-a-russian-vessel-brought-the-ukraine-war-to-the-arctic-93beddaa?utm_source=chatgpt.com",
-      "lang": "en",
-      "publishedAt": "2026-10-26T17:59:07.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "월스트리트 저널은 핀란드와 오스트리아가 우크라이나의 소송으로 5억 달러 ($) 상당의 러시아 부동산을 압류했다고 보도했다. 이는 \"우크라이나의 나프토가즈\" 에 찬성하여 압수될 수 있는 러시아 자산에 관한 것입니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45515",
-      "titleOriginal": "US troops to join anti-drug-trafficking drills in Colombia",
-      "url": "https://t.co/ilqK4MMemI",
-      "lang": "en",
-      "publishedAt": "2026-10-26T17:56:55.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "콜롬비아에서 마약 밀매 방지 훈련에 참여하는 미군",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19804",
-      "titleOriginal": "More footage from the strike in Yelets.",
-      "url": "https://t.me/wartranslated/19804",
-      "lang": "en",
-      "publishedAt": "2026-10-26T17:38:06.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "Yelets의 스트라이크에서 더 많은 영상",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9824",
-      "titleOriginal": "The RealReal won’t let AI agents hog designer clothing",
-      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "lang": "en",
-      "publishedAt": "2026-10-26T17:32:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "RealReal은 AI 에이전트에게 HOG 디자이너 의류를 허용하지 않습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9823",
-      "titleOriginal": "Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens",
-      "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
-      "lang": "en",
-      "publishedAt": "2026-10-26T17:32:01.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Apple, 화면 깨짐 신고 후 iPhone Duo 디스플레이 ‘문제’ 인정",
       "translated": true
     }
   ]
