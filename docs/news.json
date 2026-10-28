@@ -1,8 +1,52 @@
 {
-  "updatedAt": "2026-10-27T23:31:58.656Z",
+  "updatedAt": "2026-10-28T04:16:43.296Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78687",
+      "titleOriginal": "Flavio Bolsonaro and family to receive US visas after leaving Brazil, State Department says",
+      "url": "https://www.reuters.com/world/americas/brazil-wonders-where-earth-is-flavio-bolsonaro-2026-10-27/",
+      "lang": "en",
+      "publishedAt": "2026-10-28T02:59:26.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "국무부는 플라비오 보우소나로와 가족이 브라질을 떠난 후 미국 비자를 받는다고 밝혔습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92083",
+      "titleOriginal": "Heat Deaths Reach Record High: 146 Experts Call to Declare Climate Change a Global Health Emergency",
+      "url": "https://www.sciencealert.com/heat-deaths-reach-record-high-146-experts-call-to-declare-climate-change-a-global-health-emergency",
+      "lang": "en",
+      "publishedAt": "2026-10-28T01:23:14.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "열사망률 최고치 기록: 146명의 전문가, 기후변화 글로벌 건강 비상사태 선포 촉구",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92082",
+      "titleOriginal": "Millions of Mysterious Deep-Sea Eels Caught Gathering Off The Coast of Tasmania",
+      "url": "https://www.sciencealert.com/millions-of-mysterious-deep-sea-eels-caught-gathering-off-the-coast-of-tasmania",
+      "lang": "en",
+      "publishedAt": "2026-10-28T00:12:44.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "태즈메이니아 해안에서 잡은 수백만 마리의 신비한 심해 장어",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45555",
+      "titleOriginal": "Is your Samsung TV spying on you? Researcher claims TVs secretly listen for barking dogs and crying babies",
+      "url": "https://insiderpaper.com/samsung-tvs-secretly-listen-for-barking-dogs-and-crying-babies/",
+      "lang": "en",
+      "publishedAt": "2026-10-27T23:44:18.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "삼성 TV가 당신을 감시하고 있습니까? 연구원은 TV가 짖는 개와 우는 아기를 몰래 듣는다고 주장합니다",
+      "translated": true
+    },
     {
       "id": "sciencealert:92081",
       "titleOriginal": "Mice With Parkinson's-Like Brain Changes Unexpectedly Recovered a Year Later",
@@ -1607,50 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "Apple, 화면 깨짐 신고 후 iPhone Duo 디스플레이 ‘문제’ 인정",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9822",
-      "titleOriginal": "Nothing’s eye-catching Ear 3A earbuds are matching their best price to date",
-      "url": "https://telegra.ph/Nothings-eye-catching-Ear-3A-earbuds-are-matching-their-bes-10-26",
-      "lang": "en",
-      "publishedAt": "2026-10-26T17:26:01.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "눈길을 끄는 것은 없습니다. Ear 3A 이어버드가 현재까지의 최저 가격과 일치합니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21975",
-      "titleOriginal": "NEW - NBA announces partnership with Kalshi and Polymarket.",
-      "url": "https://www.disclose.tv/id/vqcczacds0/",
-      "lang": "en",
-      "publishedAt": "2026-10-26T17:24:20.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "신규 - NBA는 Kalshi 및 Polymarket과의 파트너십을 발표했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19803",
-      "titleOriginal": "According to Reuters , Russian oil refineries have increased diesel production to a recent high. In October, diesel output rose to nearly 180,000 tons per day, up from 160,000 previously. This comes against the backdrop of agreements betwee",
-      "url": "https://www.reuters.com/business/energy/russian-refiners-ramp-up-diesel-output-after-us-deal-sources-say-2026-10-26/?utm_source=chatgpt.com",
-      "lang": "en",
-      "publishedAt": "2026-10-26T17:22:40.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "로이터에 따르면 러시아 정유사는 디젤 생산량을 최근 최고 수준으로 늘렸다. 10월 디젤 생산량은 하루 거의 18만 톤으로 증가하여 이전 16만 톤보다 증가했습니다. 이는 Betwee와의 합의의 배경에 해당합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19802",
-      "titleOriginal": "It is reported that the Defense Forces of Ukraine hit the facilities of JSC \"Voronezhsintezkauchuk\". Earlier, the governor of Voronezh Region, Gusev, claimed that 113 unmanned aerial vehicles were destroyed over the region last night. Direc",
-      "url": "https://t.me/wartranslated/19802",
-      "lang": "en",
-      "publishedAt": "2026-10-26T17:19:01.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 국방군이 JSC \"Voronezhsintezkauchuk\" 의 시설을 공격한 것으로 보고되었습니다. 앞서 보로네시 지역 주지사 구세프는 어젯밤 이 지역에서 무인 항공기 113대가 파괴되었다고 주장했다",
       "translated": true
     }
   ]
