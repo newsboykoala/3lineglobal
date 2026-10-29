@@ -1,8 +1,151 @@
 {
-  "updatedAt": "2026-10-28T21:36:57.518Z",
+  "updatedAt": "2026-10-29T01:35:16.687Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:92091",
+      "titleOriginal": "PFAS Levels in US Drinking Water Could Be Twice as High as Reported",
+      "url": "https://www.sciencealert.com/pfas-levels-in-us-drinking-water-could-be-twice-as-high-as-reported",
+      "lang": "en",
+      "publishedAt": "2026-10-29T01:32:40.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "미국 식수의 PFAS 수치는 보고된 것보다 2배 높을 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78711",
+      "titleOriginal": "Oxfam: Richest 0.1% produce more carbon than poorest 3.5 billion",
+      "url": "https://newseu.cgtn.com/news/2026-10-27/Oxfam-Richest-0-1-produce-more-carbon-than-poorest-3-5-billion-1Ru4owKPlaU/p.html",
+      "lang": "en",
+      "publishedAt": "2026-10-29T00:04:21.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "옥스팜: 가장 부유한 0.1% 가 가장 가난한 35억 명보다 더 많은 탄소를 생산합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45578",
+      "titleOriginal": "NEW: FEMA announces a nationwide Emergency Alert System test across the United States on November 17 at 2:20 p.m. ET.",
+      "url": "https://t.me/insiderpaper/45578",
+      "lang": "en",
+      "publishedAt": "2026-10-28T23:51:36.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "새로운 기능: FEMA는 11월 17일 오후 2시 20분 (동부 표준시) 에 미국 전역에서 전국적인 비상 경보 시스템 테스트를 발표합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45577",
+      "titleOriginal": "JUST IN - An incident at the US Department of Energy’s Savannah River Site triggered an emergency response.",
+      "url": "https://t.me/insiderpaper/45577",
+      "lang": "en",
+      "publishedAt": "2026-10-28T23:43:39.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "JUST IN - 미국 에너지부 서배너 리버 사이트에서 발생한 사건이 긴급 대응을 촉발했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78710",
+      "titleOriginal": "Brazil's Bolsonaro deletes letter calling himself 'president-elect,' changes wording to 'leader'",
+      "url": "https://www.jpost.com/international/article-913163",
+      "lang": "en",
+      "publishedAt": "2026-10-28T23:29:34.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "브라질의 볼소나로 (Bolsonaro) 는 자신을 '차기 대통령' 이라고 부르는 편지를 삭제하고, '지도자' 로 문구를 변경합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9907",
+      "titleOriginal": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "lang": "en",
+      "publishedAt": "2026-10-28T23:07:51.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "아담 모세리 (Adam Mosseri) 는 AI에 대한 부정성이 ‘악화될 것’ 이라고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45576",
+      "titleOriginal": "Around the world, governments are increasingly advising their citizens to have provisions in the case of an emergency such as war, extreme weather and cybersecurity threats - Newsweek",
+      "url": "https://t.me/insiderpaper/45576",
+      "lang": "en",
+      "publishedAt": "2026-10-28T23:04:16.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "전 세계적으로 정부는 전쟁, 극심한 날씨 및 사이버 보안 위협과 같은 비상 사태가 발생할 경우 시민들에게 조항을 갖출 것을 점점 더 권고하고 있습니다. - 뉴스위크",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92090",
+      "titleOriginal": "Exercise 'Snacking' Can Build Similar Strength to One Big Training Session, Study Finds",
+      "url": "https://www.sciencealert.com/squat-snacking-can-build-similar-strength-to-one-big-training-session-study-finds",
+      "lang": "en",
+      "publishedAt": "2026-10-28T22:37:22.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "운동 '간식' 은 하나의 큰 훈련 세션과 비슷한 힘을 키울 수 있습니다, Study Finds",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78709",
+      "titleOriginal": "Nord Stream won't reopen after the war, Brussels tells US and Russia",
+      "url": "https://www.euronews.com/2026/10/28/nord-stream-pipeline-wont-reopen-after-the-war-brussels-tells-the-us-and-russia",
+      "lang": "en",
+      "publishedAt": "2026-10-28T22:14:13.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "브뤼셀은 전쟁이 끝난 후 Nord Stream이 다시 열리지 않을 것이라고 미국과 러시아에 알립니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9906",
+      "titleOriginal": "A hacker stole more than 40,000 DHS employee records",
+      "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "lang": "en",
+      "publishedAt": "2026-10-28T22:03:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "한 해커가 40,000명 이상의 DHS 직원 기록을 훔쳤습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19845",
+      "titleOriginal": "On October 27, the Russians struck Kharkiv, burning around 300,000 books. The strike hit a publishing house warehouse.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-10-28T21:59:53.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "10월 27일, 러시아군은 하르키우를 강타하여 약 30만 권의 책을 불태웠다. 파업이 출판사 창고를 덮쳤습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19844",
+      "titleOriginal": "The Russian Orthodox Church called Russian stormtroopers \"meat,\" while presenting them as a symbol of resilience and self-sacrifice.",
+      "url": "https://t.me/wartranslated/19844",
+      "lang": "en",
+      "publishedAt": "2026-10-28T21:52:33.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아 정교회는 러시아의 스톰트루퍼를 '고기' 라고 부르며 탄력과 자기 희생의 상징으로 제시했다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9905",
+      "titleOriginal": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "lang": "en",
+      "publishedAt": "2026-10-28T21:37:24.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Akai는 오픈 소스 MPC로 바이브 코드 모드를 채택하고 있습니다",
+      "translated": true
+    },
     {
       "id": "insiderpaper:45575",
       "titleOriginal": "BREAKING: Vice President JD Vance sent a letter to Iranian hard-liner Mohsen Rezaei to revive peace talks — WSJ",
@@ -1508,149 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "플라비오 보우소나루 ‘선거 패배 후 가족과 함께 브라질을 떠나 미국으로",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45544",
-      "titleOriginal": "BREAKING: Flavio Bolsonaro has fled Brazil and is en route to the United States, Metropoles reports",
-      "url": "https://t.me/insiderpaper/45544",
-      "lang": "en",
-      "publishedAt": "2026-10-27T17:50:54.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: Flavio Bolsonaro가 브라질을 탈출하여 미국으로 가는 중이라고 Metropoles가 보도했습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78677",
-      "titleOriginal": "More Than 3% of Russian Men Aged 40–50 Have HIV as Epidemic Spreads in 27 Regions",
-      "url": "https://united24media.com/world/more-than-3-of-russian-men-aged-40-50-have-hiv-as-epidemic-spreads-in-27-regions-23849",
-      "lang": "en",
-      "publishedAt": "2026-10-27T17:44:31.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "40 ~ 50세 러시아 남성의 3% 이상이 27개 지역에서 전염병이 확산됨에 따라 HIV에 감염되었습니다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15649",
-      "titleOriginal": "Nearly 5,000 Palestinians have been forcibly displaced as Israeli forces continue a large-scale military offensive in the occupied West Bank city of Hebron for a fifth consecutive day.",
-      "url": "https://t.me/trtworld/15649",
-      "lang": "en",
-      "publishedAt": "2026-10-27T17:43:37.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "이스라엘군이 5일 연속으로 점령된 요르단강 서안 도시 헤브론에서 대규모 군사 공격을 계속함에 따라 약 5,000명의 팔레스타인인이 강제 이주되었다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9850",
-      "titleOriginal": "VisionQuest is what happens when AI really goes rogue",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "lang": "en",
-      "publishedAt": "2026-10-27T17:32:51.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "VisionQuest는 AI가 실제로 악용될 때 발생합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45543",
-      "titleOriginal": "NEW - US says 5 dead in strike on alleged drug-smuggling boat",
-      "url": "https://t.co/mvgvw4TnoF",
-      "lang": "en",
-      "publishedAt": "2026-10-27T17:32:39.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "신규 - 미국, 마약 밀수선 파업으로 5명 사망",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78676",
-      "titleOriginal": "Satellites show some of the strongest evidence the AMOC is weakening",
-      "url": "https://www.newscientist.com/article/2595629-satellites-show-some-of-the-strongest-evidence-the-amoc-is-weakening/",
-      "lang": "en",
-      "publishedAt": "2026-10-27T17:04:25.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "위성은 AMOC가 약화되고 있다는 가장 강력한 증거 중 일부를 보여줍니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21981",
-      "titleOriginal": "NEW - Pope Leo XIV says \"there is no such thing as a holy war,\" rejecting any religious justification for conflicts around the world: \"Only peace is holy.\"",
-      "url": "https://www.disclose.tv/id/udscis68nl/",
-      "lang": "en",
-      "publishedAt": "2026-10-27T17:03:00.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "새로운 소식 - 교황 레오 14세는 전 세계 분쟁에 대한 종교적 정당화를 거부하면서 \"거룩한 전쟁은 없다\" 고 말한다. \"평화만이 거룩하다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9849",
-      "titleOriginal": "The Super Mouse puts a touchscreen macro pad under your hand",
-      "url": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
-      "lang": "en",
-      "publishedAt": "2026-10-27T17:01:50.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "슈퍼 마우스가 터치스크린 매크로 패드를 손 아래에 놓습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9848",
-      "titleOriginal": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "lang": "en",
-      "publishedAt": "2026-10-27T16:52:12.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "월스트리트를 유지하기 위한 인류애의 정교한 계획",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9847",
-      "titleOriginal": "Meta’s $25 billion legal loss just put blood in the water",
-      "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
-      "lang": "en",
-      "publishedAt": "2026-10-27T16:52:10.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "메타의 $ 250억 법적 손실은 방금 물에 혈액을 넣었습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45542",
-      "titleOriginal": "JUST IN - Iran president tells Putin region can solve problems without US",
-      "url": "https://insiderpaper.com/iran-president-tells-putin-region-can-solve-problems-without-us/",
-      "lang": "en",
-      "publishedAt": "2026-10-27T16:51:22.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 이란 대통령이 푸틴 지역이 미국 없이도 문제를 해결할 수 있다고 말함",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45541",
-      "titleOriginal": "BREAKING: President Trump says his administration will officially ban the term “Artificial Intelligence (AI)” from relevant documents and replace it with “Super Intelligence (SI).”",
-      "url": "https://t.me/insiderpaper/45541",
-      "lang": "en",
-      "publishedAt": "2026-10-27T16:24:55.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 트럼프 대통령은 행정부가 관련 문서에서 '인공지능 (AI)' 이라는 용어를 공식적으로 금지하고 '슈퍼 인텔리전스 (SI)' 로 대체할 것이라고 말했습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9846",
-      "titleOriginal": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "lang": "en",
-      "publishedAt": "2026-10-27T16:21:32.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Firefox의 Smart Window는 AI 양식 작성 및 웹페이지 모니터링을 추가합니다",
       "translated": true
     }
   ]
