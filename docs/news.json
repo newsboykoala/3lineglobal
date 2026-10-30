@@ -1,8 +1,85 @@
 {
-  "updatedAt": "2026-10-30T00:09:04.369Z",
+  "updatedAt": "2026-10-30T06:13:50.862Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "trtworld:15663",
+      "titleOriginal": "Medical staff and locals in the Democratic Republic of Congo's Ituri province dance and sing as they celebrate the discharge of the last remaining Ebola patients at a treatment centre run by the charity Medecins Sans Frontieres (MSF) in Mon",
+      "url": "https://t.me/trtworld/15663",
+      "lang": "en",
+      "publishedAt": "2026-10-30T04:22:09.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "콩고 민주 공화국 이투리 지방의 의료진과 현지인들은 자선단체인 국경없는의사회가 운영하는 치료 센터에서 마지막 남은 에볼라 환자의 퇴원을 축하하며 춤을 추고 노래를 부릅니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78739",
+      "titleOriginal": "Brazil investigates possible election interference linked to JD Vance-founded network",
+      "url": "https://fish4news.co.uk/brazil-election-investigation-jd-vance-rockbridge/",
+      "lang": "en",
+      "publishedAt": "2026-10-30T03:54:38.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "브라질은 JD Vance가 설립한 네트워크와 연결된 선거 간섭 가능성을 조사합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78738",
+      "titleOriginal": "After losing his majority, Netanyahu tries to delegitimize election results",
+      "url": "https://www.axios.com/2026/10/29/netanyahu-election-likud-delegitimize-results",
+      "lang": "en",
+      "publishedAt": "2026-10-30T03:34:20.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "네타냐후는 과반수를 잃은 후 선거 결과를 위임하려고 한다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78737",
+      "titleOriginal": "Netanyahu's party claims Israeli election 'stolen' as results show him losing majority",
+      "url": "https://www.pbs.org/newshour/amp/world/netanyahus-party-claims-israeli-election-stolen-as-results-show-him-losing-majority",
+      "lang": "en",
+      "publishedAt": "2026-10-30T03:04:17.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "네타냐후의 당은 이스라엘 선거가 '도난' 당했다고 주장합니다. 결과적으로 그는 과반수를 잃었습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92100",
+      "titleOriginal": "Your Car's Biggest Security Weakness Could Be Somewhere Unexpected",
+      "url": "https://www.sciencealert.com/your-cars-biggest-security-weakness-could-be-somewhere-unexpected",
+      "lang": "en",
+      "publishedAt": "2026-10-30T02:42:32.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "차량의 가장 큰 보안 취약점은 예상치 못한 곳에 있을 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78736",
+      "titleOriginal": "Over 600 drones targeted Moscow and surrounding area",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060184/",
+      "lang": "en",
+      "publishedAt": "2026-10-30T01:39:24.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "모스크바와 주변 지역을 겨냥한 600대 이상의 드론",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92099",
+      "titleOriginal": "Cold Triggers a Hidden Molecular Pathway That Extends Lifespan, Study Finds",
+      "url": "https://www.sciencealert.com/cold-triggers-a-hidden-molecular-pathway-that-extends-lifespan-study-finds",
+      "lang": "en",
+      "publishedAt": "2026-10-30T01:32:29.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "Cold Triggers a Hidden Molecular Pathway that Extends Lifespan, Study Finds",
+      "translated": true
+    },
     {
       "id": "theverge_news:9932",
       "titleOriginal": "The director of Obsession put a new horror short on YouTube",
@@ -1093,17 +1170,6 @@
       "translated": true
     },
     {
-      "id": "worldnews:78716",
-      "titleOriginal": "Over 600 drones targeted Moscow and surrounding area",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060184/",
-      "lang": "en",
-      "publishedAt": "2026-10-29T06:44:10.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "모스크바와 주변 지역을 겨냥한 600대 이상의 드론",
-      "translated": true
-    },
-    {
       "id": "trtworld:15657",
       "titleOriginal": "Turkish freediver Sahika Ercumen marked the 103rd anniversary of the Republic of Türkiye by unfurling the national flag during a dive off Türkiye’s southern Mediterranean coast. The national athlete said Turkish sportspeople “will continue ",
       "url": "https://t.me/trtworld/15657",
@@ -1585,72 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "Stubb는 러시아가 우크라이나에서 한 달 동안 아프가니스탄에서 10년 동안 잃은 소련보다 더 많은 병력을 잃었다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9890",
-      "titleOriginal": "Apple ‘Pro and Tell’ event: everything announced this week",
-      "url": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
-      "lang": "en",
-      "publishedAt": "2026-10-28T17:32:45.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Apple ‘Pro and Tell’ 이벤트: 이번 주에 발표되는 모든 것",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45572",
-      "titleOriginal": "Pentagon prepares US military bases for 90 days without outside support amid war fears",
-      "url": "https://t.co/RLA633Xn17",
-      "lang": "en",
-      "publishedAt": "2026-10-28T17:26:58.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "펜타곤은 전쟁 공포 속에서 외부의 지원 없이 90일 동안 미군 기지를 준비합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9888",
-      "titleOriginal": "Hands-on with Apple’s touchscreen MacBook Pro",
-      "url": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on",
-      "lang": "en",
-      "publishedAt": "2026-10-28T17:23:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Apple의 터치스크린 MacBook Pro 직접 체험하기",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9889",
-      "titleOriginal": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
-      "url": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video",
-      "lang": "en",
-      "publishedAt": "2026-10-28T17:23:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Apple의 터치스크린 MacBook Pro 공개 동영상 보기",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9887",
-      "titleOriginal": "Here’s where you can preorder the new OLED-equipped iPad Mini",
-      "url": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
-      "lang": "en",
-      "publishedAt": "2026-10-28T17:12:54.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "OLED가 장착된 새로운 iPad Mini를 선주문할 수 있는 곳입니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9886",
-      "titleOriginal": "Instagram doesn’t have a plan to pay long-form video creators",
-      "url": "https://www.theverge.com/tech/1020806/instagram-long-form-video-creator-monetization",
-      "lang": "en",
-      "publishedAt": "2026-10-28T17:12:52.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Instagram은 긴 형식의 동영상 크리에이터에게 비용을 지불할 계획이 없습니다",
       "translated": true
     }
   ]
