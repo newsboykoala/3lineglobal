@@ -1,8 +1,85 @@
 {
-  "updatedAt": "2026-10-31T02:02:31.754Z",
+  "updatedAt": "2026-10-31T08:40:52.565Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:92110",
+      "titleOriginal": "Earth's Supposedly Impenetrable Radiation Barrier Has Been Breached",
+      "url": "https://www.sciencealert.com/earths-supposedly-impenetrable-radiation-barrier-has-been-breached",
+      "lang": "en",
+      "publishedAt": "2026-10-31T08:31:04.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "뚫을 수 없는 것으로 추정되는 지구의 방사선 장벽이 뚫렸습니다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15668",
+      "titleOriginal": "Follow our Daily News Brief for Saturday, October 31st",
+      "url": "https://trt.world/cvx1",
+      "lang": "en",
+      "publishedAt": "2026-10-31T07:02:17.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "10월 31일 토요일 일일 뉴스 브리프를 팔로우하세요",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78763",
+      "titleOriginal": "Pope Leo XIV becomes first pope to vote in U.S. election",
+      "url": "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms",
+      "lang": "en",
+      "publishedAt": "2026-10-31T06:49:29.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "교황 레오 14세가 미국 선거에서 투표권을 행사한 최초의 교황이 되다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45607",
+      "titleOriginal": "NEW: 197 magnitude 4.5 or higher earthquakes rocked Pacific Ring of Fire over the past 7 days – Fox Weather",
+      "url": "https://t.me/insiderpaper/45607",
+      "lang": "en",
+      "publishedAt": "2026-10-31T05:37:40.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "신규: 지난 7일간 태평양 불의 고리를 뒤흔든 규모 4.5 이상의 지진 197건 – 폭스 날씨",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78762",
+      "titleOriginal": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
+      "url": "https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us",
+      "lang": "en",
+      "publishedAt": "2026-10-31T05:24:03.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "브라질, 볼소나로의 미국행 비행기에 아르헨티나 외교관 소환",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78760",
+      "titleOriginal": "Canada pledges 500 million euros toward Ukraine support loan amid 2027 budget shortfall",
+      "url": "https://kyivindependent.com/canada-pledges-500-million-euros-toward-ukraine-support-loan-amid-2027-budget-shortfall/",
+      "lang": "en",
+      "publishedAt": "2026-10-31T04:09:12.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "캐나다는 2027년 예산 부족 상황에서 우크라이나 지원 대출을 위해 5억 유로를 약속했습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92109",
+      "titleOriginal": "Scientists Have Built a Robot Dog Powered by Human Brain Cells",
+      "url": "https://www.sciencealert.com/scientists-have-built-a-robot-dog-powered-by-human-brain-cells",
+      "lang": "en",
+      "publishedAt": "2026-10-31T02:43:04.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들은 인간의 뇌 세포로 구동되는 로봇 개를 만들었습니다",
+      "translated": true
+    },
     {
       "id": "sciencealert:92108",
       "titleOriginal": "Traditional Chinese Medicine Formula Kills Drug-Resistant Cancer Cells in The Lab",
@@ -1574,83 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "Nikolaj Coster-Waldau는 UNDP 친선 대사 자격으로 키예프에 도착했습니다. 여기서 그는 에너지에서 문화 및 탈핵에 이르기까지 다양한 분야에서 UNDP의 지원으로 시행되는 프로젝트에 대해 배우고 있습니다. 배우에 따르면,",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45589",
-      "titleOriginal": "ALERT - Minister in France warns of 'very high' violence risk at Halloween protests",
-      "url": "https://insiderpaper.com/minister-in-france-warns-of-very-high-violence-risk-at-halloween-protests/",
-      "lang": "en",
-      "publishedAt": "2026-10-29T16:36:11.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "경고 - 프랑스 장관, 할로윈 시위에서 '매우 높은' 폭력 위험 경고",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45588",
-      "titleOriginal": "JUST IN - Canada investing CAN$1.6 billion in AI firm Cohere: Carney",
-      "url": "https://t.co/EGK72L3ksy",
-      "lang": "en",
-      "publishedAt": "2026-10-29T16:35:37.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 캐나다 투자는 인공지능 회사인 Cohere: Carney에 $ 16억 달러를 투자할 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78725",
-      "titleOriginal": "Finland launches criminal investigation into Google’s clearing of forest for datacentre site | Finland",
-      "url": "https://www.theguardian.com/world/2026/oct/29/finland-criminal-investigation-google-clearing-forest-datacentre",
-      "lang": "en",
-      "publishedAt": "2026-10-29T16:34:29.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "핀란드, 데이터 센터 사이트에 대한 Google의 숲 정리에 대한 범죄 수사 착수 | 핀란드",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78724",
-      "titleOriginal": "Trump's increasing support for Russia carries existential danger for Canada",
-      "url": "https://www.cbc.ca/news/politics/trump-putin-ukraine-canada-alliance-9.7393224",
-      "lang": "en",
-      "publishedAt": "2026-10-29T16:24:39.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아에 대한 트럼프의 지원 증가는 캐나다에 실존적 위험을 수반한다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78723",
-      "titleOriginal": "Russia Cracks Down on Dating Chatbot ‘Exploited’ by Ukrainian Intelligence",
-      "url": "https://www.kyivpost.com/post/88532",
-      "lang": "en",
-      "publishedAt": "2026-10-29T16:19:33.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아, 우크라이나 정보기관의 데이트 챗봇 ‘익스플로잇드 (Exploited)’ 단속",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9920",
-      "titleOriginal": "This open source project lets you sync Withings data to other apps without a subscription",
-      "url": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
-      "lang": "en",
-      "publishedAt": "2026-10-29T16:17:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "이 오픈 소스 프로젝트를 사용하면 구독 없이 Withings 데이터를 다른 앱과 동기화할 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12482",
-      "titleOriginal": "Votes counting in Israel's election ends. PM Netanyahu's bloc has 53 seats, Eisenkot's bloc has 48 and Arab parties have 19. Total of 67 seats to the opposition https://israelpalestine.liveuamap.com/en/2026/29-october-15-votes-counting-in-i",
-      "url": "https://israelpalestine.liveuamap.com/en/2026/29-october-15-votes-counting-in-israels-election-ends-pm",
-      "lang": "en",
-      "publishedAt": "2026-10-29T16:11:22.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "이스라엘의 선거에서 개표가 끝납니다. PM Netanyahu의 블록은 53석, Eisenkot의 블록은 48석, 아랍 정당은 19석입니다. 야당 총 67석 https://israelpalestine.liveuamap.com/en/2026/29-october-15-votes-countin",
       "translated": true
     }
   ]
