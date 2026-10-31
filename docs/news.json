@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-10-30T22:47:54.654Z",
+  "updatedAt": "2026-10-31T02:02:31.754Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:92108",
+      "titleOriginal": "Traditional Chinese Medicine Formula Kills Drug-Resistant Cancer Cells in The Lab",
+      "url": "https://www.sciencealert.com/traditional-chinese-medicine-formula-kills-drug-resistant-cancer-cells-in-the-lab",
+      "lang": "en",
+      "publishedAt": "2026-10-31T00:23:24.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "중국 전통 의약품 포뮬러는 실험실에서 약물 내성 암세포를 죽인다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45606",
+      "titleOriginal": "Record $6.3 Billion Binance Crypto Heist: North Korean Hackers Suspected",
+      "url": "https://insiderpaper.com/record-6-3-billion-binance-crypto-heist-north-korean-hackers-suspected/",
+      "lang": "en",
+      "publishedAt": "2026-10-30T23:07:04.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "$ 63억 기록 Binance Crypto Heist: North Korean Hackers Suspected",
+      "translated": true
+    },
     {
       "id": "theverge_news:9953",
       "titleOriginal": "Apple Intelligence is finally coming to China with iOS 27.3",
@@ -1629,28 +1651,6 @@
       "source": "Liveuamap",
       "region": "분쟁",
       "title": "이스라엘의 선거에서 개표가 끝납니다. PM Netanyahu의 블록은 53석, Eisenkot의 블록은 48석, 아랍 정당은 19석입니다. 야당 총 67석 https://israelpalestine.liveuamap.com/en/2026/29-october-15-votes-countin",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9919",
-      "titleOriginal": "Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion",
-      "url": "https://www.theverge.com/tech/1022295/joshua-kushner-thrive-holdings-adt-acquisition",
-      "lang": "en",
-      "publishedAt": "2026-10-29T16:07:23.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Joshua Kushner의 Thrive Holdings가 ADT를 76억 달러 ($) 에 인수합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9918",
-      "titleOriginal": "Microsoft’s AI future has fewer jobs",
-      "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-      "lang": "en",
-      "publishedAt": "2026-10-29T16:07:22.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Microsoft의 AI 미래는 일자리가 적습니다",
       "translated": true
     }
   ]
