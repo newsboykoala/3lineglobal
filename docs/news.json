@@ -1,8 +1,272 @@
 {
-  "updatedAt": "2026-10-31T15:05:35.346Z",
+  "updatedAt": "2026-10-31T19:27:23.087Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:92115",
+      "titleOriginal": "Dogs May Smell a Complete Stranger's Seizure Without Ever Being Trained, Study Finds",
+      "url": "https://www.sciencealert.com/dogs-may-smell-a-complete-strangers-seizure-without-ever-being-trained-study-finds",
+      "lang": "en",
+      "publishedAt": "2026-10-31T19:20:09.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "개는 훈련을 받지 않고도 완전히 낯선 사람의 발작 냄새를 맡을 수 있습니다, 연구 결과",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78778",
+      "titleOriginal": "US Embassy Warns of Mass Casualty Threat at Moscow’s Tsaritsyno Museum",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-embassy-warns-of-mass-casualty-threat-at-moscow-museum",
+      "lang": "en",
+      "publishedAt": "2026-10-31T19:04:19.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국 대사관, 모스크바 차리치노 박물관에서 대규모 사상자 위협 경고",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78777",
+      "titleOriginal": "Russia Expands Practice of Rounding Up Men on Streets to Send Them to War",
+      "url": "https://militarnyi.com/en/news/russia-rounding-up-men-on-streets-to-war/",
+      "lang": "en",
+      "publishedAt": "2026-10-31T18:49:11.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아, 거리에서 남성들을 반올림하여 전쟁에 투입하는 관행 확대",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9961",
+      "titleOriginal": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+      "lang": "en",
+      "publishedAt": "2026-10-31T18:48:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "바이낸스 CEO는 도난당한 자산의 90% 가 ‘보충‘ 되었다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15671",
+      "titleOriginal": "Police fired tear gas and charged protesters at the close of a march along the eastern edge of Paris on October 31 to disperse the crowd. Tensions also flared in Lyon and Marseille. Turnout at the protests stood at 320,000 nationwide, the i",
+      "url": "https://t.me/trtworld/15671",
+      "lang": "en",
+      "publishedAt": "2026-10-31T18:42:10.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "경찰은 군중을 해산시키기 위해 10월 31일 파리 동쪽 가장자리를 따라 행진이 끝나자 최루탄을 발사하고 시위대를 기소했다. 리옹과 마르세유에도 긴장감이 감돌았다. 시위에 대한 투표율은 전국적으로 32만 명에 달했다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19953",
+      "titleOriginal": "Several Russian regions are under Ukrainian drone attack right now.",
+      "url": "https://t.me/wartranslated/19953",
+      "lang": "en",
+      "publishedAt": "2026-10-31T18:15:14.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "현재 몇몇 러시아 지역이 우크라이나 드론 공격을 받고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78776",
+      "titleOriginal": "Oleshky residents reach Ukrainian-controlled territory after escaping Russian occupation",
+      "url": "https://kyivindependent.com/oleshky-residents-reach-ukrainian-controlled-territory-after-escaping-russian-occupation/",
+      "lang": "en",
+      "publishedAt": "2026-10-31T18:14:29.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "Oleshky 주민들은 러시아 점령에서 탈출 한 후 우크라이나가 통제하는 영토에 도달합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19952",
+      "titleOriginal": "A U.S. embassy warning says there's a credible threat of a mass casualty event today, October 31, at Moscow's Tsaritsyno museum reserve, and Russian media already found a \"Kyiv trace\" within minutes of the news breaking.",
+      "url": "https://t.me/wartranslated/19952",
+      "lang": "en",
+      "publishedAt": "2026-10-31T17:59:09.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "미국 대사관의 경고에 따르면 오늘 10 월 31 일 모스크바의 Tsaritsyno 박물관 보호구역에서 대규모 사상자 발생의 신뢰할 수있는 위협이 있으며 러시아 언론은 뉴스가 보도 된 지 몇 분 만에 이미 \"키예프의 흔적\" 을 발견했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9960",
+      "titleOriginal": "Happy Pikmin Day Eve",
+      "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+      "lang": "en",
+      "publishedAt": "2026-10-31T17:58:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "해피 픽민 데이 이브",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19951",
+      "titleOriginal": "Trump claims the U.S. is getting close to a deal to end the war in Ukraine, while also insisting he hasn't made statements like that before.",
+      "url": "https://t.me/wartranslated/19951",
+      "lang": "en",
+      "publishedAt": "2026-10-31T17:24:37.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "트럼프 대통령은 미국이 우크라이나 전쟁을 끝내기 위한 협상에 가까워지고 있다고 주장하면서도 이전에는 그런 발언을 하지 않았다고 주장했다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19948",
+      "titleOriginal": "Ukraine struck the Novokuybyshevsk oil refinery in Samara region, with at least six separate fire outbreaks reported, pointing to extensive damage. The footage looks like something out of an apocalyptic movie.",
+      "url": "https://t.me/wartranslated/19948",
+      "lang": "en",
+      "publishedAt": "2026-10-31T17:21:12.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나는 사마라 지역의 노보쿠이비셰프스크 정유소를 강타했으며, 최소 6건의 화재 발생이 보고되어 광범위한 피해를 입었다. 이 영상은 묵시록 영화에서 나온 것처럼 보입니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19947",
+      "titleOriginal": "Zelensky says he and Erdogan agreed today on cooperation around the Black Sea grain corridor.",
+      "url": "https://t.me/wartranslated/19947",
+      "lang": "en",
+      "publishedAt": "2026-10-31T17:00:14.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "Zelensky는 자신과 Erdogan이 오늘 흑해 곡물 통로 주변의 협력에 동의했다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78775",
+      "titleOriginal": "Ukraine calls for emergency UN Security Council meeting over deadly Russian attacks on Dnipro, Chernihiv, Kremenchuk",
+      "url": "https://kyivindependent.com/ukraine-calls-for-emergency-un-security-council-meeting-over-deadly-russian-attacks-on-dnipro-chernihiv-kremenchuk/",
+      "lang": "en",
+      "publishedAt": "2026-10-31T16:54:21.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나, 드니프로, 체르니히우, 크레멘추크에 대한 러시아의 치명적인 공격에 대한 유엔 안전보장이사회 긴급 회의 요청",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19946",
+      "titleOriginal": "Rubio: \"Trump hasn't ruled out inviting Zelensky to December's G20 summit in the U.S. and will decide later.\" He adds Trump thinks it's important for Russia to be part of G20 talks.",
+      "url": "https://t.me/wartranslated/19946",
+      "lang": "en",
+      "publishedAt": "2026-10-31T16:52:50.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "루비오: \"트럼프 대통령은 젤렌스키를 12월 미국 주요 20개국 (G20) 정상회의에 초청하는 것을 배제하지 않았으며 나중에 결정할 것이다. 그는\" 트럼프는 러시아가 G20 회담에 참여하는 것이 중요하다고 생각한다 \"고 덧붙였다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19945",
+      "titleOriginal": "DTEK Energo says Russia struck its coal mining facilities today, injuring three workers and causing serious damage to the sites' technical structures.",
+      "url": "https://t.me/wartranslated/19945",
+      "lang": "en",
+      "publishedAt": "2026-10-31T16:47:53.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "DTEK Energo는 러시아가 오늘 석탄 채굴 시설을 강타하여 3명의 근로자가 부상을 입었고 현장 기술 구조에 심각한 피해를 입혔다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19944",
+      "titleOriginal": "Zelensky landed in Istanbul for talks with Erdogan on security, bilateral partnership, diplomatic prospects and Black Sea shipping, and he's also set to meet Ecumenical Patriarch Bartholomew while there.",
+      "url": "https://t.me/wartranslated/19944",
+      "lang": "en",
+      "publishedAt": "2026-10-31T16:45:09.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "젤렌스키는 안보, 양국간 파트너십, 외교 전망, 흑해 해운에 관한 에르도안과의 회담을 위해 이스탄불에 상륙했으며, 그곳에서 바르톨로메오스 세계 총대주교도 만날 예정입니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19943",
+      "titleOriginal": "Fire Point co-founder Denis Stillerman says the FP-7 ballistic missile works in combat but makes no economic sense, costing $600,000 to deliver 200 kg over 300 km versus just $50,000 for the FP-2 with the same payload.",
+      "url": "https://t.me/wartranslated/19943",
+      "lang": "en",
+      "publishedAt": "2026-10-31T16:37:16.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "파이어 포인트의 공동 설립자 데니스 스틸만 (Denis Stillerman) 은 FP-7 탄도 미사일은 전투에서 작동하지만 경제적 의미가 없으며, 300km 이상 200kg을 전달하는 데 $ 600,000의 비용이 소요되는 반면 동일한 탑재 하중을 가진 FP-2의 경우 $ 50,000에",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19942",
+      "titleOriginal": "Oko Gora's October data shows Russia launched 5833 Geran and Gerbera type drones, with 4912 shot down and 921 reaching their targets, an 84 to 16 split, daily launches averaging 188 (down 10%), and jet powered drones making up 2314 of the t",
+      "url": "https://t.me/wartranslated/19942",
+      "lang": "en",
+      "publishedAt": "2026-10-31T16:34:47.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "Oko Gora의 10 월 데이터에 따르면 러시아는 5833 개의 Geran 및 Gerbera 유형 드론을 발사했으며 4912 개의 격추와 921 개의 목표물 도달, 84 ~ 16 개의 분할, 일일 평균 188 개의 발사 (10% 감소) 및 2314 개의 제트 동력 드론을 발사했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9959",
+      "titleOriginal": "I built an AI Tamagotchi before Meta could",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "lang": "en",
+      "publishedAt": "2026-10-31T16:08:02.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "메타가 나오기 전에 인공지능 다마고치를 만들었어요",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78774",
+      "titleOriginal": "Russia’s Warplanes Are Burning, Crashing, and Disappearing—13 Lost in Five Weeks",
+      "url": "https://united24media.com/war-in-ukraine/russias-warplanes-are-burning-crashing-and-disappearing-13-lost-in-five-weeks-23978",
+      "lang": "en",
+      "publishedAt": "2026-10-31T15:34:34.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아의 전투기가 5주 만에 불타고, 충돌하고, 사라지고 있습니다 -13 손실",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78773",
+      "titleOriginal": "Finland launches criminal investigation into Google’s clearing of forest for datacentre site",
+      "url": "https://www.theguardian.com/world/2026/oct/29/finland-criminal-investigation-google-clearing-forest-datacentre",
+      "lang": "en",
+      "publishedAt": "2026-10-31T15:19:30.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "핀란드, 데이터 센터 사이트에 대한 Google의 포리스트 삭제에 대한 범죄 수사 착수",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9958",
+      "titleOriginal": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+      "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+      "lang": "en",
+      "publishedAt": "2026-10-31T15:12:57.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Windows 11은 Xbox 게임 모드 및 검색에 대한 새로운 바로 가기를 시도합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9957",
+      "titleOriginal": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "url": "https://telegra.ph/Best-Buy-is-bundling-a-100-gift-card-with-touchscreen-MacBo-10-31-2",
+      "lang": "en",
+      "publishedAt": "2026-10-31T15:08:04.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Best Buy는 터치스크린 MacBook Pro 사전 주문과 함께 $ 100 기프트 카드를 번들로 제공합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9956",
+      "titleOriginal": "Vic Mensa can’t live without the Voice Memos app",
+      "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+      "lang": "en",
+      "publishedAt": "2026-10-31T15:08:03.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Vic Mensa는 음성 메모 앱 없이는 살 수 없습니다",
+      "translated": true
+    },
     {
       "id": "worldnews:78772",
       "titleOriginal": "Ukrainian arms manufacturer Fire Point claims to have overcome Starlink restrictions for long-range strikes",
@@ -45,17 +309,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "미국 언론인 알렉스 살비 (Alex Salvi) 는 올레쉬키 (Oleshky) 를 일시적으로 점령한 사람들을 태운 버스 11대가 우크라이나로 향했고, 우크라이나인과 함께 러시아로 간 버스 4대가 전체 대피 등록자 약 750명 중 러시아로 갔다고 보도했다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19938",
-      "titleOriginal": "Trump claims the U.S. is getting close to a deal to end the war in Ukraine, while also insisting he hasn't made statements like that before.",
-      "url": "https://t.me/wartranslated/19938",
-      "lang": "en",
-      "publishedAt": "2026-10-31T14:13:13.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "트럼프 대통령은 미국이 우크라이나 전쟁을 끝내기 위한 협상에 가까워지고 있다고 주장하면서도 이전에는 그런 발언을 하지 않았다고 주장했다",
       "translated": true
     },
     {
@@ -144,17 +397,6 @@
       "source": "ScienceAlert",
       "region": "과학",
       "title": "Interstellar Visitor 3I/Atlas는 더 이상해졌으며 100억 년 된 재료를 포함 할 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19934",
-      "titleOriginal": "Zelensky landed in Istanbul for talks with Erdogan on security, bilateral partnership, diplomatic prospects and Black Sea shipping, and he's also set to meet Ecumenical Patriarch Bartholomew while there.",
-      "url": "https://t.me/wartranslated/19934",
-      "lang": "en",
-      "publishedAt": "2026-10-31T12:18:19.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키는 안보, 양국간 파트너십, 외교 전망, 흑해 해운에 관한 에르도안과의 회담을 위해 이스탄불에 상륙했으며, 그곳에서 바르톨로메오스 세계 총대주교도 만날 예정입니다",
       "translated": true
     },
     {
@@ -1071,17 +1313,6 @@
       "translated": true
     },
     {
-      "id": "wartranslated:19896",
-      "titleOriginal": "Ukraine struck the Novokuybyshevsk oil refinery in Samara region, with at least six separate fire outbreaks reported, pointing to extensive damage. The footage looks like something out of an apocalyptic movie.",
-      "url": "https://t.me/wartranslated/19896",
-      "lang": "en",
-      "publishedAt": "2026-10-30T12:54:36.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나는 사마라 지역의 노보쿠이비셰프스크 정유소를 강타했으며, 최소 6건의 화재 발생이 보고되어 광범위한 피해를 입었다. 이 영상은 묵시록 영화에서 나온 것처럼 보입니다",
-      "translated": true
-    },
-    {
       "id": "worldnews:78748",
       "titleOriginal": "Pentagon urges Baltic states to tone down rhetoric on Russia – media",
       "url": "https://www.lrt.lt/en/news-in-english/19/3098101/pentagon-urges-baltic-states-to-tone-down-rhetoric-on-russia-media?srsltid=AYCX9vJDiYqiFJwzOyYFh0bVUBiob_UyxkYFR7WKGa75l5Ao02FsUR-g",
@@ -1420,237 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "네타냐후는 과반수를 잃은 후 선거 결과를 위임하려고 한다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78737",
-      "titleOriginal": "Netanyahu's party claims Israeli election 'stolen' as results show him losing majority",
-      "url": "https://www.pbs.org/newshour/amp/world/netanyahus-party-claims-israeli-election-stolen-as-results-show-him-losing-majority",
-      "lang": "en",
-      "publishedAt": "2026-10-30T03:04:17.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "네타냐후의 당은 이스라엘 선거가 '도난' 당했다고 주장합니다. 결과적으로 그는 과반수를 잃었습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92100",
-      "titleOriginal": "Your Car's Biggest Security Weakness Could Be Somewhere Unexpected",
-      "url": "https://www.sciencealert.com/your-cars-biggest-security-weakness-could-be-somewhere-unexpected",
-      "lang": "en",
-      "publishedAt": "2026-10-30T02:42:32.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "차량의 가장 큰 보안 취약점은 예상치 못한 곳에 있을 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78736",
-      "titleOriginal": "Over 600 drones targeted Moscow and surrounding area",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060184/",
-      "lang": "en",
-      "publishedAt": "2026-10-30T01:39:24.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "모스크바와 주변 지역을 겨냥한 600대 이상의 드론",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92099",
-      "titleOriginal": "Cold Triggers a Hidden Molecular Pathway That Extends Lifespan, Study Finds",
-      "url": "https://www.sciencealert.com/cold-triggers-a-hidden-molecular-pathway-that-extends-lifespan-study-finds",
-      "lang": "en",
-      "publishedAt": "2026-10-30T01:32:29.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "Cold Triggers a Hidden Molecular Pathway that Extends Lifespan, Study Finds",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9932",
-      "titleOriginal": "The director of Obsession put a new horror short on YouTube",
-      "url": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
-      "lang": "en",
-      "publishedAt": "2026-10-29T23:57:45.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "강박 관념의 감독은 YouTube에 새로운 공포를 짧게 넣었습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9931",
-      "titleOriginal": "Intel says it’s selling every affordable laptop chip it can make",
-      "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
-      "lang": "en",
-      "publishedAt": "2026-10-29T23:48:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "인텔은 제조할 수 있는 모든 저렴한 노트북 칩을 판매하고 있다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21990",
-      "titleOriginal": "JUST IN - Alaska Gov. Mike Dunleavy says the state may not certify the Senate race if Democrat Mary Peltola wins: \"We’re going to investigate it. We’re going to follow the law.\"",
-      "url": "https://www.disclose.tv/id/oucvn6puxd/",
-      "lang": "en",
-      "publishedAt": "2026-10-29T23:40:19.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "JUST IN - 알래스카 주지사 마이크 던리비 (Mike Dunleavy) 는 민주당의 메리 펠톨라 (Mary Peltola) 가 승리하면 주정부가 상원 경선을 인증하지 않을 수 있다고 말합니다. \"우리는 그것을 조사할 것입니다. 우리는 법을 따를 것입니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78735",
-      "titleOriginal": "Seven Russian tankers shipping diesel to US identified, located",
-      "url": "https://kyivindependent.com/seven-russian-tankers-shipping-diesel-to-us-identified-located-media-reports/",
-      "lang": "en",
-      "publishedAt": "2026-10-29T23:34:04.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "디젤을 미국으로 운송하는 러시아 유조선 7척 확인, 위치",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45599",
-      "titleOriginal": "BREAKING 🚨 Bitcoin price fell sharply after several sources reported a major hack of the cryptocurrency platform Binance",
-      "url": "https://insiderpaper.com/bitcoin-prices-slide-on-reports-of-major-hack-of-binance/",
-      "lang": "en",
-      "publishedAt": "2026-10-29T23:00:12.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "여러 출처에서 암호화폐 플랫폼 바이낸스의 주요 해킹을 보고한 후 🚨 비트코인 가격이 급격히 하락했습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78734",
-      "titleOriginal": "Putin Claims Readiness for European War While Claiming It Seeks Avoidance",
-      "url": "https://united24media.com/war-in-ukraine/putin-claims-readiness-for-european-war-while-claiming-it-seeks-avoidance-23933",
-      "lang": "en",
-      "publishedAt": "2026-10-29T22:44:24.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "푸틴은 유럽 전쟁에 대한 준비태세를 주장하면서 회피를 모색한다고 주장한다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92098",
-      "titleOriginal": "Remember When Scientists Invented a Robot Tail to Improve Our Human Balance?",
-      "url": "https://www.sciencealert.com/remember-when-scientists-invented-a-robot-tail-to-improve-our-human-balance",
-      "lang": "en",
-      "publishedAt": "2026-10-29T22:37:58.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "과학자들이 인간의 균형을 개선하기 위해 로봇 꼬리를 발명했을 때를 기억하십니까?",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45598",
-      "titleOriginal": "BREAKING 🚨 BINANCE HAS BEEN HACKED",
-      "url": "https://t.me/insiderpaper/45598",
-      "lang": "en",
-      "publishedAt": "2026-10-29T22:37:27.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "BREAKING 🚨 Binance가 해킹당했습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9930",
-      "titleOriginal": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-      "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
-      "lang": "en",
-      "publishedAt": "2026-10-29T22:22:32.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Reddit의 CEO는 Google의 AI 모드가 ‘트래픽을 유도하지 않는다‘ 고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78733",
-      "titleOriginal": "Google owner Alphabet suffers worst-ever day as value plunges $500bn",
-      "url": "https://news.sky.com/share/13605428",
-      "lang": "en",
-      "publishedAt": "2026-10-29T21:24:30.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "Google 소유자 알파벳은 가치가 $ 500bn 급락함에 따라 매일 최악의 고통을 겪습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78732",
-      "titleOriginal": "Zelenskiy: \"We have information from intelligence about ⁠preparations by the Russians of new ​ballistic missile strikes and we need the means to ​be able to counter them\"",
-      "url": "https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-we-have-intelligence-new-russian-ballistic-missile-strikes-2026-10-29/",
-      "lang": "en",
-      "publishedAt": "2026-10-29T21:24:29.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "젤렌스키: \"우리는 러시아의 새로운 탄도 미사일 공격 준비에 대한 정보를 가지고 있으며, 이에 대응할 수 있는 수단이 필요합니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21989",
-      "titleOriginal": "NOW - Crowd goes bananas for Kamala at NAACP event in Atlanta, while stumping for Jon Ossoff.",
-      "url": "https://t.me/disclosetv/21989",
-      "lang": "en",
-      "publishedAt": "2026-10-29T21:20:46.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "지금 - 애틀랜타에서 열리는 NAACP 행사에서 군중은 카말라를 위해 바나나를 먹으며 존 오소프를 찾습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19868",
-      "titleOriginal": "Claimed to be a strike on a concentration of Russian assault troops in a multi-story building in the occupied territories.",
-      "url": "http://patreon.com/c/WarTranslated",
-      "lang": "en",
-      "publishedAt": "2026-10-29T21:16:00.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "점령지에 있는 복층 건물에 러시아 공격 부대가 집중되어 있는 것을 공격했다고 주장함",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12485",
-      "titleOriginal": "Saudi Civil Defence reports that debris fell in Riyadh following the interception of two ballistic missiles. https://yemen.liveuamap.com/en/2026/29-october-20-saudi-civil-defence-shrapnel-falls-after-interception",
-      "url": "https://yemen.liveuamap.com/en/2026/29-october-20-saudi-civil-defence-shrapnel-falls-after-interception",
-      "lang": "en",
-      "publishedAt": "2026-10-29T21:05:03.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "사우디 민방위는 두 발의 탄도미사일을 요격한 후 리야드에 잔해가 떨어졌다고 보고했다. https://yemen.liveuamap.com/en/2026/29-october-20-saudi-civil-defence-shrapnel-falls-after-interception",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78731",
-      "titleOriginal": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
-      "url": "https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace",
-      "lang": "en",
-      "publishedAt": "2026-10-29T20:59:29.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "트럼프는 브라질 대선에서 ‘편을 들지 않겠다’ 고 말하지만, 이를 ‘수치‘ 라고 부른다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12484",
-      "titleOriginal": "Iran's Tasnim News Agency reports that the IRGC Aerospace Force confronted a hostile fighter jet near Qeshm Island in southern Iran, forcing it to leave the area https://iran.liveuamap.com/en/2026/29-october-20-irans-tasnim-news-agency-repo",
-      "url": "https://iran.liveuamap.com/en/2026/29-october-20-irans-tasnim-news-agency-reports-that-the-irgc",
-      "lang": "en",
-      "publishedAt": "2026-10-29T20:55:07.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "이란의 타스님 통신사 (Tasnim News Agency) 는 IRGC 항공우주군이 이란 남부 Qeshm 섬 근처에서 적 전투기와 대면하여 강제로 이 지역을 떠났다고 보도했다. https://iran.liveuamap.com/en/2026/29-october-20-irans-tasnim",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78730",
-      "titleOriginal": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
-      "url": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
-      "lang": "en",
-      "publishedAt": "2026-10-29T20:39:25.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "볼소나로가 브라질을 탈출하여 미국에 입국하는 것을 도운 트럼프와 그의 보좌관들",
       "translated": true
     }
   ]
