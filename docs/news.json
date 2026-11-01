@@ -1,8 +1,96 @@
 {
-  "updatedAt": "2026-11-01T20:14:14.337Z",
+  "updatedAt": "2026-11-01T23:46:22.027Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78802",
+      "titleOriginal": "Two oil tankers explode after hitting mine in Hormuz Strait, IRGC spokesperson says",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-913514",
+      "lang": "en",
+      "publishedAt": "2026-11-01T22:09:25.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "IRGC 대변인은 호르무즈 해협의 광산을 타격한 후 두 개의 유조선이 폭발했다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78801",
+      "titleOriginal": "Ukraine's air raid alert system hacked, Air Force says as false nuclear, chemical warnings sound",
+      "url": "https://kyivindependent.com/ukraines-air-raid-alert-system-hacked-air-force-says-as-false-nuclear-chemical-warnings-sound/",
+      "lang": "en",
+      "publishedAt": "2026-11-01T21:59:38.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나의 공습 경보 시스템 해킹, 공군은 거짓 핵, 화학 경고 소리로 말한다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9971",
+      "titleOriginal": "NASA hopes the commercial space industry can help save Hubble",
+      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "lang": "en",
+      "publishedAt": "2026-11-01T21:13:42.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "NASA는 상업용 우주 산업이 허블을 구하는 데 도움이 될 수 있기를 희망합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92123",
+      "titleOriginal": "Humans in The Andes Seem to Have Evolved an Unusual Genetic Ability",
+      "url": "https://www.sciencealert.com/humans-in-the-andes-seem-to-have-evolved-an-unusual-genetic-ability",
+      "lang": "en",
+      "publishedAt": "2026-11-01T21:10:57.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "안데스 산맥의 인간들은 특이한 유전적 능력을 진화시킨 것으로 보인다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20002",
+      "titleOriginal": "Reportedly, Russians hacked several air raid alert apps and sent users fake nuclear and chemical attack warnings.",
+      "url": "https://t.me/wartranslated/20002",
+      "lang": "en",
+      "publishedAt": "2026-11-01T20:56:31.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "보도에 따르면 러시아는 여러 공습 경보 앱을 해킹하고 사용자에게 가짜 핵 및 화학 공격 경고를 보냈다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15678",
+      "titleOriginal": "At least eight Palestinians, including a child, were killed and others wounded in new Israeli attacks across Gaza on November 1. Five were killed in an airstrike in al-Mawasi, west of Khan Younis, and three, including a child, in a strike o",
+      "url": "https://t.me/trtworld/15678",
+      "lang": "en",
+      "publishedAt": "2026-11-01T20:46:38.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "11월 1일 가자지구 전역에서 이스라엘군의 새로운 공격으로 어린이 한 명을 포함한 팔레스타인인 최소 8명이 사망하고 다른 사람들이 부상을 입었다. 칸 유니스 (Khan Younis) 서쪽 알 마와시 (Al-Mawasi) 에서 공습으로 5명이 사망했고, 어린이 1명을 포함한 3명이 공습으",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20001",
+      "titleOriginal": "Solovyov claims the Ukrainian Armed Forces could seize territory of Hungary, Poland, Romania and Moldova, and says NATO \"won't be able\" to stop them at all, they'd just sweep NATO away.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-11-01T20:28:23.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "솔로비요프는 우크라이나군이 헝가리, 폴란드, 루마니아, 몰도바의 영토를 점령할 수 있다고 주장하며, 나토가 그들을 전혀 막을 수 없을 것이라고 말한다. 그들은 단지 나토를 쓸어버릴 뿐이다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20000",
+      "titleOriginal": "An approximate map shows where Shaheds flew over the past two days.",
+      "url": "https://t.me/wartranslated/20000",
+      "lang": "en",
+      "publishedAt": "2026-11-01T20:15:48.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "대략적인 지도는 지난 이틀 동안 샤헤즈가 어디로 날아갔는지 보여줍니다",
+      "translated": true
+    },
     {
       "id": "theverge_news:9970",
       "titleOriginal": "Flock keeps ignoring requests to cancel its contracts",
@@ -1563,94 +1651,6 @@
       "source": "Insider Paper",
       "region": "속보",
       "title": "$ 63억 기록 Binance Crypto Heist: North Korean Hackers Suspected",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9953",
-      "titleOriginal": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "lang": "en",
-      "publishedAt": "2026-10-30T22:42:27.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "드디어 iOS 27.3을 탑재한 Apple Intelligence가 중국에 출시됩니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:21998",
-      "titleOriginal": "NEW - French lawmakers adopt a new tax of 5.5 cents per gigabyte, on large streaming platforms and social networks, for data sent to French Internet users. The proposal awaits final approval in the 2027 budget bill.",
-      "url": "https://www.disclose.tv/id/g5jxduw9x9/",
-      "lang": "en",
-      "publishedAt": "2026-10-30T22:39:29.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "새로운 소식 - 프랑스 국회의원들은 프랑스 인터넷 사용자에게 전송되는 데이터에 대해 대형 스트리밍 플랫폼 및 소셜 네트워크에서 기가바이트당 5.5센트의 새로운 세금을 부과합니다. 이 제안은 2027년 예산 법안의 최종 승인을 기다리고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78759",
-      "titleOriginal": "US approves potential $2.1 billion sale of scarce Patriot missiles to Ukraine",
-      "url": "https://www.cnn.com/2026/10/30/politics/us-approves-potential-patriot-missile-sale-ukraine?Date=20261030&amp;Profile=CNN&amp;utm_content=1793393559&amp;utm_medium=social&amp;utm_source=twitter",
-      "lang": "en",
-      "publishedAt": "2026-10-30T22:19:35.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "미국, 우크라이나에 21억 달러 규모의 희소 패트리어트 미사일 판매 가능성 승인 ($ 21 billion sale of scarce Patriot missiles to Ukraine)",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19910",
-      "titleOriginal": "Poland’s opposition has accused the government of attempting a coup over a conflict at the Constitutional Tribunal. The move to remove court head Bogdan Swieczkowski ended with police surrounding the building in Warsaw and removing its guar",
-      "url": "http://patreon.com/c/WarTranslated",
-      "lang": "en",
-      "publishedAt": "2026-10-30T21:17:47.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "폴란드의 야당은 정부가 헌법재판소에서 발생한 분쟁에 대해 쿠데타를 시도했다고 비난했습니다. 법원장 보그단 스위츠코프스키를 제거하려는 움직임은 경찰이 바르샤바의 건물을 둘러싸고 구아를 제거하는 것으로 끝났습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19909",
-      "titleOriginal": "Trump claims, \"idiots pushed him to sanction Russia while he was negotiating someone's release, and freed Kremlin prisoner Habbard backed him up,\" saying \"the Russians laugh at these sanctions,\" and adding that everyone would've laughed har",
-      "url": "https://t.me/wartranslated/19909",
-      "lang": "en",
-      "publishedAt": "2026-10-30T21:11:35.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "트럼프는 \"바보들은 그가 누군가의 석방을 협상하는 동안 러시아를 제재하도록 밀어붙였고, 크렘린 포로 해버드는 그를 석방했다\" 며 \"러시아인들은 이러한 제재를 비웃는다\" 고 말하며 모두가 하르를 비웃었을 것이라고 덧붙였다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9952",
-      "titleOriginal": "Exclusive details about Akai’s MPC Sample Key",
-      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
-      "lang": "en",
-      "publishedAt": "2026-10-30T21:08:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Akai의 MPC 샘플 키에 대한 독점 정보",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9951",
-      "titleOriginal": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "lang": "en",
-      "publishedAt": "2026-10-30T20:57:13.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Sam Altman은 RAM이 책상 위에 있는 것보다 데이터 센터에 있는 것이 더 낫다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15667",
-      "titleOriginal": "Protesters took to the streets across Italy during a nationwide strike, demanding higher wages and improved public services while opposing rising living costs and increased military spending.",
-      "url": "https://t.me/trtworld/15667",
-      "lang": "en",
-      "publishedAt": "2026-10-30T20:46:00.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "시위대는 전국적인 파업 기간 동안 이탈리아 전역의 거리로 나가 생활비 상승과 군비 지출 증가에 반대하면서 더 높은 임금과 공공 서비스 개선을 요구했다",
       "translated": true
     }
   ]
