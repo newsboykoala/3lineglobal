@@ -1,8 +1,129 @@
 {
-  "updatedAt": "2026-11-01T01:53:36.142Z",
+  "updatedAt": "2026-11-01T08:47:06.236Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "wartranslated:19965",
+      "titleOriginal": "Ukrainian drones hit the Kstovo oil refinery in Nizhny Novgorod region overnight, sparking a fire at the plant.",
+      "url": "https://t.me/wartranslated/19965",
+      "lang": "en",
+      "publishedAt": "2026-11-01T08:38:02.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나 드론이 니즈니노브고로드 (Nizhny Novgorod) 지역의 크스토보 (Kstovo) 정유소를 하룻밤 사이에 덮쳐 공장에서 화재가 발생했습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19964",
+      "titleOriginal": "Madyar says October was a record month for Russian losses, with Unmanned Systems Forces units hitting a target every 41 seconds on average and a Russian occupier every 159 seconds.",
+      "url": "https://t.me/wartranslated/19964",
+      "lang": "en",
+      "publishedAt": "2026-11-01T08:33:44.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "마드야르는 10월이 러시아의 손실을 기록한 달이라고 말하며, 무인 시스템 부대는 평균 41초마다 목표를 달성하고 러시아 점령자는 159초마다 목표를 달성합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19963",
+      "titleOriginal": "Z-blogger Golman, reacting to the overnight strikes on refineries, says enough lying and enough good reports, because not everything is as rosy as the fairy tales he's being told.",
+      "url": "https://t.me/wartranslated/19963",
+      "lang": "en",
+      "publishedAt": "2026-11-01T08:31:52.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "정유 공장의 하룻밤 파업에 반응하는 Z-블로거 골만은 충분한 거짓말과 충분한 좋은 보고서를 말합니다. 왜냐하면 모든 것이 그가 말하고 있는 동화만큼 장밋빛인 것은 아니기 때문입니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19960",
+      "titleOriginal": "Nothing is scarier for Russian occupiers on Halloween night than the FPV drones of Ukrainian border guards, and yesterday flying pumpkins attacked them.",
+      "url": "https://t.me/wartranslated/19960",
+      "lang": "en",
+      "publishedAt": "2026-11-01T08:10:05.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "할로윈 밤에 러시아 점령자들에게 우크라이나 국경 경비대의 FPV 드론보다 무서운 것은 없으며 어제 호박이 그들을 공격했습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:19959",
+      "titleOriginal": "Poland's opposition wants to launch a no-confidence vote against Tusk's government over the Constitutional Tribunal standoff. Former PM Mateusz Morawiecki proposes a technical government led by former Sejm speaker Jurek, which would run the",
+      "url": "https://t.me/wartranslated/19959",
+      "lang": "en",
+      "publishedAt": "2026-11-01T07:53:54.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "폴란드의 야당은 헌법 재판소 교착 상태에 대한 투스크 정부에 대한 자신감 없는 투표를 시작하기를 원한다. 전 PM Mateusz Morawiecki는 Jurek 전 Sejm 연사가 이끄는 기술 정부를 제안합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78787",
+      "titleOriginal": "Support for Kyiv costs me politically but I won't change stance - Meloni",
+      "url": "https://www.ansa.it/english/news/politics/2026/10/30/support-for-kyiv-costs-me-politically-but-i-wont-change-stance-meloni_451b8d38-e29f-46cf-a5dc-49ec538ed363.html",
+      "lang": "en",
+      "publishedAt": "2026-11-01T07:29:17.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "키예프에 대한 지원은 정치적으로 비용이 들지만 입장을 바꾸지 않겠습니다 - 멜로니",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15672",
+      "titleOriginal": "Follow our Daily News Brief for Sunday, November 1st",
+      "url": "https://trt.world/cvxv",
+      "lang": "en",
+      "publishedAt": "2026-11-01T06:21:34.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "11월 1일 일요일 데일리 뉴스 브리프를 팔로우하세요",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78786",
+      "titleOriginal": "Russia: Fire at Refinery Attacked in Nizhny Novgorod, About 250 Miles East of Moscow",
+      "url": "https://www.ynetnews.com/article/9y881d9f1",
+      "lang": "en",
+      "publishedAt": "2026-11-01T04:59:49.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아: 모스크바에서 동쪽으로 약 250마일 떨어진 니즈니노브고로드의 정제소에서 화재 발생",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78785",
+      "titleOriginal": "Former Mossad agent assisted Flavio Bolsonaro's escape from Brazil via Argentina",
+      "url": "https://www.jpost.com/international/article-913423",
+      "lang": "en",
+      "publishedAt": "2026-11-01T04:39:11.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "전 모사드 요원이 플라비오 보우소나루가 아르헨티나를 통해 브라질에서 탈출하는 것을 도왔습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78783",
+      "titleOriginal": "Russia’s Baltic Exclave Goes Dark as Major Power Plant Failure Triggers Widespread Blackout",
+      "url": "https://united24media.com/war-in-ukraine/russias-baltic-exclave-goes-dark-as-major-power-plant-failure-triggers-widespread-blackout-23974",
+      "lang": "en",
+      "publishedAt": "2026-11-01T02:44:36.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "주요 발전소 고장이 광범위한 정전 사태를 촉발함에 따라 러시아의 발트해 고립은 어두워집니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92118",
+      "titleOriginal": "We'd Be Entering an Ice Age Right Now if Climate Change Hadn't Terminated It, Study Suggests",
+      "url": "https://www.sciencealert.com/wed-be-entering-an-ice-age-right-now-if-climate-change-hadnt-terminated-it-study-suggests",
+      "lang": "en",
+      "publishedAt": "2026-11-01T02:38:44.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "기후 변화가 종결되지 않았다면 우리는 지금 빙하기에 접어들고 있을 것입니다. 연구 제안",
+      "translated": true
+    },
     {
       "id": "worldnews:78782",
       "titleOriginal": "Rioters loot stores in Frankfurt as Gen Z-led protests in Germany turn violent",
@@ -1530,127 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "터치스크린 MacBook Pro는 터치스크린이 장착된 MacBook Pro일 뿐입니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78746",
-      "titleOriginal": "Netanyahu claims Israeli election ‘stolen’ by Arab-led parties as he loses majority",
-      "url": "https://www.ctvnews.ca/world/article/israelis-await-final-election-results-as-claim-of-foreign-interference-emerges/",
-      "lang": "en",
-      "publishedAt": "2026-10-30T11:54:06.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "네타냐후는 과반수를 잃으면서 아랍 주도의 정당들에 의해 이스라엘 선거가 ‘도난당했다’ 고 주장한다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9935",
-      "titleOriginal": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
-      "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
-      "lang": "en",
-      "publishedAt": "2026-10-30T11:52:43.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "바이낸스 해커가 기록적인 암호화폐 절도 사건으로 $ 63억을 훔쳤습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19893",
-      "titleOriginal": "Ukraine expects 527 people from Oleshky back, Prime Minister Koretskyi says, with medical screening of those crossing wrapping up by 2pm today before health officials get briefed to prepare their arrival.",
-      "url": "https://t.me/wartranslated/19893",
-      "lang": "en",
-      "publishedAt": "2026-10-30T11:50:37.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "코레츠키 총리는 우크라이나가 올레쉬키에서 돌아온 527명을 예상하고 있으며, 오늘 오후 2시까지 교차로에 대한 의료 검진이 끝나고 보건 당국이 도착 준비를 위한 브리핑을 받을 것이라고 말했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19892",
-      "titleOriginal": "Ushakov claims the Kremlin has heard Zelensky's remarks about being ready to discuss the territorial issue.",
-      "url": "https://t.me/wartranslated/19892",
-      "lang": "en",
-      "publishedAt": "2026-10-30T11:28:30.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우샤코프는 크렘린이 영토 문제를 논의할 준비가 되었다는 젤렌스키의 발언을 들었다고 주장합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19891",
-      "titleOriginal": "A Russian Su-57 caught fire and burned down completely during engine startup at Akhtubinsk airfield on October 29, per AND, making it the fourth Su-57 lost this year against a production rate of only about four jets annually.",
-      "url": "https://t.me/wartranslated/19891",
-      "lang": "en",
-      "publishedAt": "2026-10-30T11:27:16.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아의 Su-57은 10 월 29 일 Akhtubinsk 비행장에서 엔진 시동 중에 화재가 발생하여 완전히 불타 버렸으며, 연간 약 4 대의 생산 속도에 비해 올해 네 번째 Su-57이 손실되었습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78745",
-      "titleOriginal": "Australian court orders Erin Patterson never to be released from prison for mushroom poisonings",
-      "url": "https://www.ctvnews.ca/world/article/australian-court-orders-erin-patterson-never-to-be-released-from-prison-for-mushroom-poisonings/",
-      "lang": "en",
-      "publishedAt": "2026-10-30T11:24:29.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "호주 법원은 에린 패터슨 (Erin Patterson) 에게 버섯 중독으로 감옥에서 석방되지 말 것을 명령합니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92102",
-      "titleOriginal": "Two Crows Took a Classic Psychology Test. Their Decision-Making Skills Left Ours in The Dust.",
-      "url": "https://www.sciencealert.com/two-crows-took-a-classic-psychology-test-their-decision-making-skills-left-ours-in-the-dust",
-      "lang": "en",
-      "publishedAt": "2026-10-30T11:24:08.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "두 마리의 까마귀가 고전 심리학 시험을 치렀습니다. 그들의 의사 결정 기술은 먼지에 남았습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19890",
-      "titleOriginal": "18+ Russian occupiers are holding a Halloween costume contest for the best outfit at the front. Among the nominations are shrapnel to the face, to the head, leg, torn legs, arteries, also a head, plus an arm.",
-      "url": "https://t.me/wartranslated/19890",
-      "lang": "en",
-      "publishedAt": "2026-10-30T11:23:39.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "18세 이상의 러시아 점령자들이 프런트에서 최고의 의상을 위한 할로윈 코스튬 콘테스트를 개최하고 있습니다. 후보 중에는 얼굴, 머리, 다리, 찢어진 다리, 동맥, 머리 및 팔에 파편이 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:9934",
-      "titleOriginal": "Maine’s data center revolt will decide who controls the Senate",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "lang": "en",
-      "publishedAt": "2026-10-30T11:01:30.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "메인주의 데이터 센터 반란으로 누가 상원을 장악할지 결정됩니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78744",
-      "titleOriginal": "‘Don't make noise’: Pentagon tells European allies to tone down Russia rhetoric. Among the allies given the advice are Lithuania, Latvia and Estonia",
-      "url": "https://tvpworld.com/96212451/pentagon-urges-baltic-states-to-tone-down-rhetoric-on-russia",
-      "lang": "en",
-      "publishedAt": "2026-10-30T10:24:28.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "소란 피우지 마세요’: 펜타곤은 유럽 동맹국들에게 러시아의 수사를 완화하라고 말합니다. 조언을 받은 동맹국 중에는 리투아니아, 라트비아, 에스토니아가 있습니다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15665",
-      "titleOriginal": "American political commentator Tucker Carlson released a video of masked illegal Israeli settlers violently attacking an elderly Palestinian-American homeowner and setting fire to his car in the occupied West Bank. In a social media post, C",
-      "url": "https://t.me/trtworld/15665",
-      "lang": "en",
-      "publishedAt": "2026-10-30T10:23:25.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "미국의 정치 평론가 터커 칼슨 (Tucker Carlson) 은 가면을 쓴 불법 이스라엘 정착민들이 팔레스타인계 미국인 노인 주택 소유자를 폭력적으로 공격하고 점령된 웨스트 뱅크에서 그의 차에 불을 지르는 영상을 공개했다. 소셜 미디어 게시물에서 C는",
       "translated": true
     }
   ]
