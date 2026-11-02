@@ -1,8 +1,52 @@
 {
-  "updatedAt": "2026-11-01T23:46:22.027Z",
+  "updatedAt": "2026-11-02T04:42:01.908Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78804",
+      "titleOriginal": "King must be removed as Antigua's head of state, nation's PM says in Commonwealth trip bombshell",
+      "url": "https://www.lbc.co.uk/article/antigua-king-charles-slavery-reparations-5HjdkkP_2/",
+      "lang": "en",
+      "publishedAt": "2026-11-02T03:14:06.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "국가의 PM은 Commonwealth trip bombshell에서 앤티가의 국가 원수로 국왕을 제거해야 한다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92125",
+      "titleOriginal": "Scientists Asked 50 People to Map Their Near-Death Experiences. An Eerie Pattern Emerged.",
+      "url": "https://www.sciencealert.com/scientists-asked-50-people-to-map-their-near-death-experiences-an-eerie-pattern-emerged",
+      "lang": "en",
+      "publishedAt": "2026-11-02T03:01:36.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들은 50명의 사람들에게 죽음 직전의 경험을 지도로 그려보라고 요청했습니다. 섬뜩한 문양이 떠올랐다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92124",
+      "titleOriginal": "The Links Between Napping And Dementia May Go Further Than We Realized",
+      "url": "https://www.sciencealert.com/the-links-between-napping-and-dementia-may-go-further-than-we-realized",
+      "lang": "en",
+      "publishedAt": "2026-11-02T01:16:44.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "낮잠과 치매 사이의 연결 고리는 우리가 깨달은 것보다 더 멀리 갈 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78803",
+      "titleOriginal": "Bulgaria’s 2026 presidential elections: Exit polls show a win for the pro-Russian candidate",
+      "url": "https://sofiaglobe.com/2026/11/01/bulgarias-2026-presidential-elections-radev-and-yotova-in-triumphalist-messages-as-the-finale-shows-a-win-for-the-pro-russian-candidate/",
+      "lang": "en",
+      "publishedAt": "2026-11-02T00:24:28.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "불가리아의 2026년 대통령 선거: 출구조사 결과 친러시아 후보가 승리한 것으로 나타남",
+      "translated": true
+    },
     {
       "id": "worldnews:78802",
       "titleOriginal": "Two oil tankers explode after hitting mine in Hormuz Strait, IRGC spokesperson says",
@@ -1607,50 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "브라질, 볼소나로의 미국행 비행기에 아르헨티나 외교관 소환",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78760",
-      "titleOriginal": "Canada pledges 500 million euros toward Ukraine support loan amid 2027 budget shortfall",
-      "url": "https://kyivindependent.com/canada-pledges-500-million-euros-toward-ukraine-support-loan-amid-2027-budget-shortfall/",
-      "lang": "en",
-      "publishedAt": "2026-10-31T04:09:12.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "캐나다는 2027년 예산 부족 상황에서 우크라이나 지원 대출을 위해 5억 유로를 약속했습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92109",
-      "titleOriginal": "Scientists Have Built a Robot Dog Powered by Human Brain Cells",
-      "url": "https://www.sciencealert.com/scientists-have-built-a-robot-dog-powered-by-human-brain-cells",
-      "lang": "en",
-      "publishedAt": "2026-10-31T02:43:04.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "과학자들은 인간의 뇌 세포로 구동되는 로봇 개를 만들었습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92108",
-      "titleOriginal": "Traditional Chinese Medicine Formula Kills Drug-Resistant Cancer Cells in The Lab",
-      "url": "https://www.sciencealert.com/traditional-chinese-medicine-formula-kills-drug-resistant-cancer-cells-in-the-lab",
-      "lang": "en",
-      "publishedAt": "2026-10-31T00:23:24.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "중국 전통 의약품 포뮬러는 실험실에서 약물 내성 암세포를 죽인다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45606",
-      "titleOriginal": "Record $6.3 Billion Binance Crypto Heist: North Korean Hackers Suspected",
-      "url": "https://insiderpaper.com/record-6-3-billion-binance-crypto-heist-north-korean-hackers-suspected/",
-      "lang": "en",
-      "publishedAt": "2026-10-30T23:07:04.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "$ 63억 기록 Binance Crypto Heist: North Korean Hackers Suspected",
       "translated": true
     }
   ]
