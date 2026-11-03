@@ -1,8 +1,151 @@
 {
-  "updatedAt": "2026-11-02T22:25:04.160Z",
+  "updatedAt": "2026-11-03T03:36:54.256Z",
   "count": 150,
-  "translatedCount": 144,
+  "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:92134",
+      "titleOriginal": "7,300 Years Ago, One of Earth's Worst Eruptions Hit Japan. What Humans Did Next Surprised Scientists.",
+      "url": "https://www.sciencealert.com/7300-years-ago-one-of-earths-worst-eruptions-hit-japan-what-humans-did-next-surprised-scientists",
+      "lang": "en",
+      "publishedAt": "2026-11-03T03:28:33.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "7,300년 전, 지구상에서 최악의 폭발이 일본을 강타했습니다. 인간이 다음에 한 일은 과학자들을 놀라게 했습니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22005",
+      "titleOriginal": "NEW - NASA’s Mars rover, Perseverance, finds that Martian dust is smaller and more dangerous than previously thought, with the ultrafine particles able to stick to spacesuit materials, be carried into living areas, and bypass the human bloo",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2620747123",
+      "lang": "en",
+      "publishedAt": "2026-11-03T02:14:52.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "새로운 기능 - NASA의 화성 탐사선 인내심 (Perseverance) 은 화성 먼지가 이전에 생각했던 것보다 작고 위험하다는 것을 발견했습니다. 초미세 입자는 우주복 재료에 달라 붙어 생활 공간으로 운반 될 수 있으며 인간의 bloo를 우회 할 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78827",
+      "titleOriginal": "US struck Iran's Qeshm Island, Wall Street Journal reports",
+      "url": "https://www.reuters.com/world/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-2026-11-03/",
+      "lang": "en",
+      "publishedAt": "2026-11-03T02:14:30.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국이 이란의 케심 섬을 강타했다고 월스트리트 저널이 보도했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78826",
+      "titleOriginal": "Netanyahu is pressing Trump to attack Iran after the midterms, officials tell AP",
+      "url": "https://apnews.com/article/iran-us-trump-netanyahu-israel-war-b4519ef86bafe2672e0855d7a48ce309",
+      "lang": "en",
+      "publishedAt": "2026-11-03T01:29:19.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "네타냐후는 중간고사가 끝난 후 트럼프에게 이란을 공격하라고 압박하고 있다고 AP 통신이 전했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78825",
+      "titleOriginal": "Ukraine accused Russia of taking ​advantage of a rare, US-backed humanitarian ceasefire in the southern Kherson region to strengthen its military position ‌there, boost defences and improve battlefield logistics",
+      "url": "https://www.reuters.com/world/europe/ukraine-says-russia-used-oleshky-ceasefire-reinforce-positions-2026-11-02/",
+      "lang": "en",
+      "publishedAt": "2026-11-03T01:19:24.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나는 러시아가 남부 헤르손 지역에서 미국의 지원을 받는 희귀한 인도주의적 휴전을 이용하여 군사적 지위를 강화하고 방어를 강화하며 전장 물류를 개선하고 있다고 비난했다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92133",
+      "titleOriginal": "Just 3 Lines of Math Rule Out Time Travel in Many Possible Universes, Physicist Says",
+      "url": "https://www.sciencealert.com/just-3-lines-of-math-rule-out-time-travel-in-many-possible-universes-physicist-says",
+      "lang": "en",
+      "publishedAt": "2026-11-03T01:09:32.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "물리학자는 가능한 많은 우주에서 단 3줄의 수학 규칙 아웃 시간 여행만 한다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92132",
+      "titleOriginal": "Inca Mummies Reveal Drugs Used During Human Sacrifice",
+      "url": "https://www.sciencealert.com/inca-mummies-reveal-drugs-used-during-human-sacrifice",
+      "lang": "en",
+      "publishedAt": "2026-11-03T01:09:28.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "잉카 미라, 인간 희생 동안 사용된 약물 공개",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22003",
+      "titleOriginal": "JUST IN - Thousands of Disney jobs are on the chopping block as the entertainment giant orders managers to cut 20% of annual costs.",
+      "url": "https://www.disclose.tv/id/af4tpuw00z/",
+      "lang": "en",
+      "publishedAt": "2026-11-03T01:05:02.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "JUST IN - 엔터테인먼트 대기업이 매니저에게 연간 비용의 20% 를 삭감하라고 명령함에 따라 수천 개의 디즈니 일자리가 도마 위에 있습니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22002",
+      "titleOriginal": "JUST IN - Ukrainian and Russian officials will meet in Abu Dhabi on November 10-11 for three-way talks hosted by the U.S.",
+      "url": "https://www.disclose.tv/id/kpqgo7c6zn/",
+      "lang": "en",
+      "publishedAt": "2026-11-02T23:30:39.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "방금 - 우크라이나와 러시아 관리들이 11월 10 ~ 11일 아부다비에서 만나 미국이 주최하는 3자 회담을 가질 예정입니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78824",
+      "titleOriginal": "Explosions and Air-Defense Activity Reported on Iran’s Qeshm Island",
+      "url": "https://thestateofisrael.com/news/story/2026-11-02-explosions-and-air-defense-activity-reported-on-iran-s-qeshm-island",
+      "lang": "en",
+      "publishedAt": "2026-11-02T23:04:12.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "이란의 케심 섬에서 보고된 폭발 및 방공 활동",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45645",
+      "titleOriginal": "US SUPREME COURT DECLINES TO BLOCK CALIFORNIA FROM COUNTING BALLOTS CAST BY VOTERS WHO TRUMP ADMINISTRATION ALLEGES ARE LIKELY NONCITIZENS — REUTERS",
+      "url": "https://t.me/insiderpaper/45645",
+      "lang": "en",
+      "publishedAt": "2026-11-02T22:59:00.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "미국 대법원, 트럼프 행정부가 비시민권자라고 주장하는 유권자들의 투표용지 개표 차단 거부 - 로이터",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:9994",
+      "titleOriginal": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
+      "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+      "lang": "en",
+      "publishedAt": "2026-11-02T22:58:32.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Apple은 언제 iPhone Duos가 충분히 돌아다닐 수 있을지 ’예측할 수 없다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45644",
+      "titleOriginal": "The Simpsons Blackout Prediction Goes Viral Ahead of November 17 FEMA Test",
+      "url": "https://insiderpaper.com/the-simpsons-blackout-prediction-goes-viral-ahead-of-november-17-fema-test/",
+      "lang": "en",
+      "publishedAt": "2026-11-02T22:30:27.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "The Simpsons Blackout Prediction이 11월 17일 FEMA 테스트를 앞두고 바이러스에 감염됩니다",
+      "translated": true
+    },
     {
       "id": "worldnews:78823",
       "titleOriginal": "Hackers Raise Supermarket Freezers to 55°C as Cyberattack Spreads Across Seven EU Countries",
@@ -649,8 +792,8 @@
       "publishedAt": "2026-11-02T14:23:18.000Z",
       "source": "Disclose.tv",
       "region": "속보",
-      "title": "NEW - A chilling wave of suspected cyberattacks is sweeping across Europe's refrigeration systems, and the crisis is widening as more countries and businesses become potential targets.",
-      "translated": false
+      "title": "새로운 소식 - 유럽의 냉동 시스템 전반에 사이버 공격이 오싹하게 퍼지고 있으며, 더 많은 국가와 기업이 잠재적 표적이 되면서 위기가 확대되고 있습니다",
+      "translated": true
     },
     {
       "id": "sciencealert:92128",
@@ -660,8 +803,8 @@
       "publishedAt": "2026-11-02T14:09:37.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "A Strange New Theory Helps Explain Why Our Universe Has Only One Dimension of Time",
-      "translated": false
+      "title": "이상한 새로운 이론은 왜 우리 우주가 단지 하나의 시간 차원을 가지고 있는지 설명하는 데 도움이됩니다",
+      "translated": true
     },
     {
       "id": "theverge_news:9975",
@@ -671,8 +814,8 @@
       "publishedAt": "2026-11-02T14:08:20.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "SpaceX’s big mobile carrier plans could reportedly involve buying Boost Mobile",
-      "translated": false
+      "title": "SpaceX의 대형 이동통신사 요금제에는 Boost Mobile 구매가 포함될 수 있다고 합니다",
+      "translated": true
     },
     {
       "id": "theverge_news:9976",
@@ -682,8 +825,8 @@
       "publishedAt": "2026-11-02T14:08:20.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
-      "translated": false
+      "title": "16GB Raspberry Pi 5는 또 다른 ‘불가피한‘ RAM 가격 인상을 받았습니다",
+      "translated": true
     },
     {
       "id": "theverge_news:9974",
@@ -693,8 +836,8 @@
       "publishedAt": "2026-11-02T14:03:30.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Affinity’s creative studio is now available on iPad for free",
-      "translated": false
+      "title": "Affinity의 크리에이티브 스튜디오를 이제 iPad에서 무료로 이용할 수 있습니다",
+      "translated": true
     },
     {
       "id": "wartranslated:20007",
@@ -704,8 +847,8 @@
       "publishedAt": "2026-11-02T13:45:55.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "The aftermath of a night-time strike on the building of the major telecoms operator \"Lugacom\" in occupied Luhansk. The operator provides mobile phone services and internet access in occupied Luhansk, and units of the Russian occupying army ",
-      "translated": false
+      "title": "점령한 루한시크의 주요 통신 사업자 \"Lugacom\" 의 건물에 대한 야간 파업의 여파. 운영자는 점령한 루한시크 및 러시아 점령군 부대에서 휴대전화 서비스와 인터넷 액세스를 제공합니다",
+      "translated": true
     },
     {
       "id": "theverge_news:9973",
@@ -1508,149 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "캘리포니아주 법안 45호는 데이터 센터에 대한 허점을 숨기고 있을 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78791",
-      "titleOriginal": "Zelensky Says Hits on Rostov Plant, S-400 Post, Pantsir Cost Russia $70M",
-      "url": "https://www.kyivpost.com/post/88797",
-      "lang": "en",
-      "publishedAt": "2026-11-01T12:59:37.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "Zelensky Says Hits on Rostov Plant, S-400 Post, Pantsir Cost Russia $ 70M",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19978",
-      "titleOriginal": "The Russian army lost about 54,000 killed and wounded in October, an absolute record since the full scale war began, and Madyar says USF units alone inflicted 16,796 personnel losses.",
-      "url": "https://t.me/wartranslated/19978",
-      "lang": "en",
-      "publishedAt": "2026-11-01T12:56:41.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아군은 10월에 약 54,000명의 사망자와 부상을 입었는데, 이는 전면전이 시작된 이후 절대적인 기록이며, 마드야르는 USF 부대만 해도 16,796명의 인명 손실을 입었다고 말한다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78790",
-      "titleOriginal": "Russia opens terrorism case over Ukraine oil refinery attack",
-      "url": "https://www.abc.net.au/news/2026-11-01/russia-opens-terrorism-case-over-ukraine-oil-refinery-attack/107334242?utm_source=abc_news_web&amp;utm_medium=content_shared&amp;utm_campaign=abc_news_web&amp;utm_content=mail",
-      "lang": "en",
-      "publishedAt": "2026-11-01T12:29:37.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아, 우크라이나 정유소 공격에 대한 테러 사건 개시",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19977",
-      "titleOriginal": "Zelensky says Russia fired 1940 strike drones, over 1580 KABs and 44 missiles at Ukraine in a week, 36 of them ballistic, while trying to make the most of the shortage of ballistic interceptors.",
-      "url": "https://t.me/wartranslated/19977",
-      "lang": "en",
-      "publishedAt": "2026-11-01T12:16:34.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키는 러시아가 1940대의 타격 드론과 1580대 이상의 KAB, 44발의 미사일을 1주일 만에 우크라이나에 발사했으며, 그 중 36발은 탄도탄 요격기 부족을 최대한 활용하기 위해 노력하고 있다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78789",
-      "titleOriginal": "Arab reports of 'unidentified warplanes' strikes in Syria",
-      "url": "https://www.ynetnews.com/article/qalt3g52e",
-      "lang": "en",
-      "publishedAt": "2026-11-01T11:29:39.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "시리아에서 발생한 '미확인 전투기' 공격에 대한 아랍인의 신고",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19975",
-      "titleOriginal": "Russians are complaining they can’t fly out of Sheremetyevo. Moscow airports have been disrupted for over a month now, with planes stuck waiting for departure clearance under flight restrictions.",
-      "url": "https://t.me/wartranslated/19975",
-      "lang": "en",
-      "publishedAt": "2026-11-01T11:06:36.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아인들은 셰레메티예보에서 비행기를 탈 수 없다고 불평하고 있습니다. 모스크바 공항은 한 달 넘게 중단되었으며, 비행기가 항공편 제한에 따라 출국 허가를 기다리고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15674",
-      "titleOriginal": "The world's wealthiest contribute disproportionately to greenhouse-gas emissions, driving climate disasters while poorer communities bear the brunt. Deaths from extreme weather are several times higher in countries with greater inequality.",
-      "url": "https://t.me/trtworld/15674",
-      "lang": "en",
-      "publishedAt": "2026-11-01T10:53:02.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "세계에서 가장 부유한 지역은 온실가스 배출에 불균형적으로 기여하여 기후 재해를 일으키고 가난한 지역 사회는 어려움을 겪습니다. 극심한 날씨로 인한 사망은 불평등이 큰 국가에서 몇 배 더 높습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19974",
-      "titleOriginal": "Zelensky says SBU fighters and other Defense Forces units hit a Pantsir-S2 system and a command vehicle of the S-400 Triumf system in Rostov region.",
-      "url": "https://t.me/wartranslated/19974",
-      "lang": "en",
-      "publishedAt": "2026-11-01T10:43:31.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "Zelensky는 SBU 전투기와 다른 방위군이 로스토프 지역의 Pantsir-S2 시스템과 S-400 Triumf 시스템의 지휘 차량에 충돌했다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19973",
-      "titleOriginal": "A Ukrainian interceptor drone with a net caught an enemy FPV drone that was going in to attack a vehicle of Ukrainian soldiers.",
-      "url": "https://t.me/wartranslated/19973",
-      "lang": "en",
-      "publishedAt": "2026-11-01T10:16:09.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "그물을 든 우크라이나 요격 드론이 우크라이나 군인의 차량을 공격하기 위해 들어가는 적의 FPV 드론을 잡았습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92120",
-      "titleOriginal": "One Form of Exercise Helped Young People Recover Faster After Concussion",
-      "url": "https://www.sciencealert.com/one-form-of-exercise-helped-young-people-recover-faster-after-concussion",
-      "lang": "en",
-      "publishedAt": "2026-11-01T10:09:28.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "한 가지 형태의 운동은 젊은이들이 뇌진탕 후 더 빨리 회복하는 데 도움이되었습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92119",
-      "titleOriginal": "The Solar System Was Choosing Fire Over Ice Right From The Beginning, Study Shows",
-      "url": "https://www.sciencealert.com/the-solar-system-was-choosing-fire-over-ice-right-from-the-beginning-study-shows",
-      "lang": "en",
-      "publishedAt": "2026-11-01T10:09:20.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "태양계는 처음부터 얼음 위에서 불을 선택하고 있었다. 연구 결과",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:19972",
-      "titleOriginal": "Dnipro Osint says 10% of Russian refining capacity was hit in 3 days, ending the so called energy truce. Ukraine held off on refinery strikes for two weeks at the US administration's request, while Russia kept killing Ukrainians with Gerans",
-      "url": "https://t.me/wartranslated/19972",
-      "lang": "en",
-      "publishedAt": "2026-11-01T09:44:27.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "드니프로 오신트 (Dnipro Osint) 는 러시아 정제 능력의 10% 가 3일 만에 타격을 입어 이른바 에너지 휴전이 끝났다고 말합니다. 우크라이나는 미국 행정부의 요청에 따라 2주 동안 정유 공장에서 파업을 계속했고, 러시아는 게란스와 함께 우크라이나인들을 계속 살해했다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78788",
-      "titleOriginal": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "url": "https://www.bbc.com/news/articles/cqglw3k7djp1o",
-      "lang": "en",
-      "publishedAt": "2026-11-01T09:39:28.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아가 점령한 최전선 도시에서 수년간 거주한 우크라이나인들은 '우리는 지옥에서 돌아왔다' 고 말합니다",
       "translated": true
     }
   ]
