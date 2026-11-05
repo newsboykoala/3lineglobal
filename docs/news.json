@@ -1,8 +1,382 @@
 {
-  "updatedAt": "2026-11-05T17:32:48.433Z",
+  "updatedAt": "2026-11-05T23:19:15.396Z",
   "count": 150,
-  "translatedCount": 135,
+  "translatedCount": 150,
   "items": [
+    {
+      "id": "insiderpaper:45769",
+      "titleOriginal": "BREAKING: US Secretary of ​State Marco Rubio rejected reports he will ​leave President Trump's administration to run ⁠for president, ​telling the New ​York Times in an interview that working ​for Trump ​until the end of Trump's ‌term ⁠has \"",
+      "url": "https://t.me/insiderpaper/45769",
+      "lang": "en",
+      "publishedAt": "2026-11-05T23:14:08.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 마르코 루비오 미국 국무장관은 트럼프 대통령의 임기가 끝날 때까지 트럼프를 위해 일하는 것이",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78887",
+      "titleOriginal": "A bad omen? Syria bans women from university courses",
+      "url": "https://www.dw.com/en/a-bad-omen-syria-bans-women-from-university-courses/a-79769348",
+      "lang": "en",
+      "publishedAt": "2026-11-05T22:59:10.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "나쁜 징조라고요? 시리아는 여성들의 대학 진학 금지를 금지하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10100",
+      "titleOriginal": "Perplexity launches its own take on AI agents for work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "lang": "en",
+      "publishedAt": "2026-11-05T22:34:32.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Perplexity, 업무용 AI 에이전트에 대한 자체 인수 착수",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10099",
+      "titleOriginal": "Salon is shutting down after 31 years",
+      "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
+      "lang": "en",
+      "publishedAt": "2026-11-05T22:09:33.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "미용실이 31년 만에 문을 닫습니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22056",
+      "titleOriginal": "NEW - Congress returns next week, and Rep. Thomas Massie says he will gather 218 signatures to force a House vote on Epstein Files Transparency Act II.",
+      "url": "https://www.disclose.tv/id/y2bjg04rlp/",
+      "lang": "en",
+      "publishedAt": "2026-11-05T21:59:43.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "신규 - 다음 주에 의회가 재개되며, 토마스 마시 하원의원은 218명의 서명을 모아 엡스타인 파일 투명성 법안 II에 대한 하원 투표를 강요할 것이라고 밝혔습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10098",
+      "titleOriginal": "The midterms proved once and for all that X is not real life",
+      "url": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
+      "lang": "en",
+      "publishedAt": "2026-11-05T21:55:00.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "중간고사는 X가 실생활이 아니라는 것을 단번에 증명했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78886",
+      "titleOriginal": "Putin places the Russian assets of Russia's biggest tobacco manufacturer, Japan Tobacco International, under temporary administration",
+      "url": "https://www.reuters.com/world/asia-pacific/putin-places-japan-tobaccos-russian-assets-under-temporary-administration-2026-11-05/",
+      "lang": "en",
+      "publishedAt": "2026-11-05T21:39:27.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "푸틴 대통령은 러시아 최대 담배 제조업체인 재팬 토바코 인터내셔널의 러시아 자산을 임시 관리하에 둔다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22055",
+      "titleOriginal": "JUST IN - Turkish parliament approves Mecca Agreement for joint defense between Turkey, Pakistan, and Saudi Arabia.",
+      "url": "https://t.me/disclosetv/22055",
+      "lang": "en",
+      "publishedAt": "2026-11-05T21:00:56.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "JUST IN - 터키 의회가 터키, 파키스탄, 사우디아라비아 간의 공동 방어를 위한 메카 협정을 승인했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10097",
+      "titleOriginal": "Blue Origin’s next launch now won’t happen until 2027",
+      "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
+      "lang": "en",
+      "publishedAt": "2026-11-05T21:00:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Blue Origin의 다음 출시는 2027년까지 진행되지 않습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78885",
+      "titleOriginal": "Joint List says it will back Eisenkot to form Israel’s next government",
+      "url": "https://www.aljazeera.com/amp/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government",
+      "lang": "en",
+      "publishedAt": "2026-11-05T20:44:21.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "Joint List는 이스라엘의 차기 정부를 구성하기 위해 Eisenkot을 지원할 것이라고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45768",
+      "titleOriginal": "Why is the Sun Smiling at the Earth? The Science behind NASA’s striking photo",
+      "url": "https://insiderpaper.com/why-is-the-sun-smiling-the-science-behind-nasas-striking-photo/",
+      "lang": "en",
+      "publishedAt": "2026-11-05T20:31:10.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "왜 태양은 지구를 향해 미소를 짓고 있을까요? NASA의 인상적인 사진 뒤에 숨겨진 과학",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45767",
+      "titleOriginal": "BREAKING: California Gov. Gavin Newsom has announced plans to commute the death sentences of all 548 inmates on the state’s death row to life without parole, marking the largest mass death-row commutation in modern U.S. history.",
+      "url": "https://t.me/insiderpaper/45767",
+      "lang": "en",
+      "publishedAt": "2026-11-05T19:48:11.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 캘리포니아 주지사 개빈 뉴섬 (Gavin Newsom) 은 주 사형수 548명 전원의 사형 선고를 가석방 없이 종신형으로 출퇴근하겠다는 계획을 발표했으며, 이는 현대 미국 역사상 최대 규모의 대량 사형 선고였다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78884",
+      "titleOriginal": "Putin will not be coming to attend Britain's G20 summit next year because of UK sanctions against him, says British Prime Minister Andy Burnham",
+      "url": "https://www.reuters.com/world/europe/putin-will-not-be-invited-britains-g20-summit-uk-pm-burnham-says-2026-11-05/",
+      "lang": "en",
+      "publishedAt": "2026-11-05T19:39:34.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "영국의 앤디 번햄 영국 총리는 푸틴 대통령이 영국에 대한 제재 때문에 내년에 열리는 G20 정상회의에 참석하지 않을 것이라고 밝혔습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78883",
+      "titleOriginal": "Saudi Arabia crisis: Houthis seek $51 billion to end war",
+      "url": "https://invezz.com/news/2026/11/05/saudi-arabia-crisis-houthis-seek-51-billion-to-end-war-liv-golf-nears-bankruptcy/",
+      "lang": "en",
+      "publishedAt": "2026-11-05T19:29:31.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "사우디아라비아 위기: Houthis는 전쟁을 끝내기 위해 510억 $ 를 모색합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10096",
+      "titleOriginal": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
+      "url": "https://telegra.ph/Samsungs-Galaxy-Z-Fold-8-is-300-off-ahead-of-Black-Friday-11-05",
+      "lang": "en",
+      "publishedAt": "2026-11-05T19:14:03.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "삼성전자의 갤럭시 Z 폴드 8이 블랙 프라이데이를 앞두고 $ 300 할인됩니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92160",
+      "titleOriginal": "2,800-Year-Old Siberian Sacrificial Tomb Reveals Earliest Known Evidence of Cannabis Intoxication",
+      "url": "https://www.sciencealert.com/2800-year-old-siberian-sacrificial-tomb-reveals-earliest-known-evidence-of-cannabis-intoxication",
+      "lang": "en",
+      "publishedAt": "2026-11-05T19:08:06.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "2,800년 된 시베리아 희생 무덤, 대마초 중독에 대한 최초의 증거 공개",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10095",
+      "titleOriginal": "Muse has a voice mode now",
+      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "lang": "en",
+      "publishedAt": "2026-11-05T19:03:32.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Muse에는 이제 음성 모드가 있습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45766",
+      "titleOriginal": "BREAKING: Around $2.1 trillion wiped off the S&P 500’s market value as U.S. stocks plunge amid a massive tech selloff, according to Dow Jones Market Data.",
+      "url": "https://t.me/insiderpaper/45766",
+      "lang": "en",
+      "publishedAt": "2026-11-05T19:00:42.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "다우 존스 마켓 데이터 (Dow Jones Market Data) 에 따르면, 대규모 기술 매각으로 미국 주식이 급락하면서 약 2조 1천억 달러 ($) 가 S&P 500의 시장 가치를 깎아내렸다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45762",
+      "titleOriginal": "BREAKING 🚨 AI bloodbath: Chip stocks are crashing",
+      "url": "https://t.me/insiderpaper/45762",
+      "lang": "en",
+      "publishedAt": "2026-11-05T18:41:31.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "🚨 인공지능 피바다 깨기: 칩 재고가 폭락하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78882",
+      "titleOriginal": "British troops will be allowed to fire back at Russian forces if attacked in mission — London and Paris pressing ahead with preparations for the \"Multinational Force-Ukraine\" (MNF-U)",
+      "url": "https://news.sky.com/story/british-troops-will-be-allowed-to-fire-back-at-russian-forces-if-attacked-in-mission-13607272",
+      "lang": "en",
+      "publishedAt": "2026-11-05T18:39:10.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "영국군은 임무 중 공격을 받으면 러시아군을 향해 반격할 수 있습니다. 런던과 파리는 \"다국적군-우크라이나\" (MNF-U) 를 위한 준비를 압박하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10094",
+      "titleOriginal": "EA is bringing 25 classic PC games to Steam",
+      "url": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
+      "lang": "en",
+      "publishedAt": "2026-11-05T18:34:31.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "EA는 25개의 클래식 PC 게임을 Steam에 제공합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20078",
+      "titleOriginal": "Ukrainian warriors of the 1021 st Anti-Aircraft Missile and Artillery Brigade intercepted and destroyed a Russian \"Geran-5\" jet-powered UAV using a jet interceptor drone.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-11-05T18:34:25.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "1021 대공 미사일 및 포병 여단의 우크라이나 전사들이 제트 요격 드론을 사용하여 러시아 \"Geran-5\" 제트 무인 항공기를 요격하고 파괴했습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20077",
+      "titleOriginal": "In far-off Siberia, a powerful explosion occurred on a main gas pipeline. A massive fire broke out in the Topki Municipal District of the Kemerovo region. According to preliminary information, the alleged cause of the \"pop\" was the depressu",
+      "url": "https://t.me/wartranslated/20077",
+      "lang": "en",
+      "publishedAt": "2026-11-05T18:26:35.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "멀리 떨어진 시베리아에서는 주 가스 파이프라인에서 강력한 폭발이 발생했습니다. 케메로보 (Kemerovo) 지역의 톱키 시 (Topki Municipal District) 에서 대규모 화재가 발생했습니다. 예비 정보에 따르면, \"POP\" 의 주된 원인은",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20076",
+      "titleOriginal": "A Russian occupier codenamed \"Gordy\" from the 1465th Motorized Rifle Regiment of the Russian Armed Forces has gone missing in Donbas - other Muscovites from the unit suspect suicide due to a total lack of supplies and complete exhaustion. T",
+      "url": "https://t.me/wartranslated/20076",
+      "lang": "en",
+      "publishedAt": "2026-11-05T18:18:34.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아군 제1465전동소총연대 \"고르디\" 라는 이름의 러시아 점령자가 돈바스에서 실종되었습니다. 이 부대 소속 다른 무스코바이트들은 보급품 부족과 완전한 탈진으로 인해 자살을 의심하고 있습니다. T",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78881",
+      "titleOriginal": "Kyiv suffers worst water outage of full-scale war after mass Russian assault",
+      "url": "https://kyivindependent.com/ukraine-war-latest-kyiv-suffers-worst-water-outage-of-full-scale-war-after-mass-russian-assault/",
+      "lang": "en",
+      "publishedAt": "2026-11-05T18:09:33.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "키예프는 대규모 러시아 공격 이후 본격적인 전쟁으로 최악의 정전 사태를 겪고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10093",
+      "titleOriginal": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "lang": "en",
+      "publishedAt": "2026-11-05T18:04:42.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Claude AI는 은행 계좌에 직접 연결할 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20075",
+      "titleOriginal": "A police body cam captured the final moments of the people who entered the shelter in Komyshuvakha. It is now reported that 37 people died there, and the search and rescue operation is still ongoing.",
+      "url": "https://t.me/wartranslated/20075",
+      "lang": "en",
+      "publishedAt": "2026-11-05T17:58:39.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "코미슈바카의 대피소에 들어선 사람들의 마지막 순간을 경찰의 시신 캠이 포착했다. 현재 37명이 사망한 것으로 알려졌으며, 수색 및 구조 작업은 여전히 진행 중입니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22054",
+      "titleOriginal": "JUST IN - Red wave: Nasdaq plunges over 5% in a widening tech selloff following U.S. midterm elections, pushing the index into correction territory.",
+      "url": "https://www.disclose.tv/id/ysa0ajg2gt/",
+      "lang": "en",
+      "publishedAt": "2026-11-05T17:57:59.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "방금 - 빨간 물결: 나스닥은 미국 중간 선거 이후 기술 매도세가 확대되면서 5% 이상 급락하여 지수를 교정 영역으로 밀어 넣습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45761",
+      "titleOriginal": "BREAKING: Assistant Attorney General for Civil Rights at the U.S. Department of Justice Harmeet Dhillon has resigned",
+      "url": "https://t.me/insiderpaper/45761",
+      "lang": "en",
+      "publishedAt": "2026-11-05T17:56:31.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: Harmeet Dhillon 미국 법무부 민권 담당 부장관이 사임했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10092",
+      "titleOriginal": "‘Total repudiation’: The blue wave is about to hit AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "lang": "en",
+      "publishedAt": "2026-11-05T17:55:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "전면 반박’: 푸른 물결이 AI를 강타하려고 합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20074",
+      "titleOriginal": "Work is buzzing at the Astrakhan Gas Processing Plant. The Russians are draping nets and erecting more scaffolding around the facility. Time will tell if any of this saves it from Ukrainian drones.",
+      "url": "https://t.me/wartranslated/20074",
+      "lang": "en",
+      "publishedAt": "2026-11-05T17:47:45.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "아스트라한 가스 가공 공장에서 작업이 쇄도하고 있습니다. 러시아인들은 그물을 덮고 시설 주변에 더 많은 비계를 세우고 있습니다. 이 중 하나라도 우크라이나 드론에서 저장되는지 시간이 알 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45760",
+      "titleOriginal": "5.0 magnitude earthquake shakes Northern California Wednesday night",
+      "url": "https://t.me/insiderpaper/45760",
+      "lang": "en",
+      "publishedAt": "2026-11-05T17:44:30.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "북부 캘리포니아를 뒤흔드는 규모 5.0 지진 (수요일 밤)",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10091",
+      "titleOriginal": "Ember’s smallest self-heating mug is on sale for just $33",
+      "url": "https://telegra.ph/Embers-smallest-self-heating-mug-is-on-sale-for-just-33-11-05-2",
+      "lang": "en",
+      "publishedAt": "2026-11-05T17:34:55.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "엠버에서 가장 작은 셀프 히팅 머그잔이 단돈 $ 33에 판매되고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20072",
+      "titleOriginal": "Also, last night, the Ukrainian Defence Forces attacked a Wildberries logistics depot in Ryazan.",
+      "url": "https://t.me/wartranslated/20072",
+      "lang": "en",
+      "publishedAt": "2026-11-05T17:34:39.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "또한, 어젯밤 우크라이나 방위군은 랴잔의 와일드베리 물류 창고를 공격했습니다",
+      "translated": true
+    },
     {
       "id": "wartranslated:20071",
       "titleOriginal": "Also, during her speech, the US First Lady stated that a ceasefire in Oleshky would have been impossible without Putin and Zelenskyy.",
@@ -671,8 +1045,8 @@
       "publishedAt": "2026-11-05T11:02:59.000Z",
       "source": "Disclose.tv",
       "region": "속보",
-      "title": "JUST IN - EU disburses €4,360,000,000 to Ukraine.",
-      "translated": false
+      "title": "IN - EU는 우크라이나에 € 4,360,000,000를 지급합니다",
+      "translated": true
     },
     {
       "id": "insiderpaper:45748",
@@ -682,8 +1056,8 @@
       "publishedAt": "2026-11-05T10:54:37.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "BREAKING - Bomb alerts reported on 12 European flights, as per officials and airlines",
-      "translated": false
+      "title": "속보 - 관계자 및 항공사에 따라 12개의 유럽 항공편에 대한 폭탄 경보가 보고됨",
+      "translated": true
     },
     {
       "id": "disclosetv:22045",
@@ -693,8 +1067,8 @@
       "publishedAt": "2026-11-05T10:46:53.000Z",
       "source": "Disclose.tv",
       "region": "속보",
-      "title": "JUST IN - Multiple European flights report bomb threats.",
-      "translated": false
+      "title": "JUST IN - 여러 유럽 항공편이 폭탄 위협을 보고합니다",
+      "translated": true
     },
     {
       "id": "disclosetv:22044",
@@ -704,8 +1078,8 @@
       "publishedAt": "2026-11-05T10:44:26.000Z",
       "source": "Disclose.tv",
       "region": "속보",
-      "title": "JUST IN - Cristiano Ronaldo retires from international football.",
-      "translated": false
+      "title": "JUST IN - 크리스티아누 호날두가 국제 축구에서 은퇴합니다",
+      "translated": true
     },
     {
       "id": "insiderpaper:45747",
@@ -715,8 +1089,8 @@
       "publishedAt": "2026-11-05T10:40:30.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "BREAKING: Cristiano Ronaldo announces international retirement",
-      "translated": false
+      "title": "속보: 크리스티아누 호날두, 국제 은퇴 발표",
+      "translated": true
     },
     {
       "id": "disclosetv:22043",
@@ -726,8 +1100,8 @@
       "publishedAt": "2026-11-05T10:39:51.000Z",
       "source": "Disclose.tv",
       "region": "속보",
-      "title": "NOW - London mayor Sadiq Khan says that social media calling London a lawless city is disinformation and \"nothing could be further from the truth.\"",
-      "translated": false
+      "title": "지금 - 런던 시장 사디크 칸은 소셜 미디어가 런던을 무법 도시라고 부르는 것은 잘못된 정보이며 \"진실에서 벗어날 수 있는 것은 아무것도 없다\" 고 말합니다",
+      "translated": true
     },
     {
       "id": "wartranslated:20058",
@@ -737,8 +1111,8 @@
       "publishedAt": "2026-11-05T10:29:08.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "This is what one of Ukraine’s thermal power stations looks like following the Russian strikes. Three thermal power stations have ceased operations due to extensive damage.",
-      "translated": false
+      "title": "러시아의 파업 이후 우크라이나의 화력 발전소 중 한 곳의 모습입니다. 3개의 화력 발전소가 광범위한 손상으로 인해 작동을 중단했습니다",
+      "translated": true
     },
     {
       "id": "insiderpaper:45746",
@@ -748,8 +1122,8 @@
       "publishedAt": "2026-11-05T10:25:58.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "BREAKING: Multiple flights across Europe face bomb threats — reports",
-      "translated": false
+      "title": "브레이킹: 유럽 전역의 여러 항공편이 폭탄 위협에 직면 — 신고",
+      "translated": true
     },
     {
       "id": "wartranslated:20057",
@@ -759,8 +1133,8 @@
       "publishedAt": "2026-11-05T10:24:44.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "Zelenskyy held talks with the US President’s special representatives, Witkoff and Kushner. They discussed preparations for the talks in Abu Dhabi, scheduled for 10-11 November. They also discussed consultations between the technical teams f",
-      "translated": false
+      "title": "젤렌스키는 미국 대통령 특별대표인 위트코프와 쿠슈너와 회담을 가졌다. 그들은 11월 10-11일로 예정된 아부다비 회담 준비에 대해 논의했다. 그들은 또한 기술 팀 간의 협의에 대해 논의했습니다",
+      "translated": true
     },
     {
       "id": "worldnews:78875",
@@ -770,8 +1144,8 @@
       "publishedAt": "2026-11-05T10:09:21.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "NATO prepares new defence plan foreseeing strikes deep inside Russian territory",
-      "translated": false
+      "title": "북대서양 조약 기구 (NATO) 는 러시아 영토 깊숙한 곳에서 공격을 예견하는 새로운 방위 계획을 준비합니다",
+      "translated": true
     },
     {
       "id": "insiderpaper:45745",
@@ -781,8 +1155,8 @@
       "publishedAt": "2026-11-05T10:07:52.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "NEW: France faces a wave of cyberattacks this week targeting critical services, including blood-storage facilities, a major bank and supermarket refrigeration systems",
-      "translated": false
+      "title": "새로운 소식: 프랑스는 이번 주에 혈액 저장 시설, 주요 은행 및 슈퍼마켓 냉장 시스템을 포함한 중요한 서비스를 겨냥한 사이버 공격의 물결에 직면해 있습니다",
+      "translated": true
     },
     {
       "id": "insiderpaper:45744",
@@ -792,8 +1166,8 @@
       "publishedAt": "2026-11-05T09:51:04.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "BREAKING: Bomb alerts on two flights to Rome and from Milan, ANSA news agency reports",
-      "translated": false
+      "title": "브레이킹: 로마와 밀라노에서 출발하는 두 항공편에 폭탄 경보가 발생했다고 ANSA 통신이 보도했습니다",
+      "translated": true
     },
     {
       "id": "worldnews:78874",
@@ -803,8 +1177,8 @@
       "publishedAt": "2026-11-05T09:44:36.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Ukrainian Drones Strike Ryazan Oil Refinery and Wildberries Logistics Warehouse",
-      "translated": false
+      "title": "우크라이나 드론 파업 랴잔 석유 정제소 및 야생 베리 물류 창고",
+      "translated": true
     },
     {
       "id": "worldnews:78873",
@@ -814,8 +1188,8 @@
       "publishedAt": "2026-11-05T09:39:09.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Italian chef fired after refusing to put pineapple on pizza",
-      "translated": false
+      "title": "이탈리아 셰프가 피자에 파인애플을 올리는 것을 거부한 후 해고됨",
+      "translated": true
     },
     {
       "id": "trtworld:15698",
@@ -825,8 +1199,8 @@
       "publishedAt": "2026-11-05T09:32:20.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "“The vast amounts of money involved in US elections are truly horrific given the extreme level of need for money around the world”",
-      "translated": false
+      "title": "미국 선거와 관련된 막대한 돈은 전 세계적으로 돈에 대한 극단적 인 필요성을 감안할 때 정말 끔찍합니다",
+      "translated": true
     },
     {
       "id": "insiderpaper:45743",
@@ -1277,380 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "Apple은 공유된 iCloud 링크에 ‘유해 콘텐츠‘ 가 있는지 확인합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10056",
-      "titleOriginal": "Nothing teases a screen-free AI device ahead of launch next month",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-      "lang": "en",
-      "publishedAt": "2026-11-04T18:33:41.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "다음 달 출시를 앞두고 화면이 없는 인공지능 기기를 놀라게 하는 것은 없습니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22038",
-      "titleOriginal": "NOW - Trump says he is not concerned about impeachment.",
-      "url": "https://t.me/disclosetv/22038",
-      "lang": "en",
-      "publishedAt": "2026-11-04T18:19:06.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "이제 트럼프는 탄핵에 대해 걱정하지 않는다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45733",
-      "titleOriginal": "BREAKING - President Trump says impeaching him would 'destroy' Democrats",
-      "url": "https://t.me/insiderpaper/45733",
-      "lang": "en",
-      "publishedAt": "2026-11-04T18:18:10.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 트럼프 대통령이 자신을 탄핵하면 민주당을 '파괴' 할 것이라고 말함",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10052",
-      "titleOriginal": "ChatGPT will now make you animated GIFs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "lang": "en",
-      "publishedAt": "2026-11-04T18:04:53.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "이제 ChatGPT를 통해 애니메이션 GIF를 만들 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10054",
-      "titleOriginal": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-      "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-      "lang": "en",
-      "publishedAt": "2026-11-04T18:04:53.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "내 치료사는 아마존 꿀벌 프론티어를 창문 밖으로 내쫓아야 한다고 생각합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45732",
-      "titleOriginal": "JUST IN - Trump speaks inside White House ballroom, a day after midterm elections",
-      "url": "https://t.me/insiderpaper/45732",
-      "lang": "en",
-      "publishedAt": "2026-11-04T17:56:44.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 트럼프가 중간 선거 하루 후 백악관 연회장에서 연설",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45731",
-      "titleOriginal": "BREAKING - Benchmark international oil contract Brent crude fell more than four percent to under $100 per barrel on Wednesday after President Donald Trump suffered a heavy defeat in US midterm elections.",
-      "url": "https://t.co/Xj1uWjvUpa",
-      "lang": "en",
-      "publishedAt": "2026-11-04T17:54:20.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "파기 - 벤치마크 국제 석유 계약 브렌트 원유는 도널드 트럼프 대통령이 미국 중간선거에서 큰 패배를 당한 후 수요일 배럴당 $ 100 미만으로 4% 이상 하락했다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10051",
-      "titleOriginal": "God of War Laufey delayed until May",
-      "url": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay",
-      "lang": "en",
-      "publishedAt": "2026-11-04T17:14:41.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "갓 오브 워 로피가 5월로 연기됨",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45730",
-      "titleOriginal": "BREAKING - Goalkeeper Owono says ‘hardest days of my life’ after De Miguel death",
-      "url": "https://t.co/XPk2NMcyMq",
-      "lang": "en",
-      "publishedAt": "2026-11-04T17:09:53.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 골키퍼 Owono, De Miguel 사망 후 ‘내 인생에서 가장 힘든 날’ 이라고 말함",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10050",
-      "titleOriginal": "Nintendo is losing a Switch cartridge supplier",
-      "url": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
-      "lang": "en",
-      "publishedAt": "2026-11-04T17:09:51.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "닌텐도가 스위치 카트리지 공급업체를 잃고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20054",
-      "titleOriginal": "Madyar reported that the Russians attempted to use a drone to drop propaganda leaflets over Kyiv containing QR codes that could lead to phishing websites and infect smartphones.",
-      "url": "http://patreon.com/c/WarTranslated",
-      "lang": "en",
-      "publishedAt": "2026-11-04T17:08:45.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "마드야르는 러시아가 피싱 웹사이트로 이어지고 스마트폰을 감염시킬 수 있는 QR 코드가 포함된 선전 전단지를 키예프 상공에 떨어뜨리기 위해 드론을 사용하려 했다고 보고했다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20053",
-      "titleOriginal": "The Russians are filming the aftermath of a strike on dual-use logistics facilities in the occupied territories.",
-      "url": "https://t.me/wartranslated/20053",
-      "lang": "en",
-      "publishedAt": "2026-11-04T17:04:46.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아는 점령 지역의 이중 사용 물류 시설에 대한 파업의 여파를 촬영하고 있다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20052",
-      "titleOriginal": "Zelenskyy has reportedly arrived in Madrid, where he is scheduled to hold talks on air defense and defense cooperation. In the coming days, contacts with the US are also planned regarding security issues and further steps toward peace.",
-      "url": "https://t.me/wartranslated/20052",
-      "lang": "en",
-      "publishedAt": "2026-11-04T16:48:33.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키는 마드리드에 도착해 방공 및 방위 협력에 관한 회담을 가질 예정인 것으로 알려졌다. 앞으로 며칠 동안 안보 문제와 평화를 향한 추가 조치와 관련하여 미국과의 접촉도 계획되어 있다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45729",
-      "titleOriginal": "Trump is asking advisers whether Hegseth should go, with Florida Gov. Ron DeSantis being floated as a possible replacement, CBS News reports, citing sources.",
-      "url": "https://t.me/insiderpaper/45729",
-      "lang": "en",
-      "publishedAt": "2026-11-04T16:46:58.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "CBS 뉴스는 소식통을 인용해 트럼프가 플로리다 주지사 론 데산티스 (Ron DeSantis) 가 교체 가능성으로 떠오르면서 헥세스가 가야 하는지 자문위원들에게 묻고 있다고 보도했다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20051",
-      "titleOriginal": "Advisor to the President of Ukraine \"Flash\" reported that the Russians have begun placing \"waiter\" drones on high-voltage power lines.",
-      "url": "https://t.me/wartranslated/20051",
-      "lang": "en",
-      "publishedAt": "2026-11-04T16:44:25.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 대통령 \"플래시\" 고문은 러시아가 고전압 전력선에 \"웨이터\" 드론을 배치하기 시작했다고 전했다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10049",
-      "titleOriginal": "Anker’s new window-mounted camera monitors the outside of your home from within it",
-      "url": "https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision",
-      "lang": "en",
-      "publishedAt": "2026-11-04T16:40:01.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Anker의 새 창문 장착 카메라는 집 밖을 내부에서 모니터링합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45728",
-      "titleOriginal": "JUST IN - Top US Senate Democrat Schumer says Iran war 'must end'",
-      "url": "https://t.me/insiderpaper/45728",
-      "lang": "en",
-      "publishedAt": "2026-11-04T16:36:53.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - 미국 상원 민주당 상원의원 슈머가 이란 전쟁을 '끝내야 한다' 고 말함",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20050",
-      "titleOriginal": "In the temporarily occupied Crimea, power has gone out in some parts of the region.",
-      "url": "https://t.me/wartranslated/20050",
-      "lang": "en",
-      "publishedAt": "2026-11-04T16:30:29.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "일시적으로 점령된 크림 반도의 일부 지역에서는 정전이 발생했습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45727",
-      "titleOriginal": "BREAKING - WHO approves clinical trials on two new Ebola vaccines bit.ly/4iomPfp",
-      "url": "https://t.co/zojIVtb1Aa",
-      "lang": "en",
-      "publishedAt": "2026-11-04T16:27:15.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - WHO, 두 가지 새로운 에볼라 백신에 대한 임상 시험 승인 bit.ly/4iomPfp",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92149",
-      "titleOriginal": "Ancient DNA Rewrites The Story of How Germanic And Celtic Languages Spread Across Europe",
-      "url": "https://www.sciencealert.com/ancient-dna-rewrites-the-story-of-how-germanic-and-celtic-languages-spread-across-europe",
-      "lang": "en",
-      "publishedAt": "2026-11-04T16:18:44.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "고대 DNA가 유럽 전역에 게르만어와 켈트어가 어떻게 퍼져나갔는지에 대한 이야기를 다시 쓴다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10048",
-      "titleOriginal": "Rian Johnson explains why he had to build his own iPhone camera app",
-      "url": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
-      "lang": "en",
-      "publishedAt": "2026-11-04T16:14:53.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Rian Johnson이 자신만의 iPhone 카메라 앱을 만들어야 했던 이유를 설명합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45726",
-      "titleOriginal": "JUST IN - VP JD Vance, citing a pollster, says Trump voters who switched to Democrats wanted four things: an end to the war, action on inflation, an “America First” focus and a change in U.S. relations with Israel.",
-      "url": "https://t.me/insiderpaper/45726",
-      "lang": "en",
-      "publishedAt": "2026-11-04T16:14:01.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "JUST IN - JD Vance 부사장은 여론 조사 기관을 인용하여 민주당으로 전환한 트럼프 유권자들은 전쟁 종식, 인플레이션에 대한 조치, \"미국 우선주의\" 집중, 이스라엘과의 미국 관계 변화 등 네 가지를 원한다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22037",
-      "titleOriginal": "NEW - The far-left party \"Die Linke\" has submitted a motion asking the government to draft a law requiring Germany to pay reparations for alleged \"climate damage\" caused abroad.",
-      "url": "https://www.disclose.tv/id/h72kc24fat/",
-      "lang": "en",
-      "publishedAt": "2026-11-04T16:12:20.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "새로운 것 - 극좌 정당인 \"Die Linke\" 는 정부에 독일이 해외에서 발생한 \"기후 피해\" 에 대한 배상금을 지불하도록 요구하는 법률 초안을 요청하는 운동을 제출했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20049",
-      "titleOriginal": "Americans celebrate the Democrats' election win.",
-      "url": "https://t.me/wartranslated/20049",
-      "lang": "en",
-      "publishedAt": "2026-11-04T16:10:50.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "미국인들은 민주당의 선거 승리를 축하합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10047",
-      "titleOriginal": "Data centers lost the midterms",
-      "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-      "lang": "en",
-      "publishedAt": "2026-11-04T16:10:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "데이터 센터는 중간 고사를 잃었습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20048",
-      "titleOriginal": "The Russians attempted to flee, but the Ukrainian drone turned out to be faster.",
-      "url": "https://t.me/wartranslated/20048",
-      "lang": "en",
-      "publishedAt": "2026-11-04T16:08:03.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아가 탈출을 시도했지만 우크라이나 드론이 더 빠른 것으로 나타났습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45725",
-      "titleOriginal": "BREAKING - US Vice President JD Vance said Wednesday that the Iran war doomed Republicans in the midterm elections, as he sought to distance himself from the conflict ahead of a possible 2028 White House run. bit.ly/3UAXRjz",
-      "url": "https://t.co/p5VzufCxpk",
-      "lang": "en",
-      "publishedAt": "2026-11-04T16:07:20.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - JD 밴스 미국 부통령은 수요일 이란 전쟁이 2028년 백악관 출마 가능성을 앞두고 갈등에서 멀어지려던 중 중간 선거에서 공화당을 파멸시켰다고 말했다. bit.ly/3UAXRjz",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10046",
-      "titleOriginal": "Uber only fulfilled 4 rides from AI agents last quarter",
-      "url": "https://www.theverge.com/transportation/1026306/ber-ai-agents-q3-earnings-disintermediation",
-      "lang": "en",
-      "publishedAt": "2026-11-04T16:04:41.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Uber는 지난 분기에만 AI 상담원의 차량 서비스 4건을 처리했습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10045",
-      "titleOriginal": "My favorite 25W wireless power bank is down to $35",
-      "url": "https://telegra.ph/My-favorite-25W-wireless-power-bank-is-down-to-35-11-04-2",
-      "lang": "en",
-      "publishedAt": "2026-11-04T15:59:52.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "내가 좋아하는 25W 무선 전원 은행이 $ 35로 떨어졌습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45724",
-      "titleOriginal": "BREAKING - VP JD Vance on US midterm elections: \"The reason we lost is the war. The president himself said so last night.\"",
-      "url": "https://t.me/insiderpaper/45724",
-      "lang": "en",
-      "publishedAt": "2026-11-04T15:52:08.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 미국 중간 선거에서 JD Vance 부사장: \"우리가 패배한 이유는 전쟁 때문입니다. 어젯밤에 대통령께서 직접 말씀하셨어요",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20047",
-      "titleOriginal": "According to the Defence Intelligence of Ukraine, as of October 2026, Russia's reserves stand at up to 700 ballistic missiles and several thousand cruise missiles of various types.",
-      "url": "https://t.me/wartranslated/20047",
-      "lang": "en",
-      "publishedAt": "2026-11-04T15:45:29.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 국방 정보에 따르면 2026년 10월 현재 러시아의 예비군은 최대 700개의 탄도 미사일과 수천 개의 다양한 유형의 순항 미사일에 배치되어 있다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45723",
-      "titleOriginal": "JUST IN - Speaker Mike Johnson out, Jim Jordan and Steve Scalise in for role of House GOP Minority Leader — Punchbowl",
-      "url": "https://t.me/insiderpaper/45723",
-      "lang": "en",
-      "publishedAt": "2026-11-04T15:43:03.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "저스트 인 - 마이크 존슨 스피커 아웃, 짐 조던, 스티브 스칼리즈, 하우스 GOP 마이너리티 리더 역할 — 펀치볼",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78861",
-      "titleOriginal": "Hungary to phase out Russian gas by autumn 2027",
-      "url": "https://armenpress.am/en/article/1264760",
-      "lang": "en",
-      "publishedAt": "2026-11-04T15:39:03.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "헝가리, 2027년 가을까지 러시아 가스 단계적 폐지",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10044",
-      "titleOriginal": "Not even $200 million could help Elon Musk buy Texas",
-      "url": "https://www.theverge.com/policy/1026329/elon-musk-paxton-talarico-texas-election-funding",
-      "lang": "en",
-      "publishedAt": "2026-11-04T15:34:51.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "$ 200,000,000조차 Elon Musk가 텍사스를 구입하는 데 도움이 될 수 없습니다",
       "translated": true
     }
   ]
