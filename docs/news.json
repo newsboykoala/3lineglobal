@@ -1,8 +1,85 @@
 {
-  "updatedAt": "2026-11-06T23:40:45.575Z",
+  "updatedAt": "2026-11-07T04:51:45.326Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78920",
+      "titleOriginal": "U. S. Department of State offers $ 20 million for information pertaining to the Iranian nuclear program:",
+      "url": "https://rewardsforjustice.net/rewards/iran-nuclear-program/",
+      "lang": "en",
+      "publishedAt": "2026-11-07T03:29:09.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국 국무부는 이란 핵 프로그램과 관련된 정보에 대해 2천만 달러 ($) 를 제공합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92173",
+      "titleOriginal": "A Cheap Daily Vitamin Shows Promise For People at Risk of Leukemia, Early Trial Finds",
+      "url": "https://www.sciencealert.com/a-cheap-daily-vitamin-shows-promise-for-people-at-risk-of-leukemia-early-trial-finds",
+      "lang": "en",
+      "publishedAt": "2026-11-07T02:21:19.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "저렴한 일일 비타민이 백혈병 위험이 있는 사람들을 위한 약속을 보여줌, 조기 시험 발견",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78919",
+      "titleOriginal": "U. S. Department of State issues travel advisory:",
+      "url": "https://ir.usembassy.gov/security-alert-iran-november-7-2026/",
+      "lang": "en",
+      "publishedAt": "2026-11-07T00:49:19.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국 국무부, 여행 경보 발령:",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78918",
+      "titleOriginal": "Two missiles struck Iran's Qeshm Island after aircraft heard above - report",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-914097",
+      "lang": "en",
+      "publishedAt": "2026-11-07T00:39:33.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "항공기가 위에서 들은 후 두 개의 미사일이 이란의 Qeshm 섬을 강타했습니다 - 보고",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92172",
+      "titleOriginal": "University Exams Produce a Distinct Chemical Signature in Sewage, Study Suggests",
+      "url": "https://www.sciencealert.com/university-exams-produce-a-distinct-chemical-signature-in-sewage-study-suggests",
+      "lang": "en",
+      "publishedAt": "2026-11-07T00:02:17.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "대학 시험은 하수에서 뚜렷한 화학적 서명을 생성합니다, 연구 제안",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92171",
+      "titleOriginal": "Scientists Used a 'Psychomanteum' to Summon Ghostly Encounters. Then It Got Weird.",
+      "url": "https://www.sciencealert.com/scientists-used-a-psychomanteum-to-summon-ghostly-encounters-then-it-got-weird",
+      "lang": "en",
+      "publishedAt": "2026-11-07T00:02:12.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들은 유령의 만남을 소환하기 위해 '사이코만테움' 을 사용했다. 그러다 이상해졌어요",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10134",
+      "titleOriginal": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "lang": "en",
+      "publishedAt": "2026-11-06T23:49:51.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "경쟁사인 Anthropic이 IPO에 근접함에 따라 OpenAI의 가치는 $ 1.25 조로 평가되었습니다",
+      "translated": true
+    },
     {
       "id": "worldnews:78917",
       "titleOriginal": "Russian President Vladimir Putin has no ​veto on European security ‌matters and Ukraine must become fully integrated into European ​security architecture, says EU's ​foreign policy chief Kaja ⁠Kallas",
@@ -1574,83 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "코미슈바카의 대피소에 들어선 사람들의 마지막 순간을 경찰의 시신 캠이 포착했다. 현재 37명이 사망한 것으로 알려졌으며, 수색 및 구조 작업은 여전히 진행 중입니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22054",
-      "titleOriginal": "JUST IN - Red wave: Nasdaq plunges over 5% in a widening tech selloff following U.S. midterm elections, pushing the index into correction territory.",
-      "url": "https://www.disclose.tv/id/ysa0ajg2gt/",
-      "lang": "en",
-      "publishedAt": "2026-11-05T17:57:59.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "방금 - 빨간 물결: 나스닥은 미국 중간 선거 이후 기술 매도세가 확대되면서 5% 이상 급락하여 지수를 교정 영역으로 밀어 넣습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45761",
-      "titleOriginal": "BREAKING: Assistant Attorney General for Civil Rights at the U.S. Department of Justice Harmeet Dhillon has resigned",
-      "url": "https://t.me/insiderpaper/45761",
-      "lang": "en",
-      "publishedAt": "2026-11-05T17:56:31.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: Harmeet Dhillon 미국 법무부 민권 담당 부장관이 사임했습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10092",
-      "titleOriginal": "‘Total repudiation’: The blue wave is about to hit AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "lang": "en",
-      "publishedAt": "2026-11-05T17:55:01.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "전면 반박’: 푸른 물결이 AI를 강타하려고 합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20074",
-      "titleOriginal": "Work is buzzing at the Astrakhan Gas Processing Plant. The Russians are draping nets and erecting more scaffolding around the facility. Time will tell if any of this saves it from Ukrainian drones.",
-      "url": "https://t.me/wartranslated/20074",
-      "lang": "en",
-      "publishedAt": "2026-11-05T17:47:45.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "아스트라한 가스 가공 공장에서 작업이 쇄도하고 있습니다. 러시아인들은 그물을 덮고 시설 주변에 더 많은 비계를 세우고 있습니다. 이 중 하나라도 우크라이나 드론에서 저장되는지 시간이 알 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45760",
-      "titleOriginal": "5.0 magnitude earthquake shakes Northern California Wednesday night",
-      "url": "https://t.me/insiderpaper/45760",
-      "lang": "en",
-      "publishedAt": "2026-11-05T17:44:30.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "북부 캘리포니아를 뒤흔드는 규모 5.0 지진 (수요일 밤)",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10091",
-      "titleOriginal": "Ember’s smallest self-heating mug is on sale for just $33",
-      "url": "https://telegra.ph/Embers-smallest-self-heating-mug-is-on-sale-for-just-33-11-05-2",
-      "lang": "en",
-      "publishedAt": "2026-11-05T17:34:55.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "엠버에서 가장 작은 셀프 히팅 머그잔이 단돈 $ 33에 판매되고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20072",
-      "titleOriginal": "Also, last night, the Ukrainian Defence Forces attacked a Wildberries logistics depot in Ryazan.",
-      "url": "https://t.me/wartranslated/20072",
-      "lang": "en",
-      "publishedAt": "2026-11-05T17:34:39.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "또한, 어젯밤 우크라이나 방위군은 랴잔의 와일드베리 물류 창고를 공격했습니다",
       "translated": true
     }
   ]
