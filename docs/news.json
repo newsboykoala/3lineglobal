@@ -1,8 +1,151 @@
 {
-  "updatedAt": "2026-11-08T14:09:23.672Z",
+  "updatedAt": "2026-11-08T18:57:43.402Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78960",
+      "titleOriginal": "UK Rallies Northern Europe to Hunt Russian Submarines Across Three Strategic Seas",
+      "url": "https://united24media.com/world/uk-rallies-northern-europe-to-hunt-russian-submarines-across-three-strategic-seas-24175",
+      "lang": "en",
+      "publishedAt": "2026-11-08T18:29:37.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "영국, 북유럽을 집결시켜 3대 전략 해상에서 러시아 잠수함 사냥",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78959",
+      "titleOriginal": "Protests across Nova Scotia oppose AI data centres",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/data-centre-protests-nova-scotia-9.7413638",
+      "lang": "en",
+      "publishedAt": "2026-11-08T18:24:24.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "노바스코샤 전역에서 AI 데이터 센터 반대 시위",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15711",
+      "titleOriginal": "An Israeli settler filmed and harassed Palestinians and international activists detained by Israeli soldiers during an olive harvest near Ramallah in the occupied West Bank on November 6. The activists were helping Palestinian farmers harve",
+      "url": "https://t.me/trtworld/15711",
+      "lang": "en",
+      "publishedAt": "2026-11-08T17:26:10.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "이스라엘 정착민은 11월 6일 점령지 서안의 라말라 근처에서 올리브 수확을 하는 동안 이스라엘 군인들에 의해 구금된 팔레스타인과 국제 활동가들을 촬영하고 괴롭혔다. 활동가들은 팔레스타인 농민들의 수확을 돕고 있었습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10147",
+      "titleOriginal": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "lang": "en",
+      "publishedAt": "2026-11-08T17:25:12.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "엘비스와 에미넴 권리 보유자들이 수노를 고소하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78958",
+      "titleOriginal": "Macron has secret escape plan if protesters storm Élysée Palace, media reports",
+      "url": "https://newsukraine.rbc.ua/news/macron-has-secret-escape-plan-if-protesters-1794085301.html",
+      "lang": "en",
+      "publishedAt": "2026-11-08T17:14:24.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "시위대가 엘리제 궁 (Élysée Palace) 을 습격하면 마크롱은 비밀 탈출 계획을 가지고 있다고 언론이 보도했다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20163",
+      "titleOriginal": "An RBC-Ukraine source says the makeup of Ukraine's delegation for the Abu Dhabi talks is already set, and Rustem Umerov will lead it. Kyrylo Budanov, Davyd Arakhamia, Serhiy Kyslytsya and Vadym Skibitskyi will also take part.",
+      "url": "https://t.me/wartranslated/20163",
+      "lang": "en",
+      "publishedAt": "2026-11-08T16:59:12.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "RBC-우크라이나 소식통은 아부다비 회담을 위한 우크라이나 대표단의 구성은 이미 정해져 있으며, 루스템 우메로프가 이를 이끌 것이라고 말했습니다. Kyrylo Budanov, Davyd Arakhamia, Serhiy Kyslytsya, Vadym Skibitskyi도 참여합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92190",
+      "titleOriginal": "Finally! Physicists Create an Exotic Quantum State of Matter That Works at Room Temperature",
+      "url": "https://www.sciencealert.com/finally-physicists-create-an-exotic-quantum-state-of-matter-that-works-at-room-temperature",
+      "lang": "en",
+      "publishedAt": "2026-11-08T16:24:33.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "마지막으로! 물리학자들은 실온에서 작동하는 이국적인 양자 상태의 물질을 만듭니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78957",
+      "titleOriginal": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
+      "url": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation",
+      "lang": "en",
+      "publishedAt": "2026-11-08T16:09:18.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "태국의 추방에 직면한 위구르인들은 중국에서 '노예와 같을 것‘ 이라고 말한다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10146",
+      "titleOriginal": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "url": "https://telegra.ph/Apples-M5-MacBook-Air-is-down-to-its-lowest-price-since-July-11-08",
+      "lang": "en",
+      "publishedAt": "2026-11-08T16:00:43.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "애플의 M5 맥북 에어가 7월 이후 최저가를 기록했다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78956",
+      "titleOriginal": "Zelensky says Oleshky ceasefire shows Russia can halt fighting but Putin is unwilling",
+      "url": "https://kyivindependent.com/zelensky-says-oleshky-ceasefire-shows-russia-can-halt-fighting-but-putin-is-unwilling/",
+      "lang": "en",
+      "publishedAt": "2026-11-08T15:34:20.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "Zelensky는 Oleshky 휴전은 러시아가 싸움을 멈출 수 있음을 보여 주지만 푸틴은 원하지 않는다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20162",
+      "titleOriginal": "Oko Gora compares how often Neptune, Flamingo and Storm Shadow missiles were used successfully in 2025 and 2026. Neptune made 30 strikes in 22 months, Flamingo 13 in 16 months and Storm Shadow 14 in 22 months. Storm Shadow strikes depend on",
+      "url": "https://t.me/wartranslated/20162",
+      "lang": "en",
+      "publishedAt": "2026-11-08T15:12:56.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "Oko Gora는 2025년과 2026년에 Neptune, Flamingo 및 Storm Shadow 미사일이 얼마나 자주 성공적으로 사용되었는지 비교합니다. 넵튠은 22개월 동안 30회, 플라밍고는 16개월 동안 13회, 스톰 섀도우는 22개월 동안 14회를 기록했다. 스톰 섀도우 스",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10145",
+      "titleOriginal": "Chatbots might be coming to Apple’s HomeView",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "lang": "en",
+      "publishedAt": "2026-11-08T15:04:52.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "챗봇이 Apple의 HomeView에 올 수도 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78955",
+      "titleOriginal": "Egypt announces new Mediterranean gas field discovery estimated at 200 billion cubic feet",
+      "url": "https://www.euronews.com/2026/11/08/egypt-announces-new-mediterranean-gas-field-discovery-estimated-at-200-billion-cubic-feet",
+      "lang": "en",
+      "publishedAt": "2026-11-08T14:39:20.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "이집트, 2천억 입방피트로 추정되는 새로운 지중해 가스전 발견 발표",
+      "translated": true
+    },
     {
       "id": "sciencealert:92188",
       "titleOriginal": "A Massive Brain-Scan Study Just Complicated a Popular Theory About Emotional Control",
@@ -1508,149 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "AI 데이터 센터에 대한 모든 최신 업데이트",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20111",
-      "titleOriginal": "Russians write that Ukraine's Armed Forces have started using Israeli HiSKY satellite terminals for strikes on Russia. The terminal has less bandwidth than Starlink, but it works over all Russian territory.",
-      "url": "https://t.me/wartranslated/20111",
-      "lang": "en",
-      "publishedAt": "2026-11-06T19:57:47.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아는 우크라이나 군대가 러시아에 대한 공격을 위해 이스라엘 HiSKY 위성 터미널을 사용하기 시작했다고 적었다. 터미널은 Starlink보다 대역폭이 적지만 모든 러시아 영토에서 작동합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10130",
-      "titleOriginal": "Shure’s popular podcasting and streaming mic is almost $50 off",
-      "url": "https://telegra.ph/Shures-popular-podcasting-and-streaming-mic-is-almost-50-o-11-06-3",
-      "lang": "en",
-      "publishedAt": "2026-11-06T19:50:04.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Shure의 인기 팟캐스트 및 스트리밍 마이크가 거의 $ 50 할인됩니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78909",
-      "titleOriginal": "Rescuers dig for bodies after Russia bombs village aid center to rubble, killing dozens inside",
-      "url": "https://kyivindependent.com/its-like-a-ghost-town-search-continues-after-deadly-russian-strike-on-underground-shelter-in-southern-ukraine/",
-      "lang": "en",
-      "publishedAt": "2026-11-06T19:49:24.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아가 마을 구호 센터를 폭격하여 잔해가 된 후 구조대원들이 시신을 파헤쳐 내부에서 수십 명이 사망했습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92169",
-      "titleOriginal": "MIT Scientists Break a 20-Year Rule And Unlock Never-Before-Seen Crystal Structures",
-      "url": "https://www.sciencealert.com/mit-scientists-break-a-20-year-rule-and-unlock-never-before-seen-crystal-structures",
-      "lang": "en",
-      "publishedAt": "2026-11-06T19:32:01.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "MIT 과학자들은 20년 규칙을 깨고 이전에는 없었던 크리스탈 구조를 잠금 해제합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78908",
-      "titleOriginal": "Paraguay's president Peña impeached after resigning over banking scandal",
-      "url": "https://www.france24.com/en/americas/20261105-paraguay-s-president-pe%C3%B1a-impeached-moments-after-resigning-amid-banking-scandal",
-      "lang": "en",
-      "publishedAt": "2026-11-06T19:09:14.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "파라과이 대통령 페냐, 은행 스캔들로 사임 후 탄핵",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22063",
-      "titleOriginal": "JUST IN - Trump appoints Stephen Miller his next White House Chief of Staff, replacing Susie Wiles.",
-      "url": "https://www.disclose.tv/id/eth8i6h3ks/",
-      "lang": "en",
-      "publishedAt": "2026-11-06T19:00:08.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "방금 - 트럼프는 수지 와일을 대신하여 스티븐 밀러를 차기 백악관 비서실장으로 임명합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78907",
-      "titleOriginal": "Activists breach Microsoft data centre construction site as protests spread in Europe",
-      "url": "https://www.reuters.com/world/europe/activists-breach-microsoft-data-centre-construction-site-protests-spread-europe-2026-11-06/",
-      "lang": "en",
-      "publishedAt": "2026-11-06T18:49:35.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "유럽에서 시위가 확산됨에 따라 활동가들이 Microsoft 데이터 센터 건설 현장을 침해합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10129",
-      "titleOriginal": "Lame-duck Congress might actually do something: speed up energy projects",
-      "url": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
-      "lang": "en",
-      "publishedAt": "2026-11-06T18:44:53.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Lame-duck Congress는 실제로 무언가를 할 수 있습니다: 에너지 프로젝트의 속도 향상",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78906",
-      "titleOriginal": "Ukraine’s October deep strikes hit 7 defense industry enterprises and 3 russian military airfields",
-      "url": "https://mod.gov.ua/en/news/ukraine-strikes-russian-defense-industry-october-2026?utm_source=chatgpt.com",
-      "lang": "en",
-      "publishedAt": "2026-11-06T18:29:25.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "우크라이나의 10월 딥 스트라이크는 7개의 방위 산업 기업과 3개의 러시아 군 비행장을 강타했습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10128",
-      "titleOriginal": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "lang": "en",
-      "publishedAt": "2026-11-06T18:20:01.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Meta의 Muse AI는 현재 필요한 앱 버전에 대한 사용자 정의 ‘공간’ 을 만들 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78905",
-      "titleOriginal": "Protesters Break Into Microsoft Data Center Site in Amsterdam",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/protesters-break-into-microsoft-data-center-site-in-amsterdam",
-      "lang": "en",
-      "publishedAt": "2026-11-06T18:19:33.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "시위대가 암스테르담의 Microsoft 데이터 센터 사이트에 침입",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20109",
-      "titleOriginal": "Budanov tells CBS News he doesn't expect a breakthrough at the Abu Dhabi talks, but sees the fact that they're happening as progress. He says the sides will discuss bringing positions closer and this won't be the last meeting. Medinsky will",
-      "url": "https://t.me/wartranslated/20109",
-      "lang": "en",
-      "publishedAt": "2026-11-06T18:09:16.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "부다노프는 CBS 뉴스에 아부다비 회담에서 돌파구를 기대하지 않지만, 그들이 진전되고 있다는 사실을 알고 있다고 말합니다. 그는 양측이 입장을 더 가깝게 하는 것에 대해 논의할 것이며 이번이 마지막 회의가 아닐 것이라고 말합니다. 메딘스키는",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10127",
-      "titleOriginal": "Amazon is now making a Melania Trump TV series",
-      "url": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
-      "lang": "en",
-      "publishedAt": "2026-11-06T18:00:41.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "아마존은 이제 멜라니아 트럼프 TV 시리즈를 만들고 있습니다",
       "translated": true
     }
   ]
