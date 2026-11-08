@@ -1,8 +1,195 @@
 {
-  "updatedAt": "2026-11-08T18:57:43.402Z",
+  "updatedAt": "2026-11-08T22:43:59.495Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "theverge_news:10151",
+      "titleOriginal": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+      "lang": "en",
+      "publishedAt": "2026-11-08T22:40:52.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "소울 글로의 디아스포라 문제는 다른 어떤 것과도 비교할 수 없는 하드코어 기록입니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78966",
+      "titleOriginal": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "url": "https://www.bbc.com/news/articles/c3dxw10rjn9no",
+      "lang": "en",
+      "publishedAt": "2026-11-08T22:39:31.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "엔비디아, 중국 스파이로 의심되는 CEO 사건 조사 착수",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92191",
+      "titleOriginal": "Amyloid Fibers Have an Unexpected Role in Sperm, Scientists Discover",
+      "url": "https://www.sciencealert.com/amyloid-fibers-have-an-unexpected-role-in-sperm-scientists-discover",
+      "lang": "en",
+      "publishedAt": "2026-11-08T22:25:46.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들이 발견한 아밀로이드 섬유는 정자에서 예상치 못한 역할을 합니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22081",
+      "titleOriginal": "ICYMI - Microsoft files a patent for AI that can rewrite what people say in real time during livestreams.",
+      "url": "https://www.disclose.tv/id/vlxsjq2bwb/",
+      "lang": "en",
+      "publishedAt": "2026-11-08T21:33:28.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "ICYMI - Microsoft는 라이브 스트림 중에 사람들이 말하는 내용을 실시간으로 다시 작성할 수 있는 AI에 대한 특허를 제출합니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22080",
+      "titleOriginal": "NEW - Nvidia launches an independent investigation into Jensen Huang after he admitted having an affair with a Chinese businesswoman accused of spying for China.",
+      "url": "https://www.disclose.tv/id/x1jdnbityh/",
+      "lang": "en",
+      "publishedAt": "2026-11-08T21:13:38.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "새로운 소식 - 엔비디아는 젠슨 황 (Jensen Huang) 이 중국을 염탐한 혐의로 기소된 중국 사업가와 불륜을 저질렀다고 인정한 후 독립적인 조사를 시작합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10150",
+      "titleOriginal": "Epic Games Launcher is coming to SteamOS",
+      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+      "lang": "en",
+      "publishedAt": "2026-11-08T21:00:11.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Epic Games Launcher가 SteamOS에 출시됩니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78965",
+      "titleOriginal": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+      "url": "https://www.aljazeera.com/amp/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam",
+      "lang": "en",
+      "publishedAt": "2026-11-08T20:54:15.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "수십만 명이 이스라엘에 대한 암스테르담의 ‘레드 라인’ 시위에 동참합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78964",
+      "titleOriginal": "Ukraine’s Marines Cross the Dnipro—Storm Russian Positions and Gain Ground",
+      "url": "https://united24media.com/war-in-ukraine/ukraines-marines-cross-the-dnipro-storm-russian-positions-and-gain-ground-24172",
+      "lang": "en",
+      "publishedAt": "2026-11-08T20:44:09.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나의 해병대가 드니프로-스톰을 넘나드는 러시아 포지션과 획득 지점",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15712",
+      "titleOriginal": "Four passengers were killed and 88 injured on November 8 after several cars of a passenger train derailed and overturned near Gerza in Egypt’s Giza province, the Health Ministry said. The train struck the rear of another service on the Cair",
+      "url": "https://t.me/trtworld/15712",
+      "lang": "en",
+      "publishedAt": "2026-11-08T20:28:02.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "보건부는 11월 8일 이집트 기자 지방의 게르자 근처에서 승객 열차의 여러 대가 탈선하고 전복된 후 4명의 승객이 사망하고 88명이 부상을 입었다고 밝혔다. 열차가 Cair의 다른 서비스 후방에 충돌했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10149",
+      "titleOriginal": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "lang": "en",
+      "publishedAt": "2026-11-08T20:25:41.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "엔비디아는 젠슨 황 (Jensen Huang) 과 중국 스파이의 관계를 조사하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78963",
+      "titleOriginal": "Ukraine hits key bridge on 'highway of death' linking mainland Russia to occupied regions",
+      "url": "https://kyivindependent.com/ukraine-war-latest-ukraine-hits-key-bridge-on-highway-of-death-linking-mainland-russia-to-occupied-regions/",
+      "lang": "en",
+      "publishedAt": "2026-11-08T20:14:08.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나는 러시아 본토와 점령 지역을 연결하는 '죽음의 고속도로' 의 주요 다리를 쳤다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22079",
+      "titleOriginal": "NOW - Pope Leo XIV lands in Argentina.",
+      "url": "https://t.me/disclosetv/22079",
+      "lang": "en",
+      "publishedAt": "2026-11-08T20:11:06.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "이제 교황 레오 14세가 아르헨티나에 상륙합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78962",
+      "titleOriginal": "Can’t cook or shower: Indonesians take aim at data centers",
+      "url": "https://www.japantimes.co.jp/news/2026/11/08/asia-pacific/politics/indonesia-data-centers/",
+      "lang": "en",
+      "publishedAt": "2026-11-08T19:44:27.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "요리하거나 샤워할 수 없음: 인도네시아인은 데이터 센터를 목표로 삼습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20166",
+      "titleOriginal": "A drone attack damaged the bridge over the Mius river on the land route from Russia to occupied Crimea. Traffic on that section is fully blocked.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-11-08T19:36:16.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "드론 공격으로 러시아에서 점령한 크림반도로 가는 육로에서 미우스 강을 건너는 다리가 손상되었습니다. 해당 구간의 트래픽이 완전히 차단되었습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20165",
+      "titleOriginal": "Zelensky says Russia brought additional occupier forces into Oleshky and the surrounding community under cover of the humanitarian operation. He says the Armed Forces command must present proposals to better protect lives in Kherson from Ru",
+      "url": "https://t.me/wartranslated/20165",
+      "lang": "en",
+      "publishedAt": "2026-11-08T19:34:48.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "젤렌스키는 러시아가 올레슈키와 주변 지역 사회에 인도주의 작전의 은폐하에 추가 점령군을 데려왔다고 말한다. 그는 주한미군 사령부가 RU로부터 헤르손의 생명을 더 잘 보호하기 위한 제안을 제시해야 한다고 말한다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20164",
+      "titleOriginal": "A reporter asked Trump what it's like to be a loser. Trump turned away and walked off.",
+      "url": "https://t.me/wartranslated/20164",
+      "lang": "en",
+      "publishedAt": "2026-11-08T19:34:20.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "한 기자가 트럼프에게 패배자가 되는 것이 어떤지 물었다. 트럼프는 등을 돌리고 걸어나갔다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10148",
+      "titleOriginal": "Apple is racing to make Siri more agentic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "lang": "en",
+      "publishedAt": "2026-11-08T19:20:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Apple은 Siri를 보다 에이전트적으로 만들기 위해 경쟁하고 있습니다",
+      "translated": true
+    },
     {
       "id": "worldnews:78960",
       "titleOriginal": "UK Rallies Northern Europe to Hunt Russian Submarines Across Three Strategic Seas",
@@ -254,17 +441,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "방탄복 제조사인 NPO 스페츠마테로프의 격납고가 상트페테르부르크에서 화재가 발생했습니다. 불꽃은 격납고의 300 평방 미터를 모두 덮었습니다. 화재는 이제 현지화되었으며 사상자에 대한 정보는 없습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20153",
-      "titleOriginal": "A drone attack damaged the bridge over the Mius river on the land route from Russia to occupied Crimea. Traffic on that section is fully blocked.",
-      "url": "https://t.me/wartranslated/20153",
-      "lang": "en",
-      "publishedAt": "2026-11-08T12:26:09.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "드론 공격으로 러시아에서 점령한 크림반도로 가는 육로에서 미우스 강을 건너는 다리가 손상되었습니다. 해당 구간의 트래픽이 완전히 차단되었습니다",
       "translated": true
     },
     {
@@ -1475,182 +1651,6 @@
       "source": "ScienceAlert",
       "region": "과학",
       "title": "과학자들은 유령의 만남을 소환하기 위해 '사이코만테움' 을 사용했다. 그러다 이상해졌어요",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10134",
-      "titleOriginal": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "lang": "en",
-      "publishedAt": "2026-11-06T23:49:51.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "경쟁사인 Anthropic이 IPO에 근접함에 따라 OpenAI의 가치는 $ 1.25 조로 평가되었습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78917",
-      "titleOriginal": "Russian President Vladimir Putin has no ​veto on European security ‌matters and Ukraine must become fully integrated into European ​security architecture, says EU's ​foreign policy chief Kaja ⁠Kallas",
-      "url": "https://www.reuters.com/world/ukraine-must-be-part-europes-security-architecture-eu-foreign-policy-chief-says-2026-11-06/",
-      "lang": "en",
-      "publishedAt": "2026-11-06T23:19:33.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "블라디미르 푸틴 러시아 대통령은 유럽 안보 문제에 대해 거부권이 없으며 우크라이나는 유럽 안보 아키텍처에 완전히 통합되어야한다고 EU의 외교 정책 책임자 인 카자 칼라스 (Kaja⁠Kallas) 는 말한다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10133",
-      "titleOriginal": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "lang": "en",
-      "publishedAt": "2026-11-06T23:05:11.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "중국이 젠슨 황 (Jensen Huang) 을 감시하기 위해 AI 임원을 모집한 것으로 알려졌다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10132",
-      "titleOriginal": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
-      "url": "https://telegra.ph/Starlink-Mobile-All-the-news-on-SpaceXs-major-mobile-carri-11-06",
-      "lang": "en",
-      "publishedAt": "2026-11-06T22:45:52.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Starlink Mobile: SpaceX의 주요 이동통신사 포부에 대한 모든 뉴스",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78916",
-      "titleOriginal": "Teenage girl held captive for 500 days rescued after secretly asking for help in Among Us",
-      "url": "https://www.dexerto.com/among-us/teenage-girl-held-captive-for-500-days-rescued-after-secretly-asking-for-help-in-among-us-3425535/",
-      "lang": "en",
-      "publishedAt": "2026-11-06T22:29:32.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "Among Us에서 비밀리에 도움을 요청한 후 10대 소녀가 500일 동안 포로로 잡혀 있었습니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22066",
-      "titleOriginal": "JUST IN - Paraguay’s Senate impeaches President Santiago Peña, convicting him of misconduct over the collapse of a digital bank tied to his business interests and stripping his immunity from prosecution.",
-      "url": "https://www.disclose.tv/id/f9pzkp4lky/",
-      "lang": "en",
-      "publishedAt": "2026-11-06T22:19:59.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "바로가기 - 파라과이 상원은 산티아고 페냐 대통령을 탄핵하여 그의 사업 이익과 관련된 디지털 은행의 붕괴에 대한 위법 행위를 유죄 판결하고 기소 면죄부를 박탈합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78915",
-      "titleOriginal": "Pope Leo Says He Voted In U.S. Election Because He's \"Proud To Be An American\"",
-      "url": "https://www.cbsnews.com/news/pope-leo-votes-election-proud-american/",
-      "lang": "en",
-      "publishedAt": "2026-11-06T22:09:22.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "교황 레오가 미국 대선에서 투표한 이유는 \"미국인이라는 것이 자랑스럽기 때문\" 이라고 말했다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78914",
-      "titleOriginal": "Zelenskiy: \"We have intelligence ​at this time that Russia is preparing ​new strikes on energy, on bridges across ⁠the Dnipro, on civilian infrastructure; the air force and the ​armed forces of Ukraine as a whole are preparing for defence. ",
-      "url": "https://www.reuters.com/world/ukraines-zelenskiy-russian-forces-plan-new-strikes-energy-targets-bridges-2026-11-06/",
-      "lang": "en",
-      "publishedAt": "2026-11-06T21:44:31.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "젤렌스키: \"현재 우리는 러시아가 에너지, 드니프로 강 건너편의 다리, 민간 인프라에 대한 새로운 공격을 준비하고 있으며, 우크라이나 공군과 군대 전체가 방어를 준비하고 있다는 정보를 가지고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22065",
-      "titleOriginal": "NEW - Israel’s military is preparing a potential new offensive in Lebanon in case the war with Iran reignites, Israeli newspaper Yedioth Ahronoth reports.",
-      "url": "https://www.disclose.tv/id/6csl70ek7f/",
-      "lang": "en",
-      "publishedAt": "2026-11-06T21:20:10.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "새로운 소식 - 이스라엘 군대는 이란과의 전쟁이 재발할 경우를 대비해 레바논에서 잠재적인 새로운 공세를 준비하고 있다고 이스라엘 신문 예디오트 아흐로노트가 보도했다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78913",
-      "titleOriginal": "EU rejects Trump’s 'big beautiful' security deal with Russia",
-      "url": "https://www.euronews.com/2026/11/06/eu-rejects-trumps-big-beautiful-security-deal-with-russia-and-all-of-europe",
-      "lang": "en",
-      "publishedAt": "2026-11-06T21:09:37.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "EU, 트럼프의 러시아와의 '크고 아름다운' 안보 협상 거부",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78912",
-      "titleOriginal": "Putin Now Wants More Ukrainian Territory Beyond Donbas, FT Reports",
-      "url": "https://united24media.com/war-in-ukraine/putin-now-wants-more-ukrainian-territory-beyond-donbas-ft-reports-24149",
-      "lang": "en",
-      "publishedAt": "2026-11-06T20:54:17.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "푸틴은 이제 돈바스를 넘어 더 많은 우크라이나 영토를 원한다, FT 리포트",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22064",
-      "titleOriginal": "NEW - Irish disinformation and \"fake news\" expert Tom Felle, appointed by Ireland’s online speech regulator as an expert assessor, falsely claimed a journalism doctorate from City, University of London that was never awarded.",
-      "url": "https://www.disclose.tv/id/hmc4mp7e93/",
-      "lang": "en",
-      "publishedAt": "2026-11-06T20:46:14.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "새로운 소식 - 아일랜드의 허위 정보 및 \"가짜 뉴스\" 전문가 톰 펠레 (Tom Felle) 는 아일랜드의 온라인 음성 규제 기관이 전문 평가자로 임명하여 런던 대학교 시에서 저널리즘 박사 학위를 허위로 취득했다고 주장했습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78911",
-      "titleOriginal": "Canadian PM Carney's new budget aims to end homelessness in 10 years",
-      "url": "https://www.cbc.ca/news/politics/budget-homelessness-canada-decade-9.7411226",
-      "lang": "en",
-      "publishedAt": "2026-11-06T20:39:06.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "캐나다 PM Carney의 새로운 예산은 10년 안에 노숙자를 없애는 것을 목표로 하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78910",
-      "titleOriginal": "Estonian Defense official: Russia is stepping up attacks on civilian infrastructure",
-      "url": "https://news.err.ee/1610188570/defense-official-russia-is-stepping-up-attacks-on-civilian-infrastructure",
-      "lang": "en",
-      "publishedAt": "2026-11-06T20:24:22.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "에스토니아 국방부 관계자: 러시아가 민간 인프라에 대한 공격을 강화하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20114",
-      "titleOriginal": "European TV channels received bomb threats by email today, Reuters reports , including Ireland’s RTE, Sky in Britain and Bulgaria’s Nova TV, and no bombs were found.",
-      "url": "https://www.reuters.com/world/bomb-threats-warning-the-clock-is-ticking-disrupt-tv-channels-across-europe-2026-11-06/",
-      "lang": "en",
-      "publishedAt": "2026-11-06T20:15:31.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "로이터는 아일랜드의 RTE, 영국의 스카이, 불가리아의 노바 TV를 포함한 유럽 TV 채널이 오늘 이메일로 폭탄 위협을 받았으며 폭탄은 발견되지 않았다고 보도했다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10131",
-      "titleOriginal": "All the latest updates on AI data centers",
-      "url": "https://telegra.ph/All-the-latest-updates-on-AI-data-centers-11-06-3",
-      "lang": "en",
-      "publishedAt": "2026-11-06T20:05:41.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "AI 데이터 센터에 대한 모든 최신 업데이트",
       "translated": true
     }
   ]
