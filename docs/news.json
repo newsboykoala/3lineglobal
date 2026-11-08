@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-11-07T21:03:31.692Z",
+  "updatedAt": "2026-11-08T00:50:56.581Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78946",
+      "titleOriginal": "Hackers claim leaked Russian data reveals up to 450,000 war-related deaths in Ukraine",
+      "url": "https://kyivindependent.com/hackers-claim-leaked-russian-data-reveals-up-to-450-000-war-related-deaths-in-ukraine/",
+      "lang": "en",
+      "publishedAt": "2026-11-08T00:19:35.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "해커의 러시아 데이터 유출 주장에 따르면 우크라이나에서 최대 45만 명의 전쟁 관련 사망자가 발생했습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92182",
+      "titleOriginal": "Humans Are Still Evolving Right Before Our Eyes. Here Are 5 Signs on Our Bodies",
+      "url": "https://www.sciencealert.com/humans-are-still-evolving-right-before-our-eyes-here-are-5-signs-on-our-bodies",
+      "lang": "en",
+      "publishedAt": "2026-11-08T00:04:40.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "인간은 여전히 눈앞에서 진화하고 있습니다. 우리 몸에 5가지 징후가 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78945",
+      "titleOriginal": "Pope Leo calls for universal health care ‘in every society’ in first address in Uruguay",
+      "url": "https://www.americamagazine.org/vatican-dispatch/2026/11/06/pope-leo-uruguay-welcome-universal-health-care/",
+      "lang": "en",
+      "publishedAt": "2026-11-07T22:34:32.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "교황 레오는 우루과이의 첫 번째 연설에서 ‘모든 사회에서’ 보편적 건강 관리를 요구합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78944",
+      "titleOriginal": "Boeing Cleared To Sell Parts & Jets To Belarus Despite Fears They’ll End Up In Russia",
+      "url": "https://simpleflying.com/boeing-cleared-sell-parts-jets-belarus-belavia-despite-russia/",
+      "lang": "en",
+      "publishedAt": "2026-11-07T22:04:06.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "보잉, 벨라루스에 부품 및 제트기 판매 허가 러시아에서 끝날 것이라는 두려움에도 불구하고 벨라루스에 판매",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92181",
+      "titleOriginal": "A Mysterious Asteroid Is Accelerating in Space, And We're Running Out of Explanations",
+      "url": "https://www.sciencealert.com/a-mysterious-asteroid-is-accelerating-in-space-and-were-running-out-of-explanations",
+      "lang": "en",
+      "publishedAt": "2026-11-07T21:45:40.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "신비로운 소행성이 우주에서 가속화되고 있으며, 우리는 설명이 부족합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78943",
+      "titleOriginal": "Zelenskiy: \"We currently have intelligence indicating that a new attack is being prepared against our energy infrastructure, our bridges across the Dnipro River, and civilian infrastructure\"",
+      "url": "https://kyivindependent.com/russia-preparing-major-attack-against-ukraines-bridges-critical-infrastructure-zelensky-warns/",
+      "lang": "en",
+      "publishedAt": "2026-11-07T21:34:15.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "젤렌스키: \"현재 우리는 에너지 인프라, 드니프로 강을 가로지르는 다리, 민간 인프라에 대한 새로운 공격이 준비되고 있음을 나타내는 정보를 보유하고 있습니다",
+      "translated": true
+    },
     {
       "id": "liveuamap:12504",
       "titleOriginal": "Interior Minister Marcin Kierwiński at a press conference in Kraków: The perpetrator may have been fascinated by far-right ideologies. This line of inquiry will, however, be thoroughly investigated. Officers from the Polish Police and the I",
@@ -1585,72 +1651,6 @@
       "source": "ScienceAlert",
       "region": "과학",
       "title": "약물은 알츠하이머 연관 단백질의 노화 쥐 및 절반 수준에서 간 기능을 회복시킵니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22061",
-      "titleOriginal": "JUST IN - Meghan Markle's father arrested in Florida.",
-      "url": "https://t.me/disclosetv/22061",
-      "lang": "en",
-      "publishedAt": "2026-11-06T14:52:58.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "방금 - 메건 마클의 아버지가 플로리다에서 체포되었습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10114",
-      "titleOriginal": "Stranger Things is getting a live-action spinoff called Other Worlds",
-      "url": "https://www.theverge.com/entertainment/1028608/other-worlds-a-stranger-things-adventure-netflix-announce-trailer",
-      "lang": "en",
-      "publishedAt": "2026-11-06T14:35:10.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Stranger Things는 Other Worlds라는 라이브 액션 스핀오프를 받고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20099",
-      "titleOriginal": "Peskov claims the Kremlin has no details about the peace deal Trump has been talking about and hasn't received any ideas from Europeans on security guarantees, adding that Europeans can't decide who's authorized to talk to Russia on their b",
-      "url": "https://t.me/wartranslated/20099",
-      "lang": "en",
-      "publishedAt": "2026-11-06T14:28:39.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "페스코프는 크렘린이 트럼프가 말한 평화 협상에 대한 세부 사항이 없으며 유럽인들로부터 안보 보장에 대한 아이디어를받지 못했다고 주장하면서 유럽인들은 러시아와 대화 할 권한이있는 사람을 결정할 수 없다고 덧붙였다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20098",
-      "titleOriginal": "18+ A Russian occupier tried to take cover, but a kamikaze drone found him and destroyed him anyway.",
-      "url": "https://t.me/wartranslated/20098",
-      "lang": "en",
-      "publishedAt": "2026-11-06T14:24:39.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "18 + 러시아 점령자가 은폐하려고 했지만, 어쨌든 카미카제 드론이 그를 발견하고 파괴했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20097",
-      "titleOriginal": "NATO chief Rutte says Europe is no saint either, since it bought far more Russian LNG this year than the US diesel deal amounts to. Rutte says the war will likely end in a compromise and Ukraine is unlikely to regain all its territories.",
-      "url": "https://t.me/wartranslated/20097",
-      "lang": "en",
-      "publishedAt": "2026-11-06T14:16:36.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "NATO의 럿 수석은 올해 미국 디젤 거래 금액보다 훨씬 더 많은 러시아 LNG를 구입했기 때문에 유럽도 성자가 아니라고 말한다. 뤼트는 전쟁이 타협으로 끝날 것이며 우크라이나는 모든 영토를 되찾지 못할 것이라고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10112",
-      "titleOriginal": "Amazon will let you text Alexa your shopping list",
-      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "lang": "en",
-      "publishedAt": "2026-11-06T14:05:30.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "아마존에서 Alexa에게 쇼핑 목록을 문자 메시지로 보내드립니다",
       "translated": true
     }
   ]
