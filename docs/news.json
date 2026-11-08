@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-11-08T00:50:56.581Z",
+  "updatedAt": "2026-11-08T06:56:44.350Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78948",
+      "titleOriginal": "Polish gunman who killed 6 people in Krakow has ‘ultranationalistic’ views, minister says",
+      "url": "https://www.ctvnews.ca/world/article/polish-gunman-who-killed-6-people-in-krakow-has-ultranationalistic-views-minister-says/",
+      "lang": "en",
+      "publishedAt": "2026-11-08T05:49:19.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "장관에 따르면 크라쿠프에서 6명을 살해한 폴란드 총잡이는 '초국가적‘ 견해를 가지고 있다고 한다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92183",
+      "titleOriginal": "Scientists Identified 10 Healthy Diets Linked to Slower Biological Aging",
+      "url": "https://www.sciencealert.com/scientists-identified-10-healthy-diets-linked-to-slower-biological-aging",
+      "lang": "en",
+      "publishedAt": "2026-11-08T02:23:27.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들은 느린 생물학적 노화와 관련된 10가지 건강한 식단을 확인했습니다",
+      "translated": true
+    },
     {
       "id": "worldnews:78946",
       "titleOriginal": "Hackers claim leaked Russian data reveals up to 450,000 war-related deaths in Ukraine",
@@ -1629,28 +1651,6 @@
       "source": "Insider Paper",
       "region": "속보",
       "title": "새로운 소식 - 일본, 공격 물결 이후 긴급 사이버 보안 패키지 출시",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10115",
-      "titleOriginal": "The Verge’s 2026 holiday gift guide",
-      "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
-      "lang": "en",
-      "publishedAt": "2026-11-06T15:09:01.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "더 버지의 2026년 연말연시 선물 가이드",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92167",
-      "titleOriginal": "Drug Restores Liver Function in Aging Rats And Halves Levels of an Alzheimer's-Linked Protein",
-      "url": "https://www.sciencealert.com/drug-restores-liver-function-in-aging-rats-and-halves-levels-of-an-alzheimers-linked-protein",
-      "lang": "en",
-      "publishedAt": "2026-11-06T14:53:15.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "약물은 알츠하이머 연관 단백질의 노화 쥐 및 절반 수준에서 간 기능을 회복시킵니다",
       "translated": true
     }
   ]
