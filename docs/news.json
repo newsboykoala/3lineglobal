@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-11-08T22:43:59.495Z",
+  "updatedAt": "2026-11-09T02:24:14.688Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:92192",
+      "titleOriginal": "The World's Biggest Sea of Sand Shows No Trace of Ancient Humans. Here's Why.",
+      "url": "https://www.sciencealert.com/the-worlds-biggest-sea-of-sand-shows-no-trace-of-ancient-humans-heres-why",
+      "lang": "en",
+      "publishedAt": "2026-11-09T01:21:11.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "세계에서 가장 큰 모래 바다는 고대 인류의 흔적을 전혀 찾아볼 수 없습니다. 그 이유는 다음과 같습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78969",
+      "titleOriginal": "US seeks China's help to end Iran war as diplomatic efforts intensify",
+      "url": "https://ilkha.com/english/world/us-seeks-chinas-help-to-end-iran-war-as-diplomatic-efforts-intensify-574651",
+      "lang": "en",
+      "publishedAt": "2026-11-09T01:14:20.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국은 외교적 노력이 강화됨에 따라 이란 전쟁을 끝내기 위해 중국의 도움을 구한다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78968",
+      "titleOriginal": "President Volodymyr Zelensky has announced that Russian forces used North Korean KN-23 ballistic missiles in an overnight strike on a key Ukrainian energy facility, with air defenses able to intercept only four of 36 ballistic missiles due ",
+      "url": "https://www.kyivpost.com/post/89444",
+      "lang": "en",
+      "publishedAt": "2026-11-09T00:29:17.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "볼로디미르 젤렌스키 (Volodymyr Zelensky) 대통령은 러시아군이 주요 우크라이나 에너지 시설에서 하룻밤 동안 북한 KN-23 탄도 미사일을 사용했으며, 방공 장치는 36개의 탄도 미사일 중 4개만 요격할 수 있다고 발표했다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22082",
+      "titleOriginal": "NOW - Congressional Progressive Caucus says that \"getting ICE off of our streets,\" is a \"massive priority\" and something they will focus on when congress starts.",
+      "url": "https://t.me/disclosetv/22082",
+      "lang": "en",
+      "publishedAt": "2026-11-08T23:05:15.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "이제 - 의회 진보 코커스는 \"거리에서 얼음을 내리는 것\" 이 \"엄청난 우선 순위\" 이며 의회가 시작될 때 집중할 것이라고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78967",
+      "titleOriginal": "US Prepares $15 Billion in Aid for Ukraine Following Election Victory",
+      "url": "https://militarnyi.com/en/news/democrats-prepare-15-billion-in-aid-for-ukraine-following-congressional-election-victory/",
+      "lang": "en",
+      "publishedAt": "2026-11-08T22:59:30.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국, 선거 승리 후 우크라이나에 $ 150억 원조 준비",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10152",
+      "titleOriginal": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "url": "https://telegra.ph/Heres-the-full-text-of-Jensen-Huangs-memo-to-Nvidia-11-08-2",
+      "lang": "en",
+      "publishedAt": "2026-11-08T22:55:22.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "다음은 엔비디아에 보낸 Jensen Huang의 메모 전문입니다",
+      "translated": true
+    },
     {
       "id": "theverge_news:10151",
       "titleOriginal": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
@@ -1585,72 +1651,6 @@
       "source": "Liveuamap",
       "region": "분쟁",
       "title": "비탈리 클리치코 (Vitali Klitschko) 시장은 키예프의 피브니치니 (Pivnichnyi) (북부) 다리를 공격하여 노면, 트롤리버스 오버헤드 와이어 및 송전선을 손상시켰다고 보고했습니다. https://liveuamap.com/en/2026/7-november-06-sever",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78920",
-      "titleOriginal": "U. S. Department of State offers $ 20 million for information pertaining to the Iranian nuclear program:",
-      "url": "https://rewardsforjustice.net/rewards/iran-nuclear-program/",
-      "lang": "en",
-      "publishedAt": "2026-11-07T03:29:09.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "미국 국무부는 이란 핵 프로그램과 관련된 정보에 대해 2천만 달러 ($) 를 제공합니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92173",
-      "titleOriginal": "A Cheap Daily Vitamin Shows Promise For People at Risk of Leukemia, Early Trial Finds",
-      "url": "https://www.sciencealert.com/a-cheap-daily-vitamin-shows-promise-for-people-at-risk-of-leukemia-early-trial-finds",
-      "lang": "en",
-      "publishedAt": "2026-11-07T02:21:19.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "저렴한 일일 비타민이 백혈병 위험이 있는 사람들을 위한 약속을 보여줌, 조기 시험 발견",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78919",
-      "titleOriginal": "U. S. Department of State issues travel advisory:",
-      "url": "https://ir.usembassy.gov/security-alert-iran-november-7-2026/",
-      "lang": "en",
-      "publishedAt": "2026-11-07T00:49:19.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "미국 국무부, 여행 경보 발령:",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78918",
-      "titleOriginal": "Two missiles struck Iran's Qeshm Island after aircraft heard above - report",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-914097",
-      "lang": "en",
-      "publishedAt": "2026-11-07T00:39:33.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "항공기가 위에서 들은 후 두 개의 미사일이 이란의 Qeshm 섬을 강타했습니다 - 보고",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92172",
-      "titleOriginal": "University Exams Produce a Distinct Chemical Signature in Sewage, Study Suggests",
-      "url": "https://www.sciencealert.com/university-exams-produce-a-distinct-chemical-signature-in-sewage-study-suggests",
-      "lang": "en",
-      "publishedAt": "2026-11-07T00:02:17.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "대학 시험은 하수에서 뚜렷한 화학적 서명을 생성합니다, 연구 제안",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92171",
-      "titleOriginal": "Scientists Used a 'Psychomanteum' to Summon Ghostly Encounters. Then It Got Weird.",
-      "url": "https://www.sciencealert.com/scientists-used-a-psychomanteum-to-summon-ghostly-encounters-then-it-got-weird",
-      "lang": "en",
-      "publishedAt": "2026-11-07T00:02:12.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "과학자들은 유령의 만남을 소환하기 위해 '사이코만테움' 을 사용했다. 그러다 이상해졌어요",
       "translated": true
     }
   ]
