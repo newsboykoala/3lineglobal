@@ -1,8 +1,151 @@
 {
-  "updatedAt": "2026-11-09T02:24:14.688Z",
+  "updatedAt": "2026-11-09T10:06:08.103Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78977",
+      "titleOriginal": "Krakow square attacker dies in hospital. The gunman died in the early hours of Monday, officials said",
+      "url": "https://tvpworld.com/96379616/krakow-shooting-attacker-dies-in-hospital-polish-police-says",
+      "lang": "en",
+      "publishedAt": "2026-11-09T09:59:17.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "크라쿠프 광장 공격자가 병원에서 사망합니다. 당국자들은 총잡이가 월요일 이른 시간에 사망했다고 말했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78976",
+      "titleOriginal": "Official Data Shows 450,000 Russians Killed in War, Death Rate Accelerating – Rosstat Leaks",
+      "url": "https://www.themoscowtimes.com/2026/11/08/official-data-shows-450000-russians-killed-in-war-death-rate-accelerating-leaks-a94200",
+      "lang": "en",
+      "publishedAt": "2026-11-09T09:54:14.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "공식 데이터에 따르면 전쟁에서 사망한 러시아인 450,000명, 사망률 가속화 – Rosstat 유출",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78975",
+      "titleOriginal": "Ukraine Strikes Russia’s Second-Largest Oil Refinery as 113 Drones Hit Leningrad Region",
+      "url": "https://www.kyivpost.com/post/89506",
+      "lang": "en",
+      "publishedAt": "2026-11-09T09:29:25.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나는 113대의 드론이 레닌그라드 지역을 강타하면서 러시아에서 두 번째로 큰 석유 정제소를 강타합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45788",
+      "titleOriginal": "WATCH: President Donald Trump shares a cartoon video depicting UFC CEO Dana White as White House press secretary",
+      "url": "https://t.me/insiderpaper/45788",
+      "lang": "en",
+      "publishedAt": "2026-11-09T09:20:16.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "동영상 보기: 도널드 트럼프 대통령이 UFC CEO 데이나 화이트를 백악관 언론 비서로 묘사한 만화 영상을 공유합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45787",
+      "titleOriginal": "BREAKING: Gunman suspected of shooting and killing six people in Krakow, Poland has died in hospital",
+      "url": "https://t.me/insiderpaper/45787",
+      "lang": "en",
+      "publishedAt": "2026-11-09T08:28:21.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "브레이킹: 폴란드 크라쿠프에서 총격을 가해 6명이 사망한 것으로 의심되는 총잡이가 병원에서 사망했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78974",
+      "titleOriginal": "Ukraine will likely 'end up with a little bit different shape' after war, Trump tells 60 Minutes",
+      "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
+      "lang": "en",
+      "publishedAt": "2026-11-09T08:14:18.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "전쟁이 끝난 후 우크라이나는 '조금 다른 모양으로 끝날 것' 이라고 트럼프는 말한다. 60 분",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78973",
+      "titleOriginal": "AQI Levels in India’s Capital Soared Above 1500 on Diwali Night, Reaching Unprecedented Levels of Air Pollution.",
+      "url": "https://www.telegraphindia.com/amp/india/delhi-chokes-on-diwali-night-as-pollution-hits-hazardous-levels-one-station-records-aqi-of-1521/cid/2188464",
+      "lang": "en",
+      "publishedAt": "2026-11-09T06:59:34.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "인도 수도의 대기 질 수준은 디왈리 야간에 1500 이상으로 치솟아 전례 없는 대기 오염 수준에 도달했습니다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15714",
+      "titleOriginal": "A group of vile Israeli tourists filmed themselves laughing as they pushed a boat operator into the ocean during a boat ride in Sri Lanka. The footage has fuelled massive debate on the island as local residents and business owners raise ser",
+      "url": "https://t.me/trtworld/15714",
+      "lang": "en",
+      "publishedAt": "2026-11-09T06:59:16.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "한 무리의 비열한 이스라엘 관광객들이 스리랑카에서 보트를 타는 동안 보트 운전자를 바다로 밀어 넣으며 웃고 있는 모습을 촬영했다. 이 영상은 지역 주민과 사업주가 세르를 키우면서 섬에서 대규모 논쟁을 불러 일으켰습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45786",
+      "titleOriginal": "NEW: Trump says likely to meet Putin and Xi in China",
+      "url": "https://insiderpaper.com/trump-says-likely-to-meet-putin-xi-in-china/",
+      "lang": "en",
+      "publishedAt": "2026-11-09T06:43:34.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "새로운 소식: 트럼프 대통령은 중국에서 푸틴과 시 주석을 만날 가능성이 있다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15713",
+      "titleOriginal": "Follow our Daily News Brief for Monday, November 9th",
+      "url": "https://trt.world/cvns",
+      "lang": "en",
+      "publishedAt": "2026-11-09T06:17:22.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "11월 9일 월요일 데일리 뉴스 브리프를 팔로우하세요",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78972",
+      "titleOriginal": "Putin may not want peace, warns Norwegian leader who spoke to him",
+      "url": "https://www.politico.eu/article/vladimir-putin-peace-norway-jonas-gahr-store-russia-ukraine-war/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication",
+      "lang": "en",
+      "publishedAt": "2026-11-09T05:19:28.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "푸틴은 자신과 대화한 노르웨이 지도자에게 평화를 원하지 않을 수도 있다고 경고한다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92193",
+      "titleOriginal": "Larger Dogs Age Faster, And Scientists May Finally Know Why",
+      "url": "https://www.sciencealert.com/larger-dogs-age-faster-and-scientists-may-finally-know-why",
+      "lang": "en",
+      "publishedAt": "2026-11-09T03:05:26.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "큰 개들은 더 빨리 나이를 먹으며, 과학자들은 마침내 그 이유를 알 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78970",
+      "titleOriginal": "France to join Ukraine-US-Russia talks in Abu Dhabi",
+      "url": "https://www.pravda.com.ua/eng/news/2026/11/08/8061819/",
+      "lang": "en",
+      "publishedAt": "2026-11-09T02:54:12.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "프랑스, 아부다비에서 우크라이나-미국-러시아 회담 참가",
+      "translated": true
+    },
     {
       "id": "sciencealert:92192",
       "titleOriginal": "The World's Biggest Sea of Sand Shows No Trace of Ancient Humans. Here's Why.",
@@ -1508,149 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "트럼프는 투표에 참여하지 않았기 때문에 이 중간고사가 자신의 선거가 아니라고 말합니다. 그는 자신의 집회가 중간고사 역사상 가장 큰 집회였으며, 모든 경기장이 꽉 찼고 수천 개의 외부가 거대한 스크린을 보고 있다고 덧붙였습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20127",
-      "titleOriginal": "Ukraine's General Staff says two Iskander launchers were hit in Bryansk region on November 6 and overnight into November 7.",
-      "url": "https://t.me/wartranslated/20127",
-      "lang": "en",
-      "publishedAt": "2026-11-07T09:02:09.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 총참모부는 11월 6일과 11월 7일까지 하룻밤 사이에 브랸스크 지역에서 이스칸데르 발사대 2기가 공격을 받았다고 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20126",
-      "titleOriginal": "Overnight on November 7, Oryol region governor Klychkov admitted partial damage to production buildings at the Proton plant, which makes components used in Iskander-M and Pantsir-S1. The Saratov Rosneft refinery caught fire too after a seri",
-      "url": "https://t.me/wartranslated/20126",
-      "lang": "en",
-      "publishedAt": "2026-11-07T09:00:40.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "11월 7일 밤, 오욜 지역 주지사 클리치코프는 Iskander-M 및 Pantsir-S1에 사용되는 부품을 만드는 양성자 공장의 생산 건물에 부분적인 손상을 입혔다고 시인했습니다. Saratov Rosneft 정유 공장도 SERI 후 화재가 발생했습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78923",
-      "titleOriginal": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
-      "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
-      "lang": "en",
-      "publishedAt": "2026-11-07T08:34:35.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "트럼프는 미국이 이란에 대한 또 다른 ‘사소한’ 공격을 실시한다고 말한다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20125",
-      "titleOriginal": "Russians are publishing a map showing the activity of strike weapons during the attack on Kyiv on November 6 and 7.",
-      "url": "https://t.me/wartranslated/20125",
-      "lang": "en",
-      "publishedAt": "2026-11-07T08:25:49.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아는 11월 6일과 7일 키예프 공격 당시 공격 무기의 활동을 보여주는 지도를 발표하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92174",
-      "titleOriginal": "A Stinky Gas Seeping From The Bowels of Mars May Reveal The Planet Is Still Volcanically Active",
-      "url": "https://www.sciencealert.com/a-stinky-gas-seeping-from-the-bowels-of-mars-may-reveal-the-planet-is-still-volcanically-active",
-      "lang": "en",
-      "publishedAt": "2026-11-07T08:09:38.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "화성의 창자에서 스며나오는 냄새나는 가스가 행성이 여전히 화산 활동 중임을 드러낼 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20123",
-      "titleOriginal": "Ukraine's Navy hit the Proton plant in Oryol with Neptune cruise missiles overnight on November 7, setting off a massive fire and repeated detonations. The plant made electronics for Russian weapons, including cruise missiles and Iskander-M",
-      "url": "https://t.me/wartranslated/20123",
-      "lang": "en",
-      "publishedAt": "2026-11-07T08:03:02.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 해군은 11월 7일 하룻밤 사이에 해왕성 순항 미사일로 오욜의 양성자 공장을 강타하여 대규모 화재와 반복적인 폭발을 일으켰다. 이 공장은 순항 미사일과 이스칸데르-M을 포함한 러시아 무기용 전자제품을 생산했다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78922",
-      "titleOriginal": "Iran distributes anti-radiation iodine tablets in Bushehr amid Trump threats",
-      "url": "https://www.trtworld.com/article/b361ae5c6d1f",
-      "lang": "en",
-      "publishedAt": "2026-11-07T07:54:34.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "이란은 트럼프의 위협 속에서 부셰르에 방사선 요오드 정제를 배포합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20122",
-      "titleOriginal": "Trump says that in his view Russia and Ukraine want to reach a deal for the first time, and he had phone calls today with a few more planned tomorrow. He thinks it will be a very large deal that involves all of Europe.",
-      "url": "https://t.me/wartranslated/20122",
-      "lang": "en",
-      "publishedAt": "2026-11-07T07:29:33.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "트럼프는 러시아와 우크라이나가 처음으로 거래에 도달하기를 원한다고 말하며, 내일 몇 가지 더 계획된 전화 통화를했다. 그는 유럽 전체가 참여하는 매우 큰 거래가 될 것이라고 생각합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20121",
-      "titleOriginal": "Rostov region was under a drone attack today. A warehouse near the Almaz plant in Rostov-on-Don, which makes military equipment and communication systems.",
-      "url": "https://t.me/wartranslated/20121",
-      "lang": "en",
-      "publishedAt": "2026-11-07T07:08:29.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "로스토프 지역은 오늘 드론 공격을 받았습니다. 로스토프나도누 (Rostov-on-Don) 의 알마즈 (Almaz) 공장 근처의 창고로 군사 장비와 통신 시스템을 만듭니다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12501",
-      "titleOriginal": "Overnight, Russia launched multiple Iskander-M, Tsirkon, KN-23 and S-400 ballistic missiles, along with 172 attack drones of various types, according to the Ukrainian Air Force. https://liveuamap.com/en/2026/7-november-07-overnight-russia-l",
-      "url": "https://liveuamap.com/en/2026/7-november-07-overnight-russia-launched-multiple-iskandermtsyrkonkn23s400",
-      "lang": "en",
-      "publishedAt": "2026-11-07T07:04:41.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "우크라이나 공군에 따르면 러시아는 밤새 여러 대의 Iskander-M, Tsirkon, KN-23 및 S-400 탄도 미사일과 다양한 유형의 172 대의 공격 드론을 발사했다. https://liveuamap.com/en/2026/7-november-07-overnight-russia-",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15707",
-      "titleOriginal": "Follow our Daily News Brief for Saturday, November 7th",
-      "url": "https://trt.world/cvny",
-      "lang": "en",
-      "publishedAt": "2026-11-07T07:03:57.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "11월 7일 토요일 일일 뉴스 브리프를 팔로우하세요",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20115",
-      "titleOriginal": "DroneBomber says monitoring channels report missile danger in Rostov and Volgograd regions this evening, with the missiles most likely already nearing Volgograd region. Many drones are also recorded over Bryansk region, and locals in Kursk ",
-      "url": "https://t.me/wartranslated/20115",
-      "lang": "en",
-      "publishedAt": "2026-11-07T06:55:18.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "DroneBomber는 모니터링 채널이 오늘 저녁 로스토프와 볼고그라드 지역에서 미사일 위험을 보고했으며 미사일은 이미 볼고그라드 지역에 근접했을 가능성이 높다고 말했습니다. 브랸스크 지역에는 많은 드론이 기록되어 있으며 쿠르스크 지역 주민들도 기록되어 있습니다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12500",
-      "titleOriginal": "Several missiles struck the Pivnichnyi (Northern) Bridge in Kyiv, damaging the road surface, trolleybus overhead wires, and a power transmission line, Mayor Vitali Klitschko reported https://liveuamap.com/en/2026/7-november-06-several-missi",
-      "url": "https://liveuamap.com/en/2026/7-november-06-several-missiles-struck-the-pivnichnyi-northern",
-      "lang": "en",
-      "publishedAt": "2026-11-07T06:42:25.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "비탈리 클리치코 (Vitali Klitschko) 시장은 키예프의 피브니치니 (Pivnichnyi) (북부) 다리를 공격하여 노면, 트롤리버스 오버헤드 와이어 및 송전선을 손상시켰다고 보고했습니다. https://liveuamap.com/en/2026/7-november-06-sever",
       "translated": true
     }
   ]
