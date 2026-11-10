@@ -1,8 +1,217 @@
 {
-  "updatedAt": "2026-11-09T20:57:20.615Z",
+  "updatedAt": "2026-11-10T03:19:30.713Z",
   "count": 150,
-  "translatedCount": 142,
+  "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:78995",
+      "titleOriginal": "Report: Netanyahu trying to convince Trump to launch campaign against Iran, 'calls every day'",
+      "url": "https://www.ynetnews.com/article/rkl5zfnrv",
+      "lang": "en",
+      "publishedAt": "2026-11-10T01:49:23.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "보고서: 네타냐후는 트럼프가 이란에 대한 캠페인을 시작하도록 설득하려고 노력하며 '매일 전화' 합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92202",
+      "titleOriginal": "Scientists Simulated What Earth Would Be Like if Life Never Existed",
+      "url": "https://www.sciencealert.com/scientists-simulated-what-earth-would-be-like-if-life-never-existed",
+      "lang": "en",
+      "publishedAt": "2026-11-10T01:11:43.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들은 생명이 존재하지 않는다면 지구는 어떤 모습일지 시뮬레이션했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10180",
+      "titleOriginal": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "lang": "en",
+      "publishedAt": "2026-11-10T00:30:21.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "데이비드 엘리슨 (David Ellison) 은 인공 지능이 ‘현대 역사상 가장 큰 창조적 인 잠금 해제’ 가 될 수 있다고",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10179",
+      "titleOriginal": "What could China get from Jensen Huang?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "lang": "en",
+      "publishedAt": "2026-11-09T23:55:11.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "중국은 젠슨 황으로부터 무엇을 얻을 수 있을까?",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10178",
+      "titleOriginal": "Here’s what Trump said he knew about Jensen Huang",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "lang": "en",
+      "publishedAt": "2026-11-09T23:50:21.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "다음은 트럼프가 Jensen Huang에 대해 알고 있다고 말한 내용입니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78994",
+      "titleOriginal": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
+      "url": "https://www.aljazeera.com/amp/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
+      "lang": "en",
+      "publishedAt": "2026-11-09T23:34:12.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프 대통령은 카타르 PM과의 회담 후 이란 전쟁을 ‘사실상 끝났다’ 고 부른다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78993",
+      "titleOriginal": "Haiti police, Salvadoran troops destroy house of 400 Mawozo gang leader",
+      "url": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article317992703.html?taid=6af1f2b6c6e521000165bc49&amp;utm_campaign=trueanthem&amp;utm_medium=social&amp;utm_source=twitter",
+      "lang": "en",
+      "publishedAt": "2026-11-09T23:29:19.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "아이티 경찰, 살바도르 군대, 마와조 갱단 지도자 400명 집 파괴",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92201",
+      "titleOriginal": "Skin Regenerates Differently in Males And Females, Study in Mice Reveals",
+      "url": "https://www.sciencealert.com/skin-regenerates-differently-in-males-and-females-study-in-mice-reveals",
+      "lang": "en",
+      "publishedAt": "2026-11-09T23:26:16.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "수컷과 암컷에서 피부가 다르게 재생됨, 생쥐를 대상으로 한 연구 결과",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10177",
+      "titleOriginal": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "url": "https://telegra.ph/Everything-we-know-so-far-about-the-Nvidia-spy-scandal-targe-11-09",
+      "lang": "en",
+      "publishedAt": "2026-11-09T23:11:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "CEO 젠슨 황 (Jensen Huang) 을 겨냥한 엔비디아 스파이 스캔들에 대해 지금까지 우리가 알고 있는 모든 것",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78992",
+      "titleOriginal": "Russia 'pretending' to negotiate on Ukraine while 'bombing civilians', says the EU's foreign ​policy chief Kallas, adding that Moscow had already signed up to numerous agreements underpinning European security but had failed to respect them",
+      "url": "https://www.reuters.com/world/eus-kallas-sees-no-sign-russian-goodwill-negotiate-peace-2026-11-09/",
+      "lang": "en",
+      "publishedAt": "2026-11-09T22:49:22.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "칼라스 유럽연합 (EU) 외교정책실장은 러시아가 우크라이나에 대해 '폭격' 을 하면서 '협상하는 척' 하고 있다면서 모스크바는 이미 유럽 안보를 뒷받침하는 수많은 협정에 서명했지만 이를 존중하지 않았다고 덧붙였다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22091",
+      "titleOriginal": "NOW - Trump says Biden let in 25 million migrants, including 11,888 murderers, and vows to deport the \"worst of the worst, and then we'll see what happens\" signaling flexibility for the rest: \"Many of them have good jobs now. They’re produc",
+      "url": "https://t.me/disclosetv/22091",
+      "lang": "en",
+      "publishedAt": "2026-11-09T22:03:21.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "이제 - 트럼프는 바이든이 11,888명의 살인자를 포함한 2천 5백만 명의 이민자를 수용하고 \"최악의 최악의 상황\" 을 추방하겠다고 서약했으며, 나머지는 어떻게 될지 보게 될 것이라고 말합니다. \"그들 중 다수는 지금 좋은 일자리를 가지고 있습니다. 그들은 생산적입니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92200",
+      "titleOriginal": "Scientists Find a Way to Grow a Thicker And Fuller Mustache in Just 8 Weeks",
+      "url": "https://www.sciencealert.com/scientists-find-a-way-to-grow-a-thicker-and-fuller-mustache-in-just-8-weeks",
+      "lang": "en",
+      "publishedAt": "2026-11-09T21:56:10.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들은 단 8 주 만에 더 두껍고 풍성한 콧수염을 키울 수있는 방법을 찾습니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22090",
+      "titleOriginal": "NOW - Trump introduces Dana White to the press briefing room at the White House.",
+      "url": "https://t.me/disclosetv/22090",
+      "lang": "en",
+      "publishedAt": "2026-11-09T21:52:17.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "이제 트럼프는 데이나 화이트를 백악관 기자 브리핑룸에 소개합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10176",
+      "titleOriginal": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+      "url": "https://telegra.ph/MSIs-refurbished-QD-OLED-gaming-monitor-is-on-sale-for-unde-11-09-4",
+      "lang": "en",
+      "publishedAt": "2026-11-09T21:50:03.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "MSI의 리퍼 QD-OLED 게이밍 모니터는 $ 300 미만으로 판매 중입니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:78991",
+      "titleOriginal": "Ukraine says intercepted call shows Russian commander using African recruit as 'human shield'",
+      "url": "https://tvpworld.com/96390716/chocolate-one-russian-commander-recorded-using-racist-slur-for-african-recruit-",
+      "lang": "en",
+      "publishedAt": "2026-11-09T21:39:19.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나는 인터셉티드 콜이 러시아 사령관이 아프리카 신병을 '인간 방패' 로 사용하는 것을 보여준다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20186",
+      "titleOriginal": "The Operational Command South confirmed that the Ukrainian Defense Forces launched a comprehensive strike using drones against the Russian \"Rubicon\" unit in the vicinity of the temporarily occupied Berdyansk, Zaporizhzhia region. The enemy ",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-11-09T21:24:22.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "작전 사령부 남부는 우크라이나 국방군이 일시적으로 점령된 자포리자 지역 베르디안스크 부근의 러시아 \"루비콘\" 부대에 드론을 사용하여 종합 타격을 가한 것을 확인했다. 적군은",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10175",
+      "titleOriginal": "The global pledge to use AI for climate good is a cruel joke",
+      "url": "https://telegra.ph/The-global-pledge-to-use-AI-for-climate-good-is-a-cruel-joke-11-09-7",
+      "lang": "en",
+      "publishedAt": "2026-11-09T21:21:02.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "기후변화에 AI를 사용하겠다는 전 세계의 공약은 잔인한 농담입니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22089",
+      "titleOriginal": "NOW - Thomas Massie advocates for Ron DeSantis, saying he would \"be great\" as Secretary of War if Hegseth were successfully impeached.",
+      "url": "https://t.me/disclosetv/22089",
+      "lang": "en",
+      "publishedAt": "2026-11-09T21:20:31.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "이제 토마스 마시 (Thomas Massie) 는 론 드산티스 (Ron DeSantis) 를 옹호하면서 헥세스가 성공적으로 탄핵되면 전쟁부 장관으로서 \"위대해질 것\" 이라고 말했다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20185",
+      "titleOriginal": "Latvia’s Foreign Minister, Baiba Braže, stated from the UN podium that Russia is committing genocide against Ukraine.",
+      "url": "https://t.me/wartranslated/20185",
+      "lang": "en",
+      "publishedAt": "2026-11-09T21:13:06.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "바이바 브라제 라트비아 외무장관은 유엔 연단에서 러시아가 우크라이나에 대한 대량 학살을 자행하고 있다고 밝혔다",
+      "translated": true
+    },
     {
       "id": "wartranslated:20184",
       "titleOriginal": "Zelenskyy: Russia intends to split Ukraine along the Dnipro River.",
@@ -671,8 +880,8 @@
       "publishedAt": "2026-11-09T12:23:02.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "NASA opens applications for astronauts who will live on the Moon",
-      "translated": false
+      "title": "NASA, 달에 살게 될 우주비행사들을 위한 애플리케이션 오픈",
+      "translated": true
     },
     {
       "id": "trtworld:15716",
@@ -682,8 +891,8 @@
       "publishedAt": "2026-11-09T12:07:26.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "American rapper Macklemore says nine major US arenas have declined to host his ‘Free Palestine’ tour, which recently completed three sold-out dates in Europe.",
-      "translated": false
+      "title": "미국 래퍼 매클모어 (Macklemore) 는 최근 유럽에서 3번의 매진을 기록한 ‘프리 팔레스타인 (Free Palestine)’ 투어의 미국 주요 경기장 9곳이 개최를 거부했다고 밝혔다",
+      "translated": true
     },
     {
       "id": "wartranslated:20169",
@@ -693,8 +902,8 @@
       "publishedAt": "2026-11-09T11:42:43.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "According to the ISW , the Ukrainian Armed Forces are counterattacking in three sectors of the front. Russian forces continue their offensive but have made no significant gains thanks to counteroffensive actions by the Ukrainian Defense For",
-      "translated": false
+      "title": "ISW에 따르면 우크라이나군은 전선의 세 부문에서 반격하고 있습니다. 러시아군은 공세를 계속하고 있지만 우크라이나 국방부의 반격 조치로 인해 큰 이득을 얻지 못했습니다",
+      "translated": true
     },
     {
       "id": "worldnews:78978",
@@ -704,8 +913,8 @@
       "publishedAt": "2026-11-09T11:34:18.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "‘They had him crucified’: Christian convert faces torture, execution in Egypt for leaving Islam",
-      "translated": false
+      "title": "그들은 그를 십자가에 못 박았습니다’: 기독교 개종자는 고문, 이슬람을 떠난 이집트에서의 처형에 직면합니다",
+      "translated": true
     },
     {
       "id": "sciencealert:92194",
@@ -715,8 +924,8 @@
       "publishedAt": "2026-11-09T11:17:24.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Animal Protein Is Linked to Lower Testosterone in Middle-Aged Men, Surprising Study Finds",
-      "translated": false
+      "title": "동물성 단백질은 중년 남성에서 더 낮은 테스토스테론과 연결되어 있다는 놀라운 연구 결과가 나왔습니다",
+      "translated": true
     },
     {
       "id": "wartranslated:20168",
@@ -726,8 +935,8 @@
       "publishedAt": "2026-11-09T11:10:45.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "In Kyiv, debris from a downed Geran drone fell onto a school stadium in one of the districts.",
-      "translated": false
+      "title": "키예프에서는 쓰러진 게란 드론의 잔해가 지구 중 한 곳의 학교 경기장에 떨어졌습니다",
+      "translated": true
     },
     {
       "id": "disclosetv:22083",
@@ -737,8 +946,8 @@
       "publishedAt": "2026-11-09T10:43:01.000Z",
       "source": "Disclose.tv",
       "region": "속보",
-      "title": "NEW - Trump now endorses an amnesty deal with Democrats, saying the people who want full deportations are on the \"pretty far right,\" after losing the midterms.",
-      "translated": false
+      "title": "새로운 소식 - 트럼프 대통령은 이제 민주당과의 사면 협상을 지지하며, 완전한 추방을 원하는 사람들은 중간 기한을 잃은 후 \"꽤 먼 오른쪽\" 에 있다고 말했다",
+      "translated": true
     },
     {
       "id": "wartranslated:20167",
@@ -748,8 +957,8 @@
       "publishedAt": "2026-11-09T10:39:12.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "Last night, Ukrainian drones attacked the \"Kirishinefteorgsintez\" oil refinery, located in the city of Kirishi, Leningrad region, Russia. The local governor confirmed the attack. \"KINEF\" is one of Russia's largest oil refineries. Its produc",
-      "translated": false
+      "title": "어젯밤, 우크라이나 드론이 러시아 레닌그라드 지역 키리시에 위치한 \"키리시네프테오르그신테즈\" 정유소를 공격했습니다. 현지 총독이 공격을 확인했다. \"KINEF\" 는 러시아에서 가장 큰 정유 공장 중 하나입니다. 생산",
+      "translated": true
     },
     {
       "id": "worldnews:78977",
@@ -1442,215 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "해커 그룹 사일런트 크로우 (Silent Crow) 는 사이버 빨치산 (Cyber Partisans BY) 으로 수행된 해킹의 로스탯 (Rosstat) 데이터를 기반으로 러시아가 우크라이나와의 전쟁에서 최소 450,100명의 사망자를 냈다고 주장합니다. 사망자는 한 달에 18,280명 ",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78952",
-      "titleOriginal": "Putin Seizes Three More Japan Tobacco Businesses, Bringing Takeover to $3.7 Billion",
-      "url": "https://united24media.com/war-in-ukraine/putin-seizes-three-more-japan-tobacco-businesses-bringing-takeover-to-37-billion-24169",
-      "lang": "en",
-      "publishedAt": "2026-11-08T11:34:10.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "푸틴, 일본 담배 사업 3곳 추가 압류, 37억 $ 인수",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78951",
-      "titleOriginal": "India questions US ‘double standards’ as Pakistan secures F-16 upgrade deal",
-      "url": "https://www.scmp.com/week-asia/politics/article/3373584/india-questions-us-double-standards-pakistan-secures-f-16-upgrade-deal?module=top_story&amp;pgtype=homepage",
-      "lang": "en",
-      "publishedAt": "2026-11-08T11:09:21.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "인도는 파키스탄이 F-16 업그레이드 계약을 체결함에 따라 미국의 ‘이중 기준’ 에 의문을 제기합니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92186",
-      "titleOriginal": "Scientists Identified a Biological Signature of Tinnitus, And It's in Your Blood",
-      "url": "https://www.sciencealert.com/scientists-identified-a-biological-signature-of-tinnitus-and-its-in-your-blood",
-      "lang": "en",
-      "publishedAt": "2026-11-08T11:04:22.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "과학자들은 이명의 생물학적 특징을 확인했고, 그것은 당신의 혈액에 있습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92185",
-      "titleOriginal": "This Robotic Hand Walks on Its Fingers Like Thing From The Addams Family, And It's Creepy as Heck",
-      "url": "https://www.sciencealert.com/this-robotic-hand-walks-on-its-fingers-like-thing-from-the-addams-family-and-its-creepy-as-heck",
-      "lang": "en",
-      "publishedAt": "2026-11-08T10:28:55.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "이 로봇 손은 애덤스 가족의 물건처럼 손가락을 짚고 걷는데, 헥헥 소름끼칩니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20150",
-      "titleOriginal": "Peskov claims the agenda for a meeting of Putin, Trump and Xi Jinping is being agreed right now. He also claims Russia has had no contacts with Europe on security architecture. China says a trilateral meeting is being discussed too.",
-      "url": "https://t.me/wartranslated/20150",
-      "lang": "en",
-      "publishedAt": "2026-11-08T10:09:34.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "페스코프는 푸틴, 트럼프, 시진핑의 회담 의제가 현재 합의되고 있다고 주장한다. 그는 또한 러시아가 보안 아키텍처와 관련하여 유럽과 접촉한 적이 없다고 주장한다. 중국은 3자 회담도 논의 중이라고 밝혔다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20149",
-      "titleOriginal": "Occupiers in the occupied territories have started putting mock mobile fire groups along highways, likely to fool AI drones that find and hit targets on their own. Roadside shelters and dugouts at posts are also getting mannequins dressed a",
-      "url": "https://t.me/wartranslated/20149",
-      "lang": "en",
-      "publishedAt": "2026-11-08T10:08:43.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "점령 지역의 점령자들은 고속도로를 따라 모의 이동식 화재 그룹을 배치하기 시작했으며, 스스로 목표를 찾아 타격하는 AI 드론을 속일 가능성이 높습니다. 초소에서 길가 대피소와 파출소도 마네킹을 입고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78950",
-      "titleOriginal": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, minister says",
-      "url": "https://www.cnbc.com/2026/11/07/krakow-poland-shooting.html",
-      "lang": "en",
-      "publishedAt": "2026-11-08T09:54:31.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "장관에 따르면 크라쿠프에서 6명을 살해한 폴란드 총잡이는 '초국가적' 견해를 가지고 있다고 한다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92184",
-      "titleOriginal": "Meet The 'Hell Chicken', a Dinosaur With an Extremely Rare Type of Diet",
-      "url": "https://www.sciencealert.com/meet-the-hell-chicken-a-dinosaur-with-an-extremely-rare-type-of-diet",
-      "lang": "en",
-      "publishedAt": "2026-11-08T09:54:24.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "극히 희귀한 식습관을 가진 공룡 '헬 치킨' 을 만나보세요",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78949",
-      "titleOriginal": "Poland in shock after six killed, 16 injured in Kraków mass shooting",
-      "url": "https://www.polskieradio.pl/395/7784/Artykul/3750593,poland-in-shock-after-six-killed-16-injured-in-krakow-mass-shooting",
-      "lang": "en",
-      "publishedAt": "2026-11-08T07:54:25.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "폴란드, 크라쿠프 총격 사건으로 6명 사망, 16명 부상 후 충격",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15710",
-      "titleOriginal": "Follow our Daily News Brief for Sunday, November 8th",
-      "url": "https://trt.world/cvnk",
-      "lang": "en",
-      "publishedAt": "2026-11-08T07:00:06.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "11월 8일 일요일 데일리 뉴스 브리프를 팔로우하세요",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78948",
-      "titleOriginal": "Polish gunman who killed 6 people in Krakow has ‘ultranationalistic’ views, minister says",
-      "url": "https://www.ctvnews.ca/world/article/polish-gunman-who-killed-6-people-in-krakow-has-ultranationalistic-views-minister-says/",
-      "lang": "en",
-      "publishedAt": "2026-11-08T05:49:19.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "장관에 따르면 크라쿠프에서 6명을 살해한 폴란드 총잡이는 '초국가적‘ 견해를 가지고 있다고 한다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92183",
-      "titleOriginal": "Scientists Identified 10 Healthy Diets Linked to Slower Biological Aging",
-      "url": "https://www.sciencealert.com/scientists-identified-10-healthy-diets-linked-to-slower-biological-aging",
-      "lang": "en",
-      "publishedAt": "2026-11-08T02:23:27.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "과학자들은 느린 생물학적 노화와 관련된 10가지 건강한 식단을 확인했습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78946",
-      "titleOriginal": "Hackers claim leaked Russian data reveals up to 450,000 war-related deaths in Ukraine",
-      "url": "https://kyivindependent.com/hackers-claim-leaked-russian-data-reveals-up-to-450-000-war-related-deaths-in-ukraine/",
-      "lang": "en",
-      "publishedAt": "2026-11-08T00:19:35.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "해커의 러시아 데이터 유출 주장에 따르면 우크라이나에서 최대 45만 명의 전쟁 관련 사망자가 발생했습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92182",
-      "titleOriginal": "Humans Are Still Evolving Right Before Our Eyes. Here Are 5 Signs on Our Bodies",
-      "url": "https://www.sciencealert.com/humans-are-still-evolving-right-before-our-eyes-here-are-5-signs-on-our-bodies",
-      "lang": "en",
-      "publishedAt": "2026-11-08T00:04:40.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "인간은 여전히 눈앞에서 진화하고 있습니다. 우리 몸에 5가지 징후가 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78945",
-      "titleOriginal": "Pope Leo calls for universal health care ‘in every society’ in first address in Uruguay",
-      "url": "https://www.americamagazine.org/vatican-dispatch/2026/11/06/pope-leo-uruguay-welcome-universal-health-care/",
-      "lang": "en",
-      "publishedAt": "2026-11-07T22:34:32.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "교황 레오는 우루과이의 첫 번째 연설에서 ‘모든 사회에서’ 보편적 건강 관리를 요구합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78944",
-      "titleOriginal": "Boeing Cleared To Sell Parts & Jets To Belarus Despite Fears They’ll End Up In Russia",
-      "url": "https://simpleflying.com/boeing-cleared-sell-parts-jets-belarus-belavia-despite-russia/",
-      "lang": "en",
-      "publishedAt": "2026-11-07T22:04:06.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "보잉, 벨라루스에 부품 및 제트기 판매 허가 러시아에서 끝날 것이라는 두려움에도 불구하고 벨라루스에 판매",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92181",
-      "titleOriginal": "A Mysterious Asteroid Is Accelerating in Space, And We're Running Out of Explanations",
-      "url": "https://www.sciencealert.com/a-mysterious-asteroid-is-accelerating-in-space-and-were-running-out-of-explanations",
-      "lang": "en",
-      "publishedAt": "2026-11-07T21:45:40.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "신비로운 소행성이 우주에서 가속화되고 있으며, 우리는 설명이 부족합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:78943",
-      "titleOriginal": "Zelenskiy: \"We currently have intelligence indicating that a new attack is being prepared against our energy infrastructure, our bridges across the Dnipro River, and civilian infrastructure\"",
-      "url": "https://kyivindependent.com/russia-preparing-major-attack-against-ukraines-bridges-critical-infrastructure-zelensky-warns/",
-      "lang": "en",
-      "publishedAt": "2026-11-07T21:34:15.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "젤렌스키: \"현재 우리는 에너지 인프라, 드니프로 강을 가로지르는 다리, 민간 인프라에 대한 새로운 공격이 준비되고 있음을 나타내는 정보를 보유하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12504",
-      "titleOriginal": "Interior Minister Marcin Kierwiński at a press conference in Kraków: The perpetrator may have been fascinated by far-right ideologies. This line of inquiry will, however, be thoroughly investigated. Officers from the Polish Police and the I",
-      "url": "https://poland.liveuamap.com/en/2026/7-november-20-interior-minister-marcin-kierwiski-at-a-press",
-      "lang": "en",
-      "publishedAt": "2026-11-07T20:19:34.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "크라쿠프에서 열린 기자회견에서 마르신 키에르빈스키 내무장관: 범인은 극우 이데올로기에 매료되었을 수 있습니다. 그러나 이 조사는 철저히 조사될 것입니다. 폴란드 경찰과 1세 출신 장교",
       "translated": true
     }
   ]
