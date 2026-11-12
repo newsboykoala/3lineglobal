@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-11-11T21:50:09.485Z",
+  "updatedAt": "2026-11-12T02:42:52.865Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:79040",
+      "titleOriginal": "Canada's Port of Churchill Is Shipping Grain to Europe Again as Canada Looks Beyond the U.S.",
+      "url": "https://www.culturealberta.com/articles/manitobas-port-of-churchill-is-shipping-grain-to-europe-again-as-canada-looks-beyond-the-us",
+      "lang": "en",
+      "publishedAt": "2026-11-12T01:49:18.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "캐나다가 미국 이외의 지역을 바라보면서 캐나다의 처칠항이 다시 유럽으로 곡물을 수출하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92223",
+      "titleOriginal": "A Single Nuclear Explosion in Orbit Could Disable 99% of Satellites in a Matter of Days",
+      "url": "https://www.sciencealert.com/a-single-nuclear-explosion-in-orbit-could-disable-99-of-satellites-in-a-matter-of-days",
+      "lang": "en",
+      "publishedAt": "2026-11-12T01:14:04.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "궤도에서 단 한 번의 핵폭발이 일어나면 며칠 만에 위성의 99%가 작동을 멈출 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79039",
+      "titleOriginal": "'Ukraine's future is within the European Union' — Irish PM aims to open all EU negotiation clusters for Kyiv by end of year",
+      "url": "https://kyivindependent.com/ukraines-future-is-within-the-european-union-irish-pm-aims-to-open-all-eu-negotiation-clusters-for-kyiv-by-end-of-year/",
+      "lang": "en",
+      "publishedAt": "2026-11-12T01:09:07.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나의 미래는 유럽연합(EU) 내에 있다' — 아일랜드 총리, 연말까지 키이우를 위한 모든 EU 협상 클러스터 개설 목표",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79038",
+      "titleOriginal": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
+      "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+      "lang": "en",
+      "publishedAt": "2026-11-11T23:44:05.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "스페인 노동자들이 14년 만에 처음으로 총파업을 벌이다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45844",
+      "titleOriginal": "BREAKING: NVIDIA IS PREPARING TO OUST CEO JENSEN HUANG, SHARES CRASHED",
+      "url": "https://t.me/insiderpaper/45844",
+      "lang": "en",
+      "publishedAt": "2026-11-11T22:46:41.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 엔비디아, 젠슨 황 CEO 퇴진 준비 중, 주가 폭락",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10228",
+      "titleOriginal": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "lang": "en",
+      "publishedAt": "2026-11-11T22:45:02.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "엔비디아가 젠슨 황 CEO를 해고할 준비를 하고 있다는 소식이 전해졌습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45843",
+      "titleOriginal": "BREAKING: Mississippi Senate race — CNN projects Scott Colom will become the deep-red state’s first Democratic senator in over four decades and the first Black person elected to statewide office in Mississippi since the Reconstruction Era.",
+      "url": "https://t.me/insiderpaper/45843",
+      "lang": "en",
+      "publishedAt": "2026-11-11T22:32:25.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 미시시피주 상원 선거 — CNN은 스콧 콜롬이 40년 만에 공화당 지지 성향이 강한 이 주에서 첫 민주당 상원의원이자 재건 시대 이후 미시시피주에서 처음으로 주 전역 선거에서 당선된 흑인 의원이 될 것으로 전망합니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22113",
+      "titleOriginal": "JUST IN - Nvidia shares drop after reports that Jensen Huang had another affair with an executive who reported to him.",
+      "url": "https://www.disclose.tv/id/jzqswv228k/",
+      "lang": "en",
+      "publishedAt": "2026-11-11T22:28:41.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "속보 - 젠슨 황(Jensen Huang) CEO가 자신의 부하 직원인 임원과 또 다른 불륜 관계를 맺었다는 보도가 나온 후 엔비디아 주가가 하락했습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45842",
+      "titleOriginal": "BREAKING: NVIDIA shares drop on reports that CEO Jensen Huang had another affair with his company's VP of health care Kimberly Powell",
+      "url": "https://t.me/insiderpaper/45842",
+      "lang": "en",
+      "publishedAt": "2026-11-11T22:22:19.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 젠슨 황(Jensen Huang) CEO가 자사 헬스케어 부문 부사장인 킴벌리 파월(Kimberly Powell)과 또 다른 불륜 관계를 맺었다는 보도에 엔비디아 주가가 하락했습니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22112",
+      "titleOriginal": "NEW - Argentine President Javier Milei weeps as he says goodbye to Pope Leo, who departs for Peru after his three-day visit to Argentina.",
+      "url": "https://t.me/disclosetv/22112",
+      "lang": "en",
+      "publishedAt": "2026-11-11T22:06:58.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "새 소식 - 아르헨티나의 하비에르 밀레이 대통령이 3일간의 아르헨티나 방문을 마치고 페루로 떠나는 레오 교황에게 작별 인사를 하며 눈물을 흘리고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10227",
+      "titleOriginal": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+      "lang": "en",
+      "publishedAt": "2026-11-11T21:59:56.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Home Assistant의 새로운 '스마트홈 멀티툴' 직접 사용해 보기",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10226",
+      "titleOriginal": "United won’t let your AI agent book your flight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "lang": "en",
+      "publishedAt": "2026-11-11T21:55:09.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "유나이티드 항공은 AI 에이전트가 항공권을 예약하는 것을 허용하지 않습니다",
+      "translated": true
+    },
     {
       "id": "worldnews:79037",
       "titleOriginal": "Iran threatens to bomb European bases",
@@ -1519,138 +1651,6 @@
       "source": "Liveuamap",
       "region": "분쟁",
       "title": "오늘 아침부터 19:00 까지 러시아는 다양한 유형의 155대의 드론, 2개의 유도 항공 미사일 Kh-59/69 및 여러 S8000 Banderol/Dan-T 순항 미사일을 발사했습니다. - 우크라이나 공군 https://liveuamap.com/en/2026/10-november-18",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20210",
-      "titleOriginal": "A source close to the Ukrainian negotiating team reported that, following the first day of talks in the UAE, an agreement was reached on a large-scale exchange of prisoners of war in the near future.",
-      "url": "https://t.me/wartranslated/20210",
-      "lang": "en",
-      "publishedAt": "2026-11-10T18:19:12.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 협상팀과 가까운 한 소식통은 아랍에미리트 (UAE) 에서 회담이 열린 첫날 이후 가까운 시일 내에 대규모 전쟁 포로 교환에 합의했다고 전했다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12506",
-      "titleOriginal": "Iranian television, citing the Islamic Revolutionary Guard Corps Navy: A third oil tanker has exploded after striking a naval mine while passing through a restricted route in the Strait of Hormuz https://iran.liveuamap.com/en/2026/10-novemb",
-      "url": "https://iran.liveuamap.com/en/2026/10-november-17-iranian-television-citing-the-islamic-revolutionary",
-      "lang": "en",
-      "publishedAt": "2026-11-10T18:14:40.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "이란 텔레비전, 이슬람 혁명 경비대 해군 인용: 호르무즈 해협의 제한된 경로를 통과하는 동안 해군 광산을 공격 한 후 세 번째 유조선이 폭발했습니다. https://iran.liveuamap.com/en/2026/10-novemb",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22101",
-      "titleOriginal": "NEW - EU’s cybersecurity chief warns home appliances could be next after hackers hit supermarket fridges across Europe and suspected hacks on U.S. military bases’ freezers: \"Today it was fridges, tomorrow it could be routers, the day after ",
-      "url": "https://www.disclose.tv/id/x1lpyj9qx3/",
-      "lang": "en",
-      "publishedAt": "2026-11-10T18:11:06.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "새로운 소식 - EU의 사이버 보안 책임자는 해커가 유럽 전역의 슈퍼마켓 냉장고를 강타하고 미군 기지 냉동고에 대한 해킹이 의심 된 후 가전 제품이 다음이 될 수 있다고 경고합니다. \"오늘은 냉장고 였고 내일은 라우터가 될 수 있습니다. 다음날",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10200",
-      "titleOriginal": "ChatGPT is getting verified AI ‘Business Agents’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "lang": "en",
-      "publishedAt": "2026-11-10T18:05:32.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "ChatGPT가 검증된 AI ‘비즈니스 에이전트‘ 를 받고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10199",
-      "titleOriginal": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
-      "url": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw",
-      "lang": "en",
-      "publishedAt": "2026-11-10T17:51:03.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "스텝 시퀀서, 새로운 드럼 신디사이저 등으로 발표된 Ableton Live 13",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22100",
-      "titleOriginal": "NEW - EU approves the establishment of its first military mission presence on Ukrainian soil. Russia previously warned that European troops in Ukraine would become legitimate targets.",
-      "url": "https://www.disclose.tv/id/zn9mkp2p0o/",
-      "lang": "en",
-      "publishedAt": "2026-11-10T17:43:14.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "새로운 소식 - EU는 우크라이나 땅에 최초의 군사 임무를 설립하는 것을 승인합니다. 러시아는 이전에 우크라이나의 유럽 군대가 합법적 인 목표가 될 것이라고 경고했다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45813",
-      "titleOriginal": "BREAKING: Nvidia shares plunge more than 6%, knocking it out of second place among the world’s most valuable companies.",
-      "url": "https://t.me/insiderpaper/45813",
-      "lang": "en",
-      "publishedAt": "2026-11-10T17:35:56.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 엔비디아 주식은 6% 이상 급락하여 세계에서 가장 가치 있는 기업 중 2위를 차지했습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10196",
-      "titleOriginal": "Anthropic has its own AI-powered office suite now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-      "lang": "en",
-      "publishedAt": "2026-11-10T17:34:32.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Anthropic에는 이제 자체 AI 기반 오피스 스위트가 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10197",
-      "titleOriginal": "Google Fi is bringing back multiple cell network support for better coverage",
-      "url": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel",
-      "lang": "en",
-      "publishedAt": "2026-11-10T17:34:32.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Google Fi는 더 나은 커버리지를 위해 여러 셀 네트워크 지원을 다시 제공하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10198",
-      "titleOriginal": "The indie game community is in disarray over AI and Big Walk",
-      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-      "lang": "en",
-      "publishedAt": "2026-11-10T17:34:32.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "인디 게임 커뮤니티는 AI와 빅 워크에 혼란에 빠져 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79008",
-      "titleOriginal": "US demands a seat for Europe at Ukraine peace talks",
-      "url": "https://www.politico.eu/article/ukraine-russia-peace-talks-us-demands-europe-joins-next-negotiations/",
-      "lang": "en",
-      "publishedAt": "2026-11-10T17:34:17.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "미국, 우크라이나 평화 회담에서 유럽 의석 확보 요구",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45812",
-      "titleOriginal": "Moderate earthquake shakes Guatemala",
-      "url": "https://t.co/6uTrgdDE5g",
-      "lang": "en",
-      "publishedAt": "2026-11-10T17:02:39.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "중등도 지진이 과테말라를 뒤흔들다",
       "translated": true
     }
   ]
