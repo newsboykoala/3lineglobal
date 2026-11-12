@@ -1,8 +1,316 @@
 {
-  "updatedAt": "2026-11-12T18:42:39.457Z",
+  "updatedAt": "2026-11-12T23:58:41.301Z",
   "count": 150,
-  "translatedCount": 125,
+  "translatedCount": 150,
   "items": [
+    {
+      "id": "insiderpaper:45882",
+      "titleOriginal": "BREAKING: People laid flowers outside Nvidia’s headquarters in Santa Clara, California, following CEO Jensen Huang’s resignation",
+      "url": "https://t.me/insiderpaper/45882",
+      "lang": "en",
+      "publishedAt": "2026-11-12T23:53:17.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 젠슨 황(Jensen Huang) CEO의 사임 소식이 전해진 후 캘리포니아주 산타클라라에 위치한 엔비디아 본사 밖에 사람들이 꽃을 놓았습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10256",
+      "titleOriginal": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "lang": "en",
+      "publishedAt": "2026-11-12T23:45:50.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Whoop, 모든 사용자가 '인증된 심박수'를 갖는 소셜 네트워크 출시",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10255",
+      "titleOriginal": "Humble Bundle redesign removes two-factor verification from settings",
+      "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
+      "lang": "en",
+      "publishedAt": "2026-11-12T23:35:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Humble Bundle 리디자인으로 설정에서 이중 인증 기능이 제거되었습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92230",
+      "titleOriginal": "Physicists Say They've Sidestepped a Nearly 100-Year-Old Quantum Limit Using Hindsight",
+      "url": "https://www.sciencealert.com/physicists-say-theyve-sidestepped-a-nearly-100-year-old-quantum-limit-using-hindsight",
+      "lang": "en",
+      "publishedAt": "2026-11-12T23:32:20.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "물리학자들이 회고를 통해 거의 100년 된 양자 한계를 우회했다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79060",
+      "titleOriginal": "US returns over $12 billion in oil proceeds to Venezuela since Maduro's ouster",
+      "url": "https://www.gulfcoastnewsnow.com/article/oil-proceeds-returned-to-venezuela-maduro/74414466",
+      "lang": "en",
+      "publishedAt": "2026-11-12T23:24:17.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국, 마두로 대통령 축출 이후 베네수엘라에 120억 달러 이상의 석유 수익 반환",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10253",
+      "titleOriginal": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+      "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
+      "lang": "en",
+      "publishedAt": "2026-11-12T23:00:35.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Xbox 사용자는 배경 및 가이드 메뉴에 대한 맞춤 설정 옵션을 더 많이 이용할 수 있게 됩니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45881",
+      "titleOriginal": "BREAKING: Microsoft Outlook is still down, users can't receive or send emails",
+      "url": "https://t.me/insiderpaper/45881",
+      "lang": "en",
+      "publishedAt": "2026-11-12T22:54:43.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: Microsoft Outlook이 여전히 다운되어 사용자가 이메일을 수신하거나 전송할 수 없습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79059",
+      "titleOriginal": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo",
+      "lang": "en",
+      "publishedAt": "2026-11-12T22:04:38.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아 군함, 핀란드만에서 우크라이나 드론 공격을 받다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10252",
+      "titleOriginal": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "lang": "en",
+      "publishedAt": "2026-11-12T21:59:41.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Google의 새로운 Gemini 모델은 복잡한 질문을 더 잘 이해합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10251",
+      "titleOriginal": "‘It’s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation",
+      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
+      "lang": "en",
+      "publishedAt": "2026-11-12T21:44:51.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "젠슨이 사임하도록 둔 것은 엔비디아의 실수다’: 젠슨 황의 사임에 대한 기술 업계 리더들의 반응",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10250",
+      "titleOriginal": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
+      "url": "https://telegra.ph/The-Oura-Ring-4-is-almost-as-good-as-the-newer-model-but-1-11-12-2",
+      "lang": "en",
+      "publishedAt": "2026-11-12T21:30:23.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Oura Ring 4는 최신 모델만큼이나 성능이 뛰어나지만 가격은 150달러 더 저렴합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79058",
+      "titleOriginal": "Ukraine says US intentionally restricted Starshield to pressure Kyiv, FT reports",
+      "url": "https://www.pravda.com.ua/eng/news/2026/11/12/8062582/",
+      "lang": "en",
+      "publishedAt": "2026-11-12T21:04:08.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "파이낸셜타임스(FT) 보도에 따르면, 우크라이나는 미국이 의도적으로 스타쉴드를 제한하여 키이우에 압력을 가했다고 주장",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45880",
+      "titleOriginal": "BREAKING: SpaceX-Tesla mega-merger could come as soon as December, Bloomberg reports",
+      "url": "https://t.me/insiderpaper/45880",
+      "lang": "en",
+      "publishedAt": "2026-11-12T21:04:06.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 블룸버그 보도에 따르면, SpaceX-Tesla 메가 합병이 빠르면 12월에 이뤄질 수 있다고 합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10249",
+      "titleOriginal": "Here are the 25 original Xbox games you can now play on PC",
+      "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
+      "lang": "en",
+      "publishedAt": "2026-11-12T21:00:42.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "이제 PC에서 플레이할 수 있는 25가지 오리지널 Xbox 게임을 소개합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45879",
+      "titleOriginal": "NEW: Former Nvidia CEO Jensen Huang reportedly had an intimate relationship with another company employee, bringing the total number of women romantically linked to him to three, according to Reuters.",
+      "url": "https://t.me/insiderpaper/45879",
+      "lang": "en",
+      "publishedAt": "2026-11-12T20:54:12.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "신규: 로이터 통신에 따르면, 엔비디아의 전 CEO인 젠슨 황(Jensen Huang)이 다른 회사 직원과 친밀한 관계를 맺은 것으로 알려졌으며, 이에 따라 그와 연애 관계에 있는 여성의 총수는 3명이 되었습니다",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12537",
+      "titleOriginal": "Houthi military spokesperson: We again targeted Pumping Station No. 7 on Saudi Arabia's East-West Pipeline with a drone. https://yemen.liveuamap.com/en/2026/12-november-20-houthis-houthis-military-spokesman-we-targeted",
+      "url": "https://yemen.liveuamap.com/en/2026/12-november-20-houthis-houthis-military-spokesman-we-targeted",
+      "lang": "en",
+      "publishedAt": "2026-11-12T20:44:19.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "후티 반군 군사 대변인: 우리는 다시 드론으로 사우디아라비아의 동서 송유관 7번 펌핑 스테이션을 공격했습니다. https://yemen.liveuamap.com/en/2026/12-november-20-houthis-houthis-military-spokesman-we-targeted",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20254",
+      "titleOriginal": "Putin is not making concessions and continues to demand the withdrawal of the Armed Forces of Ukraine from Ukrainian-controlled territories of the Donbas - Al Jazeera reports that Witkoff and Kushner left the Kremlin without progress.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-11-12T20:13:37.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "푸틴 대통령은 양보하지 않고 우크라이나군이 돈바스의 우크라이나 정부 통제 지역에서 철수할 것을 계속 요구하고 있습니다. 알자지라는 위트코프와 쿠슈너가 진전을 이루지 못한 채 크렘린궁을 떠났다고 보도했습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20253",
+      "titleOriginal": "Zelenskyy: \"There will be no ceasefire. The Russians have rejected our proposal.\"",
+      "url": "https://t.me/wartranslated/20253",
+      "lang": "en",
+      "publishedAt": "2026-11-12T20:06:53.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "젤렌스키: \"휴전은 없을 것입니다. 러시아는 우리의 제안을 거부했습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20252",
+      "titleOriginal": "Today, a Russian Geran drone hit a multi-story apartment building in one of Kyiv's districts. It is reported that a woman was killed in the strike, and five others were injured.",
+      "url": "https://t.me/wartranslated/20252",
+      "lang": "en",
+      "publishedAt": "2026-11-12T20:03:07.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "오늘 러시아의 게란 드론이 키이우의 한 지역에 있는 다층 아파트 건물을 공격했습니다. 공격으로 여성 1명이 사망하고 5명이 부상을 입은 것으로 전해졌습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10248",
+      "titleOriginal": "Meet the people who want peptides to be made in America",
+      "url": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha",
+      "lang": "en",
+      "publishedAt": "2026-11-12T20:01:04.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "미국에서 펩타이드가 생산되기를 바라는 사람들을 만나보세요",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20250",
+      "titleOriginal": "This is what one of Ukraine’s thermal power stations looks like following a Russian attack.",
+      "url": "https://t.me/wartranslated/20250",
+      "lang": "en",
+      "publishedAt": "2026-11-12T19:58:12.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "이것은 러시아의 공격을 받은 후의 우크라이나 화력 발전소 중 한 곳의 모습입니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10247",
+      "titleOriginal": "No, AI agents did not discover a previously unknown Maya site",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "lang": "en",
+      "publishedAt": "2026-11-12T19:46:02.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "아니요, AI 에이전트는 이전에 알려지지 않은 마야 유적지를 발견하지 않았습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20248",
+      "titleOriginal": "Russians published a video showing a Russian drone deliberately attacking a civilian car. Russians continue to terrorize the civilian population of Ukraine.",
+      "url": "https://t.me/wartranslated/20248",
+      "lang": "en",
+      "publishedAt": "2026-11-12T19:44:12.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아인들이 러시아 드론이 민간 차량을 고의로 공격하는 모습을 담은 동영상을 게시했습니다. 러시아군은 우크라이나 민간인을 계속해서 위협하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45878",
+      "titleOriginal": "BREAKING: Major Microsoft services — including Outlook are experiencing significant disruptions and connection delays affecting thousands of users and businesses globally",
+      "url": "https://t.me/insiderpaper/45878",
+      "lang": "en",
+      "publishedAt": "2026-11-12T19:33:43.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: Outlook을 포함한 주요 Microsoft 서비스에 심각한 장애가 발생하고 연결 지연이 발생하여 전 세계 수천 명의 사용자 및 기업에 영향을 미치고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79057",
+      "titleOriginal": "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen",
+      "url": "https://www.aljazeera.com/amp/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen",
+      "lang": "en",
+      "publishedAt": "2026-11-12T19:29:09.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "시진핑 주석, 대만의 '완전한 통일'이 이뤄질 것이라고 밝혀",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20247",
+      "titleOriginal": "\"Putin and Trump will discuss ending Russia's war against Ukraine during a meeting on the sidelines of the APEC summit on November 18–19.\" - Putin's aide, Ushakov.",
+      "url": "https://t.me/wartranslated/20247",
+      "lang": "en",
+      "publishedAt": "2026-11-12T19:16:24.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "푸틴 대통령과 트럼프 전 대통령은 11월 18~19일 열리는 APEC 정상회의 계기 회담에서 러시아의 우크라이나 침공 전쟁 종식을 논의할 것입니다.\" - 푸틴 대통령의 보좌관 우샤코프",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20246",
+      "titleOriginal": "Former head of Britain's MI6 Richard Moore stated that Xi Jinping is watching very closely what is happening in both Ukraine and Iran.",
+      "url": "https://t.me/wartranslated/20246",
+      "lang": "en",
+      "publishedAt": "2026-11-12T19:12:18.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "영국 MI6의 전 수장인 리처드 무어는 시진핑 주석이 우크라이나와 이란에서 벌어지는 일을 매우 면밀히 주시하고 있다고 밝혔습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10246",
+      "titleOriginal": "Microsoft Outlook is down",
+      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "lang": "en",
+      "publishedAt": "2026-11-12T19:10:31.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Microsoft Outlook이 다운되었습니다",
+      "translated": true
+    },
     {
       "id": "theverge_news:10245",
       "titleOriginal": "Oh, Palantir is ‘progressive’ now, is it?",
@@ -660,8 +968,8 @@
       "publishedAt": "2026-11-12T13:30:04.000Z",
       "source": "Disclose.tv",
       "region": "속보",
-      "title": "NEW - In Antalya, which is currently hosting the UN Climate Change Conference, an analysis shows that significantly more private jets have landed there in recent days than usual.",
-      "translated": false
+      "title": "신규 - 현재 UN 기후변화협약 당사국총회가 열리고 있는 안탈리아에서 최근 며칠 동안 평소보다 훨씬 많은 전용기가 착륙한 것으로 분석 결과 나타났습니다",
+      "translated": true
     },
     {
       "id": "liveuamap:12528",
@@ -671,8 +979,8 @@
       "publishedAt": "2026-11-12T13:16:02.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "UKMTO has received a delayed report of an incident in the Arabian Gulf. A tanker traveling eastbound was struck by an unknown projectile. Several people were injured and taken ashore for medical assistance. All remaining crew members are sa",
-      "translated": false
+      "title": "영국해사무역기구(UKMTO)가 페르시아만에서 발생한 사건에 대한 지연 신고를 접수했습니다. 동쪽으로 항해하던 유조선이 정체불명의 발사체에 피격되었습니다. 여러 명이 부상을 입고 의료 지원을 받기 위해 육지로 이송되었습니다. 나머지 승무원 전원은 안전합니다",
+      "translated": true
     },
     {
       "id": "insiderpaper:45858",
@@ -682,8 +990,8 @@
       "publishedAt": "2026-11-12T13:13:21.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "BREAKING: PRESIDENT TRUMP SAYS UNITED STATES DOESN'T NEED A DEAL WITH IRAN ANYMORE",
-      "translated": false
+      "title": "속보: 트럼프 대통령, 미국은 더 이상 이란과의 합의가 필요하지 않다고 밝혀",
+      "translated": true
     },
     {
       "id": "insiderpaper:45857",
@@ -693,8 +1001,8 @@
       "publishedAt": "2026-11-12T13:10:26.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "NOW - Trump's envoys Steve Witkoff and Jared Kushner are meeting Putin at the Kremlin in Russia for Ukraine talks",
-      "translated": false
+      "title": "현재 - 트럼프 대통령의 특사 스티브 위트코프와 자레드 쿠슈너가 러시아 크렘린궁에서 푸틴 대통령과 우크라이나 문제에 대해 논의하고 있습니다",
+      "translated": true
     },
     {
       "id": "wartranslated:20241",
@@ -704,8 +1012,8 @@
       "publishedAt": "2026-11-12T13:06:31.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "It is reported that \"ATESH\" partisans burned a freight diesel locomotive in Russia's Samara and disrupted the fuel supply schedule for the Armed Forces of the RF. Preliminary reports indicate the locomotive is completely disabled. This caus",
-      "translated": false
+      "title": "아테시' 파르티잔들이 러시아 사마라에서 화물용 디젤 기관차를 불태우고 러시아 연방군에 대한 연료 공급 일정을 차질케 했다고 전해집니다. 예비 보고에 따르면 기관차가 완전히 파손된 것으로 나타났습니다. 이로 인해",
+      "translated": true
     },
     {
       "id": "insiderpaper:45856",
@@ -715,8 +1023,8 @@
       "publishedAt": "2026-11-12T13:04:02.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "17-year-old Pakistani boy may have solved 37-year mystery of missing PIA flight",
-      "translated": false
+      "title": "17세 파키스탄 소년이 37년 전 PIA 항공기 실종 미스터리를 해결했을지도 모릅니다",
+      "translated": true
     },
     {
       "id": "wartranslated:20240",
@@ -726,8 +1034,8 @@
       "publishedAt": "2026-11-12T13:01:53.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "\"Putin has told his inner circle of his desire to destroy life in major Ukrainian cities, including Kyiv, Dnipro, Odesa, Kharkiv, Zaporizhzhia and Kherson.\" - Zelenskyy.",
-      "translated": false
+      "title": "푸틴 대통령은 키이우, 드니프로, 오데사, 하르키우, 자포리자, 헤르손을 포함한 우크라이나 주요 도시의 생명을 파괴하겠다는 의지를 측근들에게 밝혔습니다.\" - 젤렌스키 대통령",
+      "translated": true
     },
     {
       "id": "liveuamap:12527",
@@ -737,8 +1045,8 @@
       "publishedAt": "2026-11-12T13:00:09.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "Martyrs of Al-Aqsa Hospital: Injured after Israeli raid on vehicle in southern Deir al-Balah, Gaza Strip https://israelpalestine.liveuamap.com/en/2026/12-november-12-martyrs-of-alaqsa-hospital-injured-after-israeli",
-      "translated": false
+      "title": "알악사 순교자 병원: 가자지구 데이르알발라 남부에서 이스라엘의 차량 공격으로 부상 https://israelpalestine.liveuamap.com/en/2026/12-november-12-martyrs-of-alaqsa-hospital-injured-after-israeli",
+      "translated": true
     },
     {
       "id": "liveuamap:12526",
@@ -748,8 +1056,8 @@
       "publishedAt": "2026-11-12T12:58:27.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "England: Two Iranian men convicted of conduct likely to assist Iranian intelligence after carrying out surveillance. https://iran.liveuamap.com/en/2026/12-november-12-england-two-iranian-men-convicted-of-conduct",
-      "translated": false
+      "title": "영국: 이란인 남성 2명이 감시 활동을 수행한 후 이란 정보기관을 지원할 가능성이 있는 행위로 유죄 판결을 받았습니다. https://iran.liveuamap.com/en/2026/12-november-12-england-two-iranian-men-convicted-of-conduc",
+      "translated": true
     },
     {
       "id": "liveuamap:12525",
@@ -759,8 +1067,8 @@
       "publishedAt": "2026-11-12T12:57:42.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "A powerful explosion rocked the Iraqi capital, Baghdad, specifically the Al-Qasr al-Awsat area in Al-Yusufiyah subdistrict https://iraq.liveuamap.com/en/2026/12-november-12-a-powerful-explosion-rocked-the-iraqi-capital",
-      "translated": false
+      "title": "이라크 수도 바그다드, 특히 알유수피야 하위지구의 알카스르 알아우사트 지역에서 강력한 폭발이 발생했습니다. https://iraq.liveuamap.com/en/2026/12-november-12-a-powerful-explosion-rocked-the-iraqi-capital",
+      "translated": true
     },
     {
       "id": "sciencealert:92225",
@@ -770,8 +1078,8 @@
       "publishedAt": "2026-11-12T12:50:21.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "JWST Detects a 'Forbidden' Signal Never Before Seen in The Universe – Not Even in a Lab",
-      "translated": false
+      "title": "JWST, 우주에서 한 번도 관측된 적 없는 '금지된' 신호 감지 – 실험실에서도 관측된 적 없음",
+      "translated": true
     },
     {
       "id": "liveuamap:12524",
@@ -781,8 +1089,8 @@
       "publishedAt": "2026-11-12T12:24:53.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "141 Amhara detainees transferred to unknown location, six prisoners executed by Oromia Regional forces in Dengoro as mass displacement and starvation deaths escalate across Wollega https://ethiopia.liveuamap.com/en/2026/12-november-09-141-a",
-      "translated": false
+      "title": "141명의 암하라족 수감자가 행방불명 상태로 이송되었으며, 볼레가 전역에서 대규모 이주와 기아로 인한 사망이 급증하는 가운데 덴고로에서 오로미아 지역군이 수감자 6명을 처형했습니다. https://ethiopia.liveuamap.com/en/2026/12-november-09-141-",
+      "translated": true
     },
     {
       "id": "worldnews:79051",
@@ -792,8 +1100,8 @@
       "publishedAt": "2026-11-12T12:04:39.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Trump helped Russia double diesel exports, but US received not a single shipment – FT",
-      "translated": false
+      "title": "트럼프, 러시아의 디젤 수출량 2배 증가에 기여했지만 미국은 단 한 건의 수입도 없어 – FT",
+      "translated": true
     },
     {
       "id": "disclosetv:22116",
@@ -803,8 +1111,8 @@
       "publishedAt": "2026-11-12T12:00:28.000Z",
       "source": "Disclose.tv",
       "region": "속보",
-      "title": "NOW - Macron says that \"there is no more U.S. support\" for Ukraine.",
-      "translated": false
+      "title": "현재 - 마크롱 대통령은 \"더 이상 우크라이나에 대한 미국의 지원이 없다\"고 말합니다",
+      "translated": true
     },
     {
       "id": "liveuamap:12523",
@@ -814,8 +1122,8 @@
       "publishedAt": "2026-11-12T11:58:48.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "This morning, Houthi militias launched two ballistic missiles toward Mecca. Air defense forces intercepted the missiles, and debris fell in the village of Sabuha, 35 kilometers from Mecca. https://yemen.liveuamap.com/en/2026/12-november-07-",
-      "translated": false
+      "title": "오늘 아침, 후티 반군이 메카를 향해 탄도 미사일 2발을 발사했습니다. 방공 부대가 미사일을 요격했으며, 파편은 메카에서 35km 떨어진 사부하 마을에 떨어졌습니다. https://yemen.liveuamap.com/en/2026/12-november-07-",
+      "translated": true
     },
     {
       "id": "liveuamap:12522",
@@ -825,8 +1133,8 @@
       "publishedAt": "2026-11-12T11:52:12.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "Zelenskyy reported renewed disruptions to Starshield operations in Ukraine.",
-      "translated": false
+      "title": "젤렌스키 대통령은 우크라이나 내 Starshield 서비스 운영에 다시 차질이 발생했다고 밝혔습니다",
+      "translated": true
     },
     {
       "id": "worldnews:79050",
@@ -836,8 +1144,8 @@
       "publishedAt": "2026-11-12T11:49:37.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Bedouin hero who rescued Israelis on Oct. 7 sees Israel demolish family's homes | The Jerusalem Post",
-      "translated": false
+      "title": "10월 7일 이스라엘인을 구한 베두인 영웅, 이스라엘이 자신의 가족의 집을 철거하는 것을 목격하다 | 더 제루살렘 포스트",
+      "translated": true
     },
     {
       "id": "sciencealert:92224",
@@ -847,8 +1155,8 @@
       "publishedAt": "2026-11-12T11:40:36.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Scientists Find Out-of-Body Experiences May Occur Between Sleep And Waking",
-      "translated": false
+      "title": "과학자들이 수면과 각성 사이에서 '체외 경험'이 발생할 수 있음을 발견했습니다",
+      "translated": true
     },
     {
       "id": "liveuamap:12521",
@@ -858,8 +1166,8 @@
       "publishedAt": "2026-11-12T11:38:35.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "General Staff of the Armed Forces of Ukraine: Ukrainian Defense Forces have struck all five of Russia's largest oil refineries. Since October 30, Ukrainian long-range strikes have hit the Omsk, Kirishi, Ryazan, Nizhny Novgorod and Yaroslavl",
-      "translated": false
+      "title": "우크라이나군 총참모부: 우크라이나 방위군이 러시아 최대 정유 공장 5곳 모두를 공격했습니다. 10월 30일부터 우크라이나는 옴스크, 키리시, 랴잔, 니즈니노브고로드, 야로슬라블을 장거리 타격했습니다",
+      "translated": true
     },
     {
       "id": "trtworld:15733",
@@ -869,8 +1177,8 @@
       "publishedAt": "2026-11-12T11:35:16.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "Fragments of an Israeli GBU-39/B guided bomb and an unexploded munition were recovered at the Nasser Medical Complex in Khan Younis in Palestine’s Gaza, following an overnight Israeli strike.",
-      "translated": false
+      "title": "이스라엘의 야간 공습 이후 팔레스타인 가자지구 칸유니스에 위치한 나세르 의료 단지에서 이스라엘제 GBU-39/B 유도 폭탄 파편과 불발 탄약이 수거되었습니다",
+      "translated": true
     },
     {
       "id": "worldnews:79049",
@@ -880,8 +1188,8 @@
       "publishedAt": "2026-11-12T11:34:31.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Zelenskyy: Starlink again facing restrictions in Ukraine, hampering Russian drone interceptions",
-      "translated": false
+      "title": "젤렌스키: 우크라이나에서 스타링크가 다시 제한을 받아 러시아 드론 요격을 방해하고 있음",
+      "translated": true
     },
     {
       "id": "worldnews:79048",
@@ -891,8 +1199,8 @@
       "publishedAt": "2026-11-12T11:19:28.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Israel Kills Senior Hamas Commander in Strike on Nasser Hospital in Gaza - The Media Line",
-      "translated": false
+      "title": "이스라엘, 가자지구 나세르 병원 공습으로 하마스 고위 지휘관 사살 - The Media Line",
+      "translated": true
     },
     {
       "id": "theverge_news:10229",
@@ -902,8 +1210,8 @@
       "publishedAt": "2026-11-12T11:15:51.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
-      "translated": false
+      "title": "링(Ring), CBS 뉴스에서 추락 사고를 겪은 후 카메라 드론에 수동 제어 기능이 없을 것이라고 확인",
+      "translated": true
     },
     {
       "id": "worldnews:79047",
@@ -913,8 +1221,8 @@
       "publishedAt": "2026-11-12T10:59:20.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Russia Loses Vietnam-War-Level Troop Numbers in a Month, Rutte Says",
-      "translated": false
+      "title": "러트 총리, \"러시아가 한 달 만에 베트남전 수준의 병력을 잃었다\"고 밝혀",
+      "translated": true
     },
     {
       "id": "worldnews:79046",
@@ -924,8 +1232,8 @@
       "publishedAt": "2026-11-12T10:44:13.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Starshield Slows Ukrainian Interceptors to 100 MPH Again, Zelenskyy Says",
-      "translated": false
+      "title": "젤렌스키 대통령, Starshield가 우크라이나 요격기의 속도를 다시 시속 100마일로 저하시켰다고 밝힘",
+      "translated": true
     },
     {
       "id": "insiderpaper:45849",
@@ -1343,314 +1651,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "러시아, 우크라이나 드론 공격을 저지하는 과정에서 헬리콥터 승무원 3명을 잃다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22109",
-      "titleOriginal": "JUST IN - Nikki Haley rules out 2028 presidential run.",
-      "url": "https://t.me/disclosetv/22109",
-      "lang": "en",
-      "publishedAt": "2026-11-11T19:58:50.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "속보 - 니키 헤일리, 2028년 대선 출마를 배제",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20233",
-      "titleOriginal": "\"There is a window of opportunity to end the war by the end of the year, but I have little faith in the outcome of the Americans’ negotiations with Putin.\" - Zelenskyy.",
-      "url": "https://t.me/wartranslated/20233",
-      "lang": "en",
-      "publishedAt": "2026-11-11T19:29:40.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "올해 말까지 전쟁을 끝낼 수 있는 기회가 있지만, 미국이 푸틴과 벌이는 협상의 결과에 대해 별로 확신이 서지 않습니다.\" - 젤렌스키 대통령",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92222",
-      "titleOriginal": "Breaking: Scientists Find Evidence of Primordial Water Hidden at The Edge of The Solar System",
-      "url": "https://www.sciencealert.com/breaking-scientists-find-evidence-of-primordial-water-hidden-at-the-edge-of-the-solar-system",
-      "lang": "en",
-      "publishedAt": "2026-11-11T19:24:40.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "속보: 과학자들이 태양계 가장자리에 숨겨진 원시 물의 증거를 발견했습니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22108",
-      "titleOriginal": "JUST IN - House will vote in the coming weeks on the Epstein Files Transparency Act II after lawmakers completed a petition forcing the legislation to the floor.",
-      "url": "https://www.disclose.tv/id/lesw3mfbf1/",
-      "lang": "en",
-      "publishedAt": "2026-11-11T19:06:44.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "속보 - 의원들이 법안을 본회의에 상정하도록 하는 청원을 완료한 후, 하원은 향후 몇 주 내에 '에프스타인 사건 관련 파일 투명성 법안 II'에 대해 표결할 예정입니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79034",
-      "titleOriginal": "Sweden amends constitution to allow revoking citizenship of dual nationals",
-      "url": "https://www.lemonde.fr/en/international/article/2026/11/11/sweden-amends-constitution-to-allow-revoking-citizenship-of-dual-nationals_6778020_4.html",
-      "lang": "en",
-      "publishedAt": "2026-11-11T18:44:28.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "스웨덴, 이중 국적자의 시민권 박탈을 허용하도록 헌법 개정",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20232",
-      "titleOriginal": "The SBU reported a strike on the Russian missile ship \"Naro-Fominsk\", a \"Buyan-M\"-class vessel. The ship carries \"Kalibr\" and \"Oniks\" cruise missiles and was launched in 2022.",
-      "url": "https://t.me/wartranslated/20232",
-      "lang": "en",
-      "publishedAt": "2026-11-11T18:43:44.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 국가안보국(SBU)은 '부얀-M'급 함선인 러시아 미사일함 '나로-포민스크'에 대한 공격이 있었다고 밝혔습니다. 이 함정은 '칼리브르'와 '오닉스' 순항미사일을 탑재하고 있으며 2022년에 진수되었습니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22107",
-      "titleOriginal": "NEW - Germany prepares coal plants for emergency operations amid strained gas supplies and low storage levels.",
-      "url": "https://www.disclose.tv/id/50l530llr0/",
-      "lang": "en",
-      "publishedAt": "2026-11-11T18:35:09.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "신규 - 독일, 가스 공급이 불안정하고 비축량이 적은 상황에서 비상 가동을 위해 석탄 발전소를 준비 중",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20231",
-      "titleOriginal": "\"In Abu Dhabi, key principles for a future agreement were agreed upon.\" - German government spokesperson Stefan Kornelius in an interview with Die Zeit.",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/friedrich-merz-wladimir-putin-kontakt-ukraine-gespraeche",
-      "lang": "en",
-      "publishedAt": "2026-11-11T18:27:56.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "아부다비에서 향후 협정을 위한 핵심 원칙이 합의되었습니다.\" - 독일 정부 대변인 슈테판 코르넬리우스, 디 차이트(Die Zeit)와의 인터뷰에서",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79033",
-      "titleOriginal": "Russia's largest oil refinery hit by drones 2,500 km from Ukraine",
-      "url": "https://www.pravda.com.ua/eng/news/2026/11/11/8062379/",
-      "lang": "en",
-      "publishedAt": "2026-11-11T18:19:28.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "우크라이나에서 2,500km 떨어진 러시아 최대 정유 공장, 드론 공격을 받다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10225",
-      "titleOriginal": "Loot boxes, influencers, and addictive features face an EU crackdown",
-      "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
-      "lang": "en",
-      "publishedAt": "2026-11-11T18:15:30.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "EU, 전리품 상자, 인플루언서, 중독성 기능에 대한 단속 강화",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45841",
-      "titleOriginal": "BREAKING - Tens of thousands march in Madrid for affordable housing: AFP bit.ly/4zHZ6Np",
-      "url": "https://t.co/AkJK8xE9BJ",
-      "lang": "en",
-      "publishedAt": "2026-11-11T17:57:19.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 마드리드에서 수만 명이 저렴한 주택을 요구하며 행진: AFP bit.ly/4zHZ6Np",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92221",
-      "titleOriginal": "Scientists Measure Gravitational Pull Between The Smallest Objects Yet in Quest For Quantum Gravity",
-      "url": "https://www.sciencealert.com/scientists-measure-gravitational-pull-between-the-smallest-objects-yet-in-quest-for-quantum-gravity",
-      "lang": "en",
-      "publishedAt": "2026-11-11T17:54:33.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "과학자들이 양자 중력을 찾기 위해 지금까지 가장 작은 물체들 사이의 중력 인력을 측정하다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79032",
-      "titleOriginal": "Russian ambassador to US dies, foreign ministry says",
-      "url": "https://edition.cnn.com/2026/11/11/europe/russian-ambassador-to-us-dies-intl",
-      "lang": "en",
-      "publishedAt": "2026-11-11T17:19:24.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아 외무부, 주미 러시아 대사 사망 소식 전해",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45840",
-      "titleOriginal": "BREAKING - Over 3 million attend Pope's final Argentina mass: local authorities bit.ly/4BXBx4v",
-      "url": "https://t.co/TbSVfiG8Jx",
-      "lang": "en",
-      "publishedAt": "2026-11-11T17:10:39.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 3백만 명 이상이 교황의 마지막 아르헨티나 미사에 참석: 현지 당국 bit.ly/4BXBx4v",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10224",
-      "titleOriginal": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
-      "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
-      "lang": "en",
-      "publishedAt": "2026-11-11T17:10:21.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "토요타의 사이언이 미국산 시속 25마일 경트럭으로 돌아옵니다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12515",
-      "titleOriginal": "Ukraine's Security Service (SBU), together with other Defense Forces units, struck Russian port and oil infrastructure in Ust-Luga, as well as a Buyan-M-class missile ship. Several petroleum product storage tanks were damaged at the Ust-Lug",
-      "url": "https://liveuamap.com/en/2026/11-november-16-sbu-in-coordination-with-other-components",
-      "lang": "en",
-      "publishedAt": "2026-11-11T17:04:10.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "우크라이나 보안국(SBU)은 다른 국방군 부대와 함께 우스트루가에 있는 러시아 항만 및 석유 인프라와 부얀-M급 미사일함을 공격했습니다. 우스티루가에서 석유 제품 저장 탱크 여러 개가 파손되었습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45839",
-      "titleOriginal": "BREAKING 🚨 Russia’s ambassador to the United States, Alexander Darchiev, has died “suddenly” at the age of 66",
-      "url": "https://t.co/6X8IXJAALr",
-      "lang": "en",
-      "publishedAt": "2026-11-11T16:45:35.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 🚨 알렉산더 다르치예프 주미 러시아 대사가 66세의 나이에 \"갑작스럽게\" 사망했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20228",
-      "titleOriginal": "Ukrainian media, citing the \" I Want to Live \" project, report that Ukrainian forces have captured a citizen of Indonesia fighting for the RF for the first time. The 49-year-old native of Java was deployed to the Zaporizhzhia direction to p",
-      "url": "https://t.me/wartranslated/20228",
-      "lang": "en",
-      "publishedAt": "2026-11-11T16:44:57.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 언론은 '살고 싶다(I Want to Live)' 프로젝트를 인용해 우크라이나군이 러시아 연방(RF)을 위해 싸우는 인도네시아인을 처음으로 포로로 잡았다고 보도했습니다. 자바 출신의 49세 남성은 자포리자 전선에 배치되었습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92220",
-      "titleOriginal": "Study Rewrites The Rules of The Blood-Brain Barrier, Including Proteins That May Be Involved in Alzheimer's",
-      "url": "https://www.sciencealert.com/study-rewrites-the-rules-of-the-blood-brain-barrier-including-proteins-that-may-be-involved-in-alzheimers",
-      "lang": "en",
-      "publishedAt": "2026-11-11T16:44:51.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "알츠하이머병과 관련이 있을 수 있는 단백질을 포함하여 혈뇌장벽의 규칙을 다시 쓰는 연구",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22106",
-      "titleOriginal": "JUST IN - Russian Foreign Ministry announces that Alexander Darchiev, Ambassador of Russia to the U.S., \"died suddenly\" on November 11, aged 66.",
-      "url": "https://t.me/disclosetv/22106",
-      "lang": "en",
-      "publishedAt": "2026-11-11T16:36:38.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "방금 입수한 소식 - 러시아 외무부가 알렉산더 다르치예프 러시아 주미 대사가 11월 11일 66세의 나이로 \"갑작스럽게 사망\"했다고 발표했습니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22105",
-      "titleOriginal": "NEW - Russia and Ukraine agreed to a large prisoner swap at US-brokered talks in Abu Dhabi, but there was no breakthrough on a peace deal.",
-      "url": "https://www.disclose.tv/id/rlqmgt4z6s/",
-      "lang": "en",
-      "publishedAt": "2026-11-11T16:07:12.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "새로운 소식 - 러시아와 우크라이나가 아부다비에서 열린 미국 중재 회담에서 대규모 포로 교환에 합의했지만, 평화 협정에 대한 돌파구는 마련되지 않았습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10223",
-      "titleOriginal": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-      "lang": "en",
-      "publishedAt": "2026-11-11T16:06:00.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Google의 Tabletop AI 실험을 통해 맞춤형 협업 앱을 구축할 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15729",
-      "titleOriginal": "Two people were arrested during a pro-Palestine protest in Dublin on November 10, as former US president Joe Biden paid a surprise visit to Trinity College as his son Hunter was awarded the Gold Medal for Outstanding Contribution for Public",
-      "url": "https://t.me/trtworld/15729",
-      "lang": "en",
-      "publishedAt": "2026-11-11T15:58:36.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "11월 10일, 더블린에서 열린 친팔레스타인 시위 도중 2명이 체포되었습니다. 당시 미국 전 대통령 조 바이든이 트리니티 칼리지에 깜짝 방문했으며, 그의 아들 헌터 바이든이 공공 부문에 대한 탁월한 기여로 금메달을 수상했습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10222",
-      "titleOriginal": "The best early Black Friday deals you can already shop",
-      "url": "https://telegra.ph/The-best-early-Black-Friday-deals-you-can-already-shop-11-11",
-      "lang": "en",
-      "publishedAt": "2026-11-11T15:54:34.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "이미 쇼핑할 수 있는 최고의 얼리 블랙프라이데이 특가 상품",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45837",
-      "titleOriginal": "BREAKING - Iran security chief threatens to strike US bases in Europe if used for attacks",
-      "url": "https://t.co/lNb9peh8D4",
-      "lang": "en",
-      "publishedAt": "2026-11-11T15:49:41.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 이란 안보 수장, 미국이 유럽 내 미군 기지를 공격에 이용할 경우 해당 기지를 공격하겠다고 위협",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20227",
-      "titleOriginal": "Medinsky stated that Ukraine and the RF have agreed on a new large-scale prisoner exchange.",
-      "url": "https://t.me/wartranslated/20227",
-      "lang": "en",
-      "publishedAt": "2026-11-11T15:41:34.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "메딘스키는 우크라이나와 러시아 연방이 새로운 대규모 포로 교환에 합의했다고 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20226",
-      "titleOriginal": "Kushner stated that it would be great if Zelenskyy and Putin met. No agreement was reached regarding the territorial issue.",
-      "url": "https://t.me/wartranslated/20226",
-      "lang": "en",
-      "publishedAt": "2026-11-11T15:35:59.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "쿠슈너는 젤렌스키와 푸틴이 만나면 좋을 것이라고 말했다. 영토 문제에 대해서는 합의에 이르지 못했다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10221",
-      "titleOriginal": "Sharge’s eye-catching MacBook charger is over 25 percent off",
-      "url": "https://telegra.ph/Sharges-eye-catching-MacBook-charger-is-over-25-percent-off-11-11-4",
-      "lang": "en",
-      "publishedAt": "2026-11-11T15:35:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Sharge의 눈길을 사로잡는 MacBook 충전기가 25% 이상 할인됩니다",
       "translated": true
     }
   ]
