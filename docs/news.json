@@ -1,8 +1,118 @@
 {
-  "updatedAt": "2026-11-12T23:58:41.301Z",
+  "updatedAt": "2026-11-13T06:22:55.508Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "trtworld:15736",
+      "titleOriginal": "Follow our Daily News Brief for Friday, November 13th",
+      "url": "https://trt.world/cvhw",
+      "lang": "en",
+      "publishedAt": "2026-11-13T06:08:45.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "11월 13일 금요일 데일리 뉴스 브리프를 확인하세요",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79064",
+      "titleOriginal": "‘War will resume immediately’: Putin threatens Europe as Trump envoys push Ukraine talks",
+      "url": "https://www.ynetnews.com/article/skgfraxcfe",
+      "lang": "en",
+      "publishedAt": "2026-11-13T05:34:16.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "전쟁이 즉시 재개될 것’: 트럼프 특사가 우크라이나 협상을 추진하자 푸틴이 유럽에 위협을 가하다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15735",
+      "titleOriginal": "A 10-month-old Palestinian baby, Kenan al-Raqeeq, has died from extreme cold inside a tent sheltering his displaced family in Khan Younis, southern Gaza.",
+      "url": "https://t.me/trtworld/15735",
+      "lang": "en",
+      "publishedAt": "2026-11-13T05:18:27.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "가자지구 남부 칸 유니스에서 이재민 가족이 머무는 텐트 안에서 10개월 된 팔레스타인 아기 케난 알라키크가 극심한 추위로 사망했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79063",
+      "titleOriginal": "Australia considers world-first criminal charges for AI companies that fail to prevent harm",
+      "url": "https://www.abc.net.au/news/2026-11-11/australia-considers-criminal-charges-for-ai-companies/107368676",
+      "lang": "en",
+      "publishedAt": "2026-11-13T05:04:36.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "호주, 피해 예방에 실패한 AI 기업에 대해 세계 최초로 형사 고발을 고려하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22124",
+      "titleOriginal": "JUST IN - U.S. Senate summons Jensen Huang and Howard Lutnick to testify next month over national security concerns tied to Huang’s affair with a suspected Chinese spy.",
+      "url": "https://www.disclose.tv/id/8vu509m3mn/",
+      "lang": "en",
+      "publishedAt": "2026-11-13T01:46:45.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "속보 - 미국 상원이 젠슨 황(Jensen Huang)과 하워드 러트닉(Howard Lutnick)을 소환하여 다음 달 중국 스파이 용의자와의 황의 관계와 관련된 국가 안보 우려에 대해 증언하도록 했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79061",
+      "titleOriginal": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "url": "https://www.bbc.com/news/articles/cmn0d33zz34zo",
+      "lang": "en",
+      "publishedAt": "2026-11-13T01:04:12.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아 군함, 핀란드만에서 우크라이나 드론 공격을 받다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10258",
+      "titleOriginal": "Donald Trump really wants Tim Cook to run Nvidia",
+      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "lang": "en",
+      "publishedAt": "2026-11-13T00:49:54.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "도널드 트럼프, 팀 쿡이 엔비디아를 경영하기를 진심으로 원해",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45884",
+      "titleOriginal": "Debunked study predicted \"doomsday\" on Friday the 13th (tomorrow)",
+      "url": "https://insiderpaper.com/doomsday-on-13-november-2026-prediction/",
+      "lang": "en",
+      "publishedAt": "2026-11-13T00:46:38.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "내일(13일 금요일) 종말이 온다'는 주장을 반박한 연구",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45883",
+      "titleOriginal": "Scientists Discover Mysterious Radio Signals Coming From Deep Space Every Eight Minutes",
+      "url": "https://insiderpaper.com/scientists-discover-mysterious-radio-signals-coming-from-deep-space-every-eight-minutes/",
+      "lang": "en",
+      "publishedAt": "2026-11-13T00:17:49.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "과학자들이 8분마다 심우주에서 오는 신비한 전파 신호를 발견했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10257",
+      "titleOriginal": "Xbox announces Wolfenstein 3",
+      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+      "lang": "en",
+      "publishedAt": "2026-11-13T00:15:00.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Xbox, 울펜슈타인 3 발표",
+      "translated": true
+    },
     {
       "id": "insiderpaper:45882",
       "titleOriginal": "BREAKING: People laid flowers outside Nvidia’s headquarters in Santa Clara, California, following CEO Jensen Huang’s resignation",
@@ -78,17 +188,6 @@
       "source": "Insider Paper",
       "region": "속보",
       "title": "속보: Microsoft Outlook이 여전히 다운되어 사용자가 이메일을 수신하거나 전송할 수 없습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79059",
-      "titleOriginal": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo",
-      "lang": "en",
-      "publishedAt": "2026-11-12T22:04:38.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아 군함, 핀란드만에서 우크라이나 드론 공격을 받다",
       "translated": true
     },
     {
@@ -1552,105 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "Home Assistant의 새로운 '스마트홈 멀티툴' 직접 사용해 보기",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10226",
-      "titleOriginal": "United won’t let your AI agent book your flight",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-      "lang": "en",
-      "publishedAt": "2026-11-11T21:55:09.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "유나이티드 항공은 AI 에이전트가 항공권을 예약하는 것을 허용하지 않습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79037",
-      "titleOriginal": "Iran threatens to bomb European bases",
-      "url": "https://www.telegraph.co.uk/world-news/2026/11/11/iran-threatens-bomb-european-bases-middle-east/?WT.mc_id=tmgoff_reddit_bomb-european-bases-middle-east/&amp;accesscontrol=facebookchannel_open",
-      "lang": "en",
-      "publishedAt": "2026-11-11T21:34:10.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "이란, 유럽 기지 폭격 위협",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22111",
-      "titleOriginal": "NEW - U.S. Army sentinel guarding the Tomb of the Unknown Soldier reprimanded Pete Hegseth and a group of his senior advisers after some in the group laughed and talked near the solemn memorial following a Veterans Day ceremony.",
-      "url": "https://t.me/disclosetv/22111",
-      "lang": "en",
-      "publishedAt": "2026-11-11T21:18:04.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "신규 - 무명 용사 묘를 지키는 미 육군 경비병이 재향군인의 날 기념식 후 엄숙한 추모비 근처에서 일부가 웃고 떠들자 피트 헤그세스(Pete Hegseth)와 그의 고위 자문단 일행을 훈계했습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79036",
-      "titleOriginal": "Zelensky: Russia Seeks Freedom to Use Force, Not Genuine Security",
-      "url": "https://www.kyivpost.com/post/89837",
-      "lang": "en",
-      "publishedAt": "2026-11-11T21:14:17.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "젤렌스키: 러시아는 진정한 안보가 아닌 무력 사용의 자유를 추구한다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20235",
-      "titleOriginal": "\"The US believes that Ukraine must withdraw from Donbas to end the war, but that is impossible.\" - Zelenskyy.",
-      "url": "http://patreon.com/c/WarTranslated",
-      "lang": "en",
-      "publishedAt": "2026-11-11T20:42:11.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "미국은 우크라이나가 전쟁을 끝내기 위해 돈바스에서 철수해야 한다고 생각하지만, 이는 불가능합니다.\" - 젤렌스키 대통령",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20234",
-      "titleOriginal": "\"I hope that this winter we will test the first European anti-ballistic defense system.\" - Zelenskyy stated during a meeting in Denmark.",
-      "url": "https://t.me/wartranslated/20234",
-      "lang": "en",
-      "publishedAt": "2026-11-11T20:36:40.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "올겨울에 유럽 최초의 탄도미사일 방어 체계를 시험해 볼 수 있기를 바랍니다.\" - 젤렌스키 대통령이 덴마크에서 열린 회의에서 밝힌 내용입니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22110",
-      "titleOriginal": "NOW - Mike Johnson leads a bipartisan tribute to Veterans day on Capitol Hill: \"Ronald Reagan used to remind us that freedom is never more than one generation away from extinction, he said we don't pass it along in the bloodstream, it must ",
-      "url": "https://t.me/disclosetv/22110",
-      "lang": "en",
-      "publishedAt": "2026-11-11T20:33:03.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "현재 - 마이크 존슨 하원의장이 국회의사당에서 양당이 함께하는 재향군인의 날 추모 행사를 이끌고 있습니다. \"로널드 레이건 전 대통령은 자유가 한 세대를 넘기지 못하고 사라질 수 있다고 늘 강조하셨습니다. 자유는 혈액을 통해 전달되는 것이 아니라,",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12516",
-      "titleOriginal": "Iraqi Prime Minister and Commander-in-Chief of the Armed Forces Ali Faleh Al-Zaidi reviewed the progress of the investigation into the attack on the Khor Mor field in Sulaymaniyah Governorate on Wednesday. The prime minister stressed the ne",
-      "url": "https://iraq.liveuamap.com/en/2026/11-november-19-iraqi-prime-minister-and-commanderinchief",
-      "lang": "en",
-      "publishedAt": "2026-11-11T20:17:15.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "이라크 총리 겸 군 최고사령관인 알리 팔레 알자이디는 수요일 술라이마니야 주 코르모르 유전 공격 사건에 대한 수사 진행 상황을 점검했다. 총리는 다음 사항을 강조했다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79035",
-      "titleOriginal": "Russia Loses Three Helicopter Crews While Repelling Ukrainian Drone Attack",
-      "url": "https://militarnyi.com/en/news/russia-loses-three-helicopter-crews-while-repelling-ukrainian-drone-attack/",
-      "lang": "en",
-      "publishedAt": "2026-11-11T20:04:31.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아, 우크라이나 드론 공격을 저지하는 과정에서 헬리콥터 승무원 3명을 잃다",
       "translated": true
     }
   ]
