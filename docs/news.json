@@ -1,8 +1,85 @@
 {
-  "updatedAt": "2026-11-14T20:27:26.960Z",
+  "updatedAt": "2026-11-15T00:07:24.432Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:79104",
+      "titleOriginal": "Ukraine’s FREYJA Anti-Ballistic Missile Ready as Denmark Completes Radar Component",
+      "url": "https://www.kyivpost.com/post/90129",
+      "lang": "en",
+      "publishedAt": "2026-11-14T23:49:27.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "덴마크가 레이더 부품을 완성함에 따라 우크라이나의 프레이야(FREYJA) 대탄도미사일 준비 완료",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79103",
+      "titleOriginal": "Italy has fined social media giant Meta €805m for photos and videos of about 20 million smartphone users without their specific consent, says country’s Data Protection Authority",
+      "url": "https://www.bbc.com/news/articles/cwn83gxemk35o",
+      "lang": "en",
+      "publishedAt": "2026-11-14T23:29:29.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "이탈리아의 데이터 보호 당국은 약 2천만 명의 스마트폰 사용자의 사진과 동영상을 본인들의 명시적 동의 없이 사용한 혐의로 소셜 미디어 대기업 메타에 8억 5백만 유로의 벌금을 부과했다고 밝혔습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79102",
+      "titleOriginal": "Israeli intelligence warns of Iranian plot to target Trump, top US officials with drones .",
+      "url": "https://www.israelhayom.com/2026/11/14/israeli-intelligence-warns-of-iranian-plot-to-target-trump-top-us-officials-with-drones/",
+      "lang": "en",
+      "publishedAt": "2026-11-14T22:49:26.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "이스라엘 정보기관, 이란이 드론을 이용해 트럼프 대통령과 미국 고위 관계자를 겨냥한 음모를 꾸미고 있다고 경고",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92247",
+      "titleOriginal": "A Mysterious Object in Space Pulsed Every 62 Minutes. Then It Vanished.",
+      "url": "https://www.sciencealert.com/a-mysterious-object-in-space-pulsed-every-62-minutes-then-it-vanished",
+      "lang": "en",
+      "publishedAt": "2026-11-14T22:02:44.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "62분마다 신호를 보내는 우주의 신비한 천체가 사라졌습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10287",
+      "titleOriginal": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "lang": "en",
+      "publishedAt": "2026-11-14T21:44:54.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "SpaceX가 Starship을 '젓가락'으로 처음 성공적으로 포착하는 모습을 시청하세요",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79101",
+      "titleOriginal": "Macron says limiting Ukraine aid would pave way to 'another war'",
+      "url": "https://www.france24.com/en/europe/20261114-macron-says-limiting-ukraine-aid-would-pave-way-to-another-war",
+      "lang": "en",
+      "publishedAt": "2026-11-14T21:14:18.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "마크롱 대통령, 우크라이나 지원 제한은 '또 다른 전쟁'으로 이어질 것이라고 경고",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92246",
+      "titleOriginal": "Scientists Invented an Electric Comb, And Tests in Mice Show It Promotes Rapid Hair Growth",
+      "url": "https://www.sciencealert.com/scientists-invented-an-electric-comb-and-tests-in-mice-show-it-promotes-rapid-hair-growth",
+      "lang": "en",
+      "publishedAt": "2026-11-14T20:32:34.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들이 전기 빗을 발명했으며, 생쥐를 대상으로 한 테스트 결과 이 빗이 빠른 모발 성장을 촉진하는 것으로 나타났습니다",
+      "translated": true
+    },
     {
       "id": "wartranslated:20316",
       "titleOriginal": "Russian monitoring sources say the number of Ukrainian drones over Luhansk and Voronezh regions has noticeably grown, especially near Rostov region, while activity continues over Bryansk, Kursk and Belgorod regions, but the main push is in ",
@@ -1574,83 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "Microsoft의 대규모 Outlook 서비스 중단이 계속되고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20278",
-      "titleOriginal": "Zelensky says a 161 km/h speed limit for Ukrainian forces remains along the whole front line, which rules out interceptors against jet Shaheds. There are still no clear explanations, and he told the Foreign Ministry and Defense Minister to ",
-      "url": "https://t.me/wartranslated/20278",
-      "lang": "en",
-      "publishedAt": "2026-11-13T12:50:17.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키 대통령은 우크라이나군에 대한 시속 161km의 속도 제한이 전 전선에 걸쳐 여전히 유지되고 있으며, 이로 인해 제트 샤헤드에 대한 요격이 불가능하다고 밝혔습니다. 아직 명확한 설명이 없으며, 그는 외교부와 국방부 장관에게 다음과 같이 지시했습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92233",
-      "titleOriginal": "Fresh doubts surround declassified FBI report of 'black triangle' UFO",
-      "url": "https://www.unexplained-mysteries.com/news/400212/fresh-doubts-surround-declassified-fbi-report-of-black-triangle-ufo",
-      "lang": "en",
-      "publishedAt": "2026-11-13T12:39:03.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "블랙 트라이앵글' UFO에 대한 기밀 해제된 FBI 보고서를 둘러싼 새로운 의혹",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45887",
-      "titleOriginal": "JUST IN — Microsoft says its global outage is beginning to stabilize after millions of users were left unable to send or receive emails.",
-      "url": "https://t.me/insiderpaper/45887",
-      "lang": "en",
-      "publishedAt": "2026-11-13T12:29:14.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 — 마이크로소프트(Microsoft)가 수백만 명의 사용자가 이메일을 주고받을 수 없게 된 후 글로벌 서비스 중단 사태가 안정화되기 시작했다고 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92232",
-      "titleOriginal": "Your Poop Schedule Says a Whole Lot About Your Overall Health, Study Reveals",
-      "url": "https://www.sciencealert.com/your-poop-schedule-says-a-whole-lot-about-your-overall-health-study-reveals",
-      "lang": "en",
-      "publishedAt": "2026-11-13T12:21:16.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "연구에 따르면, 배변 패턴이 전반적인 건강 상태에 대해 많은 것을 말해줍니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10259",
-      "titleOriginal": "Let’s talk about Jensen Huang’s many affairs!",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-      "lang": "en",
-      "publishedAt": "2026-11-13T12:06:06.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "젠슨 황의 수많은 스캔들에 대해 이야기해 봅시다!",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79070",
-      "titleOriginal": "Russia seeks Finland's NATO exit, Baltic military base ban in Ukraine talks: Report",
-      "url": "https://www.turkiyetoday.com/world/russia-seeks-finlands-nato-exit-baltic-military-base-ban-in-ukraine-talks-report-3232316",
-      "lang": "en",
-      "publishedAt": "2026-11-13T12:04:16.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아, 우크라이나 협상에서 핀란드의 나토 탈퇴 및 발트해 군사 기지 금지 요구: 보도",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15737",
-      "titleOriginal": "Seven-time Formula 1 world champion Lewis Hamilton met Palestinian children evacuated from Gaza to Egypt for medical treatment and psychological support. He listened to their stories and expressed admiration for their resilience as they con",
-      "url": "https://t.me/trtworld/15737",
-      "lang": "en",
-      "publishedAt": "2026-11-13T11:44:32.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "포뮬러원(F1) 7회 월드 챔피언인 루이스 해밀턴이 의료 치료와 심리적 지원을 받기 위해 가자지구에서 이집트로 대피한 팔레스타인 어린이들을 만났습니다. 그는 아이들의 이야기를 듣고, 아이들이 겪은 일에도 불구하고 보여준 회복탄력성에 감탄을 표했습니다",
       "translated": true
     }
   ]
