@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-11-16T00:11:12.314Z",
+  "updatedAt": "2026-11-16T07:03:59.500Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:79127",
+      "titleOriginal": "Pope Leo urges stop to Amazon deforestation, decries 'murders' of tribal leaders",
+      "url": "https://www.reuters.com/world/americas/pope-leo-cross-peru-visits-inca-city-amazon-gateway-2026-11-15/",
+      "lang": "en",
+      "publishedAt": "2026-11-16T03:19:43.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "교황 레오 13세, 아마존 삼림 파괴 중단을 촉구하며 부족 지도자들의 '살해'를 비난",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79126",
+      "titleOriginal": "Ukraine War Robots Starting to Down Drones, Could Alter the Kill Zone",
+      "url": "https://www.businessinsider.com/ukraine-war-robots-starting-down-drones-could-alter-kill-zone-2026-11",
+      "lang": "en",
+      "publishedAt": "2026-11-16T03:09:14.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나 전쟁 로봇이 드론을 격추하기 시작하면서 살상 구역이 바뀔 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92257",
+      "titleOriginal": "For The First Time Ever, Astronomers Watched a Giant Planet Disappear. Now They Think They Know Why.",
+      "url": "https://www.sciencealert.com/for-the-first-time-astronomers-watched-a-giant-planet-disappear-now-they-think-they-know-why",
+      "lang": "en",
+      "publishedAt": "2026-11-16T02:55:08.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "천문학자들이 사상 최초로 거대 행성이 사라지는 것을 관측했습니다. 이제 그들은 그 이유를 알고 있다고 생각합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92256",
+      "titleOriginal": "Without Enough Fiber, Gut Bacteria Can Turn to Eating Your Gut Lining Instead",
+      "url": "https://www.sciencealert.com/without-enough-fiber-gut-bacteria-can-turn-to-eating-your-gut-lining-instead",
+      "lang": "en",
+      "publishedAt": "2026-11-16T01:45:14.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "식이섬유가 충분하지 않으면, 장내 세균이 대신 장 점막을 먹을 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10298",
+      "titleOriginal": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "lang": "en",
+      "publishedAt": "2026-11-16T01:30:32.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Apple의 새로운 연구는 AI 건강 도구의 효과를 개선하는 것을 목표로 합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79125",
+      "titleOriginal": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
+      "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling",
+      "lang": "en",
+      "publishedAt": "2026-11-16T01:19:33.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "아이젠코트, 네타냐후 총리가 선거 개입 의혹 속에서 이스라엘 총리로 남을 수 없다고 말해",
+      "translated": true
+    },
     {
       "id": "sciencealert:92255",
       "titleOriginal": "A High-Dose Flu Vaccine Is Linked to Nearly 55% Lower Alzheimer's Risk",
@@ -1585,72 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "아마존, 전 세계 온라인 쇼핑 데이터 색인화 계획 수립",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79085",
-      "titleOriginal": "Pope Leo XIV denounces 'machismo' and demands women be protected in an emotional return to Peru",
-      "url": "https://apnews.com/article/peru-pope-abuse-amazon-indigenous-e6ed62d2f8937c7d3d857f01dad925c2",
-      "lang": "en",
-      "publishedAt": "2026-11-13T23:39:33.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "교황 레오 14세, '마초주의'를 비난하고 여성 보호를 요구하며 감동적인 페루 방문을 마쳤습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79084",
-      "titleOriginal": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-      "url": "https://www.bbc.com/news/articles/c6jd75geegzyo",
-      "lang": "en",
-      "publishedAt": "2026-11-13T23:29:21.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "미 공군, RAF 레이큰히스 상공 '드론 의심체'에 대응했다고 밝혀",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79083",
-      "titleOriginal": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
-      "url": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
-      "lang": "en",
-      "publishedAt": "2026-11-13T23:24:29.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "아이젠코트, 네타냐후 총리가 아랍인에 대한 '인종차별적' 적대감을 부추긴다고 비난",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22140",
-      "titleOriginal": "NEW - Son of Obama's CIA Director John Brennan, Kyle Brennan, arrested on federal charges related to the distribution of material containing child sexual abuse.",
-      "url": "https://www.disclose.tv/id/8k5nezq8wu/",
-      "lang": "en",
-      "publishedAt": "2026-11-13T23:20:43.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "새 소식 - 오바마 행정부의 CIA 국장이었던 존 브레넌의 아들 카일 브레넌이 아동 성학대 관련 자료 유포 혐의로 연방 당국에 체포되었습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45904",
-      "titleOriginal": "BREAKING: Trump says no one was killed in the massive ship collision in New Orleans, Louisiana, but 32 people were hospitalized.",
-      "url": "https://t.me/insiderpaper/45904",
-      "lang": "en",
-      "publishedAt": "2026-11-13T23:03:31.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 트럼프 대통령은 루이지애나주 뉴올리언스에서 발생한 대규모 선박 충돌 사고로 사망자는 없었지만 32명이 병원으로 이송되었다고 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92238",
-      "titleOriginal": "Physicists Find a Mathematical Limit to Making Time Run Backward",
-      "url": "https://www.sciencealert.com/physicists-find-a-mathematical-limit-to-making-time-run-backward",
-      "lang": "en",
-      "publishedAt": "2026-11-13T23:03:07.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "물리학자들이 시간을 거꾸로 돌리는 데 수학적 한계를 발견하다",
       "translated": true
     }
   ]
