@@ -1,8 +1,129 @@
 {
-  "updatedAt": "2026-11-15T20:10:29.619Z",
+  "updatedAt": "2026-11-16T00:11:12.314Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:92255",
+      "titleOriginal": "A High-Dose Flu Vaccine Is Linked to Nearly 55% Lower Alzheimer's Risk",
+      "url": "https://www.sciencealert.com/a-high-dose-flu-vaccine-is-linked-to-nearly-55-lower-alzheimers-risk",
+      "lang": "en",
+      "publishedAt": "2026-11-15T23:26:03.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "고용량 독감 백신이 알츠하이머 위험을 거의 55% 낮추는 것과 관련이 있습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92254",
+      "titleOriginal": "Breakthrough to Make Bones Stronger Has The Potential to Reverse Osteoporosis",
+      "url": "https://www.sciencealert.com/breakthrough-to-make-bones-stronger-has-the-potential-to-reverse-osteoporosis",
+      "lang": "en",
+      "publishedAt": "2026-11-15T21:55:17.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "뼈를 더 튼튼하게 만드는 획기적인 발견이 골다공증을 역전시킬 가능성을 제시합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10297",
+      "titleOriginal": "Listen to this: Armand Hammer’s Snakes & Ladders",
+      "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+      "lang": "en",
+      "publishedAt": "2026-11-15T21:51:03.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "이 곡을 들어보세요: Armand Hammer의 'Snakes & Ladders",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79124",
+      "titleOriginal": "New Microsoft patent proposes using idle GPU power of users",
+      "url": "https://vietnamip.com.vn/en/new-microsoft-patent-proposes-rewarding-pc-users-for-idle-gpu-power/",
+      "lang": "en",
+      "publishedAt": "2026-11-15T21:44:34.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "새로운 Microsoft 특허, 사용자의 유휴 GPU 전력 사용 제안",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:45913",
+      "titleOriginal": "BREAKING - Notorious Mexican drug lord Miguel Angel Felix Gallardo dies: security ministry",
+      "url": "https://t.me/insiderpaper/45913",
+      "lang": "en",
+      "publishedAt": "2026-11-15T21:33:57.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보 - 악명 높은 멕시코 마약왕 미겔 안헬 펠릭스 가야르도 사망: 보안부",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10296",
+      "titleOriginal": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "lang": "en",
+      "publishedAt": "2026-11-15T21:06:05.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "벌컨 로켓 발사 실패로 아마존 레오 위성 40기 파괴",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79123",
+      "titleOriginal": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+      "lang": "en",
+      "publishedAt": "2026-11-15T20:59:15.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "젤렌스키 대통령, 미국과 머스크에게 스타링크 제한 해제 및 '역사의 올바른 편'에 설 것을 촉구",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10295",
+      "titleOriginal": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "lang": "en",
+      "publishedAt": "2026-11-15T20:45:31.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "젠슨 황이 복귀를 계획하고 있을지도 모르며, 엔비디아의 드라마는 계속될지도 모릅니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79122",
+      "titleOriginal": "Russia massively strikes Ukrainian energy as Starshield limits hamper interceptions",
+      "url": "https://newsukraine.rbc.ua/news/russia-massively-strikes-ukrainian-energy-1794744024.html",
+      "lang": "en",
+      "publishedAt": "2026-11-15T20:24:23.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아, 우크라이나 에너지 시설 대대적으로 공격... Starshield 제한으로 요격 어려워져",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20351",
+      "titleOriginal": "Several Russian regions are under drone attack right now. Airports in Kaluga and Moscow's Vnukovo are not operating.",
+      "url": "https://t.me/wartranslated/20351",
+      "lang": "en",
+      "publishedAt": "2026-11-15T20:23:18.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "현재 여러 러시아 지역이 드론 공격을 받고 있습니다. 칼루가와 모스크바 브누코보 공항이 운영을 중단했습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20350",
+      "titleOriginal": "The Defense Forces strike on Ust-Luga port on November 11 left devastation visible even from space. At least five tanks burned out.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-11-15T20:13:48.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "11월 11일 우스트루가 항에 가해진 우크라이나 국방군의 공격으로 인한 피해는 우주에서도 보일 정도로 심각했습니다. 최소 5대의 탱크가 불에 탔습니다",
+      "translated": true
+    },
     {
       "id": "wartranslated:20349",
       "titleOriginal": "In seven Ukrainian communities, dead Russian troops outnumber prewar residents, analyst M0nstas finds . He matched Russian military death records to places of death and compared the tolls with 2022 populations. In six more, there are 50 to ",
@@ -111,17 +232,6 @@
       "source": "WorldNews",
       "region": "종합",
       "title": "룰라 대통령은 도널드 트럼프 미국 대통령이 대규모 관세를 부과한 후 브라질이 \"놀라운 교훈을 얻었다\"고 말했다. \"우리는 미국 정부에 브라질을 불쌍히 여겨 달라고 울거나 애원하는 대신, 다른 파트너를 찾아 수출하고",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20344",
-      "titleOriginal": "The Defense Forces strike on Ust-Luga port on November 11 left devastation visible even from space. At least five tanks burned out.",
-      "url": "https://t.me/wartranslated/20344",
-      "lang": "en",
-      "publishedAt": "2026-11-15T17:40:19.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "11월 11일 우스트루가 항구에 가해진 우크라이나 국방군의 공격으로 인한 피해는 우주에서도 육안으로 확인할 수 있을 정도였습니다. 최소 5대의 탱크가 불에 탔습니다",
       "translated": true
     },
     {
@@ -1541,116 +1651,6 @@
       "source": "ScienceAlert",
       "region": "과학",
       "title": "물리학자들이 시간을 거꾸로 돌리는 데 수학적 한계를 발견하다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45903",
-      "titleOriginal": "BREAKING 🚀 SpaceX launches Starship rocket aiming for first-ever recovery of both stages",
-      "url": "https://t.me/insiderpaper/45903",
-      "lang": "en",
-      "publishedAt": "2026-11-13T22:58:12.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 🚀 SpaceX, 사상 최초로 1단 및 2단 로켓 모두 회수 목표로 Starship 로켓 발사",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79082",
-      "titleOriginal": "USA issues Ground Stop",
-      "url": "https://www.cnn.com/2026/11/13/us/faa-nationwide-ground-stop",
-      "lang": "en",
-      "publishedAt": "2026-11-13T22:34:22.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "미국이 운항 중단 조치 발령",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45901",
-      "titleOriginal": "BREAKING: The US National Weather Service ‌said on Friday it was experiencing nationwide internet and ⁠communications problems that could prevent users from accessing products on its websites or cause outdated ‌information ⁠to be displayed ",
-      "url": "https://t.me/insiderpaper/45901",
-      "lang": "en",
-      "publishedAt": "2026-11-13T22:29:30.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 미국 기상청(NWS)은 금요일에 전국적인 인터넷 및 통신 문제로 인해 사용자들이 웹사이트의 제품에 접근하지 못하거나 오래된 정보가 표시될 수 있다고 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22138",
-      "titleOriginal": "UPDATE - The FAA confirms it ordered a nationwide ground stop for all departures “due to several impacts to ATC Frequencies and/or Radar capabilities.” The cause and duration of the outage remain unclear — The Air Current",
-      "url": "https://t.me/disclosetv/22138",
-      "lang": "en",
-      "publishedAt": "2026-11-13T22:15:56.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "업데이트 - FAA는 \"ATC 주파수 및/또는 레이더 기능에 여러 가지 영향이 발생했기 때문에\" 모든 출발 항공편에 대해 전국적인 운항 중단을 명령했다고 확인했습니다. 운항 중단의 원인과 지속 기간은 여전히 불분명합니다 — The Air Current",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22137",
-      "titleOriginal": "NOW - U.S. Homeland Security Secretary briefed reporters on the nationwide ground stop.",
-      "url": "https://t.me/disclosetv/22137",
-      "lang": "en",
-      "publishedAt": "2026-11-13T22:14:56.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "현재 - 미국 국토안보부 장관이 전국적인 지상 운항 중단에 대해 기자들에게 브리핑했습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79081",
-      "titleOriginal": "All US departing flights grounded by aviation officials",
-      "url": "https://www.rte.ie/news/world/2026/1113/1599187-us-flights/",
-      "lang": "en",
-      "publishedAt": "2026-11-13T22:09:14.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "미국 항공 당국이 모든 미국 출발 항공편의 운항을 중단했습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45900",
-      "titleOriginal": "BREAKING: Around 3,100 aircraft are currently in the air heading to US airports as a nationwide FAA ground stop halts further departures, according to Flightradar24.",
-      "url": "https://t.me/insiderpaper/45900",
-      "lang": "en",
-      "publishedAt": "2026-11-13T21:54:47.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: Flightradar24에 따르면, 현재 약 3,100대의 항공기가 미국 공항으로 향하고 있으며, FAA의 전국적인 운항 중단 조치로 인해 추가 출발이 중단되었습니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22136",
-      "titleOriginal": "NEW - Zuckerberg's Meta plans to launch its own prediction market app, now in testing with employees.",
-      "url": "https://www.disclose.tv/id/5n5dcawgxl/",
-      "lang": "en",
-      "publishedAt": "2026-11-13T21:44:20.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "새 소식 - 저커버그의 메타가 자체 예측 시장 앱을 출시할 계획이며, 현재 직원들을 대상으로 테스트 중입니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10276",
-      "titleOriginal": "FAA ground stop shuts down flights nationwide",
-      "url": "https://telegra.ph/FAA-ground-stop-shuts-down-flights-nationwide-11-13-3",
-      "lang": "en",
-      "publishedAt": "2026-11-13T21:40:42.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "FAA 지상 정지로 인해 미국 전역에서 항공편 운항 중단",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79080",
-      "titleOriginal": "Ground stop ordered for all airports nationwide for ‘reasons of safety’",
-      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-      "lang": "en",
-      "publishedAt": "2026-11-13T21:39:24.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "안전상의 이유'로 전국 모든 공항에 대해 지상 정지 명령이 내려졌습니다",
       "translated": true
     }
   ]
