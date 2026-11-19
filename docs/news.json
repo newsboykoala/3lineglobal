@@ -1,8 +1,63 @@
 {
-  "updatedAt": "2026-11-18T23:56:06.429Z",
+  "updatedAt": "2026-11-19T06:24:24.205Z",
   "count": 150,
-  "translatedCount": 150,
+  "translatedCount": 145,
   "items": [
+    {
+      "id": "trtworld:15760",
+      "titleOriginal": "Follow our Daily News Brief for Thursday, November 19th",
+      "url": "https://trt.world/cvkp",
+      "lang": "en",
+      "publishedAt": "2026-11-19T06:05:33.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "Follow our Daily News Brief for Thursday, November 19th",
+      "translated": false
+    },
+    {
+      "id": "sciencealert:92283",
+      "titleOriginal": "For The First Time, 4 Radiation Belts Appeared Around Earth in 2024",
+      "url": "https://www.sciencealert.com/for-the-first-time-4-radiation-belts-appeared-around-earth-in-2024",
+      "lang": "en",
+      "publishedAt": "2026-11-19T02:18:21.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "For The First Time, 4 Radiation Belts Appeared Around Earth in 2024",
+      "translated": false
+    },
+    {
+      "id": "worldnews:79206",
+      "titleOriginal": "Crimean Bridge attacked again, Russian official says",
+      "url": "https://www.bbc.com/news/articles/cm879dqn3e1jo?at_medium=RSS&amp;at_campaign=rss",
+      "lang": "en",
+      "publishedAt": "2026-11-19T02:09:10.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "translated": false
+    },
+    {
+      "id": "theverge_news:10391",
+      "titleOriginal": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+      "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+      "lang": "en",
+      "publishedAt": "2026-11-19T01:41:02.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+      "translated": false
+    },
+    {
+      "id": "sciencealert:92282",
+      "titleOriginal": "Scientists Developed 'Smart Floss' That Uses Gunk Between Your Teeth to Track Metabolism",
+      "url": "https://www.sciencealert.com/scientists-developed-smart-floss-that-uses-gunk-between-your-teeth-to-track-metabolism",
+      "lang": "en",
+      "publishedAt": "2026-11-19T01:08:20.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "Scientists Developed 'Smart Floss' That Uses Gunk Between Your Teeth to Track Metabolism",
+      "translated": false
+    },
     {
       "id": "disclosetv:22203",
       "titleOriginal": "JUST IN - Trump is weighing another round of extensive military strikes against Iran as Israel pressures the U.S. to join a four- to seven-day air campaign, officials say.",
@@ -1596,61 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "민주당, '블루 웨이브'에 휩쓸리지 않는 방법을 모색하다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79174",
-      "titleOriginal": "Pentagon's deputy chief condemns Ukrainian long-range strikes on Russia, saying they \"incur pain on Russian population\"",
-      "url": "https://www.pravda.com.ua/eng/news/2026/11/17/8063337/",
-      "lang": "en",
-      "publishedAt": "2026-11-17T20:19:39.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "미 국방부 부장관, 우크라이나의 러시아 장거리 공격을 \"러시아 국민에게 고통을 가한다\"며 비난",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:45976",
-      "titleOriginal": "JUST IN - Apple blames an internal update, not a cyberattack, for widespread outages across its services.",
-      "url": "https://t.me/insiderpaper/45976",
-      "lang": "en",
-      "publishedAt": "2026-11-17T20:01:01.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 애플이 서비스 전반에 걸친 광범위한 서비스 중단에 대해 사이버 공격이 아닌 내부 업데이트를 원인으로 지목했습니다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12600",
-      "titleOriginal": "Iraq announces the postponement of Prime Minister Ali al-Zaidi's visit to the Lebanese capital, Beirut. https://iraq.liveuamap.com/en/2026/17-november-19-iraq-announces-the-postponement-of-prime-minister",
-      "url": "https://iraq.liveuamap.com/en/2026/17-november-19-iraq-announces-the-postponement-of-prime-minister",
-      "lang": "en",
-      "publishedAt": "2026-11-17T20:00:24.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "이라크가 알리 알자이디 총리의 레바논 수도 베이루트 방문을 연기한다고 발표했습니다. https://iraq.liveuamap.com/en/2026/17-november-19-iraq-announces-the-postponement-of-prime-minister",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12599",
-      "titleOriginal": "House Democratic Leader: We have reached a stage that requires a briefing for Congress regarding cyberattacks https://usa.liveuamap.com/en/2026/17-november-19-house-democratic-leader-we-have-reached-a",
-      "url": "https://usa.liveuamap.com/en/2026/17-november-19-house-democratic-leader-we-have-reached-a",
-      "lang": "en",
-      "publishedAt": "2026-11-17T19:58:20.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "하원 민주당 원내대표: 우리는 사이버 공격과 관련하여 의회에 브리핑이 필요한 단계에 도달했습니다. https://usa.liveuamap.com/en/2026/17-november-19-house-democratic-leader-we-have-reached-a",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12598",
-      "titleOriginal": "There will be more Ukrainian operations in response to Russian aggression, Zelensky said. Ukraine is negotiating with partners to obtain European long-range missiles for strikes against Russian military production facilities and American te",
-      "url": "https://liveuamap.com/en/2026/17-november-19-there-will-be-more-ukrainian-operations-in",
-      "lang": "en",
-      "publishedAt": "2026-11-17T19:55:49.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "젤렌스키 대통령은 러시아의 침략에 대응하여 우크라이나의 작전이 더 많이 펼쳐질 것이라고 말했다. 우크라이나는 러시아 군수 생산 시설과 미국 기술을 공격하기 위한 유럽산 장거리 미사일을 확보하기 위해 파트너 국가들과 협상을 진행하고 있습니다",
       "translated": true
     }
   ]
