@@ -1,8 +1,41 @@
 {
-  "updatedAt": "2026-11-19T22:59:32.024Z",
+  "updatedAt": "2026-11-20T03:56:34.129Z",
   "count": 150,
-  "translatedCount": 132,
+  "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:79227",
+      "titleOriginal": "UK Pledges to Stand With Ukraine ‘For as Long as It Takes,’ Burnham Says in Berlin",
+      "url": "https://www.kyivpost.com/post/90650",
+      "lang": "en",
+      "publishedAt": "2026-11-20T03:09:15.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "버넘 시장, 베를린에서 \"영국은 필요한 만큼 오래 우크라이나를 지지하겠다\"고 약속",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92294",
+      "titleOriginal": "NASA Orbiter Snaps What Looks Like an Eerie Forest Growing on The Frozen Dunes of Mars",
+      "url": "https://www.sciencealert.com/nasa-orbiter-snaps-what-looks-like-an-eerie-forest-growing-on-the-frozen-dunes-of-mars",
+      "lang": "en",
+      "publishedAt": "2026-11-20T01:04:17.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "NASA 궤도선이 화성의 얼어붙은 모래 언덕에서 자라는 듯한 기이한 숲을 포착했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79226",
+      "titleOriginal": "Trump Says He Wants to Protect 'My Friend' Putin From International Courts",
+      "url": "https://au.rollingstone.com/culture/culture-news/trump-protect-putin-xi-international-courts-103558/",
+      "lang": "en",
+      "publishedAt": "2026-11-19T23:34:08.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프, \"내 친구\" 푸틴을 국제 법원에서 보호하고 싶다고 말해",
+      "translated": true
+    },
     {
       "id": "theverge_news:10422",
       "titleOriginal": "Apple is hiring engineers to build its own AI agent",
@@ -671,8 +704,8 @@
       "publishedAt": "2026-11-19T16:01:44.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "International Court of Justice: Myanmar security forces have carried out systematic cleansing operations against the Rohingya Muslim population. https://myanmar.liveuamap.com/en/2026/19-november-10-international-court-of-justice-myanmar-sec",
-      "translated": false
+      "title": "국제사법재판소: 미얀마 보안군은 로힝야족 무슬림 주민을 상대로 조직적인 숙청 작전을 펼쳤다. https://myanmar.liveuamap.com/en/2026/19-november-10-international-court-of-justice-myanmar-sec",
+      "translated": true
     },
     {
       "id": "liveuamap:12619",
@@ -682,8 +715,8 @@
       "publishedAt": "2026-11-19T15:59:44.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "Zelenskyy met with Macron, Burnham and Merz to discuss air defense and the protection of energy facilities and infrastructure. https://liveuamap.com/en/2026/19-november-15-zelenskyy-met-with-macron-burnham-and-merz",
-      "translated": false
+      "title": "젤렌스키 대통령은 마크롱 대통령, 버넘 시장, 메르츠 의원과 만나 방공 및 에너지 시설과 인프라 보호에 대해 논의했습니다. https://liveuamap.com/en/2026/19-november-15-zelenskyy-met-with-macron-burnham-and-merz",
+      "translated": true
     },
     {
       "id": "wartranslated:20411",
@@ -1331,8 +1364,8 @@
       "publishedAt": "2026-11-19T08:54:30.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Ukraine Isn’t Finished With the Crimean Bridge—Third Attack Targets Its Railway Section",
-      "translated": false
+      "title": "우크라이나, 크림대교 공격 아직 끝나지 않았다—세 번째 공격 대상은 철도 구간",
+      "translated": true
     },
     {
       "id": "trtworld:15761",
@@ -1342,8 +1375,8 @@
       "publishedAt": "2026-11-19T08:53:35.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "Israeli occupation forces opened fire on Palestinians forced to flee their homes and tents toward the west on November 18, following a new military offensive beyond the “Yellow Line” around the Bureij and Nuseirat refugee camps in Palestine",
-      "translated": false
+      "title": "이스라엘 점령군은 11월 18일 팔레스타인 부레이즈 및 누세이라트 난민촌 주변의 '옐로 라인' 너머에서 새로운 군사 공세를 펼친 후, 집과 텐트를 떠나 서쪽으로 도망치던 팔레스타인인들에게 총격을 가했습니다",
+      "translated": true
     },
     {
       "id": "liveuamap:12614",
@@ -1353,8 +1386,8 @@
       "publishedAt": "2026-11-19T08:48:00.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "Trump: Cooperation is essential to prevent the proliferation of nuclear weapons. We will not allow Iran to possess nuclear weapons. https://iran.liveuamap.com/en/2026/19-november-08-trump-cooperation-is-essential-to-prevent",
-      "translated": false
+      "title": "트럼프: 핵무기 확산을 방지하기 위해서는 협력이 필수적입니다. 우리는 이란이 핵무기를 보유하는 것을 허용하지 않을 것입니다. https://iran.liveuamap.com/en/2026/19-november-08-trump-cooperation-is-essential-to-preven",
+      "translated": true
     },
     {
       "id": "worldnews:79212",
@@ -1364,8 +1397,8 @@
       "publishedAt": "2026-11-19T08:29:13.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Musk Calls for Empathy for Conscripted Russian Soldiers and Denies Making Excuses for Russia",
-      "translated": false
+      "title": "머스크, 징집된 러시아 군인들에 대한 공감 요청 및 러시아에 대한 변명 부인",
+      "translated": true
     },
     {
       "id": "liveuamap:12613",
@@ -1375,8 +1408,8 @@
       "publishedAt": "2026-11-19T08:20:32.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "Israeli army withdraws from Wadi Gaza bridge and the Al-Dahiyya neighborhood following a 12-hour operation. https://israelpalestine.liveuamap.com/en/2026/19-november-06-israeli-army-withdraws-from-wadi-gaza-bridge",
-      "translated": false
+      "title": "이스라엘군은 12시간의 작전 끝에 와디 가자 다리와 다히야 지역에서 철수했습니다. https://israelpalestine.liveuamap.com/en/2026/19-november-06-israeli-army-withdraws-from-wadi-gaza-bridge",
+      "translated": true
     },
     {
       "id": "worldnews:79211",
@@ -1386,8 +1419,8 @@
       "publishedAt": "2026-11-19T08:14:27.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Trump discusses Ukraine during meeting with ‘my friend’ Putin in China",
-      "translated": false
+      "title": "트럼프 대통령, 중국에서 '친구' 푸틴 대통령과 회담 중 우크라이나 문제 논의",
+      "translated": true
     },
     {
       "id": "liveuamap:12612",
@@ -1397,8 +1430,8 @@
       "publishedAt": "2026-11-19T07:53:53.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "Airstrikes targeted Houthi positions and launchpads in Haya al-Abd, Al-Maqatra district, Lahj province; in Baqam and Sahar districts, Saada province; and in the capital, Sana'a. https://yemen.liveuamap.com/en/2026/19-november-07-airstrikes-",
-      "translated": false
+      "title": "공습은 라흐즈 주 알마카트라 지구 하야 알압드, 사다 주 바캄 및 사하르 지구, 수도 사나를 목표로 했습니다. https://yemen.liveuamap.com/en/2026/19-november-07-airstrikes-",
+      "translated": true
     },
     {
       "id": "worldnews:79210",
@@ -1408,8 +1441,8 @@
       "publishedAt": "2026-11-19T07:49:10.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Zelensky Calls Trump-Putin Meeting Without Ukraine a Mistake",
-      "translated": false
+      "title": "젤렌스키 대통령, 우크라이나 없이 열린 트럼프-푸틴 회담을 실수라고 비판",
+      "translated": true
     },
     {
       "id": "liveuamap:12611",
@@ -1419,8 +1452,8 @@
       "publishedAt": "2026-11-19T07:24:00.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "The war in Ukraine dominated themeeting between Russian President Putin and US President Donald Trump, Kremlin foreign policy aide Yuri Ushakov said https://liveuamap.com/en/2026/19-november-06-the-war-in-ukraine-dominated-themeeting-betwee",
-      "translated": false
+      "title": "크렘린궁 외교 정책 보좌관 유리 우샤코프는 블라디미르 푸틴 러시아 대통령과 도널드 트럼프 미국 대통령의 회담에서 우크라이나 전쟁이 주요 의제로 다뤄졌다고 밝혔습니다. https://liveuamap.com/en/2026/19-november-06-the-war-in-ukraine-dom",
+      "translated": true
     },
     {
       "id": "worldnews:79209",
@@ -1430,8 +1463,8 @@
       "publishedAt": "2026-11-19T07:19:32.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "European Commission approves proposal to provide additional $49.5 billion to Ukraine",
-      "translated": false
+      "title": "유럽연합 집행위원회, 우크라이나에 495억 달러 추가 지원 제안 승인",
+      "translated": true
     },
     {
       "id": "worldnews:79208",
@@ -1441,8 +1474,8 @@
       "publishedAt": "2026-11-19T06:49:26.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Mark Carney Says Canada Will Not Back Down in Trade Talks With U.S.",
-      "translated": false
+      "title": "마크 카니, 캐나다가 미국과의 무역 협상에서 물러서지 않을 것이라고 밝혀",
+      "translated": true
     },
     {
       "id": "trtworld:15760",
@@ -1452,8 +1485,8 @@
       "publishedAt": "2026-11-19T06:05:33.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "Follow our Daily News Brief for Thursday, November 19th",
-      "translated": false
+      "title": "11월 19일 목요일 데일리 뉴스 브리프를 확인하세요",
+      "translated": true
     },
     {
       "id": "sciencealert:92283",
@@ -1463,8 +1496,8 @@
       "publishedAt": "2026-11-19T02:18:21.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "For The First Time, 4 Radiation Belts Appeared Around Earth in 2024",
-      "translated": false
+      "title": "2024년, 지구 주위에 4개의 방사선 벨트가 처음으로 나타났습니다",
+      "translated": true
     },
     {
       "id": "worldnews:79206",
@@ -1474,8 +1507,8 @@
       "publishedAt": "2026-11-19T02:09:10.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Crimean Bridge attacked again, Russian official says",
-      "translated": false
+      "title": "러시아 관료, 크림대교가 다시 공격받았다고 밝혀",
+      "translated": true
     },
     {
       "id": "theverge_news:10391",
@@ -1485,8 +1518,8 @@
       "publishedAt": "2026-11-19T01:41:02.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
-      "translated": false
+      "title": "일론 머스크, 우크라이나와 Starlink 관련 상황 설명 시도",
+      "translated": true
     },
     {
       "id": "sciencealert:92282",
@@ -1496,8 +1529,8 @@
       "publishedAt": "2026-11-19T01:08:20.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Scientists Developed 'Smart Floss' That Uses Gunk Between Your Teeth to Track Metabolism",
-      "translated": false
+      "title": "과학자들이 치아 사이의 이물질을 사용하여 신진대사를 추적하는 '스마트 치실'을 개발했습니다",
+      "translated": true
     },
     {
       "id": "disclosetv:22203",
@@ -1618,39 +1651,6 @@
       "source": "Insider Paper",
       "region": "속보",
       "title": "신규: Anthropic 연구원인 타오 린(Tao Lin)이 AI가 결국 거의 모든 인간을 영구적으로 고용 불가능하게 만들 수 있다고 경고합니다 — Palisade Research와의 인터뷰",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10388",
-      "titleOriginal": "Absolute Batman can save DC Studios",
-      "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
-      "lang": "en",
-      "publishedAt": "2026-11-18T21:26:03.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "앱솔루트 배트맨이 DC 스튜디오를 구할 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12610",
-      "titleOriginal": "Iranian Foreign Ministry: Our forces targeted weapons systems at two U.S. military bases in the region in exercise of the right to self-defense. https://iran.liveuamap.com/en/2026/18-november-21-iranian-foreign-ministry-our-forces-targeted",
-      "url": "https://iran.liveuamap.com/en/2026/18-november-21-iranian-foreign-ministry-our-forces-targeted",
-      "lang": "en",
-      "publishedAt": "2026-11-18T21:20:32.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "이란 외무부: 우리 군은 정당방위권을 행사하여 이 지역의 미군 기지 2곳에 무기 체계를 겨냥했습니다. https://iran.liveuamap.com/en/2026/18-november-21-iranian-foreign-ministry-our-forces-targeted",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20399",
-      "titleOriginal": "Great photo: the US President, the Chinese President, and half of Putin.",
-      "url": "https://t.me/wartranslated/20399",
-      "lang": "en",
-      "publishedAt": "2026-11-18T20:45:28.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "멋진 사진이네요. 미국 대통령, 중국 국가주석, 그리고 푸틴 대통령의 반쪽이 담겨 있네요",
       "translated": true
     }
   ]
