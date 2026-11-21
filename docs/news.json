@@ -1,8 +1,140 @@
 {
-  "updatedAt": "2026-11-20T20:56:30.939Z",
+  "updatedAt": "2026-11-21T02:00:39.210Z",
   "count": 150,
-  "translatedCount": 134,
+  "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:79248",
+      "titleOriginal": "Explosions heard in Riyadh; additional sirens activated",
+      "url": "https://www.ynetnews.com/article/g217vwy65",
+      "lang": "en",
+      "publishedAt": "2026-11-21T01:04:24.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "리야드에서 폭발음이 들렸으며, 추가 사이렌이 울렸습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46062",
+      "titleOriginal": "BREAKING: Magnitude 6.7 earthquake strikes Peru – USGS",
+      "url": "https://t.me/insiderpaper/46062",
+      "lang": "en",
+      "publishedAt": "2026-11-21T00:25:07.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 페루에서 규모 6.7의 지진 발생 – 미국 지질조사국(USGS)",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22223",
+      "titleOriginal": "JUST IN - Jonathan Rinderknecht is found guilty of starting the Palisades Fire, which killed 12 people and destroyed 6,845 structures in Los Angeles.",
+      "url": "https://www.disclose.tv/id/kj5fwfxqn2/",
+      "lang": "en",
+      "publishedAt": "2026-11-20T23:39:20.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "방금 전 소식 - 조나단 린더크네히트가 로스앤젤레스에서 12명이 사망하고 6,845채의 건물이 파괴된 팰리세이드 화재를 일으킨 혐의로 유죄 판결을 받았습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46061",
+      "titleOriginal": "JUST IN - Almost five months after a first trial ended in a mistrial, a jury found a man guilty of starting the devastating 2025 Palisades Fire in Los Angeles that displaced thousands of people and became the most destructive wildfire in Lo",
+      "url": "https://t.me/insiderpaper/46061",
+      "lang": "en",
+      "publishedAt": "2026-11-20T23:11:50.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "최신 소식 - 첫 번째 재판이 무효로 끝난 지 거의 5개월 만에 배심원단이 2025년 로스앤젤레스에서 수천 명의 이재민을 발생시키고 로스앤젤레스에서 가장 파괴적인 산불이 된 Palisades 산불을 일으킨 혐의로 한 남성을 유죄로 판결했습니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22222",
+      "titleOriginal": "JUST IN - U.S. Department of Agriculture hit and breached by a cyberattack.",
+      "url": "https://www.disclose.tv/id/4qy3534r4e/",
+      "lang": "en",
+      "publishedAt": "2026-11-20T22:58:51.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "속보 - 미국 농무부가 사이버 공격을 받아 침해를 당했습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46060",
+      "titleOriginal": "BREAKING: The U.S. Department of Agriculture was hit by a cyberattack this week — NBC NEWS",
+      "url": "https://t.me/insiderpaper/46060",
+      "lang": "en",
+      "publishedAt": "2026-11-20T22:54:23.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 이번 주 미국 농무부가 사이버 공격을 받았습니다 — NBC 뉴스",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79247",
+      "titleOriginal": "Trump intel chief warned no funding for Musk’s SpaceX without answers on Ukraine Starshield slowdown | CNN Politics",
+      "url": "https://edition.cnn.com/2026/11/20/politics/himes-ukraine-starlink-slowdown",
+      "lang": "en",
+      "publishedAt": "2026-11-20T22:44:34.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "트럼프 행정부의 정보기관 수장, 우크라이나 스타쉴드 속도 저하에 대한 답변이 없을 경우 머스크의 스페이스X에 자금 지원 중단 경고 | CNN 정치",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92303",
+      "titleOriginal": "One Form of Exercise Improves Sleep The Most, Research Shows",
+      "url": "https://www.sciencealert.com/one-form-of-exercise-improves-sleep-the-most-research-shows",
+      "lang": "en",
+      "publishedAt": "2026-11-20T22:42:18.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "연구 결과에 따르면, 한 가지 운동 형태가 수면을 가장 많이 개선한다고 합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46059",
+      "titleOriginal": "BREAKING: Virginia reported its first measles-associated death of 2026 on Friday, involving a child who tested positive for measles, the state health department said.",
+      "url": "https://t.me/insiderpaper/46059",
+      "lang": "en",
+      "publishedAt": "2026-11-20T22:37:46.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 버지니아주 보건부는 지난 26일 금요일, 홍역 확진 판정을 받은 아동 1명이 홍역과 관련해 2024년 첫 사망 사례로 보고되었다고 밝혔습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79246",
+      "titleOriginal": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html?unlocked_article_code=1.R1E.7Sn2.1eOzokw6TLDk&amp;smid=url-share",
+      "lang": "en",
+      "publishedAt": "2026-11-20T22:19:21.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "영국, EU 정상회의에서 브렉시트 재협상 합의 발표: 알아두어야 할 사항",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92302",
+      "titleOriginal": "Scientists Discover a Hidden Heart Signal That Can Predict Sudden Cardiac Death",
+      "url": "https://www.sciencealert.com/scientists-discover-a-hidden-heart-signal-that-can-predict-sudden-cardiac-death",
+      "lang": "en",
+      "publishedAt": "2026-11-20T21:32:27.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들이 돌연 심장사를 예측할 수 있는 숨겨진 심장 신호를 발견했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79245",
+      "titleOriginal": "At least 1,144 children killed or injured in Ukraine during Russia's war this year, UNICEF says",
+      "url": "https://kyivindependent.com/at-least-1-144-children-killed-or-injured-in-ukraine-during-russias-war-this-year-unicef-says/",
+      "lang": "en",
+      "publishedAt": "2026-11-20T21:29:29.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "유니세프, 올해 러시아의 우크라이나 침공으로 최소 1,144명의 아동이 사망하거나 부상을 입었다고 밝혀",
+      "translated": true
+    },
     {
       "id": "worldnews:79244",
       "titleOriginal": "Trump defends calling Putin a friend",
@@ -649,8 +781,8 @@
       "publishedAt": "2026-11-20T14:21:51.000Z",
       "source": "Disclose.tv",
       "region": "속보",
-      "title": "NEW - Poland says a Russian cruise missile violated its airspace, calling the the incident \"Russian provocation.\"",
-      "translated": false
+      "title": "새로운 소식 - 폴란드가 러시아 순항미사일이 자국 영공을 침범했다고 밝히며, 이 사건을 \"러시아의 도발\"이라고 규정했습니다",
+      "translated": true
     },
     {
       "id": "theverge_news:10425",
@@ -660,8 +792,8 @@
       "publishedAt": "2026-11-20T14:11:30.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "The week everything fell apart",
-      "translated": false
+      "title": "모든 것이 무너져 내린 그 한 주",
+      "translated": true
     },
     {
       "id": "insiderpaper:46043",
@@ -671,8 +803,8 @@
       "publishedAt": "2026-11-20T14:08:14.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "JUST IN - NSA outage has been patched and back online — Fox News",
-      "translated": false
+      "title": "방금 입수한 소식 - NSA 서비스 중단 사태가 해결되고 다시 온라인 상태가 되었습니다 — 폭스뉴스",
+      "translated": true
     },
     {
       "id": "insiderpaper:46042",
@@ -682,8 +814,8 @@
       "publishedAt": "2026-11-20T14:07:29.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "JUST IN - France says Giving Ukraine 'Article 5-like' guarantees would amount to it joining NATO",
-      "translated": false
+      "title": "속보 - 프랑스, 우크라이나에 '제5조와 유사한' 보장을 제공하는 것은 우크라이나가 나토에 가입하는 것과 마찬가지라고 밝혀",
+      "translated": true
     },
     {
       "id": "worldnews:79236",
@@ -693,8 +825,8 @@
       "publishedAt": "2026-11-20T14:04:31.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "translated": false
+      "title": "투스크 전 폴란드 총리, 우크라이나 동맹국들의 군사 훈련 중 러시아 미사일이 폴란드에 명중했다고 밝혀",
+      "translated": true
     },
     {
       "id": "sciencealert:92298",
@@ -704,8 +836,8 @@
       "publishedAt": "2026-11-20T14:01:34.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Scientists Create a 'Planimal' by Fusing Hamster And Algae DNA",
-      "translated": false
+      "title": "과학자들이 햄스터와 조류의 DNA를 융합하여 '플래니멀(Planimal)'을 창조하다",
+      "translated": true
     },
     {
       "id": "disclosetv:22217",
@@ -715,8 +847,8 @@
       "publishedAt": "2026-11-20T13:48:53.000Z",
       "source": "Disclose.tv",
       "region": "속보",
-      "title": "NOW - President of the European Council: \"Russia is going in the wrong direction.\"",
-      "translated": false
+      "title": "지금 - 유럽 이사회 의장: \"러시아는 잘못된 방향으로 가고 있습니다",
+      "translated": true
     },
     {
       "id": "worldnews:79235",
@@ -726,8 +858,8 @@
       "publishedAt": "2026-11-20T13:39:28.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Ukrainian forces strike Russian elite 'Rubicon' drone unit deployment site in Russian Kursk Oblast",
-      "translated": false
+      "title": "우크라이나군, 러시아 쿠르스크주에 배치된 러시아 정예 '루비콘' 드론 부대 기지 공격",
+      "translated": true
     },
     {
       "id": "disclosetv:22216",
@@ -737,8 +869,8 @@
       "publishedAt": "2026-11-20T13:38:29.000Z",
       "source": "Disclose.tv",
       "region": "속보",
-      "title": "NOW - UK PM says today is a good day for UK and Europe and \"a win-win,\" that \"is in tune with public opinion in the UK,\" after EU and UK make a deal.",
-      "translated": false
+      "title": "현재 - 영국 총리는 EU와 영국이 합의에 도달한 후 오늘이 영국과 유럽에 좋은 날이며 \"윈-윈\"이고 \"영국의 여론과 일치한다\"고 말했습니다",
+      "translated": true
     },
     {
       "id": "wartranslated:20443",
@@ -748,8 +880,8 @@
       "publishedAt": "2026-11-20T13:15:28.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "Trump told Fox News that Putin sent drones and a few small missiles into Poland by accident. That came before Russia sent new missiles and drones into Poland this morning.",
-      "translated": false
+      "title": "트럼프 전 대통령은 폭스뉴스에 푸틴 대통령이 실수로 드론과 소형 미사일 몇 기를 폴란드로 보냈다고 밝혔습니다. 이는 러시아가 오늘 아침 폴란드로 새로운 미사일과 드론을 보내기 전에 나온 발언이었습니다",
+      "translated": true
     },
     {
       "id": "wartranslated:20442",
@@ -759,8 +891,8 @@
       "publishedAt": "2026-11-20T13:11:25.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "A Russian Kh-101 fell just 96 km from the Coalition of the Willing exercise site in Poland, The Telegraph reports. Analysts suggest Moscow may have wanted to test Polish air defense and NATO’s reaction, and to “warn” Poland and Europe that ",
-      "translated": false
+      "title": "영국 일간지 텔레그래프는 러시아 Kh-101 미사일이 폴란드에서 진행 중인 '자발적 연합(Coalition of the Willing)' 훈련 현장에서 불과 96km 떨어진 곳에 추락했다고 보도했습니다. 분석가들은 모스크바가 폴란드의 방공 체계와 NATO의 반응을 시험하고 폴란드와 유럽",
+      "translated": true
     },
     {
       "id": "liveuamap:12632",
@@ -770,8 +902,8 @@
       "publishedAt": "2026-11-20T13:01:47.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "Houthi forces issue warnings for the financial center in Riyadh, Jeddah Port, King Fahd Industrial Port, Yanbu Port, and Jazan Port. https://yemen.liveuamap.com/en/2026/20-november-12-houthi-forces-issue-warnings-for-the-financial",
-      "translated": false
+      "title": "후티군은 리야드 금융 중심지, 제다항, 킹 파드 산업항, 얀부항, 자잔항에 대한 경고를 발령했습니다. https://yemen.liveuamap.com/en/2026/20-november-12-houthi-forces-issue-warnings-for-the-financial",
+      "translated": true
     },
     {
       "id": "insiderpaper:46041",
@@ -781,8 +913,8 @@
       "publishedAt": "2026-11-20T12:59:04.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "NEW: New Zealand Defence Force hit by cyberattack, with personal information potentially exposed after hackers gained unauthorized access to its website systems. Several public websites have been taken offline as an investigation gets under",
-      "translated": false
+      "title": "신규: 뉴질랜드 국방군이 사이버 공격을 받았습니다. 해커들이 국방군 웹사이트 시스템에 무단으로 침입한 후 개인정보가 유출되었을 가능성이 있습니다. 조사가 진행됨에 따라 여러 공공 웹사이트가 오프라인 상태로 전환되었습니다",
+      "translated": true
     },
     {
       "id": "trtworld:15767",
@@ -792,8 +924,8 @@
       "publishedAt": "2026-11-20T12:58:16.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "The US war on Iran has cost an estimated $48.3 billion since February 28, a Pentagon official told lawmakers. The figure covers military actions, munitions and equipment replacement, but excludes the cost of repairing US military installati",
-      "translated": false
+      "title": "미국 국방부 관계자는 2월 28일 이후 이란에 대한 미국의 전쟁 비용이 약 483억 달러에 달한다고 의원들에게 밝혔습니다. 이 수치에는 군사 작전, 탄약 및 장비 교체 비용이 포함되지만, 미국 군사 시설 수리 비용은 제외됩니다",
+      "translated": true
     },
     {
       "id": "wartranslated:20441",
@@ -803,8 +935,8 @@
       "publishedAt": "2026-11-20T12:46:33.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "Monitoring channels say a cruise missile crossed into Polish airspace this morning. Poland's army says it got word of a suspected violation by unidentified air objects and is now checking radar data. Poland's Operational Command says an obj",
-      "translated": false
+      "title": "감시 채널에 따르면 오늘 아침 순항 미사일이 폴란드 영공을 침범했다고 합니다. 폴란드군은 미확인 비행체가 영공을 침범한 것으로 의심된다는 소식을 접했으며 현재 레이더 데이터를 확인하고 있다고 밝혔습니다. 폴란드 작전사령부는 미확인 물체가",
+      "translated": true
     },
     {
       "id": "insiderpaper:46040",
@@ -814,8 +946,8 @@
       "publishedAt": "2026-11-20T12:41:10.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "Here's How to Play GTA 6 in First Person Using a Camera Glitch",
-      "translated": false
+      "title": "카메라 글리치를 사용하여 1인칭 시점으로 GTA 6를 플레이하는 방법은 다음과 같습니다",
+      "translated": true
     },
     {
       "id": "theverge_news:10424",
@@ -1519,138 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "한편, 임시 점령지인 크림반도에서는 휘발유 제한 조치가 다시 시행되었습니다. 이전의 연료 제한은 5월부터 10월까지 시행되었습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10414",
-      "titleOriginal": "Some creators are skeptical of Instagram’s new affiliate program",
-      "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
-      "lang": "en",
-      "publishedAt": "2026-11-19T19:16:20.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "일부 크리에이터는 Instagram의 새로운 제휴 프로그램에 대해 회의적인 시각을 갖고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92293",
-      "titleOriginal": "Bigger Abs May Not Protect Against Back Pain After All, Surprising CT Study Finds",
-      "url": "https://www.sciencealert.com/bigger-abs-may-not-protect-against-back-pain-after-all-surprising-ct-study-finds",
-      "lang": "en",
-      "publishedAt": "2026-11-19T19:14:22.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "놀라운 CT 연구 결과에 따르면, 복근이 더 크다고 해서 허리 통증으로부터 보호되지 않을 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79223",
-      "titleOriginal": "Hours After Meeting Putin, Trump Presses Europe Over Military Aid to Ukraine",
-      "url": "https://united24media.com/war-in-ukraine/hours-after-meeting-putin-trump-presses-europe-over-military-aid-to-ukraine-24541",
-      "lang": "en",
-      "publishedAt": "2026-11-19T19:04:25.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "푸틴 대통령과의 회담 몇 시간 후, 트럼프 대통령은 우크라이나에 대한 군사 지원을 놓고 유럽에 압력을 가했습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79222",
-      "titleOriginal": "Putin vows to rebuild the Crimean Bridge and threatens Ukraine with a \"far more painful\" response",
-      "url": "https://www.pravda.com.ua/eng/news/2026/11/19/8063622/",
-      "lang": "en",
-      "publishedAt": "2026-11-19T18:54:33.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "푸틴 대통령, 크림반도 다리 재건 서약 및 우크라이나에 '훨씬 더 고통스러운' 대응 위협",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79221",
-      "titleOriginal": "Trump, Putin and Xi Sign Joint Declaration Without Mentioning Ukraine or Europe",
-      "url": "https://united24media.com/world/trump-putin-and-xi-sign-joint-declaration-without-mentioning-ukraine-or-europe-24540",
-      "lang": "en",
-      "publishedAt": "2026-11-19T18:44:17.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "트럼프, 푸틴, 시진핑, 우크라이나나 유럽을 언급하지 않은 공동 선언문에 서명",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12622",
-      "titleOriginal": "The Houthis claim to have attacked four sites in Saudi Arabia: the King Abdullah Financial District in Riyadh, targeted before dawn and again that evening; the Sadaf petrochemical facility in Jubail; King Khalid International Airport in Riy",
-      "url": "https://yemen.liveuamap.com/en/2026/19-november-18-the-houthis-claim-to-have-attacked-four-sites",
-      "lang": "en",
-      "publishedAt": "2026-11-19T18:42:34.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "후티 반군은 사우디아라비아의 4개 지역을 공격했다고 주장하고 있습니다. 새벽과 저녁에 두 차례 공격을 받은 리야드의 압둘라 국왕 금융 지구, 주바일의 사다프 석유화학 시설, 리야드의 칼리드 국왕 국제공항,",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20422",
-      "titleOriginal": "Just a regular Thursday in Kyiv, with another Shahed being shot down overhead while Trump is convinced that Putin wants peace.",
-      "url": "https://t.me/wartranslated/20422",
-      "lang": "en",
-      "publishedAt": "2026-11-19T18:40:54.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "키이우에서 평범한 목요일을 보내는 중입니다. 또 한 대의 샤헤드 드론이 상공에서 격추되었는데, 트럼프는 푸틴이 평화를 원한다고 확신하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12621",
-      "titleOriginal": "Buildings housing the Austrian and Dutch embassies in Kyiv were damaged by Russian attacks, Zelenskyy says. https://liveuamap.com/en/2026/19-november-18-buildings-housing-the-austrian-and-dutch-embassies",
-      "url": "https://liveuamap.com/en/2026/19-november-18-buildings-housing-the-austrian-and-dutch-embassies",
-      "lang": "en",
-      "publishedAt": "2026-11-19T18:38:55.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "젤렌스키 대통령은 러시아의 공격으로 키이우에 있는 오스트리아와 네덜란드 대사관 건물이 파손되었다고 밝혔습니다. https://liveuamap.com/en/2026/19-november-18-buildings-housing-the-austrian-and-dutch-embassies",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10413",
-      "titleOriginal": "Sonos is taking up to 30 percent off speakers and soundbars right now",
-      "url": "https://telegra.ph/Sonos-is-taking-up-to-30-percent-off-speakers-and-soundbars-11-19-2",
-      "lang": "en",
-      "publishedAt": "2026-11-19T18:36:53.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Sonos에서 현재 스피커와 사운드바를 최대 30% 할인하고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20421",
-      "titleOriginal": "Kushner stated that Russia has agreed to security guarantees for Ukraine modeled on Article 5 of NATO.",
-      "url": "https://t.me/wartranslated/20421",
-      "lang": "en",
-      "publishedAt": "2026-11-19T18:36:17.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "쿠슈너는 러시아가 나토 조약 제5조를 모델로 한 우크라이나에 대한 안보 보장에 동의했다고 밝혔다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20417",
-      "titleOriginal": "Thousands of people in Slovakia have taken to the streets to protest against the government of Prime Minister Robert Fico, citing his pro-Russian policies and restrictions on rights.",
-      "url": "https://t.me/wartranslated/20417",
-      "lang": "en",
-      "publishedAt": "2026-11-19T18:28:14.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "슬로바키아에서 수천 명의 시민이 로베르트 피초 총리의 친러시아 정책과 인권 제한에 항의하며 거리로 나섰습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10412",
-      "titleOriginal": "Gemini on Mac can now use your computer",
-      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "lang": "en",
-      "publishedAt": "2026-11-19T18:26:00.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "이제 Mac에서 Gemini를 사용하여 컴퓨터를 사용할 수 있습니다",
       "translated": true
     }
   ]
