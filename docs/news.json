@@ -1,8 +1,129 @@
 {
-  "updatedAt": "2026-11-22T02:50:39.335Z",
+  "updatedAt": "2026-11-22T10:46:24.232Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "trtworld:15772",
+      "titleOriginal": "Masked immigration officers arrested two passengers on a crowded airport jet bridge at Seattle-Tacoma International Airport on November 21, as other passengers were boarding a flight. Footage showed officers dragging away at least one perso",
+      "url": "https://t.me/trtworld/15772",
+      "lang": "en",
+      "publishedAt": "2026-11-22T10:26:07.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "11월 21일, 마스크를 쓴 이민국 직원들이 시애틀-타코마 국제공항의 혼잡한 탑승 브리지에서 다른 승객들이 비행기에 탑승하는 동안 두 명의 승객을 체포했습니다. 영상에는 경찰관들이 최소 한 명을 끌고 가는 모습이 담겼습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20521",
+      "titleOriginal": "Zelensky says 14 people are out of contact after a Russian drone hit a five-story building in Dymer, Kyiv Oblast. Part of one entrance collapsed, nine people were evacuated and the fire is contained, but people may still be under the rubble",
+      "url": "https://t.me/wartranslated/20521",
+      "lang": "en",
+      "publishedAt": "2026-11-22T10:05:22.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "젤렌스키 대통령은 러시아 드론이 키이우주 디메르의 5층 건물을 공격한 후 14명과 연락이 두절되었다고 밝혔습니다. 한 출입구의 일부가 무너졌고, 9명이 대피했으며 화재는 진압되었지만 여전히 잔해 아래에 사람들이 있을 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12648",
+      "titleOriginal": "A person's body has been recovered from the rubble of a residential house destroyed by a Russian drone strike in Dymer, Kyiv region. https://liveuamap.com/en/2026/22-november-09-a-persons-body-has-been-recovered-from-the",
+      "url": "https://liveuamap.com/en/2026/22-november-09-a-persons-body-has-been-recovered-from-the",
+      "lang": "en",
+      "publishedAt": "2026-11-22T10:02:48.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "키이우주 디메르에서 러시아 드론 공격으로 파괴된 주택의 잔해 속에서 한 사람의 시신이 수습되었습니다. https://liveuamap.com/en/2026/22-november-09-a-persons-body-has-been-recovered-from-the",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20514",
+      "titleOriginal": "Taking advantage of the collapsed road section of the Crimean Bridge, Ukrainian drones have stepped up attacks on Russian supply routes through the occupied territories. Logistics on the Zaporizhzhia and Donetsk directions are burning.",
+      "url": "https://t.me/wartranslated/20514",
+      "lang": "en",
+      "publishedAt": "2026-11-22T09:54:33.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "크림반도 다리의 도로 구간이 붕괴된 상황을 틈타 우크라이나 드론이 점령지를 통과하는 러시아 보급로에 대한 공격을 강화하고 있습니다. 자포리자 및 도네츠크 방면의 보급로가 불타고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12647",
+      "titleOriginal": "Explosions rocked Houthi sites in Sana'a and Hodeidah. Four airstrikes targeted a weapons depot in Hodeidah and a fuel depot used for military purposes in Sana'a. https://yemen.liveuamap.com/en/2026/22-november-09-explosions-rocked-houthi-s",
+      "url": "https://yemen.liveuamap.com/en/2026/22-november-09-explosions-rocked-houthi-sites-in-sanaa-and",
+      "lang": "en",
+      "publishedAt": "2026-11-22T09:53:11.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "사나와 호데이다의 후티족 거점에 폭발이 발생했습니다. 4차례의 공습이 호데이다의 무기 저장고와 사나에서 군사 목적으로 사용되는 연료 저장고를 목표로 했습니다. https://yemen.liveuamap.com/en/2026/22-november-09-explosions-rocked-ho",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12646",
+      "titleOriginal": "Emergency crews are responding to a massive pipeline explosion in Ward, Alabama. Towering flames can reportedly be seen for miles, lighting up the night sky with an orange glow as the fire continues to burn. https://alabama.liveuamap.com/en",
+      "url": "https://alabama.liveuamap.com/en/2026/22-november-08-emergency-crews-are-responding-to-a-massive",
+      "lang": "en",
+      "publishedAt": "2026-11-22T09:40:38.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "긴급 구조대가 앨라배마주 워드에서 발생한 대규모 가스관 폭발에 대응하고 있습니다. 불길이 계속 타오르면서 수 킬로미터 떨어진 곳에서도 거대한 불꽃이 보이고, 밤하늘을 주황색으로 밝히고 있다고 합니다. https://alabama.liveuamap.com/en",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20513",
+      "titleOriginal": "Drones attacked the Afipsky refinery in Russia's Krasnodar region overnight, with explosions and smoke near the plant.",
+      "url": "https://t.me/wartranslated/20513",
+      "lang": "en",
+      "publishedAt": "2026-11-22T08:08:19.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "드론이 밤새 러시아 크라스노다르 지역의 아피프스키 정유소를 공격했으며, 공장 근처에서 폭발과 연기가 발생했습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20512",
+      "titleOriginal": "Photos of Sparta II, hit in the Baltic Sea today, are out.",
+      "url": "https://t.me/wartranslated/20512",
+      "lang": "en",
+      "publishedAt": "2026-11-22T08:05:08.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "오늘 발트해에서 피격된 스파르타 II호의 사진이 공개되었습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20511",
+      "titleOriginal": "Monitoring channels say a cruise missile crossed into Polish airspace this morning. Poland's army says it got word of a suspected violation by unidentified air objects and is now checking radar data. Poland's Operational Command says an obj",
+      "url": "https://t.me/wartranslated/20511",
+      "lang": "en",
+      "publishedAt": "2026-11-22T07:58:08.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "감시 채널에 따르면 오늘 아침 순항 미사일이 폴란드 영공을 침범했다고 합니다. 폴란드군은 미확인 비행체가 영공을 침범한 것으로 의심된다는 정보를 입수했으며 현재 레이더 데이터를 확인하고 있다고 밝혔습니다. 폴란드 작전사령부는 미확인 물체가",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15771",
+      "titleOriginal": "Follow our Daily News Brief for Sunday, November 22nd",
+      "url": "https://trt.world/cv1m",
+      "lang": "en",
+      "publishedAt": "2026-11-22T07:07:05.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "11월 22일 일요일 데일리 뉴스 브리프를 확인하세요",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79275",
+      "titleOriginal": "Kyiv and London have finalized an agreement that will see the United Kingdom manufacture and produce \"middle strike\" and long-range strike drones used to strike targets deep within Russia for Ukraine's Armed Forces on British soil, says Ukr",
+      "url": "https://kyivindependent.com/uk-to-produce-middle-strike-long-range-drones-for-ukraine-in-britain/",
+      "lang": "en",
+      "publishedAt": "2026-11-22T05:04:11.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나 국방부가 밝힌 바에 따르면, 키이우와 런던은 영국 영토 내에서 우크라이나군이 러시아 내륙 깊숙한 곳에 있는 목표물을 타격하는 데 사용할 \"중거리 타격\" 및 장거리 타격 드론을 영국이 제조 및 생산하는 내용의 협정을 최종 확정했다고 한다",
+      "translated": true
+    },
     {
       "id": "worldnews:79273",
       "titleOriginal": "China Sends Missile-Carrying Bomber Toward Manila, Turns Back Just 170 Kilometers From Capital",
@@ -298,17 +419,6 @@
       "source": "Insider Paper",
       "region": "속보",
       "title": "신규: 중국의 AI 해킹 도구를 사용하면 누구나 아이폰에서 '터미네이터 스타일'의 사이버 공격을 실행할 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20496",
-      "titleOriginal": "Photos of Sparta II, hit in the Baltic Sea today, are out.",
-      "url": "https://t.me/wartranslated/20496",
-      "lang": "en",
-      "publishedAt": "2026-11-21T18:14:28.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "오늘 발트해에서 피격된 스파르타 II호의 사진이 공개되었습니다",
       "translated": true
     },
     {
@@ -837,17 +947,6 @@
       "source": "Disclose.tv",
       "region": "속보",
       "title": "새로운 소식 - 스페인 경찰은 7월 모로코에서 세우타로의 대규모 이주민 유입에 앞서 수천 개의 동일한 튜브가 배포되었다고 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20471",
-      "titleOriginal": "Monitoring channels say a cruise missile crossed into Polish airspace this morning. Poland's army says it got word of a suspected violation by unidentified air objects and is now checking radar data. Poland's Operational Command says an obj",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45521881-pilot-mial-zgode-nato-na-zestrzelenie-rosyjskiego-pocisku-wiadomo-dlaczego-nie-strzelil",
-      "lang": "en",
-      "publishedAt": "2026-11-21T10:47:14.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "감시 채널에 따르면 오늘 아침 순항 미사일이 폴란드 영공을 침범했다고 합니다. 폴란드군은 미확인 비행체가 영공을 침범한 것으로 의심된다는 소식을 접했으며 현재 레이더 데이터를 확인하고 있다고 밝혔습니다. 폴란드 작전사령부는 미확인 물체가",
       "translated": true
     },
     {
@@ -1552,105 +1651,6 @@
       "source": "Insider Paper",
       "region": "속보",
       "title": "EU 수장, 미사일 사건 후 폴란드에 '완전한 연대' 제안",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46050",
-      "titleOriginal": "Mamdani plan delays closure of notorious New York jail to 2032",
-      "url": "https://t.co/hGgQkk68IS",
-      "lang": "en",
-      "publishedAt": "2026-11-20T16:06:09.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "맘다니 계획으로 악명 높은 뉴욕 교도소 폐쇄가 2032년으로 연기됩니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10428",
-      "titleOriginal": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
-      "url": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
-      "lang": "en",
-      "publishedAt": "2026-11-20T16:02:04.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "안드레이 즈뱌긴체프 감독은 영화 제작자들이 관객이 원하는 것을 알고 있으며, 경영진은 그렇지 않다고 생각합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20451",
-      "titleOriginal": "US special envoy Jared Kushner says Ukraine's army ranks among the best in the world. He says the country today is completely different from the one that was attacked, and has developed enormously.",
-      "url": "https://t.me/wartranslated/20451",
-      "lang": "en",
-      "publishedAt": "2026-11-20T15:52:30.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "미국 특사 재러드 쿠슈너는 우크라이나 군이 세계 최고 수준이라고 말합니다. 그는 오늘날의 우크라이나가 공격을 받았던 당시와는 완전히 다른 모습이며, 엄청나게 발전했다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46049",
-      "titleOriginal": "Secretary Bessent: \"President Trump and President Xi agreed that humans should always be involved in any military decisions that Super Intelligence makes, and SI should not be allowed to be autonomous for major military actions.\"",
-      "url": "https://t.me/insiderpaper/46049",
-      "lang": "en",
-      "publishedAt": "2026-11-20T15:50:19.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "베센트 장관: \"트럼프 대통령과 시 주석은 초지능이 내리는 모든 군사적 결정에 인간이 항상 관여해야 하며, 초지능이 주요 군사 행동에 대해 자율적으로 결정할 수 없도록 해야 한다는 데 동의했습니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22219",
-      "titleOriginal": "JUST IN - An Anthropic mathematician claims to have proved the Riemann hypothesis, one of mathematics' most famous unsolved problems, with help from the AI model Claude.",
-      "url": "https://www.disclose.tv/id/b89awfhfdn/",
-      "lang": "en",
-      "publishedAt": "2026-11-20T15:47:12.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "방금 입수한 소식 - Anthropic의 한 수학자가 AI 모델 Claude의 도움을 받아 수학에서 가장 유명한 미해결 문제 중 하나인 리만 가설을 증명했다고 주장합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20447",
-      "titleOriginal": "Ukrainian troops freed 14 settlements and almost 200 sq km in northern Kharkiv region in a secret counteroffensive called Bear Trap, BBC News Ukraine reports. It sliced off the Russian bulge near Vilkhuvatka.",
-      "url": "https://t.me/wartranslated/20447",
-      "lang": "en",
-      "publishedAt": "2026-11-20T15:46:10.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "BBC 뉴스 우크라이나의 보도에 따르면, 우크라이나군은 '곰덫'이라는 비밀 반격 작전을 통해 하르키우주 북부의 14개 정착지와 약 200㎢의 지역을 탈환했습니다. 이 반격으로 빌후바트카 근처의 러시아군 돌출부를 잘라냈습니다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12634",
-      "titleOriginal": "Iran's Fars News Agency reports that an explosion was heard in the skies over Qeshm Island, possibly caused by the downing of a hostile drone. https://iran.liveuamap.com/en/2026/20-november-15-irans-fars-news-agency-reports-that-an-explosio",
-      "url": "https://iran.liveuamap.com/en/2026/20-november-15-irans-fars-news-agency-reports-that-an-explosion",
-      "lang": "en",
-      "publishedAt": "2026-11-20T15:44:19.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "이란의 파르스 통신은 케슘섬 상공에서 폭발음이 들렸으며, 이는 적 드론이 격추된 데 따른 것일 수 있다고 보도했습니다. https://iran.liveuamap.com/en/2026/20-november-15-irans-fars-news-agency-reports-that-an-expl",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79239",
-      "titleOriginal": "Finnish president says US removed Ukraine section from Trump-Xi-Putin peace declaration",
-      "url": "https://www.pravda.com.ua/eng/news/2026/11/20/8063799/",
-      "lang": "en",
-      "publishedAt": "2026-11-20T15:39:30.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "핀란드 대통령, 미국이 트럼프-시진핑-푸틴 평화 선언에서 우크라이나 관련 부분을 삭제했다고 밝혀",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12633",
-      "titleOriginal": "The Saudi-led coalition says it intercepted and destroyed two ballistic missiles launched by the Houthis toward Jazan, Saudi Arabia. https://yemen.liveuamap.com/en/2026/20-november-15-the-saudiled-coalition-says-it-intercepted",
-      "url": "https://yemen.liveuamap.com/en/2026/20-november-15-the-saudiled-coalition-says-it-intercepted",
-      "lang": "en",
-      "publishedAt": "2026-11-20T15:37:14.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "사우디아라비아 주도의 연합군은 후티 반군이 사우디아라비아 자잔을 향해 발사한 탄도미사일 2기를 요격하여 파괴했다고 밝혔습니다. https://yemen.liveuamap.com/en/2026/20-november-15-the-saudiled-coalition-says-it-interce",
       "translated": true
     }
   ]
