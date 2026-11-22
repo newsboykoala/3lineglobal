@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-11-21T22:49:29.173Z",
+  "updatedAt": "2026-11-22T02:50:39.335Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:79273",
+      "titleOriginal": "China Sends Missile-Carrying Bomber Toward Manila, Turns Back Just 170 Kilometers From Capital",
+      "url": "https://united24media.com/world/china-sends-missile-carrying-bomber-toward-manila-turns-back-just-170-kilometers-from-capital-24590",
+      "lang": "en",
+      "publishedAt": "2026-11-22T02:44:11.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "중국, 미사일 탑재 폭격기를 마닐라로 보냈다가 수도에서 불과 170km 떨어진 지점에서 회항",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22229",
+      "titleOriginal": "NEW - The spouse of Trump's pick to oversee the Navy's roughly $300 billion budget holds financial interests in Firehawk Aerospace, a defense contractor backed by Donald Trump Jr.'s venture capital firm.",
+      "url": "https://www.disclose.tv/id/8qivas3ufv/",
+      "lang": "en",
+      "publishedAt": "2026-11-22T02:33:18.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "신규 - 해군의 약 3천억 달러 규모 예산을 감독할 트럼프의 인선 대상자의 배우자가 도널드 트럼프 주니어의 벤처캐피털 회사에서 지원하는 방위산업체인 파이어호크 에어로스페이스(Firehawk Aerospace)에 지분을 보유하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92315",
+      "titleOriginal": "Scientists Discover Cockroaches Doing Something Surprisingly Useful in The Amazon After Dark",
+      "url": "https://www.sciencealert.com/scientists-discover-cockroaches-doing-something-surprisingly-useful-in-the-amazon-after-dark",
+      "lang": "en",
+      "publishedAt": "2026-11-22T02:26:59.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들이 아마존에서 밤이 되면 놀랍게도 유용한 일을 하는 바퀴벌레를 발견했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79272",
+      "titleOriginal": "Taiwan warns Canada’s Carney that deeper ties with China come with risks",
+      "url": "https://apnews.com/article/canada-taiwan-china-carney-trade-halifax-2e5eb3949e4c1a1d394363663791f883",
+      "lang": "en",
+      "publishedAt": "2026-11-22T01:34:18.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "대만, 캐나다의 카니 총재에게 중국과의 관계 심화에 따른 위험성을 경고",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79271",
+      "titleOriginal": "Poll shows 65% of Russians blame US and NATO for deaths and ruin in Ukraine, and only 6% their own country",
+      "url": "https://euromaidanpress.com/2026/11/22/poll-shows-65-of-russians-blame-us-and-nato-for-deaths-and-ruin-in-ukraine-and-only-6-their-own-country/",
+      "lang": "en",
+      "publishedAt": "2026-11-22T00:09:38.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "여론조사 결과, 러시아인 65%가 우크라이나의 사망 및 파괴에 대해 미국과 나토를 비난하고 있으며, 단 6%만이 자국을 비난하고 있는 것으로 나타났습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92314",
+      "titleOriginal": "A 3-Year-Old's Metastatic Cancer Vanished After Two Doses of Experimental Therapy",
+      "url": "https://www.sciencealert.com/a-3-year-olds-metastatic-cancer-vanished-after-two-doses-of-experimental-therapy",
+      "lang": "en",
+      "publishedAt": "2026-11-21T23:29:59.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "3세 아동의 전이성 암이 실험 치료제 2회 투여 후 사라졌습니다",
+      "translated": true
+    },
     {
       "id": "theverge_news:10449",
       "titleOriginal": "Amazon is complaining about NYC Council on shipping labels, too",
@@ -1585,72 +1651,6 @@
       "source": "Liveuamap",
       "region": "분쟁",
       "title": "사우디아라비아 주도의 연합군은 후티 반군이 사우디아라비아 자잔을 향해 발사한 탄도미사일 2기를 요격하여 파괴했다고 밝혔습니다. https://yemen.liveuamap.com/en/2026/20-november-15-the-saudiled-coalition-says-it-interce",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46048",
-      "titleOriginal": "BREAKING - Denmark suspects Russia of planning to assassinate a Ukrainian on its territory: Intelligence services",
-      "url": "https://t.co/ZGiGwwRPUG",
-      "lang": "en",
-      "publishedAt": "2026-11-20T15:32:10.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 덴마크, 러시아가 자국 영토 내에서 우크라이나인 암살을 계획하고 있다고 의심: 정보기관",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92300",
-      "titleOriginal": "Reviving Worn-Out Liver Cells Could Help Prevent Alzheimer's And Heart Disease",
-      "url": "https://www.sciencealert.com/reviving-worn-out-liver-cells-could-help-prevent-alzheimers-and-heart-disease",
-      "lang": "en",
-      "publishedAt": "2026-11-20T15:31:48.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "노화된 간 세포를 되살리면 알츠하이머병과 심장병 예방에 도움이 될 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79238",
-      "titleOriginal": "Uncontacted Indigenous people emerge from Amazon forest to ask for food",
-      "url": "https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/",
-      "lang": "en",
-      "publishedAt": "2026-11-20T15:29:12.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "외부 세계와 접촉하지 않은 원주민들이 식량을 구하기 위해 아마존 숲에서 나옴",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20446",
-      "titleOriginal": "Russia launched a massive attack this morning, mainly on Kyiv, Chernivtsi and the Kyiv, Lviv, Ivano-Frankivsk and Volyn regions, targeting substations, bridges, logistics and rail. 79 of 84 cruise missiles and 380 of 404 drones were downed.",
-      "url": "https://t.me/wartranslated/20446",
-      "lang": "en",
-      "publishedAt": "2026-11-20T15:18:23.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아는 오늘 아침 주로 키이우, 체르니우치, 키이우주, 리비우주, 이바노프란키우스크주, 볼린주를 대상으로 대규모 공격을 개시했습니다. 공격 대상은 변전소, 교량, 물류 시설, 철도였습니다. 순항 미사일 84발 중 79발과 드론 404대 중 380대가 격추되었습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46047",
-      "titleOriginal": "BREAKING - Giving Ukraine 'Article 5-like' guarantees would amount to it joining NATO: France",
-      "url": "https://t.co/Fn2p0MJyNO",
-      "lang": "en",
-      "publishedAt": "2026-11-20T15:14:11.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 우크라이나에 '제5조와 유사한' 보장을 제공하는 것은 우크라이나가 나토에 가입하는 것과 마찬가지라고 프랑스가 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46046",
-      "titleOriginal": "BREAKING - Anthropic falls more than nine percent on Wall Street day after IPO bit.ly/4zSVqZ6",
-      "url": "https://t.co/E8WU1XDCKo",
-      "lang": "en",
-      "publishedAt": "2026-11-20T15:13:24.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 앤트로픽, IPO 다음 날 월스트리트에서 9% 이상 하락 bit.ly/4zSVqZ6",
       "translated": true
     }
   ]
