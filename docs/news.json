@@ -1,8 +1,151 @@
 {
-  "updatedAt": "2026-11-22T18:15:16.518Z",
+  "updatedAt": "2026-11-22T23:43:51.587Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "theverge_news:10461",
+      "titleOriginal": "We haven’t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "lang": "en",
+      "publishedAt": "2026-11-22T22:52:12.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "아직 주요 기술 서비스 중단 사태의 끝을 보지 못했습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92322",
+      "titleOriginal": "Decades of Research Suggest Near-Death Experiences Can Leave Eerie Memories More Vivid Than Reality",
+      "url": "https://www.sciencealert.com/decades-of-research-suggest-near-death-experiences-can-leave-eerie-memories-more-vivid-than-reality",
+      "lang": "en",
+      "publishedAt": "2026-11-22T22:24:49.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "수십 년간의 연구에 따르면 임사 체험은 현실보다 더 생생한 기이한 기억을 남길 수 있다고 합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79292",
+      "titleOriginal": "Eisenkot calls occupier arson attacks in West Bank ‘Jewish terrorism’",
+      "url": "https://en.yenisafak.com/world/eisenkot-calls-occupier-arson-attacks-in-west-bank-jewish-terrorism-3725854",
+      "lang": "en",
+      "publishedAt": "2026-11-22T21:49:33.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "아이젠코트, 요르단강 서안지구에서 발생한 점령자 방화 공격을 '유대인 테러'라고 규정",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79291",
+      "titleOriginal": "Russian warship goes up in flames at Libyan port in suspected Ukraine sea drone attack",
+      "url": "https://www.smh.com.au/world/europe/russian-warship-goes-up-in-flames-at-libyan-port-in-suspected-ukraine-sea-drone-attack-20261123-p61gbo.html?btis",
+      "lang": "en",
+      "publishedAt": "2026-11-22T21:09:10.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아 군함, 리비아 항구에서 우크라이나 해상 드론 공격 의심 속에 화염에 휩싸여",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79290",
+      "titleOriginal": "US intelligence chief says Trump's description of Putin as a 'friend' is 'entirely appropriate'",
+      "url": "https://apnews.com/article/jay-clayton-trump-putin-friend-6117cc014d3078980a45b622c233cf75",
+      "lang": "en",
+      "publishedAt": "2026-11-22T20:29:23.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국 정보기관 수장, 트럼프 대통령이 푸틴 대통령을 '친구'라고 표현한 것이 '전적으로 적절하다'고 밝혀",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20540",
+      "titleOriginal": "Three Russian cargo ships, Ascalon, Lady D and Anastasiia, took on IFVs, MRAPs, personnel carriers and support vehicles at a naval base in Kaliningrad Oblast in mid-October. They left Baltiysk by the end of the month and were heading for th",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-11-22T20:20:42.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아 화물선 3척(아스칼론, 레이디 D, 아나스타시아)이 10월 중순 칼리닌그라드주 해군 기지에서 보병전투차량(IFV), 지뢰방호장갑차(MRAP), 병력수송차량 및 지원 차량을 선적했습니다. 이 선박들은 10월 말 발티스크를 떠나",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79289",
+      "titleOriginal": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "url": "https://www.bbc.com/news/articles/cr894gjz0j0yo",
+      "lang": "en",
+      "publishedAt": "2026-11-22T19:54:18.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "당국자들에 따르면 리비아 항구에서 발생한 러시아 선박 폭발은 드론 공격으로 추정된다고 합니다",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12656",
+      "titleOriginal": "Zelensky: Russia's current tactic is to destroy power grids and transmission lines. Russian forces are trying to cut off Odesa, the Odesa region and the Dnipro region from power sources. The situation there is extremely difficult, with wide",
+      "url": "https://liveuamap.com/en/2026/22-november-18-zelensky-russias-current-tactic-is-to-destroy",
+      "lang": "en",
+      "publishedAt": "2026-11-22T18:50:07.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "젤렌스키: 러시아의 현재 전술은 전력망과 송전선을 파괴하는 것입니다. 러시아군은 오데사, 오데사주 및 드니프로주를 전력 공급원에서 차단하려고 시도하고 있습니다. 그곳의 상황은 매우 어렵고, 광범위한",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12655",
+      "titleOriginal": "A suspected Ukrainian speedboat targeted the Maltese Ro-Ro vessel ASCALON, which departed from Baltiysk in Russia's Kaliningrad region and was reportedly operating in the interests of the Russian military, off the coast of Benghazi, Libya. ",
+      "url": "https://liveuamap.com/en/2026/22-november-17-a-suspected-ukrainian-speedboat-targeted-the",
+      "lang": "en",
+      "publishedAt": "2026-11-22T18:48:45.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "우크라이나 고속정으로 추정되는 선박이 리비아 벵가지 연안에서 러시아 칼리닌그라드 지역의 발티스크를 출발하여 러시아 군 당국의 이익을 위해 운항 중인 것으로 알려진 몰타의 롤온/롤오프(Ro-Ro) 선박 아스칼론(ASCALON)을 공격했습니다",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12654",
+      "titleOriginal": "New satellite imagery captured by Vantor shows the Russian Navy's Steregushchiy-class corvette Merkury completely destroyed and partially sunk at the port of Benghazi in eastern Libya following a suspected Ukrainian unmanned surface vessel ",
+      "url": "https://liveuamap.com/en/2026/22-november-18-new-satellite-imagery-captured-by-vantor-shows",
+      "lang": "en",
+      "publishedAt": "2026-11-22T18:42:29.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "Vantor가 촬영한 새로운 위성 사진에 따르면, 우크라이나의 무인 수상함으로 추정되는 함선이 공격한 후 리비아 동부 벵가지 항구에서 러시아 해군의 스테레구시이급 코르벳함 메르쿠리가 완전히 파괴되고 부분적으로 침몰한 것으로 나타났습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20536",
+      "titleOriginal": "Satellite images of the Russian missile corvette Merkury in Benghazi port in Libya have appeared. The Steregushchiy class ship of Russia's Black Sea Fleet was destroyed in a drone attack and sank.",
+      "url": "https://t.me/wartranslated/20536",
+      "lang": "en",
+      "publishedAt": "2026-11-22T18:28:41.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "리비아 벵가지 항에 정박한 러시아 미사일 초계함 메르쿠리호의 위성 사진이 공개되었습니다. 러시아 흑해 함대의 스테레구시치급 함선이 드론 공격으로 파괴되어 침몰했습니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20535",
+      "titleOriginal": "A Ukrainian Mirage 2000 pilot shot down a Russian Geran-4 jet-powered kamikaze drone with 30 mm cannon fire.",
+      "url": "https://t.me/wartranslated/20535",
+      "lang": "en",
+      "publishedAt": "2026-11-22T18:26:24.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나 미라주 2000 조종사가 30mm 기관포 사격으로 러시아의 제란-4 제트 엔진식 카미카제 드론을 격추했습니다",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12653",
+      "titleOriginal": "President Trump told Fox News he is inclined to resume strikes against Iran after the new year. Responding to reports that Iran plans to test the U.S. naval blockade, Trump said: \"I hope they do, they'll all be at the bottom of the sea like",
+      "url": "https://iran.liveuamap.com/en/2026/22-november-17-president-trump-told-fox-news-hes-inclined",
+      "lang": "en",
+      "publishedAt": "2026-11-22T18:24:25.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "트럼프 대통령은 폭스뉴스에 새해가 지난 후 이란에 대한 공격을 재개할 의향이 있다고 밝혔습니다. 이란이 미국 해군의 봉쇄를 시험할 계획이라는 보도에 대해 트럼프 대통령은 \"이란이 그렇게 하기를 바랍니다. 그러면 그들은 모두 바다 밑바닥에 가라앉을 것입니다",
+      "translated": true
+    },
     {
       "id": "wartranslated:20534",
       "titleOriginal": "The moment a sea drone strikes a second Russian ship off Benghazi in Libya, this time a cargo vessel.",
@@ -1508,149 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "우크라이나 국경수비대는 11월 20일 밤 러시아의 대규모 공격에서 샤헤드와 게르베라 120대를 포함해 무인기 약 400대를 격추했습니다. 우크라이나 국경수비대는 수미, 오데사, 드니프로페트로프스크, 하르키우, 도네츠크 지역에서 드론과 전투를 벌였으며, 이 중 가장 많은 드론을 격추한 곳",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20461",
-      "titleOriginal": "A Russian ballistic missile hit a residential high-rise in Kryvyi Rih.",
-      "url": "https://t.me/wartranslated/20461",
-      "lang": "en",
-      "publishedAt": "2026-11-21T08:22:40.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아의 탄도미사일이 크리비리흐의 고층 주거 건물에 명중했습니다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15769",
-      "titleOriginal": "Follow our Daily News Brief for Saturday, November 21st",
-      "url": "https://trt.world/cv1v",
-      "lang": "en",
-      "publishedAt": "2026-11-21T08:21:32.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "11월 21일 토요일 데일리 뉴스 브리프를 확인하세요",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20460",
-      "titleOriginal": "Lavrov claims Kyiv, the southeast and much of central Ukraine are historically Russian, supposedly because people there were baptized in the same font as Russians. He also calls Russia a safe haven for those who suffer.",
-      "url": "https://t.me/wartranslated/20460",
-      "lang": "en",
-      "publishedAt": "2026-11-21T08:21:04.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "라브로프 장관은 키이우, 우크라이나 남동부 및 중부 지역 대부분이 역사적으로 러시아 영토라고 주장합니다. 그 근거로, 해당 지역 주민들이 러시아인들과 같은 세례반에서 세례를 받았다는 주장을 내세웁니다. 그는 또한 러시아를 고통받는 사람들을 위한 안전한 피난처라고 부릅니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20459",
-      "titleOriginal": "Zelensky says in an NBC News interview that Putin has to realize the Kerch bridge will not survive, whatever happens.",
-      "url": "https://t.me/wartranslated/20459",
-      "lang": "en",
-      "publishedAt": "2026-11-21T08:19:34.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키 대통령은 NBC 뉴스 인터뷰에서 푸틴 대통령이 무슨 일이 있어도 케르치 다리가 살아남지 못할 것이라는 사실을 깨달아야 한다고 말했습니다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12639",
-      "titleOriginal": "UKMTO reports that a tanker outbound through the Strait of Hormuz was struck on its stern by an unidentified projectile approximately 11 nautical miles north of Khasab, Oman. No casualties have been reported, and the environmental impact re",
-      "url": "https://iran.liveuamap.com/en/2026/21-november-07-ukmto-reports-that-a-tanker-outbound-through",
-      "lang": "en",
-      "publishedAt": "2026-11-21T08:14:41.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "영국해군중동본부(UKMTO)는 호르무즈 해협을 통과하던 유조선이 오만 카사브에서 북쪽으로 약 11해리 떨어진 지점에서 정체불명의 발사체에 선미를 맞았다고 보고했습니다. 사상자는 보고되지 않았으며, 환경 영향은 재평가 중입니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46063",
-      "titleOriginal": "BREAKING: Mexican forces reportedly capture notorious drug lord “El Chapo Isidro,” one of the FBI’s 10 most wanted fugitives, sparking intense gun battles in Sinaloa.",
-      "url": "https://t.me/insiderpaper/46063",
-      "lang": "en",
-      "publishedAt": "2026-11-21T07:49:12.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 멕시코 당국이 FBI가 가장 수배 중인 10대 도주자 중 한 명인 악명 높은 마약왕 '엘 차포 이시드로'를 체포한 것으로 알려졌으며, 이로 인해 시날로아에서 치열한 총격전이 벌어졌습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79252",
-      "titleOriginal": "US Defence Secretary Issues Secret Memo to Restrict US-Canada Defence Cooperation: Report",
-      "url": "https://english.dainikjagranmpcg.com/international/pete-hegseth-issues-secret-memo-to-restrict-us-canada-defence-cooperation/article-45412",
-      "lang": "en",
-      "publishedAt": "2026-11-21T07:39:12.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "미국 국방장관, 미국-캐나다 국방 협력 제한을 위한 비밀 메모 발령: 보고서",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79251",
-      "titleOriginal": "Poland accuses Russia of \"intentional provocation\" as missiles hit NATO soil, kill at least 8 in Ukraine",
-      "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/",
-      "lang": "en",
-      "publishedAt": "2026-11-21T05:24:32.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "폴란드, 러시아를 '고의적 도발'로 비난... 미사일이 나토 영토에 떨어져 우크라이나에서 최소 8명 사망",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79250",
-      "titleOriginal": "US intel chief warned no funding for Musk’s SpaceX without answers on Ukraine Starshield slowdown",
-      "url": "https://edition.cnn.com/2026/11/20/politics/himes-ukraine-starlink-slowdown",
-      "lang": "en",
-      "publishedAt": "2026-11-21T04:54:21.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "미국 정보기관 수장, 우크라이나 Starshield 속도 저하에 대한 답변이 없으면 머스크의 SpaceX에 자금 지원하지 않겠다고 경고",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92305",
-      "titleOriginal": "Physicist Finds a Strange New Solution to Einstein's Equations in Five-Dimensional Spacetime: Black Saturn",
-      "url": "https://www.sciencealert.com/physicist-finds-a-strange-new-solution-to-einsteins-equations-in-five-dimensional-spacetime-black-saturn",
-      "lang": "en",
-      "publishedAt": "2026-11-21T03:21:32.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "물리학자가 5차원 시공간에서 아인슈타인의 방정식에 대한 새로운 기묘한 해를 발견하다: 블랙 새턴",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22224",
-      "titleOriginal": "JUST IN - The FBI has been hacked again, this time in an apparent breach of its nationwide criminal information database.",
-      "url": "https://www.disclose.tv/id/yh98aapml8/",
-      "lang": "en",
-      "publishedAt": "2026-11-21T02:35:10.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "속보 - FBI가 또다시 해킹당했습니다. 이번에는 전국 범죄 정보 데이터베이스가 명백히 침해당한 것으로 보입니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92304",
-      "titleOriginal": "Severe PMS May Actually Be Three Different Subtypes, Researchers Suggest",
-      "url": "https://www.sciencealert.com/severe-pms-may-actually-be-three-different-subtypes-researchers-suggest",
-      "lang": "en",
-      "publishedAt": "2026-11-21T02:11:20.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "연구자들은 심한 PMS가 실제로 세 가지 다른 하위 유형일 수 있다고 제안합니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79248",
-      "titleOriginal": "Explosions heard in Riyadh; additional sirens activated",
-      "url": "https://www.ynetnews.com/article/g217vwy65",
-      "lang": "en",
-      "publishedAt": "2026-11-21T01:04:24.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "리야드에서 폭발음이 들렸으며, 추가 사이렌이 울렸습니다",
       "translated": true
     }
   ]
