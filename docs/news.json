@@ -1,8 +1,63 @@
 {
-  "updatedAt": "2026-11-22T23:43:51.587Z",
+  "updatedAt": "2026-11-23T05:59:15.172Z",
   "count": 150,
   "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:79294",
+      "titleOriginal": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "url": "https://www.bbc.com/news/articles/cqdr15l32d3go",
+      "lang": "en",
+      "publishedAt": "2026-11-23T04:09:30.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "구조대원들에 따르면, 우크라이나에 대한 러시아의 공습이 있은 지 몇 시간 후 7살 소년이 잔해 속에서 살아있는 채로 구조되었다고 합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92324",
+      "titleOriginal": "Forget Planet Nine: Hints of a Second Secret World Emerge From The Edge of The Solar System",
+      "url": "https://www.sciencealert.com/forget-planet-nine-hints-of-a-second-secret-world-emerge-from-the-edge-of-the-solar-system",
+      "lang": "en",
+      "publishedAt": "2026-11-23T03:39:40.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "제9행성을 잊으세요. 태양계 가장자리에서 두 번째 비밀 세계의 흔적이 나타났습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10462",
+      "titleOriginal": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "lang": "en",
+      "publishedAt": "2026-11-23T03:02:31.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "코닥의 다음 수집품은 트래커 역할도 하는 작은 디지털 포토 프레임입니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79293",
+      "titleOriginal": "Russia is towing drone-hit cargo ship after Baltic Sea attack",
+      "url": "https://www.euronews.com/2026/11/22/finland-confirms-russia-is-towing-drone-hit-cargo-ship-after-baltic-sea-attack",
+      "lang": "en",
+      "publishedAt": "2026-11-23T01:24:21.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아, 발트해 공격 후 드론에 피격된 화물선 예인 중",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92323",
+      "titleOriginal": "One Common Vitamin May Lower Toxic Alzheimer's Proteins, Research Suggests",
+      "url": "https://www.sciencealert.com/one-common-vitamin-may-lower-toxic-alzheimers-proteins-research-suggests",
+      "lang": "en",
+      "publishedAt": "2026-11-23T01:19:59.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "연구에 따르면 흔한 비타민 한 가지가 독성 알츠하이머 단백질을 감소시킬 수 있다고 합니다",
+      "translated": true
+    },
     {
       "id": "theverge_news:10461",
       "titleOriginal": "We haven’t seen the last of the major tech outages",
@@ -1596,61 +1651,6 @@
       "source": "Disclose.tv",
       "region": "속보",
       "title": "새로운 소식 - 스페인 경찰은 7월 모로코에서 세우타로의 대규모 이주민 유입에 앞서 수천 개의 동일한 튜브가 배포되었다고 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15770",
-      "titleOriginal": "Berlin police forcefully intervened during a demonstration between Kottbusser Tor and Schlesisches Tor on November 20, seizing and damaging a folded Palestinian flag carried by a woman protester",
-      "url": "https://t.me/trtworld/15770",
-      "lang": "en",
-      "publishedAt": "2026-11-21T10:22:06.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "베를린 경찰은 11월 20일 코트부서 토어(Kottbusser Tor)와 슐레지셰스 토어(Schlesisches Tor) 사이에서 열린 시위 도중 강제 개입하여 여성 시위자가 들고 있던 접힌 팔레스타인 국기를 빼앗고 훼손했습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79254",
-      "titleOriginal": "Zelensky Warns Putin Crimean Bridge ‘Will Not Stay’",
-      "url": "https://www.kyivpost.com/post/90789",
-      "lang": "en",
-      "publishedAt": "2026-11-21T09:54:17.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "젤렌스키 대통령, 푸틴 대통령에게 크림반도 다리가 '오래가지 못할 것'이라고 경고",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92306",
-      "titleOriginal": "A Massive Study Links The Time You Eat Breakfast to How Long You'll Live",
-      "url": "https://www.sciencealert.com/a-massive-study-links-the-time-you-eat-breakfast-to-how-long-youll-live",
-      "lang": "en",
-      "publishedAt": "2026-11-21T09:12:10.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "대규모 연구가 아침 식사 시간을 수명과 연결지었습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20463",
-      "titleOriginal": "Ukrainian drones attacked Leningrad region overnight. The results are still unclear.",
-      "url": "https://t.me/wartranslated/20463",
-      "lang": "en",
-      "publishedAt": "2026-11-21T08:28:09.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 드론이 밤새 레닌그라드 지역을 공격했습니다. 공격 결과는 아직 불분명합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20462",
-      "titleOriginal": "Ukrainian border guards downed nearly 400 drones in Russia's massive attack overnight on November 20, including 120 Shaheds and Gerberas. They fought drones in Sumy, Odesa, Dnipropetrovsk, Kharkiv and Donetsk regions, with the most destroye",
-      "url": "https://t.me/wartranslated/20462",
-      "lang": "en",
-      "publishedAt": "2026-11-21T08:24:08.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 국경수비대는 11월 20일 밤 러시아의 대규모 공격에서 샤헤드와 게르베라 120대를 포함해 무인기 약 400대를 격추했습니다. 우크라이나 국경수비대는 수미, 오데사, 드니프로페트로프스크, 하르키우, 도네츠크 지역에서 드론과 전투를 벌였으며, 이 중 가장 많은 드론을 격추한 곳",
       "translated": true
     }
   ]
