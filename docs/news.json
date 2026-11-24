@@ -1,8 +1,514 @@
 {
-  "updatedAt": "2026-11-23T17:55:57.803Z",
+  "updatedAt": "2026-11-24T03:52:26.687Z",
   "count": 150,
-  "translatedCount": 125,
+  "translatedCount": 138,
   "items": [
+    {
+      "id": "insiderpaper:46102",
+      "titleOriginal": "Aliens Are Preparing to Colonize Earth, UFO researcher Moshier claims",
+      "url": "https://insiderpaper.com/aliens-are-preparing-to-colonize-earth-ufo-researcher-moshier-claims/",
+      "lang": "en",
+      "publishedAt": "2026-11-24T01:36:14.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "UFO 연구원 모시에르, \"외계인이 지구를 식민지화할 준비를 하고 있다\"고 주장",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46101",
+      "titleOriginal": "BREAKING: Several Russian aircraft entered South Korea air defence zone — Yonhap",
+      "url": "https://t.me/insiderpaper/46101",
+      "lang": "en",
+      "publishedAt": "2026-11-24T00:14:35.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 러시아 항공기 여러 대가 한국 방공식별구역에 진입 — 연합뉴스",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79315",
+      "titleOriginal": "Poland to get NATO early-warning aircraft after Russian missiles hit country",
+      "url": "https://www.nbcnews.com/world/russia/poland-nato-early-warning-aircraft-russia-missiles-cross-border-rcna610957",
+      "lang": "en",
+      "publishedAt": "2026-11-24T00:09:34.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아 미사일이 폴란드에 명중한 후 폴란드가 나토 조기 경보기를 도입할 예정",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10493",
+      "titleOriginal": "Google alternative Kagi launches an email service",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "lang": "en",
+      "publishedAt": "2026-11-24T00:03:51.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Google 대안 Kagi, 이메일 서비스 출시",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79314",
+      "titleOriginal": "Russia is developing a nuclear space weapon, US intelligence report finds",
+      "url": "https://www.space.com/space-exploration/satellites/russia-is-developing-a-nuclear-space-weapon-us-intelligence-report-finds",
+      "lang": "en",
+      "publishedAt": "2026-11-23T23:39:18.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "미국 정보기관 보고서, 러시아가 핵우주무기 개발 중이라고 밝혀",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10492",
+      "titleOriginal": "The hacker behind early GTA VI leaks has been sentenced — and released",
+      "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+      "lang": "en",
+      "publishedAt": "2026-11-23T23:27:12.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "초기 GTA VI 유출 사건의 배후에 있던 해커가 유죄 판결을 받고 석방되었습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10491",
+      "titleOriginal": "The Verge’s 2026 holiday gift guide",
+      "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
+      "lang": "en",
+      "publishedAt": "2026-11-23T23:17:31.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "The Verge의 2026년 연말연시 선물 가이드",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46099",
+      "titleOriginal": "NEW: Trump says he convinced Nvidia board to reinstate Jensen Huang.",
+      "url": "https://t.me/insiderpaper/46099",
+      "lang": "en",
+      "publishedAt": "2026-11-23T23:05:12.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "신규: 트럼프 전 대통령이 엔비디아 이사회에 젠슨 황 CEO의 복직을 설득했다고 밝혔습니다",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12671",
+      "titleOriginal": "Poland's Armed Forces Operational Command: During Russia's overnight aerial attack on targets in western Ukraine, a Russian drone briefly violated Polish airspace. In response to the threat, the Operational Command activated the necessary a",
+      "url": "https://liveuamap.com/en/2026/23-november-22-dowdztwo-operacyjne-rsz-w-trakcie-nocnego",
+      "lang": "en",
+      "publishedAt": "2026-11-23T23:01:35.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "폴란드 군 작전사령부: 러시아가 우크라이나 서부의 목표물을 상대로 야간 공습을 가하는 동안 러시아 드론이 잠시 폴란드 영공을 침범했습니다. 이 위협에 대응하여 작전사령부는 필요한 조치를 활성화했습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92334",
+      "titleOriginal": "A Cheap Daily Supplement Seems to Boost Brain Function in Older Adults",
+      "url": "https://www.sciencealert.com/a-cheap-daily-supplement-seems-to-boost-brain-function-in-older-adults",
+      "lang": "en",
+      "publishedAt": "2026-11-23T22:54:57.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "저렴한 일일 보충제가 고령자의 뇌 기능을 향상시키는 것으로 보입니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46098",
+      "titleOriginal": "NEW: FBI warns AI-powered hacking tool ARTEX is allowing cybercriminals to breach company systems in under 3 hours, putting sensitive personal information at risk, Fox News reports",
+      "url": "https://t.me/insiderpaper/46098",
+      "lang": "en",
+      "publishedAt": "2026-11-23T22:42:26.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "신규: 폭스뉴스는 FBI가 AI 기반 해킹 도구인 ARTEX가 사이버 범죄자들이 3시간 이내에 기업 시스템을 침해하여 민감한 개인 정보를 위험에 빠뜨릴 수 있다고 경고했다고 보도했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10490",
+      "titleOriginal": "Ladybird, the first new browser engine in years, is now available to test",
+      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+      "lang": "en",
+      "publishedAt": "2026-11-23T22:38:56.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "수년 만에 처음으로 선보이는 새로운 브라우저 엔진인 Ladybird를 이제 테스트해 보실 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10489",
+      "titleOriginal": "Trump engineered a risky comeback for Jensen Huang",
+      "url": "https://telegra.ph/Trump-engineered-a-risky-comeback-for-Jensen-Huang-11-23",
+      "lang": "en",
+      "publishedAt": "2026-11-23T22:28:51.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "트럼프, 젠슨 황의 위험한 복귀를 설계하다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10488",
+      "titleOriginal": "Welcome to elite impunity, Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "lang": "en",
+      "publishedAt": "2026-11-23T22:13:51.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "엘리트의 면죄부에 오신 것을 환영합니다, 젠슨 황(Jensen Huang) 님",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20562",
+      "titleOriginal": "Breaking news from Volgograd, Russia - there is no gasoline. Yet Russian TV channels claimed it was all just \"artificial hype.\" Where is the lie?",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-11-23T22:12:25.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아 볼고그라드에서 속보가 전해졌습니다. 휘발유가 없다고 합니다. 하지만 러시아 TV 채널들은 이 모든 것이 단지 \"인위적인 과장\"이라고 주장했습니다. 거짓말은 어디에 있나요?",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10487",
+      "titleOriginal": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "url": "https://telegra.ph/Nvidia-CEO-Jensen-Huang-is-back-What-happens-next-11-23",
+      "lang": "en",
+      "publishedAt": "2026-11-23T22:09:02.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "엔비디아의 젠슨 황 CEO가 돌아왔습니다. 다음은 어떻게 될까요?",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10486",
+      "titleOriginal": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "url": "https://telegra.ph/The-Apple-Watch-Series-12-is-cheaper-than-ever-ahead-of-Blac-11-23",
+      "lang": "en",
+      "publishedAt": "2026-11-23T21:39:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "블랙프라이데이를 앞두고 애플 워치 시리즈 12가 사상 최저가로 판매됩니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79313",
+      "titleOriginal": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
+      "url": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html?unlocked_article_code=1.SlE.wZPG.pCOAmmRylqtw&amp;smid=url-share",
+      "lang": "en",
+      "publishedAt": "2026-11-23T21:34:20.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "분석 결과, 70만 명 이상의 러시아 군인이 우크라이나에서 사망한 것으로 나타남",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22238",
+      "titleOriginal": "JUST IN - A federal appeals court cleared the way for Trump to try to get his \"hush money\" conviction thrown out on presidential immunity grounds, reviving his bid to erase the 34 felony counts tied to a $130,000 payment to Stormy Daniels.",
+      "url": "https://www.disclose.tv/id/zde9nq71lz/",
+      "lang": "en",
+      "publishedAt": "2026-11-23T21:33:06.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "속보 - 연방 항소법원이 트럼프 전 대통령이 스토미 대니얼스에게 13만 달러를 지급한 것과 관련된 34건의 중범죄 혐의를 면책하기 위한 시도를 재개하며, 대통령 면책 특권을 근거로 \"입막음용 돈\" 유죄 판결을 취소하려는 시도를 할 수 있는 길을 열어주었습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46097",
+      "titleOriginal": "BREAKING 🚨 North Korea threatens to close Swiss diplomatic office after barely a month: KCNA",
+      "url": "https://t.me/insiderpaper/46097",
+      "lang": "en",
+      "publishedAt": "2026-11-23T21:30:11.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보 🚨 북한, 개설 한 달 만에 스위스 외교 대표부 폐쇄 위협: 조선중앙통신",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20561",
+      "titleOriginal": "Libyan News Agency, citing a November 23 statement by al-Koni, reported that Musa al-Koni, a member of Libya's Presidential Council, declared that Ukrainian strikes on Russian ships in the port of Benghazi are tantamount to a declaration of",
+      "url": "https://lana.gov.ly/post.php?id=370663&amp;lang=en",
+      "lang": "en",
+      "publishedAt": "2026-11-23T21:29:45.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "리비아 통신사는 11월 23일 알코니의 성명을 인용해 리비아 대통령 평의회 위원인 무사 알코니가 벵가지 항의 러시아 선박에 대한 우크라이나의 공격이 전쟁 선포에 준하는 것이라고 선언했다고 보도했다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46096",
+      "titleOriginal": "BREAKING: US blacklists Megaspeed chip firm linked to Nvidia scandal",
+      "url": "https://t.me/insiderpaper/46096",
+      "lang": "en",
+      "publishedAt": "2026-11-23T21:19:52.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 미국, 엔비디아 스캔들과 연관된 칩 제조업체 메가스피드를 블랙리스트에 올리다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20560",
+      "titleOriginal": "At the 72nd Annual Session of the NATO Parliamentary Assembly, Ukrainian Defense Minister Khmara stated that over the past few months, the Defense Forces have struck 16 \"Iskander\" and S-400 systems. The minister clarified that Ukraine is co",
+      "url": "https://mod.gov.ua/en/news/nato-parliamentary-assembly-ukraine-priorities",
+      "lang": "en",
+      "publishedAt": "2026-11-23T21:14:49.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "제72차 북대서양조약기구(NATO) 의회 총회에서 우크라이나의 흐마라 국방부 장관은 지난 몇 달 동안 우크라이나 국방군이 '이스칸데르'와 S-400 체계 16대를 타격했다고 밝혔다. 장관은 우크라이나가 협력하고 있다고 명확히 밝혔습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10485",
+      "titleOriginal": "AI data centers throw another wrench into chaotic UN climate talks",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "lang": "en",
+      "publishedAt": "2026-11-23T21:13:53.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "AI 데이터 센터가 유엔 기후 협상에 또 다른 혼란을 초래하다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46095",
+      "titleOriginal": "BREAKING: Nvidia shares end 32% higher following CEO Jensen Huang reinstatement, Nasdaq surges 6.5%.",
+      "url": "https://t.me/insiderpaper/46095",
+      "lang": "en",
+      "publishedAt": "2026-11-23T21:05:04.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 젠슨 황 CEO 복직에 따라 엔비디아 주가가 32% 상승하고 나스닥이 6.5% 급등했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10484",
+      "titleOriginal": "Apple renews Ted Lasso for season 5",
+      "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+      "lang": "en",
+      "publishedAt": "2026-11-23T20:58:54.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Apple, '테드 래소' 시즌 5 제작 확정",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12670",
+      "titleOriginal": "Fierce clashes erupted between government forces and Houthi fighters on the Lahj fronts in Yemen, amid intense airstrikes by warplanes on Houthi positions. https://yemen.liveuamap.com/en/2026/23-november-20-fierce-clashes-erupted-between-go",
+      "url": "https://yemen.liveuamap.com/en/2026/23-november-20-fierce-clashes-erupted-between-government",
+      "lang": "en",
+      "publishedAt": "2026-11-23T20:43:07.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "예멘 라흐즈 전선에서 정부군과 후티족 전투원 간에 치열한 전투가 벌어졌으며, 전투기가 후티족 진영을 향해 집중적인 공습을 가했습니다. https://yemen.liveuamap.com/en/2026/23-november-20-fierce-clashes-erupted-between-go",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79312",
+      "titleOriginal": "EU goes after Russia's banks, soldiers and athletes in new sanctions",
+      "url": "https://www.euronews.com/2026/11/23/eu-goes-after-russias-banks-soldiers-and-athletes-in-new-sanctions-package",
+      "lang": "en",
+      "publishedAt": "2026-11-23T20:34:37.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "EU, 새로운 제재로 러시아 은행, 군인, 운동선수까지 제재 대상에 포함",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79311",
+      "titleOriginal": "EU to ban Russian flags and teams at European sports events in new sanctions round",
+      "url": "https://euobserver.com/250900/eu-to-ban-russian-flags-and-teams-at-european-sports-events-in-new-sanctions-round/",
+      "lang": "en",
+      "publishedAt": "2026-11-23T20:04:07.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "EU, 새로운 제재 조치로 유럽 스포츠 행사에서 러시아 국기와 팀 금지 예정",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12669",
+      "titleOriginal": "In Iraqi Kurdistan, a member of the Kurdistan Democratic Party (KDP) opposed the deployment of Iraqi federal security forces along the Kurdistan Region's borders, saying the Peshmerga and border guards are capable of securing the region and",
+      "url": "https://iraq.liveuamap.com/en/2026/23-november-17-in-iraqi-kurdistan-a-member-of-the-kurdistan",
+      "lang": "en",
+      "publishedAt": "2026-11-23T20:03:15.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "이라크 쿠르드 지역에서 쿠르드 민주당(KDP)의 한 당원이 쿠르드 지역 국경에 이라크 연방 보안군의 배치를 반대하며, 페슈메르가와 국경 경비대가 이 지역의 안보를 지킬 수 있고",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10483",
+      "titleOriginal": "Claude AI can review pull requests and ship fixes on its own now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "lang": "en",
+      "publishedAt": "2026-11-23T20:02:51.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "이제 Claude AI가 자체적으로 풀 리퀘스트를 검토하고 수정 사항을 배포할 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10482",
+      "titleOriginal": "Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return",
+      "url": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return",
+      "lang": "en",
+      "publishedAt": "2026-11-23T20:02:50.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "젠슨 황, \"더 나은 CEO가 되겠다\"고 밝히자 직원들 박수갈채",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10481",
+      "titleOriginal": "How Jensen Huang ended up as Nvidia CEO again",
+      "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "lang": "en",
+      "publishedAt": "2026-11-23T19:57:52.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "젠슨 황이 다시 엔비디아 CEO가 된 사연",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20559",
+      "titleOriginal": "Emergency rescue operations in Dymer concluded today following a Russian strike. As a result of the Russian drone attack, 11 people were killed, including an 11-year-old girl.",
+      "url": "https://t.me/wartranslated/20559",
+      "lang": "en",
+      "publishedAt": "2026-11-23T19:49:31.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아의 공격으로 인해 디메르에서 진행된 긴급 구조 작업이 오늘 마무리되었습니다. 러시아 드론 공격으로 11세 소녀를 포함한 11명이 사망했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10480",
+      "titleOriginal": "HBO Max is offering one of the best Black Friday deals we’ve seen this year",
+      "url": "https://telegra.ph/HBO-Max-is-offering-one-of-the-best-Black-Friday-deals-weve-11-23",
+      "lang": "en",
+      "publishedAt": "2026-11-23T19:42:52.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "HBO Max는 올해 우리가 본 최고의 블랙프라이데이 특가 중 하나를 제공하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46094",
+      "titleOriginal": "NEW: Superintelligent AI could help humans live for 1,400 years, Philosopher Nick Bostrom says",
+      "url": "https://insiderpaper.com/could-humans-live-for-1400-years-nick-bostrom-explores-ais-anti-aging-potential/",
+      "lang": "en",
+      "publishedAt": "2026-11-23T19:40:55.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "신규: 철학자 닉 보스트롬은 초지능 AI가 인간의 수명을 1,400년까지 늘리는 데 도움이 될 수 있다고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92333",
+      "titleOriginal": "Blood Vessel Function Improves Within 1 Hour of Taking This Anti-Aging Supplement, Study Shows",
+      "url": "https://www.sciencealert.com/blood-vessel-function-improves-within-1-hour-of-taking-this-anti-aging-supplement-study-shows",
+      "lang": "en",
+      "publishedAt": "2026-11-23T19:24:44.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "연구 결과에 따르면, 이 노화 방지 보충제를 복용한 후 1시간 이내에 혈관 기능이 개선됩니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10479",
+      "titleOriginal": "New magical shows worth watching instead of Harry Potter",
+      "url": "https://www.theverge.com/entertainment/1038020/shows-to-stream-instead-of-harry-potter",
+      "lang": "en",
+      "publishedAt": "2026-11-23T19:18:38.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "해리 포터 대신 볼 만한 새로운 마법 쇼",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12668",
+      "titleOriginal": "The Federal Aviation Administration (FAA) ordered a ground stop for flights bound for Chicago O'Hare International Airport due to an air traffic control staffing shortage. https://usa.liveuamap.com/en/2026/23-november-18-the-federal-aviatio",
+      "url": "https://usa.liveuamap.com/en/2026/23-november-18-the-federal-aviation-administration-faa-ordered",
+      "lang": "en",
+      "publishedAt": "2026-11-23T19:12:50.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "미 연방항공청(FAA)이 항공교통관제 인력 부족으로 인해 시카고 오헤어 국제공항으로 향하는 항공편에 대해 이륙 중지 명령을 내렸습니다. https://usa.liveuamap.com/en/2026/23-november-18-the-federal-aviatio",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46093",
+      "titleOriginal": "BREAKING: Jensen Huang gets a hero’s welcome at Nvidia headquarters, employees give him a standing ovation.",
+      "url": "https://t.me/insiderpaper/46093",
+      "lang": "en",
+      "publishedAt": "2026-11-23T19:12:36.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 젠슨 황이 엔비디아 본사에서 영웅적인 환영을 받았습니다. 직원들이 기립 박수를 보냈습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79309",
+      "titleOriginal": "Russia accuses Estonia of being ‘on the verge of unleashing open war’",
+      "url": "https://mezha.net/eng/news/mezha-6c339841c2ce0850e3ec5a64_russia_accuses_estonia/",
+      "lang": "en",
+      "publishedAt": "2026-11-23T19:09:06.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "러시아, 에스토니아를 '공개 전쟁 발발 직전'이라고 비난",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10478",
+      "titleOriginal": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+      "lang": "en",
+      "publishedAt": "2026-11-23T19:06:21.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "Nothing의 출시 예정 제품인 Ear Note는 AI 전사 기능을 갖춘 이어버드입니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10477",
+      "titleOriginal": "GTA VI’s pretentious puzzler makes indie developers feel ‘part of larger culture’",
+      "url": "https://www.theverge.com/games/1040265/gta-vi-tenebrae-lux-indie-developers",
+      "lang": "en",
+      "publishedAt": "2026-11-23T18:56:41.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "GTA VI의 야심찬 퍼즐 게임이 인디 개발자들에게 '더 큰 문화의 일원'이라는 느낌을 줍니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10476",
+      "titleOriginal": "Peacock subscriptions are up to 66 percent off for Black Friday",
+      "url": "https://telegra.ph/Peacock-subscriptions-are-up-to-66-percent-off-for-Black-Fri-11-23-3",
+      "lang": "en",
+      "publishedAt": "2026-11-23T18:37:03.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "블랙프라이데이를 맞아 Peacock 구독료가 최대 66% 할인됩니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10475",
+      "titleOriginal": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "lang": "en",
+      "publishedAt": "2026-11-23T18:31:31.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "오리건주와 버지니아주, 그록의 딥페이크 포르노 관련해 SpaceX에 소송 제기",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79308",
+      "titleOriginal": "Iranian female singer lashed 74 times for performing without hijab",
+      "url": "https://www.rudaw.net/english/categories/iran/1080277",
+      "lang": "en",
+      "publishedAt": "2026-11-23T18:24:23.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "히잡을 쓰지 않고 공연한 이란 여성 가수가 74대 태형을 선고받았습니다",
+      "translated": true
+    },
     {
       "id": "insiderpaper:46092",
       "titleOriginal": "NEW - A UK court sentenced a British hacker to seven years in jail Monday for a series of cyberattacks, including leaking footage from Grand Theft Auto VI years before the blockbuster game’s release.",
@@ -671,8 +1177,8 @@
       "publishedAt": "2026-11-23T12:54:20.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "Ukraine still has no clear answers regarding who would defend it and how in the event of a new Russian attack; therefore, instead of looking for alternatives to NATO membership, partners could simply admit Ukraine into the Alliance, Zelensk",
-      "translated": false
+      "title": "젤렌스키 대통령은 우크라이나가 여전히 새로운 러시아의 공격이 발생할 경우 누가 어떻게 우크라이나를 방어할지에 대한 명확한 답을 갖고 있지 않으며, 따라서 파트너들은 나토 가입에 대한 대안을 모색하는 대신 우크라이나를 나토에 가입시킬 수 있다고",
+      "translated": true
     },
     {
       "id": "worldnews:79303",
@@ -682,8 +1188,8 @@
       "publishedAt": "2026-11-23T12:49:24.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "NATO believes Russia is ready to launch nuclear-armed satellite, German media say",
-      "translated": false
+      "title": "독일 언론에 따르면, 나토는 러시아가 핵무기를 탑재한 위성을 발사할 준비가 되었다고 보고 있다고 합니다",
+      "translated": true
     },
     {
       "id": "trtworld:15777",
@@ -693,8 +1199,8 @@
       "publishedAt": "2026-11-23T12:07:21.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "“Palestinians living in Gaza are being exposed to toxins in multiple ways through air, food, water and via direct contact with contaminated soils and debris,” said Amitabh Behar, Oxfam’s international executive director.",
-      "translated": false
+      "title": "옥스팜의 아미타브 베하르(Amitabh Behar) 국제 집행 이사는 \"가자지구에 거주하는 팔레스타인인들은 공기, 음식, 물을 통해, 그리고 오염된 토양과 잔해와의 직접적인 접촉을 통해 다양한 방식으로 독성에 노출되고 있다\"고 말했습니다",
+      "translated": true
     },
     {
       "id": "wartranslated:20547",
@@ -704,8 +1210,8 @@
       "publishedAt": "2026-11-23T11:46:53.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "A Russian whines that they’ve lost everything in the battles in the Sumy direction and that they should expect a \"hello\" from there soon.",
-      "translated": false
+      "title": "한 러시아인이 수미(Sumy) 방면의 전투에서 모든 것을 잃었고, 곧 그곳에서 \"인사\"가 올 것이라고 불평합니다",
+      "translated": true
     },
     {
       "id": "worldnews:79302",
@@ -715,8 +1221,8 @@
       "publishedAt": "2026-11-23T11:19:26.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Russia Claims It Destroyed 674 Ukrainian Warplanes—Five Times More Than Ukraine Had",
-      "translated": false
+      "title": "러시아, 우크라이나 보유 전투기 수의 5배에 달하는 674대의 우크라이나 전투기 격추 주장",
+      "translated": true
     },
     {
       "id": "worldnews:79301",
@@ -726,8 +1232,8 @@
       "publishedAt": "2026-11-23T11:19:25.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "China Sentences Official to Death for Spying for Foreign Power",
-      "translated": false
+      "title": "중국, 외국 세력에 대한 스파이 혐의로 공무원에게 사형 선고",
+      "translated": true
     },
     {
       "id": "wartranslated:20546",
@@ -737,8 +1243,8 @@
       "publishedAt": "2026-11-23T11:10:55.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "The Russians struck the centre of Zaporizhzhia this morning.",
-      "translated": false
+      "title": "오늘 아침 러시아군은 자포리자 중심부를 공격했습니다",
+      "translated": true
     },
     {
       "id": "worldnews:79300",
@@ -748,8 +1254,8 @@
       "publishedAt": "2026-11-23T11:04:17.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Russia Could Put a Nuclear Weapon Into Orbit Within Weeks, Western Intelligence Warns",
-      "translated": false
+      "title": "서방 정보기관, 러시아가 몇 주 내에 핵무기를 궤도에 올릴 수 있다고 경고",
+      "translated": true
     },
     {
       "id": "liveuamap:12660",
@@ -759,8 +1265,8 @@
       "publishedAt": "2026-11-23T11:04:15.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "Zelenskyy: An exemplary Ukrainian operation in response to Russia's war. I thank the personnel of the Security Service of Ukraine and all members of Ukraine's Defense Forces who took part in carrying out these missions. I received detailed ",
-      "translated": false
+      "title": "젤렌스키: 러시아의 전쟁에 대응한 모범적인 우크라이나 작전. 이 임무 수행에 참여한 우크라이나 안보국 요원들과 우크라이나 국방군 소속 모든 분들께 감사드립니다. 저는",
+      "translated": true
     },
     {
       "id": "wartranslated:20545",
@@ -770,8 +1276,8 @@
       "publishedAt": "2026-11-23T11:03:50.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "The land route to occupied Crimea has come under the constant threat of Ukrainian drone attacks. Following damage to the road section of the Crimean Bridge, Russian logistics have faced additional difficulties.",
-      "translated": false
+      "title": "점령된 크림반도로 향하는 육로가 우크라이나 드론 공격의 지속적인 위협을 받고 있습니다. 크림반도 다리의 도로 구간이 파손된 후 러시아의 물류는 추가적인 어려움에 직면했습니다",
+      "translated": true
     },
     {
       "id": "theverge_news:10463",
@@ -781,8 +1287,8 @@
       "publishedAt": "2026-11-23T11:02:50.000Z",
       "source": "The Verge",
       "region": "테크",
-      "title": "Meta Muse can now do your Black Friday shopping at Walmart",
-      "translated": false
+      "title": "이제 Meta Muse가 월마트에서 블랙프라이데이 쇼핑을 대신해 드립니다",
+      "translated": true
     },
     {
       "id": "liveuamap:12659",
@@ -792,8 +1298,8 @@
       "publishedAt": "2026-11-23T10:55:57.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "Libyan Presidential Council member Moussa Al-Koni: We hold Ukraine fully responsible for the strike on the port of Benghazi https://libya.liveuamap.com/en/2026/23-november-10-libyan-presidential-council-member-moussa",
-      "translated": false
+      "title": "리비아 대통령 자문위원회 위원 무사 알코니: 우리는 벵가지 항구에 대한 공격에 대해 우크라이나에 전적인 책임을 묻습니다. https://libya.liveuamap.com/en/2026/23-november-10-libyan-presidential-council-member-moussa",
+      "translated": true
     },
     {
       "id": "worldnews:79299",
@@ -803,8 +1309,8 @@
       "publishedAt": "2026-11-23T10:24:23.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "'Get In' Campaign Calls For UK To Rejoin European Union",
-      "translated": false
+      "title": "Get In' 캠페인, 영국에 유럽연합 재가입 촉구",
+      "translated": true
     },
     {
       "id": "liveuamap:12658",
@@ -1145,512 +1651,6 @@
       "source": "War Translated",
       "region": "분쟁",
       "title": "리비아 벵가지 해안에서 해상 드론이 두 번째 러시아 선박, 이번에는 화물선을 공격하는 순간입니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79288",
-      "titleOriginal": "Poll shows 65% of Russians blame US and NATO for deaths and ruin in Ukraine, and only 6% their own country",
-      "url": "https://euromaidanpress.com/2026/11/22/poll-shows-65-of-russians-blame-us-and-nato-for-deaths-and-ruin-in-ukraine-and-only-6-their-own-country/",
-      "lang": "en",
-      "publishedAt": "2026-11-22T18:09:19.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "여론조사 결과, 러시아인 65%가 우크라이나의 사망 및 파괴에 대해 미국과 나토를 비난하고 있으며, 단 6%만이 자국을 비난하고 있는 것으로 나타났습니다",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15774",
-      "titleOriginal": "Indonesian police recovered 24 body bags from a confectionery factory destroyed by fire in Java on November 22. Firefighters battled remaining hotspots as dozens of workers remained missing after the blaze, which broke out the previous day.",
-      "url": "https://t.me/trtworld/15774",
-      "lang": "en",
-      "publishedAt": "2026-11-22T18:05:16.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "인도네시아 경찰은 11월 22일 자바에서 화재로 소실된 제과 공장에서 시신 주머니 24개를 수습했습니다. 소방관들은 전날 발화한 화재 이후에도 수십 명의 근로자가 실종된 채로 남아 있는 가운데 남은 불씨와 사투를 벌였습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79287",
-      "titleOriginal": "Mark Carney brings Trump impersonator onstage to joke about U.S.-Canada ties",
-      "url": "https://www.washingtonpost.com/world/2026/11/22/mark-carney-brings-trump-impersonator-onstage-joke-about-us-canada-ties/",
-      "lang": "en",
-      "publishedAt": "2026-11-22T17:54:35.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "마크 카니 총재, 트럼프 대통령 모창 연기자를 무대에 올려 미-캐나다 관계를 두고 농담을 하다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10460",
-      "titleOriginal": "Delta flights in and out of Atlanta delayed due to system outage",
-      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
-      "lang": "en",
-      "publishedAt": "2026-11-22T17:48:04.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "시스템 장애로 인해 애틀랜타를 오가는 델타 항공편이 지연되었습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20533",
-      "titleOriginal": "Another ship is reportedly burning near Benghazi in Libya after a sea drone attack.",
-      "url": "https://t.me/wartranslated/20533",
-      "lang": "en",
-      "publishedAt": "2026-11-22T17:38:11.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "리비아 벵가지 인근에서 해상 드론 공격 후 또 다른 선박이 불타고 있는 것으로 전해졌습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10459",
-      "titleOriginal": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-      "lang": "en",
-      "publishedAt": "2026-11-22T17:26:50.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "The Binding of Isaac 개발자가 Repentance Plus에서 AI 음악을 삭제했습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79286",
-      "titleOriginal": "Cop31 ends with no deal as longest climate summit ever collapses into disarray",
-      "url": "https://www.yahoo.com/news/science/articles/cop31-fails-reach-climate-deal-124907599.html",
-      "lang": "en",
-      "publishedAt": "2026-11-22T17:09:38.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "사상 최장 기후 정상회담이 혼란에 빠지며 COP31은 합의 없이 종료",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10458",
-      "titleOriginal": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-      "url": "https://telegra.ph/Some-of-our-favorite-Switch-2-games-are-cheaper-through-Blac-11-22",
-      "lang": "en",
-      "publishedAt": "2026-11-22T17:02:42.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "저희가 좋아하는 Switch 2 게임 중 일부는 블랙프라이데이에 더 저렴합니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22233",
-      "titleOriginal": "JUST IN - U.S. Director of National Intelligence warns Americans to prepare for \"bumps in the road\" as outages may continue while companies and the government \"upgrade their systems.\"",
-      "url": "https://www.disclose.tv/id/bkmne6xb59/",
-      "lang": "en",
-      "publishedAt": "2026-11-22T16:53:02.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "속보 - 미국 국가정보국 국장이 미국인들에게 기업과 정부가 \"시스템을 업그레이드\"하는 동안 서비스 중단이 계속될 수 있으므로 \"문제 발생에 대비\"하라고 경고했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20531",
-      "titleOriginal": "Oko Gora analysts say 39 Russian cruise missiles and drones have come down in Poland since the full-scale invasion, 4 missiles and 35 drones. Another 6 flew through in transit, making 45 targets in total. Only 4 drones were shot down, no mi",
-      "url": "https://t.me/wartranslated/20531",
-      "lang": "en",
-      "publishedAt": "2026-11-22T16:52:33.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "오코 고라(Oko Gora) 분석가들에 따르면, 전면 침공 이후 폴란드에 추락한 러시아 순항 미사일과 드론은 총 39기로, 미사일 4기와 드론 35기라고 합니다. 6기가 더 통과 비행하여 총 45개의 표적이 되었습니다. 드론 4대만 격추되었으며, 미사일은 격추되지 않았습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20530",
-      "titleOriginal": "An explosion and fire reportedly hit a Russian Steregushchiy project corvette in Benghazi port in Libya overnight after \"unknown\" drones attacked. Ammo detonation caused a huge blast. The damaged ship may be the corvette Merkury, which repo",
-      "url": "https://t.me/wartranslated/20530",
-      "lang": "en",
-      "publishedAt": "2026-11-22T16:46:39.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "리비아 벵가지 항에 정박 중이던 러시아 스तेरे구시치급 코르벳함이 '신원 미상'의 드론 공격을 받은 후 폭발과 화재가 발생했다는 보도가 나왔습니다. 탄약 폭발로 인해 대규모 폭발이 발생했습니다. 피해를 입은 함정은 코르벳함 메르쿠리(Merkury)일 수 있으며, 해당 함정은..",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79285",
-      "titleOriginal": "Explosions reported near Russian Baltic Fleet base in Kaliningrad Oblast amid drone alerts",
-      "url": "https://kyivindependent.com/explosions-reported-near-russian-baltic-fleet-base-in-kaliningrad-oblast-amid-drone-alerts/",
-      "lang": "en",
-      "publishedAt": "2026-11-22T16:44:25.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "드론 경보 속 러시아 발트해 함대 기지 인근에서 폭발 신고 발생",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10457",
-      "titleOriginal": "Sheherazaad’s Khudgarzi is gorgeous, genre-defying gothic South Asian folk",
-      "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
-      "lang": "en",
-      "publishedAt": "2026-11-22T16:37:52.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "셰헤라자드의 'Khudgarzi'는 장르를 초월한 고딕 스타일의 남아시아 포크 음악으로, 정말 멋집니다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12652",
-      "titleOriginal": "UKMTO has received a report of an incident involving a tanker and military forces in the Gulf of Oman. Vessels are advised to review the latest maritime security information and remain alert to the evolving operational situation. Authoritie",
-      "url": "https://iran.liveuamap.com/en/2026/22-november-15-ukmto-has-received-a-report-of-an-incident",
-      "lang": "en",
-      "publishedAt": "2026-11-22T16:35:02.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "영국해사무역기구(UKMTO)는 오만만에서 유조선과 군대가 연루된 사건에 대한 신고를 접수했습니다. 선박은 최신 해상 안보 정보를 검토하고 변화하는 작전 상황에 대해 경각심을 유지할 것이 권고됩니다. 당국",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92321",
-      "titleOriginal": "New Theory Explains Why The Right Side of The Brain Controls The Left Side of The Body",
-      "url": "https://www.sciencealert.com/new-theory-explains-why-the-right-side-of-the-brain-controls-the-left-side-of-the-body",
-      "lang": "en",
-      "publishedAt": "2026-11-22T16:34:47.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "뇌의 오른쪽이 신체의 왼쪽을 제어하는 이유를 설명하는 새로운 이론",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12651",
-      "titleOriginal": "A major fire broke out in Dnipro following explosions. Widespread power outages have been reported across the city. https://liveuamap.com/en/2026/22-november-15-a-major-fire-broke-out-in-dnipro-following",
-      "url": "https://liveuamap.com/en/2026/22-november-15-a-major-fire-broke-out-in-dnipro-following",
-      "lang": "en",
-      "publishedAt": "2026-11-22T16:06:36.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "드니프로에서 폭발이 발생한 후 대형 화재가 발생했습니다. 도시 전역에서 광범위한 정전이 발생한 것으로 보고되었습니다. https://liveuamap.com/en/2026/22-november-15-a-major-fire-broke-out-in-dnipro-following",
-      "translated": true
-    },
-    {
-      "id": "trtworld:15773",
-      "titleOriginal": "COP31 President Murat Kurum addressed delegates at the UN climate summit in Antalya, Türkiye, saying the draft decisions had not been adopted after objections from delegations, following two days of overtime.",
-      "url": "https://t.me/trtworld/15773",
-      "lang": "en",
-      "publishedAt": "2026-11-22T16:01:51.000Z",
-      "source": "TRT World",
-      "region": "종합",
-      "title": "COP31 의장인 무랏 쿠룸(Murat Kurum)은 튀르키예 안탈리아에서 열린 UN 기후 정상회의에서 대표단들에게 연설하며, 이틀간의 연장 회의 후 대표단들의 이의 제기로 인해 결정 초안이 채택되지 않았다고 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22232",
-      "titleOriginal": "NEW - Muslims could outnumber Christians worldwide by 2035, sooner than previously expected.",
-      "url": "https://www.disclose.tv/id/l21ij7ezz5/",
-      "lang": "en",
-      "publishedAt": "2026-11-22T15:57:16.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "새로운 소식 - 2035년까지 전 세계에서 무슬림 인구가 기독교인 인구를 추월할 수 있으며, 이는 이전에 예상했던 것보다 빠른 시기입니다",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12650",
-      "titleOriginal": "Iranian Navy: Fire breaks out in two oil tankers after collision with naval mines, following their entry into a prohibited area east of the Strait of Hormuz despite warnings and the disabling of identification and navigation systems. https:",
-      "url": "https://iran.liveuamap.com/en/2026/22-november-15-iranian-navy-two-oil-tankers-caught-fire-after",
-      "lang": "en",
-      "publishedAt": "2026-11-22T15:54:16.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "이란 해군: 경고에도 불구하고 식별 및 항해 시스템을 비활성화한 채 호르무즈 해협 동쪽의 금지 구역에 진입한 두 척의 유조선이 기뢰와 충돌한 후 화재가 발생했습니다. https:",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12649",
-      "titleOriginal": "The Russian Steregushchiy-class corvette Merkury is on fire in the port of Benghazi, Libya, according to a high-resolution Planet satellite image taken today, November 22, at 7:47 a.m. local time. https://liveuamap.com/en/2026/22-november-1",
-      "url": "https://liveuamap.com/en/2026/22-november-14-the-russian-steregushchiyclass-corvette-merkury",
-      "lang": "en",
-      "publishedAt": "2026-11-22T15:52:56.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "오늘(11월 22일) 현지 시간 오전 7시 47분에 촬영된 고해상도 Planet 위성 사진에 따르면, 러시아의 스테레구시치급 코르벳함 메르쿠리가 리비아 벵가지 항에서 화재가 발생한 것으로 나타났습니다. https://liveuamap.com/en/2026/22-november-1",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22231",
-      "titleOriginal": "NEW - Norwegian gas exports to Europe have fallen as disruptions hit production, adding pressure on Germany, where gas storage is at a record seasonal low.",
-      "url": "https://www.disclose.tv/id/726flrq8bq/",
-      "lang": "en",
-      "publishedAt": "2026-11-22T15:47:53.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "신규 - 생산 차질로 인해 유럽으로의 노르웨이 가스 수출이 감소하면서 가스 비축량이 계절적 저점인 독일의 부담이 가중되고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10456",
-      "titleOriginal": "Protesters storm Meta offices in India",
-      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
-      "lang": "en",
-      "publishedAt": "2026-11-22T15:17:52.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "시위대가 인도 메타 사무실을 습격하다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92320",
-      "titleOriginal": "People Exposed to Sugar Rationing in Early Life Appear Biologically Younger in Their 50s",
-      "url": "https://www.sciencealert.com/people-exposed-to-sugar-rationing-in-early-life-appear-biologically-younger-in-their-50s",
-      "lang": "en",
-      "publishedAt": "2026-11-22T15:04:27.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "어린 시절 설탕 배급을 경험한 사람들은 50대에 생물학적으로 더 젊어 보입니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79284",
-      "titleOriginal": "Zelenskyy responds to Trump, who considers putin a friend: \"For us, he is an enemy and a killer\"",
-      "url": "https://ukranews.com/en/news/1189165-zelenskyy-responded-to-trump-who-considers-putin-a-friend-to-us-he-is-an-enemy-and-a-murderer",
-      "lang": "en",
-      "publishedAt": "2026-11-22T14:49:32.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "젤렌스키 대통령, 푸틴을 친구로 여기는 트럼프에게 \"우리에게 그는 적이자 살인자\"라고 응답",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79283",
-      "titleOriginal": "Russia demands US and allies block Ukraine's NATO membership again",
-      "url": "https://newsukraine.rbc.ua/news/russia-demands-us-and-allies-block-ukraine-1795329273.html",
-      "lang": "en",
-      "publishedAt": "2026-11-22T14:39:20.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아, 미국 및 동맹국에 우크라이나의 나토 가입 재차 차단 요구",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20527",
-      "titleOriginal": "Ukraine Context reports that Zelensky and Ukraine's Defense Minister Khmara agreed at their latest meeting to shift funding priority from the FP-5 Flamingo to the Neptune cruise missile, which has proven far better in recent months.",
-      "url": "https://t.me/wartranslated/20527",
-      "lang": "en",
-      "publishedAt": "2026-11-22T14:30:40.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 컨텍스트(Ukraine Context)는 젤렌스키 대통령과 흐마라 우크라이나 국방부 장관이 최근 회의에서 예산 지원 우선순위를 FP-5 플라밍고에서 네프튠 순항미사일로 변경하기로 합의했다고 보도했습니다. 네프튠 순항미사일은 최근 몇 달 동안 훨씬 더 나은 성능을 보여주었습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79282",
-      "titleOriginal": "Germany's AfD co-leader calls for deportation of 2.6 million Ukrainians, Syrians and Afghans",
-      "url": "https://www.pravda.com.ua/eng/news/2026/11/22/8064045/",
-      "lang": "en",
-      "publishedAt": "2026-11-22T14:09:40.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "독일 AfD 공동 대표, 우크라이나인, 시리아인, 아프가니스탄인 260만 명 추방 촉구",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22230",
-      "titleOriginal": "JUST IN - Trump says it is going to be \"very hard\" for him to work with Chuck Schumer as Senate Majority Leader: \"Here we go again!\"",
-      "url": "https://truthsocial.com/@realDonaldTrump/posts/117660378819768000",
-      "lang": "en",
-      "publishedAt": "2026-11-22T14:02:19.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "방금 입수한 소식 - 트럼프 전 대통령은 척 슈머 상원 원내대표와 함께 일하는 것이 \"매우 힘들 것\"이라고 말했습니다. \"또 시작이군!",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10455",
-      "titleOriginal": "Nintendo’s Switch 2 console is $50 off for Black Friday",
-      "url": "https://telegra.ph/Nintendos-Switch-2-console-is-50-off-for-Black-Friday-11-22",
-      "lang": "en",
-      "publishedAt": "2026-11-22T14:02:04.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "닌텐도 스위치 2 콘솔이 블랙프라이데이를 맞아 50달러 할인됩니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10454",
-      "titleOriginal": "‘The show is starting soon. Please turn on your headphones.’",
-      "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
-      "lang": "en",
-      "publishedAt": "2026-11-22T14:02:03.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "공연이 곧 시작됩니다. 헤드폰을 켜세요",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79281",
-      "titleOriginal": "Denmark accuses Russia of assassination plot against U.S.-Ukrainian citizen on its soil",
-      "url": "https://www.cbsnews.com/news/denmark-accuses-russia-assassination-plot-against-us-ukrainian-citizen/",
-      "lang": "en",
-      "publishedAt": "2026-11-22T13:54:11.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "덴마크, 자국 영토 내 미국-우크라이나 이중 국적자 암살 음모에 대해 러시아를 고발",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20526",
-      "titleOriginal": "Reports are appearing that Ukrainian forces allegedly broke through the border in Russia's Kursk region and took control of the settlement of Novyi Put. Waiting for confirmation.",
-      "url": "https://t.me/wartranslated/20526",
-      "lang": "en",
-      "publishedAt": "2026-11-22T13:32:27.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나군이 러시아 쿠르스크 지역의 국경을 돌파하고 노비 푸트(Novyi Put) 마을을 장악했다는 보도가 나오고 있습니다. 확인을 기다리고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10453",
-      "titleOriginal": "How Tamagotchis got us hooked on digital pets",
-      "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
-      "lang": "en",
-      "publishedAt": "2026-11-22T13:16:44.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "타마고치가 디지털 반려동물에 푹 빠지게 만든 방법",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79280",
-      "titleOriginal": "Russian Military Cargo Ship Drifts Into NATO Waters After Drone Strike, Risks Sinking",
-      "url": "https://united24media.com/world/russian-military-cargo-ship-drifts-into-nato-waters-after-drone-strike-risks-sinking-24599",
-      "lang": "en",
-      "publishedAt": "2026-11-22T13:09:10.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아 군수화물선, 드론 공격 후 NATO 수역으로 표류하며 침몰 위험에 처함",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10451",
-      "titleOriginal": "Your questions about Apple HomeView’s audio, answered",
-      "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
-      "lang": "en",
-      "publishedAt": "2026-11-22T13:02:19.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Apple HomeView의 오디오에 대한 질문과 답변",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10450",
-      "titleOriginal": "The vibe-coding revolution is coming to all the gadgets",
-      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
-      "lang": "en",
-      "publishedAt": "2026-11-22T13:02:13.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "모든 기기에 바이브 코딩 혁명이 다가오고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20524",
-      "titleOriginal": "Zelensky says 14 people are out of contact after a Russian drone hit a five-story building in Dymer, Kyiv Oblast. Part of one entrance collapsed, nine people were evacuated and the fire is contained, but people may still be under the rubble",
-      "url": "https://t.me/wartranslated/20524",
-      "lang": "en",
-      "publishedAt": "2026-11-22T12:40:41.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "젤렌스키 대통령은 러시아 드론이 키이우주 디메르의 5층 건물을 공격한 후 14명과 연락이 두절되었다고 밝혔습니다. 한 출입구의 일부가 붕괴되고 9명이 대피했으며 화재는 진압되었지만 여전히 잔해 아래에 사람들이 있을 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79279",
-      "titleOriginal": "Russian Warship Destroyed In Huge Explosion In Libya",
-      "url": "https://www.navalnews.com/naval-news/2026/11/russian-warship-destroyed-in-huge-explosion-in-libya/",
-      "lang": "en",
-      "publishedAt": "2026-11-22T12:24:32.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "리비아에서 대규모 폭발로 러시아 군함 파괴",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92319",
-      "titleOriginal": "A Physicist Built a Black Hole on a Chip. Then It Started to Leak.",
-      "url": "https://www.sciencealert.com/a-physicist-built-a-black-hole-on-a-chip-then-it-started-to-leak",
-      "lang": "en",
-      "publishedAt": "2026-11-22T12:03:54.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "한 물리학자가 칩 위에 블랙홀을 만들었습니다. 그런데 그 블랙홀에서 누출이 시작되었습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20523",
-      "titleOriginal": "Democratic Senator Chris Coons, who will chair the Foreign Relations Committee, vows to investigate Musk over Starshield and summon him and SpaceX witnesses. He says Musk periodically limits it at the cost of civilian lives in Ukraine, and ",
-      "url": "https://t.me/wartranslated/20523",
-      "lang": "en",
-      "publishedAt": "2026-11-22T11:49:37.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "외교위원회 위원장을 맡게 될 민주당 소속 크리스 쿤스 상원의원은 스타쉴드와 관련해 머스크를 조사하고 머스크와 스페이스X 관계자들을 소환하겠다고 밝혔습니다. 그는 머스크가 우크라이나 민간인의 목숨을 희생시키면서 주기적으로 스타쉴드를 제한하고 있다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20522",
-      "titleOriginal": "Medics of the so-called DNR say several people were poisoned after finding money at a bus stop in Makiivka. A Russian occupier in the video says one victim is in very serious condition, the 5,000 ruble notes were likely soaked in toxic subs",
-      "url": "https://t.me/wartranslated/20522",
-      "lang": "en",
-      "publishedAt": "2026-11-22T11:48:04.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "소위 '도네츠크 인민공화국(DNR)'의 의료진은 마키이우카의 버스 정류장에서 돈을 발견한 후 여러 명이 중독되었다고 밝혔습니다. 동영상에 등장하는 러시아 점령군은 한 명의 피해자가 매우 위중한 상태이며, 5,000루블짜리 지폐가 독성 물질에 흠뻑 젖어 있었을 가능성이 높다고 말합니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92318",
-      "titleOriginal": "Our ancestors may have been hunted by huge eagles, study finds",
-      "url": "https://www.unexplained-mysteries.com/news/400221/our-ancestors-may-have-been-hunted-by-huge-eagles-study-finds",
-      "lang": "en",
-      "publishedAt": "2026-11-22T11:41:26.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "연구 결과에 따르면, 우리 조상들은 거대한 독수리의 사냥감이 되었을 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79278",
-      "titleOriginal": "Zelensky says US delays on Patriot missiles are 'difficult to understand' as Russia fires 165 missiles in a week",
-      "url": "https://kyivindependent.com/zelensky-says-us-delays-on-patriot-missiles-are-difficult-to-understand-as-russia-fires-165-missiles-in-a-week/",
-      "lang": "en",
-      "publishedAt": "2026-11-22T11:34:29.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "젤렌스키 대통령, 러시아가 일주일 동안 미사일 165발을 발사한 가운데 미국의 패트리엇 미사일 지연을 '이해하기 어렵다'고 말함",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92317",
-      "titleOriginal": "Deep-Sea Scientists Hunting a Shipwreck Accidentally Stumbled Across The Ocean's Backrooms",
-      "url": "https://www.sciencealert.com/deep-sea-scientists-hunting-a-shipwreck-accidentally-stumbled-across-the-oceans-backrooms",
-      "lang": "en",
-      "publishedAt": "2026-11-22T11:29:06.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "난파선을 찾던 심해 과학자들이 우연히 바다의 '백룸'을 발견했습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92316",
-      "titleOriginal": "One Type of Exercise Could Be an Overlooked Treatment For Knee Osteoarthritis, Clinical Trial Finds",
-      "url": "https://www.sciencealert.com/one-type-of-exercise-could-be-an-overlooked-treatment-for-knee-osteoarthritis-clinical-trial-finds",
-      "lang": "en",
-      "publishedAt": "2026-11-22T11:29:03.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "임상시험 결과, 한 가지 유형의 운동이 무릎 골관절염 치료에 간과된 방법일 수 있음",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79277",
-      "titleOriginal": "Russia’s Baltic Fleet Base Comes Under First-Ever Suspected Drone Attack in Kaliningrad",
-      "url": "https://united24media.com/war-in-ukraine/russias-baltic-fleet-base-comes-under-first-ever-suspected-drone-attack-in-kaliningrad-24596",
-      "lang": "en",
-      "publishedAt": "2026-11-22T11:14:04.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아 발트함대 기지가 칼리닌그라드에서 사상 최초로 드론 공격을 받은 것으로 의심됨",
       "translated": true
     }
   ]
