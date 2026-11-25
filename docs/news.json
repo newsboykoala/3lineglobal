@@ -1,8 +1,151 @@
 {
-  "updatedAt": "2026-11-24T23:46:21.534Z",
+  "updatedAt": "2026-11-25T07:14:18.773Z",
   "count": 150,
-  "translatedCount": 145,
+  "translatedCount": 150,
   "items": [
+    {
+      "id": "trtworld:15786",
+      "titleOriginal": "Follow our Daily News Brief for Wednesday, November 25th",
+      "url": "https://trt.world/cv16",
+      "lang": "en",
+      "publishedAt": "2026-11-25T06:58:49.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "11월 25일 수요일 데일리 뉴스 브리프를 확인하세요",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15785",
+      "titleOriginal": "A gas explosion at a restaurant in Hanoi, Vietnam, killed at least six people and injured ten others on November 24. The blast shattered windows, damaged nearby homes and apartment buildings, and caused part of the restaurant to collapse, s",
+      "url": "https://t.me/trtworld/15785",
+      "lang": "en",
+      "publishedAt": "2026-11-25T06:30:44.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "11월 24일 베트남 하노이의 한 음식점에서 가스 폭발이 발생해 최소 6명이 사망하고 10명이 부상을 입었습니다. 폭발로 인해 창문이 산산조각 나고 인근 주택과 아파트 건물이 파손되었으며, 레스토랑의 일부가 붕괴되었습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92345",
+      "titleOriginal": "Slime Mold 'Intelligence' Might Just Be Physics After All",
+      "url": "https://www.sciencealert.com/slime-mold-intelligence-might-just-be-physics-after-all",
+      "lang": "en",
+      "publishedAt": "2026-11-25T06:19:06.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "점균류의 '지능'은 결국 물리 현상일지도 모릅니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92344",
+      "titleOriginal": "Scientists Discover a Natural Sugar That May Help to Burn Visceral Fat",
+      "url": "https://www.sciencealert.com/scientists-discover-a-natural-sugar-that-may-help-to-burn-visceral-fat",
+      "lang": "en",
+      "publishedAt": "2026-11-25T05:44:15.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들이 내장 지방을 연소하는 데 도움이 될 수 있는 천연 당을 발견했습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46145",
+      "titleOriginal": "China launches its Shenzhou-24 space mission with three astronauts, including Muhammad Zeeshan Ali—the first Pakistani to reach orbit and the first foreign national to visit China’s Tiangong space station.",
+      "url": "https://t.me/insiderpaper/46145",
+      "lang": "en",
+      "publishedAt": "2026-11-25T05:43:17.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "중국이 우주 비행사 3명을 태운 선저우 24호 우주 임무를 시작했다. 우주 비행사 중에는 궤도에 진입한 최초의 파키스탄인이자 중국의 톈궁 우주정거장을 방문한 최초의 외국인인 무하마드 지샨 알리도 포함되어 있다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46144",
+      "titleOriginal": "BREAKING: Acting U.S. Army Secretary says the planned controlled detonation in Middletown, Iowa, remains on track for 9 AM CT Wednesday, weather permitting.",
+      "url": "https://t.me/insiderpaper/46144",
+      "lang": "en",
+      "publishedAt": "2026-11-25T04:55:59.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 미국 육군 장관 대행은 아이오와주 미들타운에서 계획된 통제 폭파가 기상 조건이 허락하는 한 수요일 오전 9시(중부 표준시)에 예정대로 진행될 것이라고 밝혔습니다",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15784",
+      "titleOriginal": "Yemen’s Houthi militia struck the tallest tower in the Saudi capital, Riyadh, on Tuesday for the second time in less than a week, wounding at least 11 people.",
+      "url": "https://t.me/trtworld/15784",
+      "lang": "en",
+      "publishedAt": "2026-11-25T04:46:38.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "예멘의 후티 반군이 화요일 사우디아라비아 수도 리야드의 가장 높은 타워를 일주일도 안 되는 기간 동안 두 번째로 공격하여 최소 11명이 부상을 입었습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79342",
+      "titleOriginal": "Canada says it ‘does not report to the US’ after Pentagon memo criticizing military spending",
+      "url": "https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo",
+      "lang": "en",
+      "publishedAt": "2026-11-25T04:14:28.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "캐나다, 국방비 지출을 비판하는 펜타곤 메모에 대해 '미국에 보고하지 않는다'고 밝혀",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22247",
+      "titleOriginal": "JUST IN - U.S. Treasury hit by cyberattack hours after a breach hit the CIA and ODNI, with hackers gaining access to systems at FinCEN, the agency that holds Americans' bank transaction data and suspicious activity reports, forcing some off",
+      "url": "https://www.disclose.tv/id/1wdfhm0yj5/",
+      "lang": "en",
+      "publishedAt": "2026-11-25T03:51:11.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "속보 - 미국 재무부가 CIA와 ODNI의 보안 침해 사건이 발생한 지 몇 시간 만에 사이버 공격을 받았습니다. 해커들이 미국인들의 은행 거래 데이터와 의심스러운 활동 보고서를 보유한 기관인 FinCEN의 시스템에 접근하여 일부 시스템을 강제로 중단시켰습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79340",
+      "titleOriginal": "Ukrainian foreign minister advises Putin to stop complaining about strikes on oil refineries and end war instead",
+      "url": "https://www.pravda.com.ua/eng/news/2026/11/24/8064490/",
+      "lang": "en",
+      "publishedAt": "2026-11-25T01:49:13.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나 외무장관, 푸틴 대통령에게 정유 시설에 대한 공격에 대해 불평하는 것을 중단하고 전쟁을 끝내라고 조언",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79339",
+      "titleOriginal": "‘Bring Putin to Kyiv’: Zelensky Ridicules Lukashenko’s Moscow Talks Proposal",
+      "url": "https://www.kyivpost.com/post/91100",
+      "lang": "en",
+      "publishedAt": "2026-11-25T01:19:22.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "푸틴을 키예프로 데려오라’: 젤렌스키, 루카셴코의 모스크바 회담 제안을 조롱하다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10515",
+      "titleOriginal": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+      "lang": "en",
+      "publishedAt": "2026-11-25T01:03:31.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "미국 금융범죄국, '사이버 보안 사고' 공개",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10514",
+      "titleOriginal": "The Verge’s 2026 gift guide for dads",
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "lang": "en",
+      "publishedAt": "2026-11-25T00:02:30.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "The Verge의 2026년 아빠를 위한 선물 가이드",
+      "translated": true
+    },
     {
       "id": "worldnews:79338",
       "titleOriginal": "Zelenskyy: Ukraine continues to record restrictions on Starshield use",
@@ -1331,8 +1474,8 @@
       "publishedAt": "2026-11-24T06:25:53.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "NASA Spots Bizarrely Neat Rows of Boulders on Mars. Scientists Can't Explain Them.",
-      "translated": false
+      "title": "NASA가 화성에서 기묘하게 가지런한 바위 줄을 발견했습니다. 과학자들은 그 이유를 설명할 수 없습니다",
+      "translated": true
     },
     {
       "id": "sciencealert:92335",
@@ -1342,8 +1485,8 @@
       "publishedAt": "2026-11-24T06:25:50.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "Giant Study Finds Ice Baths Can Relieve Sore Muscles – But There's a Hidden Cost",
-      "translated": false
+      "title": "대규모 연구에 따르면 아이스 배스가 근육통을 완화할 수 있지만 숨겨진 대가가 있습니다",
+      "translated": true
     },
     {
       "id": "worldnews:79318",
@@ -1353,8 +1496,8 @@
       "publishedAt": "2026-11-24T05:39:13.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Australians to gain right to sue social media giants under Labor-Greens deal",
-      "translated": false
+      "title": "호주인들, 노동당-녹색당 합의에 따라 소셜 미디어 거대 기업을 상대로 소송을 제기할 권리 획득",
+      "translated": true
     },
     {
       "id": "trtworld:15779",
@@ -1364,8 +1507,8 @@
       "publishedAt": "2026-11-24T04:49:09.000Z",
       "source": "TRT World",
       "region": "종합",
-      "title": "“We’re done with Democratic leaders who bow down to billionaires, take money from AIPAC, and refuse to fight for our futures. We want a Green New Deal. We want a free Palestine. We want people over billionaires.”",
-      "translated": false
+      "title": "우리는 억만장자들에게 굴종하고, AIPAC으로부터 돈을 받고, 우리의 미래를 위해 싸우기를 거부하는 민주당 지도자들에게 더 이상 굴복하지 않을 것입니다. 우리는 그린 뉴딜을 원합니다. 우리는 자유로운 팔레스타인을 원합니다. 우리는 억만장자보다 국민을 우선시하기를 바랍니다",
+      "translated": true
     },
     {
       "id": "worldnews:79317",
@@ -1375,8 +1518,8 @@
       "publishedAt": "2026-11-24T04:14:16.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Several Russian military aircraft entered South Korea’s Air Defense Identification Zone; an alert was issued for Ulleungdo but lifted three minutes later.",
-      "translated": false
+      "title": "러시아 군용기 여러 대가 한국의 카데이자(KADIZ)에 진입했으며, 울릉도에 경보가 발령되었으나 3분 후 해제되었다",
+      "translated": true
     },
     {
       "id": "insiderpaper:46102",
@@ -1508,149 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "수년 만에 처음으로 선보이는 새로운 브라우저 엔진인 Ladybird를 이제 테스트해 보실 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10489",
-      "titleOriginal": "Trump engineered a risky comeback for Jensen Huang",
-      "url": "https://telegra.ph/Trump-engineered-a-risky-comeback-for-Jensen-Huang-11-23",
-      "lang": "en",
-      "publishedAt": "2026-11-23T22:28:51.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "트럼프, 젠슨 황의 위험한 복귀를 설계하다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10488",
-      "titleOriginal": "Welcome to elite impunity, Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "lang": "en",
-      "publishedAt": "2026-11-23T22:13:51.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "엘리트의 면죄부에 오신 것을 환영합니다, 젠슨 황(Jensen Huang) 님",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20562",
-      "titleOriginal": "Breaking news from Volgograd, Russia - there is no gasoline. Yet Russian TV channels claimed it was all just \"artificial hype.\" Where is the lie?",
-      "url": "http://patreon.com/c/WarTranslated",
-      "lang": "en",
-      "publishedAt": "2026-11-23T22:12:25.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아 볼고그라드에서 속보가 전해졌습니다. 휘발유가 없다고 합니다. 하지만 러시아 TV 채널들은 이 모든 것이 단지 \"인위적인 과장\"이라고 주장했습니다. 거짓말은 어디에 있나요?",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10487",
-      "titleOriginal": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "url": "https://telegra.ph/Nvidia-CEO-Jensen-Huang-is-back-What-happens-next-11-23",
-      "lang": "en",
-      "publishedAt": "2026-11-23T22:09:02.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "엔비디아의 젠슨 황 CEO가 돌아왔습니다. 다음은 어떻게 될까요?",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10486",
-      "titleOriginal": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-      "url": "https://telegra.ph/The-Apple-Watch-Series-12-is-cheaper-than-ever-ahead-of-Blac-11-23",
-      "lang": "en",
-      "publishedAt": "2026-11-23T21:39:01.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "블랙프라이데이를 앞두고 애플 워치 시리즈 12가 사상 최저가로 판매됩니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79313",
-      "titleOriginal": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
-      "url": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html?unlocked_article_code=1.SlE.wZPG.pCOAmmRylqtw&amp;smid=url-share",
-      "lang": "en",
-      "publishedAt": "2026-11-23T21:34:20.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "분석 결과, 70만 명 이상의 러시아 군인이 우크라이나에서 사망한 것으로 나타남",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22238",
-      "titleOriginal": "JUST IN - A federal appeals court cleared the way for Trump to try to get his \"hush money\" conviction thrown out on presidential immunity grounds, reviving his bid to erase the 34 felony counts tied to a $130,000 payment to Stormy Daniels.",
-      "url": "https://www.disclose.tv/id/zde9nq71lz/",
-      "lang": "en",
-      "publishedAt": "2026-11-23T21:33:06.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "속보 - 연방 항소법원이 트럼프 전 대통령이 스토미 대니얼스에게 13만 달러를 지급한 것과 관련된 34건의 중범죄 혐의를 면책하기 위한 시도를 재개하며, 대통령 면책 특권을 근거로 \"입막음용 돈\" 유죄 판결을 취소하려는 시도를 할 수 있는 길을 열어주었습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46097",
-      "titleOriginal": "BREAKING 🚨 North Korea threatens to close Swiss diplomatic office after barely a month: KCNA",
-      "url": "https://t.me/insiderpaper/46097",
-      "lang": "en",
-      "publishedAt": "2026-11-23T21:30:11.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 🚨 북한, 개설 한 달 만에 스위스 외교 대표부 폐쇄 위협: 조선중앙통신",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20561",
-      "titleOriginal": "Libyan News Agency, citing a November 23 statement by al-Koni, reported that Musa al-Koni, a member of Libya's Presidential Council, declared that Ukrainian strikes on Russian ships in the port of Benghazi are tantamount to a declaration of",
-      "url": "https://lana.gov.ly/post.php?id=370663&amp;lang=en",
-      "lang": "en",
-      "publishedAt": "2026-11-23T21:29:45.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "리비아 통신사는 11월 23일 알코니의 성명을 인용해 리비아 대통령 평의회 위원인 무사 알코니가 벵가지 항의 러시아 선박에 대한 우크라이나의 공격이 전쟁 선포에 준하는 것이라고 선언했다고 보도했다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46096",
-      "titleOriginal": "BREAKING: US blacklists Megaspeed chip firm linked to Nvidia scandal",
-      "url": "https://t.me/insiderpaper/46096",
-      "lang": "en",
-      "publishedAt": "2026-11-23T21:19:52.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 미국, 엔비디아 스캔들과 연관된 칩 제조업체 메가스피드를 블랙리스트에 올리다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20560",
-      "titleOriginal": "At the 72nd Annual Session of the NATO Parliamentary Assembly, Ukrainian Defense Minister Khmara stated that over the past few months, the Defense Forces have struck 16 \"Iskander\" and S-400 systems. The minister clarified that Ukraine is co",
-      "url": "https://mod.gov.ua/en/news/nato-parliamentary-assembly-ukraine-priorities",
-      "lang": "en",
-      "publishedAt": "2026-11-23T21:14:49.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "제72차 북대서양조약기구(NATO) 의회 총회에서 우크라이나의 흐마라 국방부 장관은 지난 몇 달 동안 우크라이나 국방군이 '이스칸데르'와 S-400 체계 16대를 타격했다고 밝혔다. 장관은 우크라이나가 협력하고 있다고 명확히 밝혔습니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10485",
-      "titleOriginal": "AI data centers throw another wrench into chaotic UN climate talks",
-      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "lang": "en",
-      "publishedAt": "2026-11-23T21:13:53.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "AI 데이터 센터가 유엔 기후 협상에 또 다른 혼란을 초래하다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46095",
-      "titleOriginal": "BREAKING: Nvidia shares end 32% higher following CEO Jensen Huang reinstatement, Nasdaq surges 6.5%.",
-      "url": "https://t.me/insiderpaper/46095",
-      "lang": "en",
-      "publishedAt": "2026-11-23T21:05:04.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 젠슨 황 CEO 복직에 따라 엔비디아 주가가 32% 상승하고 나스닥이 6.5% 급등했습니다",
       "translated": true
     }
   ]
