@@ -1,8 +1,338 @@
 {
-  "updatedAt": "2026-11-25T18:06:37.375Z",
+  "updatedAt": "2026-11-26T01:54:13.810Z",
   "count": 150,
-  "translatedCount": 143,
+  "translatedCount": 150,
   "items": [
+    {
+      "id": "worldnews:79363",
+      "titleOriginal": "‘End your war, end it now’: Anthony Albanese tells Vladimir Putin to put a stop to Ukraine war",
+      "url": "https://www.theguardian.com/world/2026/nov/19/end-your-war-end-it-now-anthony-albanese-tells-vladimir-putin-to-put-a-stop-to-ukraine-war",
+      "lang": "en",
+      "publishedAt": "2026-11-26T01:29:42.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "전쟁을 끝내라, 지금 당장 끝내라’: 앤서니 앨버니지 총리가 블라디미르 푸틴에게 우크라이나 전쟁을 중단하라고 촉구",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10534",
+      "titleOriginal": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "lang": "en",
+      "publishedAt": "2026-11-26T00:08:42.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "이제 Google의 '익숙한 얼굴' AI 기능이 월마트의 35달러짜리 스마트 홈 카메라에서도 작동합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10533",
+      "titleOriginal": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+      "lang": "en",
+      "publishedAt": "2026-11-25T23:59:01.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "아마존, 더 많은 리콜 통지 처리를 피하기 위한 최근의 시도 실패",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10532",
+      "titleOriginal": "The Verge’s 2026 holiday gift guide for travelers",
+      "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+      "lang": "en",
+      "publishedAt": "2026-11-25T22:13:51.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "The Verge의 2026년 연말연시 여행자 선물 가이드",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79362",
+      "titleOriginal": "Scientists Have Found a Link Between Polystyrene Microplastics And Colon Cancer",
+      "url": "https://www.sciencealert.com/common-plastic-used-in-food-packaging-may-fuel-colon-cancer-mouse-study-finds",
+      "lang": "en",
+      "publishedAt": "2026-11-25T21:54:25.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "과학자들이 폴리스티렌 미세 플라스틱과 대장암 사이의 연관성을 발견했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10531",
+      "titleOriginal": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "lang": "en",
+      "publishedAt": "2026-11-25T21:53:04.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "맞춤형 AI 동영상 피드에 대한 Google의 특허는 엔터테인먼트의 미래에 대해 암울한 그림을 그립니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46162",
+      "titleOriginal": "BREAKING: FCC authorizes Elon Musk's SpaceX to deploy 1 million satellites for data centers in space",
+      "url": "https://t.me/insiderpaper/46162",
+      "lang": "en",
+      "publishedAt": "2026-11-25T21:39:08.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: FCC, 일론 머스크의 SpaceX에 우주 데이터 센터용 위성 100만 개 배치 승인",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79361",
+      "titleOriginal": "Kremlin again rejects EU participation in Ukraine peace talk",
+      "url": "https://newsukraine.rbc.ua/news/kremlin-again-rejects-eu-participation-in-1795617940.html",
+      "lang": "en",
+      "publishedAt": "2026-11-25T21:29:27.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "크렘린, 우크라이나 평화 협상에 EU 참여 다시 거부",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20601",
+      "titleOriginal": "HUR reported that a unique multifunctional reconnaissance and information complex for aerospace defense, the \"MRIK-VKO,\" was destroyed in Russia's Smolensk region. The complex monitored air and space to support air and missile defense opera",
+      "url": "https://t.me/wartranslated/20601",
+      "lang": "en",
+      "publishedAt": "2026-11-25T21:05:59.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우크라이나 국방정보국(HUR)은 러시아 스몰렌스크 지역에서 항공우주 방어를 위한 독특한 다기능 정찰 및 정보 복합체인 'MRIK-VKO'가 파괴되었다고 밝혔다. 이 복합체는 방공 및 미사일 방어 작전을 지원하기 위해 공중과 우주를 감시했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79360",
+      "titleOriginal": "Poland says will create no-fly zone at Ukraine border after repeated airspace violations",
+      "url": "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations",
+      "lang": "en",
+      "publishedAt": "2026-11-25T21:04:10.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "폴란드, 반복적인 영공 침범에 따라 우크라이나 국경에 비행금지구역 설정 예정",
+      "translated": true
+    },
+    {
+      "id": "liveuamap:12689",
+      "titleOriginal": "An armed attack by ISIS in the Syrian city of Al-Hasakah has left members of the Internal Security Forces dead and wounded. https://syria.liveuamap.com/en/2026/25-november-20-an-armed-attack-by-isis-in-the-syrian-city",
+      "url": "https://syria.liveuamap.com/en/2026/25-november-20-an-armed-attack-by-isis-in-the-syrian-city",
+      "lang": "en",
+      "publishedAt": "2026-11-25T21:00:11.000Z",
+      "source": "Liveuamap",
+      "region": "분쟁",
+      "title": "시리아 알하사카(Al-Hasakah)시에서 발생한 이슬람국가(ISIS)의 무장 공격으로 내부 보안군 대원들이 사망하거나 부상을 입었습니다. https://syria.liveuamap.com/en/2026/25-november-20-an-armed-attack-by-isis-in-the-",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20600",
+      "titleOriginal": "Russian propagandist Skabeyeva claims that Ukraine has opened the Baltic and Mediterranean theaters of military operations, while Solovyov asserts that Ukraine already controls Europe.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-11-25T20:59:14.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아 선전가 스카베예바는 우크라이나가 발트해와 지중해 전역에서 군사 작전을 개시했다고 주장하는 반면, 솔로비요프는 우크라이나가 이미 유럽을 장악하고 있다고 주장합니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79359",
+      "titleOriginal": "German chancellor: Russia wants more than Ukraine",
+      "url": "https://www.pravda.com.ua/eng/news/2026/11/25/8064567/",
+      "lang": "en",
+      "publishedAt": "2026-11-25T20:39:15.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "독일 총리: 러시아는 우크라이나 이상을 원한다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79358",
+      "titleOriginal": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "lang": "en",
+      "publishedAt": "2026-11-25T20:39:14.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "FCC가 SpaceX에 위성 100만 개를 배치할 수 있는 권한을 부여했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10530",
+      "titleOriginal": "WhatsApp’s new scheduled messages let you choose the right time to send",
+      "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+      "lang": "en",
+      "publishedAt": "2026-11-25T20:34:02.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "WhatsApp의 새로운 예약 전송 메시지 기능을 사용하면 메시지를 보낼 적절한 시간을 선택할 수 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79357",
+      "titleOriginal": "Hungary Adopts Wealth Tax as Europe Targets Growing Inequality",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/hungary-adopts-wealth-tax-as-europe-targets-growing-inequality",
+      "lang": "en",
+      "publishedAt": "2026-11-25T20:29:26.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "유럽이 심화되는 불평등 문제에 대응하는 가운데 헝가리가 부유세 도입",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20599",
+      "titleOriginal": "\"We will respond to every strike by Kyiv; they need to know this.\" - Putin.",
+      "url": "https://t.me/wartranslated/20599",
+      "lang": "en",
+      "publishedAt": "2026-11-25T19:55:22.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "우리는 키이우의 모든 공격에 대응할 것이며, 그들은 이를 알아야 합니다.\" - 푸틴",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10529",
+      "titleOriginal": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+      "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+      "lang": "en",
+      "publishedAt": "2026-11-25T19:48:52.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "미국 환경보호청(EPA), 아이오와주에서 미 육군이 실시한 통제된 폭발 후 대기 중 납 농도가 '제로'라고 보고",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15791",
+      "titleOriginal": "Fuel tanker catches fire on Cairo’s Ring Road in the Al-Warraq area of Egypt’s Giza province.",
+      "url": "https://t.me/trtworld/15791",
+      "lang": "en",
+      "publishedAt": "2026-11-25T19:45:13.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "이집트 기자 주 알와라크 지역의 카이로 순환 도로에서 연료 탱커가 화재를 일으켰습니다",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22254",
+      "titleOriginal": "JUST IN - At least 30 dead, 15 injured after fuel tanker overturns and ignites ablaze the Ring Road in Cairo, Egypt.",
+      "url": "https://t.me/disclosetv/22254",
+      "lang": "en",
+      "publishedAt": "2026-11-25T19:38:42.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "속보 - 이집트 카이로의 순환 도로에서 유조선이 전복되어 불이 나면서 최소 30명이 사망하고 15명이 부상당했습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46161",
+      "titleOriginal": "BREAKING: Massive wave tears away part of Pacifica Pier in California",
+      "url": "https://t.me/insiderpaper/46161",
+      "lang": "en",
+      "publishedAt": "2026-11-25T19:33:03.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 캘리포니아주 파시피카 부두 일부가 거대한 파도에 휩쓸려 파손됨",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92354",
+      "titleOriginal": "Scientists Sent Mini Human Brains Into Space to Study Alzheimer's. Here's What They Discovered.",
+      "url": "https://www.sciencealert.com/scientists-sent-mini-human-brains-into-space-to-study-alzheimers-heres-what-they-discovered",
+      "lang": "en",
+      "publishedAt": "2026-11-25T19:20:35.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들이 알츠하이머병을 연구하기 위해 미니 인간 뇌를 우주로 보냈습니다. 그들이 발견한 것은 다음과 같습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92353",
+      "titleOriginal": "It's Official: Earth Has Picked Up ANOTHER Temporary 'Moon', And Its Orbit Is Wild",
+      "url": "https://www.sciencealert.com/confirmed-earth-has-picked-up-another-temporary-moonlet-and-its-orbit-is-wild",
+      "lang": "en",
+      "publishedAt": "2026-11-25T19:20:32.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "공식 발표: 지구에 또 다른 임시 '달'이 생겼으며, 그 궤도가 매우 불안정합니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10528",
+      "titleOriginal": "1Password breach leaked customer names and emails, but not passwords",
+      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+      "lang": "en",
+      "publishedAt": "2026-11-25T19:12:21.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "1Password 침해로 고객 이름과 이메일이 유출되었지만 비밀번호는 유출되지 않았습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79356",
+      "titleOriginal": "Ukrainian combat laser intercepts Russian jet-powered drone for first time",
+      "url": "https://kyivindependent.com/ukrainian-combat-lasers-intercept-russian-jet-powered-drone-for-first-time/",
+      "lang": "en",
+      "publishedAt": "2026-11-25T18:59:39.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "우크라이나 전투용 레이저, 최초로 러시아 제트 엔진 드론 요격에 성공",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20598",
+      "titleOriginal": "Somewhere in Zaporizhzhia or the surrounding region, a camera captured Russia attacking civilian buildings with massive guided aerial bomb strikes.",
+      "url": "https://t.me/wartranslated/20598",
+      "lang": "en",
+      "publishedAt": "2026-11-25T18:52:57.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "자포리자 또는 그 주변 지역 어딘가에서 카메라가 러시아가 대규모 유도 폭탄 공격으로 민간인 건물을 공격하는 장면을 포착했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79355",
+      "titleOriginal": "UK retailer Poundland collapses into administration, putting 12,000 jobs at risk",
+      "url": "https://www.theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers",
+      "lang": "en",
+      "publishedAt": "2026-11-25T18:49:35.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "영국 소매업체 파운드랜드, 법정관리 신청으로 12,000명의 일자리 위기",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20597",
+      "titleOriginal": "Bloomberg reports that Poland is asking NATO to close the skies over Ukraine and shoot down Russian missiles.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/poland-asks-nato-to-shoot-down-russian-missiles-over-ukraine",
+      "lang": "en",
+      "publishedAt": "2026-11-25T18:46:19.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "블룸버그는 폴란드가 나토에 우크라이나 상공을 폐쇄하고 러시아 미사일을 격추해 달라고 요청하고 있다고 보도했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79354",
+      "titleOriginal": "Child suicides in Japan increasing at record pace",
+      "url": "https://www3.nhk.or.jp/nhkworld/news/20261124de80859/",
+      "lang": "en",
+      "publishedAt": "2026-11-25T18:44:23.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "일본의 아동 자살률이 기록적인 속도로 증가하고 있습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79353",
+      "titleOriginal": "Beyond Putin’s warships: Ukraine reportedly struck Iranian ship in Libya on behalf of US",
+      "url": "https://www.ynetnews.com/article/sjbppye1ml",
+      "lang": "en",
+      "publishedAt": "2026-11-25T18:39:34.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "푸틴의 군함 외: 우크라이나가 미국의 의뢰를 받아 리비아에서 이란 선박을 공격했다고 전해짐",
+      "translated": true
+    },
     {
       "id": "theverge_news:10527",
       "titleOriginal": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
@@ -649,8 +979,8 @@
       "publishedAt": "2026-11-25T10:10:45.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "The Defense Forces of Ukraine struck the Syzran Oil Refinery in the Samara Oblast of the Russian Federation. Its design capacity is approximately 8.5-8.9 million tons of oil per year.",
-      "translated": false
+      "title": "우크라이나 국방군은 러시아 연방 사마라주에 위치한 시즈란 정유소를 공격했습니다. 이 정유 공장의 설계 처리량은 연간 약 850~890만 톤의 원유입니다",
+      "translated": true
     },
     {
       "id": "sciencealert:92346",
@@ -660,8 +990,8 @@
       "publishedAt": "2026-11-25T09:48:58.000Z",
       "source": "ScienceAlert",
       "region": "과학",
-      "title": "There Is One Predator That Terrifies Bears And Mountain Lions Alike",
-      "translated": false
+      "title": "곰과 쿠거를 모두 공포에 떨게 하는 포식자가 있습니다",
+      "translated": true
     },
     {
       "id": "worldnews:79344",
@@ -671,8 +1001,8 @@
       "publishedAt": "2026-11-25T09:44:22.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "'He wants me to do what?': Trump laughs at Zelenskyy's remarks about Ukraine-Russia deal by January",
-      "translated": false
+      "title": "그가 나에게 무엇을 하기를 원하나요?': 트럼프, 1월까지 우크라이나-러시아 협상 타결에 대한 젤렌스키의 발언을 비웃다",
+      "translated": true
     },
     {
       "id": "worldnews:79343",
@@ -682,8 +1012,8 @@
       "publishedAt": "2026-11-25T08:44:10.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Struggling Russia to increase taxes to support Putin’s war on Ukraine",
-      "translated": false
+      "title": "푸틴의 우크라이나 전쟁을 지원하기 위해 세금을 인상하려는 러시아의 고군분투",
+      "translated": true
     },
     {
       "id": "liveuamap:12683",
@@ -693,8 +1023,8 @@
       "publishedAt": "2026-11-25T08:37:06.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "IAEA: The Zaporizhzhia Nuclear Power Plant (ZNPP) is relying on emergency diesel generators for essential nuclear safety and security functions after losing all off-site power for the 28th time during the conflict. The plant's connection to",
-      "translated": false
+      "title": "IAEA: 자포리자 원자력 발전소(ZNPP)는 분쟁 기간 동안 28번째로 외부 전원을 모두 상실한 후 필수적인 원자력 안전 및 보안 기능을 위해 비상용 디젤 발전기에 의존하고 있습니다. 발전소의",
+      "translated": true
     },
     {
       "id": "liveuamap:12682",
@@ -704,8 +1034,8 @@
       "publishedAt": "2026-11-25T08:25:52.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "Plumes of smoke fill the sky above the Ras Tanura oil refinery in Saudi Arabia after it was targeted by Houthi forces at dawn today. https://yemen.liveuamap.com/en/2026/25-november-08-plumes-of-smoke-fill-the-sky-above-the-ras",
-      "translated": false
+      "title": "오늘 새벽 후티 반군이 공격한 후 사우디아라비아의 라스 타누라 정유 공장 상공에 연기가 자욱합니다. https://yemen.liveuamap.com/en/2026/25-november-08-plumes-of-smoke-fill-the-sky-above-the-ras",
+      "translated": true
     },
     {
       "id": "liveuamap:12681",
@@ -715,8 +1045,8 @@
       "publishedAt": "2026-11-25T08:11:27.000Z",
       "source": "Liveuamap",
       "region": "분쟁",
-      "title": "At 1:30 AM, President Abelardo De La Espriella confirmed the release of all hostages taken at the Éxito de Cartagena, during a joint operation between police and military forces. The president stated that one of the hostage-takers was kille",
-      "translated": false
+      "title": "오전 1시 30분, 아벨라르도 데 라 에스프리엘라 대통령은 경찰과 군 당국이 합동 작전을 펼친 결과 엑시토 데 카르타헤나에서 인질로 잡혔던 모든 인질이 석방되었다고 확인했습니다. 대통령은 인질범 중 한 명이 사살되었다고 밝혔습니다",
+      "translated": true
     },
     {
       "id": "trtworld:15786",
@@ -1321,336 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "Tidal, 다음 달부터 AI 생성 음악 금지 시작",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46132",
-      "titleOriginal": "BREAKING: Microsoft declares “Code Red,” its most severe and urgent alert, after historic global outage - Reuters",
-      "url": "https://t.me/insiderpaper/46132",
-      "lang": "en",
-      "publishedAt": "2026-11-24T17:14:07.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 마이크로소프트, 사상 초유의 전 세계적 서비스 중단 사태 이후 가장 심각하고 긴급한 경보인 '코드 레드' 발령 - 로이터 통신",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46131",
-      "titleOriginal": "BREAKING: Several people have been taken hostage by armed robbers at a supermarket in the Colombian tourist city of Cartagena, prompting a major police operation, including the suspension of incoming flights, police and aviation authorities",
-      "url": "https://t.me/insiderpaper/46131",
-      "lang": "en",
-      "publishedAt": "2026-11-24T16:52:07.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: 콜롬비아의 관광 도시 카르타헤나의 한 슈퍼마켓에서 무장 강도들이 여러 명을 인질로 잡았으며, 이에 따라 경찰과 항공 당국이 입국 항공편 운항 중단을 포함한 대대적인 경찰 작전을 펼치고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46130",
-      "titleOriginal": "BREAKING - Several hostages taken in supermarket robbery in Colombia's Cartagena",
-      "url": "https://insiderpaper.com/several-hostages-taken-in-supermarket-robbery-in-colombias-cartagena/",
-      "lang": "en",
-      "publishedAt": "2026-11-24T16:41:38.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 콜롬비아 카르타헤나의 슈퍼마켓 강도 사건에서 여러 명의 인질이 붙잡힘",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10501",
-      "titleOriginal": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
-      "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
-      "lang": "en",
-      "publishedAt": "2026-11-24T16:37:34.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "미 상무부, 메가스피드를 무역 블랙리스트에 추가... 황 회장, 엔비디아 경영권 재장악",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10500",
-      "titleOriginal": "Jensen Huang deepfakes are the hot new AI slop",
-      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "lang": "en",
-      "publishedAt": "2026-11-24T16:32:42.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "젠슨 황의 딥페이크는 새로운 AI 슬롭입니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20575",
-      "titleOriginal": "Volodymyr Zelenskyy and Péter Magyar met in Zakarpattia. This is the first visit by a Hungarian prime minister to Ukraine since 2015. During the meeting, the Hungarian prime minister honored fallen Ukrainian soldiers, condemned Russian aggr",
-      "url": "https://t.me/wartranslated/20575",
-      "lang": "en",
-      "publishedAt": "2026-11-24T16:27:25.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "볼로디미르 젤렌스키 대통령과 페테르 마자르 총리가 자카르파티아에서 회담을 가졌습니다. 이번 방문은 2015년 이후 헝가리 총리가 우크라이나를 방문한 첫 사례입니다. 회담에서 헝가리 총리는 전사한 우크라이나 군인들을 추모하고 러시아의 침략을 규탄했습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46129",
-      "titleOriginal": "NEW - 20 dead from alcohol poisoning in Iran: State media",
-      "url": "https://t.co/P2jcO2G6o5",
-      "lang": "en",
-      "publishedAt": "2026-11-24T16:16:12.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "신규 - 이란에서 알코올 중독으로 20명 사망: 국영 매체",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10499",
-      "titleOriginal": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "lang": "en",
-      "publishedAt": "2026-11-24T16:13:24.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "뉴욕타임스, 사진작가들에게 AI 기능이 포함된 포토샵 업데이트하지 말라고 경고",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46128",
-      "titleOriginal": "REAKING: Tidal bans AI-generated music",
-      "url": "https://t.me/insiderpaper/46128",
-      "lang": "en",
-      "publishedAt": "2026-11-24T15:48:39.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: Tidal, AI가 생성한 음악 금지",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46127",
-      "titleOriginal": "NEW - UK police arrest two men after break-in at William and Kate’s home",
-      "url": "https://t.co/HXQlitXO9H",
-      "lang": "en",
-      "publishedAt": "2026-11-24T15:41:00.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "신규 - 영국 경찰, 윌리엄 왕자와 케이트 왕세자빈의 자택에 침입한 남성 2명 체포",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10498",
-      "titleOriginal": "You can lock in Hulu and Disney Plus for as low as $5 per month for a year",
-      "url": "https://telegra.ph/You-can-lock-in-Hulu-and-Disney-Plus-for-as-low-as-5-per-mo-11-24",
-      "lang": "en",
-      "publishedAt": "2026-11-24T15:28:32.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Hulu와 Disney Plus를 월 5달러(약 6,700원)에 1년 동안 이용할 수 있습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92340",
-      "titleOriginal": "New Injection Slashes Blood Fats by Up to 46% in Clinical Trial",
-      "url": "https://www.sciencealert.com/new-injection-slashes-blood-fats-by-up-to-46-in-clinical-trial",
-      "lang": "en",
-      "publishedAt": "2026-11-24T15:22:00.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "임상 시험에서 새로운 주사제가 혈중 지방을 최대 46%까지 감소시킴",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10497",
-      "titleOriginal": "Wyze’s new window feeder records birds from a camera inside your home",
-      "url": "https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification",
-      "lang": "en",
-      "publishedAt": "2026-11-24T15:18:51.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Wyze의 새로운 창문형 새 모이통은 집 안쪽에 설치된 카메라로 새를 촬영합니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46126",
-      "titleOriginal": "BREAKING - Nvidia shares tumble, weighing on Nasdaq bit.ly/4j2fsKY",
-      "url": "https://t.co/rMIw56Nyb7",
-      "lang": "en",
-      "publishedAt": "2026-11-24T15:12:05.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - 엔비디아 주가 급락, 나스닥에 부담 가중 bit.ly/4j2fsKY",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22241",
-      "titleOriginal": "NEW - Trump to meet NATO chief in Florida tomorrow.",
-      "url": "https://www.disclose.tv/id/guf9p8ofmq/",
-      "lang": "en",
-      "publishedAt": "2026-11-24T14:47:18.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "새로운 소식 - 트럼프 대통령, 내일 플로리다에서 나토 사무총장과 회담 예정",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46125",
-      "titleOriginal": "BREAKING: Anthropic shares fall below price of stock market debut",
-      "url": "https://t.me/insiderpaper/46125",
-      "lang": "en",
-      "publishedAt": "2026-11-24T14:41:10.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보: Anthropic 주가가 상장가 아래로 하락",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79332",
-      "titleOriginal": "Russian Warship Reportedly Hits Own Tanker Off Britain as Sailor Threatens to Execute Engineer",
-      "url": "https://united24media.com/world/russian-warship-reportedly-hits-own-tanker-off-britain-as-sailor-threatens-to-execute-engineer-24598",
-      "lang": "en",
-      "publishedAt": "2026-11-24T14:34:41.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "러시아 군함이 영국 해안에서 자국 유조선을 충돌시킨 것으로 알려짐. 선원이 기술자 처형을 위협함",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22240",
-      "titleOriginal": "NEW - Record 33% of Americans and 77% of Germans say U.S.-Germany relations are bad, according to a new poll.",
-      "url": "https://t.me/disclosetv/22240",
-      "lang": "en",
-      "publishedAt": "2026-11-24T14:26:18.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "신규 - 새로운 여론조사에 따르면, 미국인 33%와 독일인 77%가 미국과 독일의 관계가 나쁘다고 답했으며, 이는 역대 최고 수치입니다",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79331",
-      "titleOriginal": "720,000 Russian soldiers killed since start of Ukraine war, new data suggests",
-      "url": "https://edition.cnn.com/2026/11/24/europe/putin-russia-war-soldier-death-toll-intl",
-      "lang": "en",
-      "publishedAt": "2026-11-24T14:24:37.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "새로운 데이터에 따르면 우크라이나 전쟁이 시작된 이래 72만 명의 러시아 군인이 사망한 것으로 나타났습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46124",
-      "titleOriginal": "NEW: Nvidia staff chant, holler and hug at Huang’s triumphant return",
-      "url": "https://insiderpaper.com/nvidia-staff-chant-holler-and-hug-at-huangs-triumphant-return/",
-      "lang": "en",
-      "publishedAt": "2026-11-24T14:23:39.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "신규: 황 CEO의 승리자다운 귀환에 환호하고 소리치며 포옹하는 엔비디아 직원들",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10496",
-      "titleOriginal": "Harman Kardon’s classic, see-through SoundSticks 4 are half off",
-      "url": "https://telegra.ph/Harman-Kardons-classic-see-through-SoundSticks-4-are-half-11-24",
-      "lang": "en",
-      "publishedAt": "2026-11-24T14:13:44.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Harman Kardon의 클래식한 투명 스피커 SoundSticks 4가 반값입니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46123",
-      "titleOriginal": "lrm;NEW: Megaspeed: US-blacklisted AI firm with opaque business network",
-      "url": "https://insiderpaper.com/megaspeed-us-blacklisted-ai-firm-with-opaque-business-network/",
-      "lang": "en",
-      "publishedAt": "2026-11-24T14:11:10.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "lrm;신규: 메가스피드(Megaspeed): 불투명한 비즈니스 네트워크를 가진 미국 블랙리스트에 오른 AI 기업",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10495",
-      "titleOriginal": "Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected",
-      "url": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date",
-      "lang": "en",
-      "publishedAt": "2026-11-24T14:04:01.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Bambu의 5노즐 P3C는 제가 기대했던 3D 프린터와는 조금 다릅니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46122",
-      "titleOriginal": "1 death every 4 minutes: 720,000 Russian soldiers have been killed since start of Ukraine war, analysis based on leaked official data has revealed",
-      "url": "https://t.me/insiderpaper/46122",
-      "lang": "en",
-      "publishedAt": "2026-11-24T14:03:55.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "4분마다 1명씩 사망: 유출된 공식 데이터를 기반으로 한 분석에 따르면 우크라이나 전쟁이 시작된 이래 러시아군 72만 명이 사망한 것으로 나타났습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20574",
-      "titleOriginal": "Ukrainian aviation dropped two precision-guided bombs on the territory of the \"Vovchansk Oil Extraction Plant\", leaving the Russians with two fewer drone operator positions there.",
-      "url": "https://t.me/wartranslated/20574",
-      "lang": "en",
-      "publishedAt": "2026-11-24T14:02:05.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "우크라이나 공군은 '보브찬스크 석유 추출 공장' 부지에 정밀 유도 폭탄 2발을 투하하여 러시아군의 드론 조종사 거점 2곳을 파괴했습니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20573",
-      "titleOriginal": "Frontline realities: a Ukrainian pickup truck returns from the line of contact using a log instead of a rear wheel.",
-      "url": "https://t.me/wartranslated/20573",
-      "lang": "en",
-      "publishedAt": "2026-11-24T13:59:30.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "전선의 현실: 우크라이나 픽업트럭이 뒷바퀴 대신 통나무를 사용해 접촉선에서 돌아오고 있습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46121",
-      "titleOriginal": "NEW: Croatia routinely, violently pushes back migrants: Rights Group",
-      "url": "https://insiderpaper.com/croatia-routinely-violently-pushes-back-migrants-rights-group/",
-      "lang": "en",
-      "publishedAt": "2026-11-24T13:55:13.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "신규: 인권 단체, 크로아티아가 일상적으로 폭력적으로 이주민을 강제 추방한다고 밝혀",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20572",
-      "titleOriginal": "Footage published online shows a Ukrainian F-16 fighter jet downing a Russian drone with its six-barrel M61 Vulcan cannon during an aerial interception.",
-      "url": "https://t.me/wartranslated/20572",
-      "lang": "en",
-      "publishedAt": "2026-11-24T13:52:54.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "온라인에 게시된 영상에는 우크라이나 F-16 전투기가 공중 요격 중 6연장 M61 벌컨 기관포로 러시아 드론을 격추하는 모습이 담겨 있습니다",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92339",
-      "titleOriginal": "What Matters More For Lifespan, a Healthy Diet or Exercise? A New Review Says It's Not Even Close",
-      "url": "https://www.sciencealert.com/what-matters-more-for-lifespan-a-healthy-diet-or-exercise-a-new-review-says-its-not-even-close",
-      "lang": "en",
-      "publishedAt": "2026-11-24T13:51:14.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "수명에 더 중요한 것은 건강한 식습관일까요, 아니면 운동일까요? 새로운 연구 결과에 따르면, 둘 사이에는 비교할 수 없을 정도로 큰 차이가 있다고 합니다",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20571",
-      "titleOriginal": "In Kyiv, a farewell ceremony was held for U.S. Army Lieutenant Hayden Fisher Miller, who defended Ukraine in the ranks of the International Legion.",
-      "url": "https://t.me/wartranslated/20571",
-      "lang": "en",
-      "publishedAt": "2026-11-24T13:49:57.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "키이우에서 국제군단 소속으로 우크라이나를 지킨 미 육군 헤이든 피셔 밀러 중위의 추모식이 열렸습니다",
       "translated": true
     }
   ]
