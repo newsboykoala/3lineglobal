@@ -1,8 +1,206 @@
 {
-  "updatedAt": "2026-11-26T19:46:52.057Z",
+  "updatedAt": "2026-11-27T02:40:37.447Z",
   "count": 150,
-  "translatedCount": 146,
+  "translatedCount": 150,
   "items": [
+    {
+      "id": "sciencealert:92366",
+      "titleOriginal": "Scientists Cracked Open a Mars Meteorite And Found a Huge Surprise",
+      "url": "https://www.sciencealert.com/scientists-cracked-open-a-mars-meteorite-and-found-a-huge-surprise",
+      "lang": "en",
+      "publishedAt": "2026-11-27T02:28:45.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "과학자들이 화성 운석을 열어보고 엄청난 놀라움을 발견했습니다",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79383",
+      "titleOriginal": "UK schools told to prepare for blackouts and overnight pupil stays",
+      "url": "https://www.tes.com/magazine/news/general/dfe-emergency-planning-guidance-for-schools",
+      "lang": "en",
+      "publishedAt": "2026-11-27T02:14:04.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "영국 학교들에 정전과 학생들의 야간 체류에 대비하라는 지시가 내려졌습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92365",
+      "titleOriginal": "'Supergiant' Gold Haul Found in China Could Be Worth Almost US$300 Billion",
+      "url": "https://www.sciencealert.com/supergiant-gold-haul-found-in-china-could-be-worth-almost-us300-billion",
+      "lang": "en",
+      "publishedAt": "2026-11-27T00:09:24.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "중국에서 발견된 '초거대' 금광의 가치가 거의 3천억 달러에 이를 수 있음",
+      "translated": true
+    },
+    {
+      "id": "worldnews:79382",
+      "titleOriginal": "North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture",
+      "url": "https://www.euronews.com/2026/11/26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+      "lang": "en",
+      "publishedAt": "2026-11-26T23:59:32.000Z",
+      "source": "WorldNews",
+      "region": "종합",
+      "title": "북한의 김정은, 트럼프의 제안을 무시한 후 더 많은 핵무기를 만들겠다고 공언",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46194",
+      "titleOriginal": "Catch of the year? A man from Pakistan’s Swat region goes viral after catching a six one-handed while riding on the back of a moving motorcycle during a cricket match.",
+      "url": "https://t.me/insiderpaper/46194",
+      "lang": "en",
+      "publishedAt": "2026-11-26T23:38:23.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "올해의 캐치? 파키스탄 스왓 지역의 한 남성이 크리켓 경기 도중 달리는 오토바이 뒷좌석에 타고 있다가 한 손으로 6점짜리 타구를 잡아 화제가 되었습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46193",
+      "titleOriginal": "BREAKING 🚨 President Trump announces that he has officially approved major disaster declarations for FEMA and emergency relief funding for the state of Florida in the wake of the severe storms and flooding that has ravaged the state since ",
+      "url": "https://t.me/insiderpaper/46193",
+      "lang": "en",
+      "publishedAt": "2026-11-26T22:51:00.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보 🚨 트럼프 대통령이 심각한 폭풍우와 홍수로 인해 피해를 입은 플로리다주에 대해 연방재난관리청(FEMA)의 중대 재난 선포와 긴급 구호 자금 지원을 공식적으로 승인했다고 발표했습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46192",
+      "titleOriginal": "JUST IN - PETA gets Community Noted on X after declaring “Turkeys aren’t food” on Thanksgiving.",
+      "url": "https://t.me/insiderpaper/46192",
+      "lang": "en",
+      "publishedAt": "2026-11-26T22:28:08.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "방금 입수 - PETA가 추수감사절에 \"칠면조는 음식이 아니다\"라고 선언한 후 X에서 커뮤니티 노트를 받았습니다",
+      "translated": true
+    },
+    {
+      "id": "sciencealert:92364",
+      "titleOriginal": "Man Keeps a Rock For Years, Hoping It's Gold. It Turned Out to Be Even More Valuable",
+      "url": "https://www.sciencealert.com/man-keeps-a-rock-for-years-hoping-its-gold-it-turned-out-to-be-even-more-valuable",
+      "lang": "en",
+      "publishedAt": "2026-11-26T22:24:03.000Z",
+      "source": "ScienceAlert",
+      "region": "과학",
+      "title": "한 남자가 금일 거라고 믿으며 수년간 돌을 간직했습니다. 그것은 훨씬 더 가치 있는 것으로 밝혀졌습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46191",
+      "titleOriginal": "BREAKING - Donald Trump Jr. slams Netflix over its Thanksgiving post featuring two women kissing: “What is wrong with you??? It’s Thanksgiving.”",
+      "url": "https://t.me/insiderpaper/46191",
+      "lang": "en",
+      "publishedAt": "2026-11-26T21:54:04.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보 - 도널드 트럼프 주니어, 두 여성이 키스하는 모습을 담은 추수감사절 게시물을 올린 넷플릭스를 비난: \"당신들, 도대체 무슨 문제라도 있나요??? 오늘은 추수감사절이에요",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46190",
+      "titleOriginal": "BREAKING: About 2 million people in Montgomery and Prince George's counties in Maryland are being asked to immediately cut back on their water use this Thanksgiving after severe storm weather disrupted power at two major filtration plants.",
+      "url": "https://t.me/insiderpaper/46190",
+      "lang": "en",
+      "publishedAt": "2026-11-26T21:36:03.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 메릴랜드주 몽고메리 카운티와 프린스 조지스 카운티의 약 2백만 명의 주민들에게 이번 추수감사절에 즉시 물 사용량을 줄일 것이 요청되고 있습니다. 이는 심한 폭풍우로 인해 두 개의 주요 정수장에서 전력 공급이 중단되었기 때문입니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46189",
+      "titleOriginal": "Breaking News: SAP is planning to cut at least 10,000 jobs in AI restructuring, Bloomberg reports.",
+      "url": "https://t.me/insiderpaper/46189",
+      "lang": "en",
+      "publishedAt": "2026-11-26T21:20:01.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: 블룸버그는 SAP가 AI 구조조정을 통해 최소 10,000개의 일자리를 감축할 계획이라고 보도했습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46188",
+      "titleOriginal": "BREAKING: AI Researcher Nikola Jurkovic Warns This Could Be Our Last Thanksgiving:",
+      "url": "https://insiderbreaking.com/ai-researcher-warns-we-may-not-see-next-thanksgiving/",
+      "lang": "en",
+      "publishedAt": "2026-11-26T21:15:50.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보: AI 연구원 니콜라 유르코비치가 이번 추수감사절이 우리의 마지막 추수감사절이 될 수 있다고 경고합니다",
+      "translated": true
+    },
+    {
+      "id": "wartranslated:20613",
+      "titleOriginal": "Russian soldiers demonstrated a fast and reliable method of demining.",
+      "url": "http://patreon.com/c/WarTranslated",
+      "lang": "en",
+      "publishedAt": "2026-11-26T21:05:36.000Z",
+      "source": "War Translated",
+      "region": "분쟁",
+      "title": "러시아 군인들은 신속하고 확실한 지뢰 제거 방법을 시연했습니다",
+      "translated": true
+    },
+    {
+      "id": "theverge_news:10547",
+      "titleOriginal": "Netflix’s coziest show has made a very quiet return",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "lang": "en",
+      "publishedAt": "2026-11-26T21:03:12.000Z",
+      "source": "The Verge",
+      "region": "테크",
+      "title": "넷플릭스의 가장 아늑한 프로그램이 조용히 돌아왔습니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46187",
+      "titleOriginal": "JUST IN - 750,000 Americans are without power as storms batter the US states — Fox News",
+      "url": "https://t.me/insiderpaper/46187",
+      "lang": "en",
+      "publishedAt": "2026-11-26T20:48:43.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "속보 - 폭풍이 미국 여러 주를 강타하면서 75만 명의 미국인이 정전을 겪고 있음 — 폭스뉴스",
+      "translated": true
+    },
+    {
+      "id": "disclosetv:22260",
+      "titleOriginal": "NOW - Public Advocate of New York City, Jumaane Williams, says that Thanksgiving for some is a \"commemoration of a horrible time in history,\" and that the current \"pretty bad\" administration \"likes to erase history and what happened.\"",
+      "url": "https://t.me/disclosetv/22260",
+      "lang": "en",
+      "publishedAt": "2026-11-26T20:47:04.000Z",
+      "source": "Disclose.tv",
+      "region": "속보",
+      "title": "지금 - 뉴욕시 공공 옹호관인 주만 윌리엄스는 추수감사절이 일부 사람들에게는 \"역사상 끔찍한 시기를 기념하는 날\"이며, 현재의 \"상당히 나쁜\" 행정부는 \"역사와 과거의 일을 지우고 싶어 한다\"고 말합니다",
+      "translated": true
+    },
+    {
+      "id": "insiderpaper:46186",
+      "titleOriginal": "HAPPY THANKSGIVING!",
+      "url": "https://t.me/insiderpaper/46186",
+      "lang": "en",
+      "publishedAt": "2026-11-26T20:04:54.000Z",
+      "source": "Insider Paper",
+      "region": "속보",
+      "title": "즐거운 추수감사절 보내세요!",
+      "translated": true
+    },
+    {
+      "id": "trtworld:15797",
+      "titleOriginal": "Besiktas players refused to shake hands with Israel’s Hapoel Beer Sheva players before their match in Georgia.",
+      "url": "https://t.me/trtworld/15797",
+      "lang": "en",
+      "publishedAt": "2026-11-26T19:53:58.000Z",
+      "source": "TRT World",
+      "region": "종합",
+      "title": "베식타시 선수들은 조지아에서 열린 경기 전 이스라엘 하포엘 베르셰바 선수들과 악수를 거부했습니다",
+      "translated": true
+    },
     {
       "id": "wartranslated:20612",
       "titleOriginal": "It is reported that Russian trucks began moving en masse through the Chongar checkpoint following the destruction of the Crimean Bridge's road section. However, far from all of these trucks made it to Crimea after Ukrainian mid-strike opera",
@@ -671,8 +869,8 @@
       "publishedAt": "2026-11-26T10:46:45.000Z",
       "source": "Insider Paper",
       "region": "속보",
-      "title": "lrm;NEW: China warns of ‘necessary measures’ after new US tariffs",
-      "translated": false
+      "title": "lrm;신규: 중국, 미국의 새로운 관세 부과에 대해 '필요한 조치'를 취하겠다고 경고",
+      "translated": true
     },
     {
       "id": "worldnews:79371",
@@ -682,8 +880,8 @@
       "publishedAt": "2026-11-26T10:39:15.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Britain Contacts 100,000 Former Troops to Prepare for Possible War—First Time Since the Cold War",
-      "translated": false
+      "title": "영국, 냉전 이후 처음으로 10만 명의 예비군에게 연락해 전쟁 가능성에 대비하도록 준비",
+      "translated": true
     },
     {
       "id": "wartranslated:20602",
@@ -693,8 +891,8 @@
       "publishedAt": "2026-11-26T10:34:49.000Z",
       "source": "War Translated",
       "region": "분쟁",
-      "title": "An advisor to the Ukrainian President, \"Flash,\" reported that the \"Blysk\" laser air defense system has shot down a jet-powered \"Geran\" UAV for the first time in the world.",
-      "translated": false
+      "title": "우크라이나 대통령의 고문인 '플래시'는 \"블리스크(Blysk)\" 레이저 대공 방어 시스템이 세계 최초로 제트 엔진을 탑재한 \"게란(Geran)\" 무인기를 격추했다고 밝혔습니다",
+      "translated": true
     },
     {
       "id": "worldnews:79370",
@@ -704,8 +902,8 @@
       "publishedAt": "2026-11-26T10:34:14.000Z",
       "source": "WorldNews",
       "region": "종합",
-      "title": "Ukraine needs at least €115 billion to hold firm in 2027. Zelenskyy expects €90 billion from the EU, and €25 billion has yet to be found",
-      "translated": false
+      "title": "우크라이나는 2027년에 버티기 위해 최소 1,150억 유로가 필요합니다. 젤렌스키 대통령은 EU로부터 900억 유로를 기대하고 있으며, 250억 유로는 아직 마련되지 않았습니다",
+      "translated": true
     },
     {
       "id": "liveuamap:12691",
@@ -1453,204 +1651,6 @@
       "source": "The Verge",
       "region": "테크",
       "title": "25달러 미만의 저렴한 연말연시 선물 가이드(The Verge)",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46156",
-      "titleOriginal": "BREAKING - US stocks open sharply lower on AI weakness, hot inflation",
-      "url": "https://t.co/8Nhwdv4Ac1",
-      "lang": "en",
-      "publishedAt": "2026-11-25T15:01:55.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - AI 약세, 높은 인플레이션으로 인해 미국 주식 시장이 급락하며 개장",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79349",
-      "titleOriginal": "Poland urges NATO to intercept Russian missiles over Ukraine – Bloomberg",
-      "url": "https://www.pravda.com.ua/eng/news/2026/11/25/8064605/",
-      "lang": "en",
-      "publishedAt": "2026-11-25T14:49:37.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "폴란드, 나토에 우크라이나 상공 러시아 미사일 요격 촉구 – 블룸버그",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46155",
-      "titleOriginal": "BREAKING - EU says ‘strongly’ rejects premise of new US tariffs",
-      "url": "https://t.co/GggUrmEJ9X",
-      "lang": "en",
-      "publishedAt": "2026-11-25T14:46:31.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "속보 - EU, 미국의 새로운 관세 부과 전제에 대해 '강력히' 반대한다고 밝힘",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20588",
-      "titleOriginal": "Satellite imagery of the Novoshakhtinsk Oil Refinery has emerged following the November 23 attack. According to Bloomberg , due to refinery strikes, the occupiers cannot refine oil into gasoline and diesel, forcing them to sell off crude oi",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/russia-to-respond-to-ukraine-s-attacks-on-refineries-putin-says?utm_source=website&amp;utm_medium=share&amp;utm_campaign=copy",
-      "lang": "en",
-      "publishedAt": "2026-11-25T14:32:48.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "11월 23일 공격 이후 노보샤흐틴스크 정유공장의 위성 사진이 공개되었습니다. 블룸버그 에 따르면, 정유 시설이 공격을 받으면서 점령군은 석유를 휘발유와 디젤로 정제할 수 없게 되었고, 이에 따라 원유를 매각해야 하는 상황에 처했습니다",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46154",
-      "titleOriginal": "NEW: Japan unveils rover prototype for Moon water mission",
-      "url": "https://insiderpaper.com/japan-unveils-rover-prototype-for-moon-water-mission/",
-      "lang": "en",
-      "publishedAt": "2026-11-25T14:31:07.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "신규: 일본, 달 물 탐사 임무를 위한 탐사차 프로토타입 공개",
-      "translated": true
-    },
-    {
-      "id": "wartranslated:20587",
-      "titleOriginal": "Russian obituaries have reported the first confirmed casualty following the strike on the corvette \"Mercury\" in Benghazi: 42-year-old Russian Black Sea Fleet officer Oleksandr Tsulin.",
-      "url": "https://t.me/wartranslated/20587",
-      "lang": "en",
-      "publishedAt": "2026-11-25T14:24:50.000Z",
-      "source": "War Translated",
-      "region": "분쟁",
-      "title": "러시아의 사망 기사에 따르면, 벵가지에서 코르벳함 '머큐리'가 공격을 받은 후 첫 사망자가 확인되었습니다. 바로 42세의 러시아 흑해 함대 장교 올렉산드르 추린입니다",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22251",
-      "titleOriginal": "JUST IN - Trump admin to slap tariffs on China, EU, Japan, South Korea, India, Taiwan, Vietnam, Switzerland, Singapore, Indonesia, Malaysia, Thailand, Cambodia and Bangladesh for flooding American markets with cheap goods, with China facing",
-      "url": "https://www.disclose.tv/id/z0vx7051k8/",
-      "lang": "en",
-      "publishedAt": "2026-11-25T14:13:59.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "방금 입수한 소식 - 트럼프 행정부가 미국 시장에 저렴한 상품을 과도하게 유입시킨 중국, EU, 일본, 한국, 인도, 대만, 베트남, 스위스, 싱가포르, 인도네시아, 말레이시아, 태국, 캄보디아, 방글라데시에 관세를 부과할 예정이며, 중국은",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10521",
-      "titleOriginal": "Amazon is reportedly in talks to end Muse AI shopping block",
-      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-      "lang": "en",
-      "publishedAt": "2026-11-25T14:12:51.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "아마존, Muse AI 쇼핑 차단 해제 협상 중인 것으로 알려져",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12687",
-      "titleOriginal": "The Trump Administration proposes new tariffs on 14 major US trading partners following the conclusion of its trade investigations. Proposed tariff rates include: 1. China: 20%, potentially rising to 40% 2. Vietnam: Up to 35% 3. India: Up t",
-      "url": "https://usa.liveuamap.com/en/2026/25-november-13-the-trump-administration-proposes-new-tariffs",
-      "lang": "en",
-      "publishedAt": "2026-11-25T14:11:00.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "트럼프 행정부는 무역 조사를 마무리한 후 14개 주요 미국 무역 상대국에 대한 새로운 관세를 제안합니다. 제안된 관세율은 다음과 같습니다. 1. 중국: 20%, 향후 40%까지 인상 가능성 2. 베트남: 최대 35% 3. 인도: 최대",
-      "translated": true
-    },
-    {
-      "id": "worldnews:79348",
-      "titleOriginal": "Trump laughs at Zelenskyy's remarks about peace deal by January: \"He wants me to do what?\"",
-      "url": "https://www.pravda.com.ua/eng/news/2026/11/25/8064529/",
-      "lang": "en",
-      "publishedAt": "2026-11-25T14:09:34.000Z",
-      "source": "WorldNews",
-      "region": "종합",
-      "title": "트럼프 대통령, 1월까지 평화 협정을 맺겠다는 젤렌스키 대통령의 발언에 웃으며 \"그가 나에게 뭘 하라고?\"라고 말함",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10520",
-      "titleOriginal": "Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday",
-      "url": "https://telegra.ph/Xteinks-pocketable-X4-Classic-e-reader-is-down-to-just-55-11-25-2",
-      "lang": "en",
-      "publishedAt": "2026-11-25T14:03:13.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "Xteink의 휴대용 X4 Classic 전자책 리더기가 블랙프라이데이를 맞아 단돈 $55에 판매됩니다",
-      "translated": true
-    },
-    {
-      "id": "theverge_news:10519",
-      "titleOriginal": "‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV",
-      "url": "https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa",
-      "lang": "en",
-      "publishedAt": "2026-11-25T14:03:11.000Z",
-      "source": "The Verge",
-      "region": "테크",
-      "title": "겁쟁이를 위한 것이 아닙니다': TV 시리즈로 각색하는 블레이드 러너 2099의 쇼러너",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46153",
-      "titleOriginal": "NEW: EU plans 50-bn-euro fund for AI, quantum",
-      "url": "https://insiderpaper.com/eu-plans-50-bn-euro-fund-for-ai-quantum/",
-      "lang": "en",
-      "publishedAt": "2026-11-25T14:00:08.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "신규: EU, AI 및 양자 기술을 위한 500억 유로 규모의 기금 조성 계획",
-      "translated": true
-    },
-    {
-      "id": "disclosetv:22250",
-      "titleOriginal": "NEW - UK set to mandate that all shops selling any type of knife will require a licence, to be renewed every 3 years, with sellers also subject to police background and criminal record checks. A licensing scheme for knife importers is also ",
-      "url": "https://www.disclose.tv/id/uv8ftwq1qd/",
-      "lang": "en",
-      "publishedAt": "2026-11-25T13:39:07.000Z",
-      "source": "Disclose.tv",
-      "region": "속보",
-      "title": "신규 - 영국은 모든 유형의 칼을 판매하는 모든 매장에 3년마다 갱신해야 하는 면허를 의무화하고, 판매자에 대해서도 경찰 신원 조회 및 범죄 기록 조회를 실시할 예정입니다. 칼 수입업체를 위한 허가 제도도",
-      "translated": true
-    },
-    {
-      "id": "sciencealert:92349",
-      "titleOriginal": "One Simple Change to Your Workout Could Improve Blood Sugar Control, Trial Finds",
-      "url": "https://www.sciencealert.com/one-simple-change-to-your-workout-could-improve-blood-sugar-control-trial-finds",
-      "lang": "en",
-      "publishedAt": "2026-11-25T13:38:33.000Z",
-      "source": "ScienceAlert",
-      "region": "과학",
-      "title": "운동에 간단한 변화 하나만 주어도 혈당 조절이 개선될 수 있다는 연구 결과",
-      "translated": true
-    },
-    {
-      "id": "insiderpaper:46152",
-      "titleOriginal": "lrm;NEW: British household energy bills to jump 26% on Iran war shock",
-      "url": "https://insiderpaper.com/british-household-energy-bills-to-jump-26-on-iran-war-shock/",
-      "lang": "en",
-      "publishedAt": "2026-11-25T13:37:23.000Z",
-      "source": "Insider Paper",
-      "region": "속보",
-      "title": "lrm;신규: 이란 전쟁 충격으로 영국 가구의 에너지 요금이 26% 급등할 전망",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12686",
-      "titleOriginal": "Iranian Foreign Ministry: Tehran strongly condemns Israeli airstrikes and artillery attacks on various areas of southern Lebanon. https://lebanon.liveuamap.com/en/2026/25-november-13-iranian-foreign-ministry-tehran-strongly-condemns",
-      "url": "https://lebanon.liveuamap.com/en/2026/25-november-13-iranian-foreign-ministry-tehran-strongly-condemns",
-      "lang": "en",
-      "publishedAt": "2026-11-25T13:34:08.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "이란 외무부: 테헤란은 레바논 남부의 여러 지역에 대한 이스라엘의 공습과 포격 공격을 강력히 규탄합니다. https://lebanon.liveuamap.com/en/2026/25-november-13-iranian-foreign-ministry-tehran-strongly-condemn",
-      "translated": true
-    },
-    {
-      "id": "liveuamap:12685",
-      "titleOriginal": "Hospital sources in Gaza, cited by Al Jazeera, report that seven people, including two children, have been killed in Israeli airstrikes on Gaza City and northern Gaza since early this morning. https://israelpalestine.liveuamap.com/en/2026/2",
-      "url": "https://israelpalestine.liveuamap.com/en/2026/25-november-13-hospital-sources-in-gaza-cited-by-al-jazeera",
-      "lang": "en",
-      "publishedAt": "2026-11-25T13:33:34.000Z",
-      "source": "Liveuamap",
-      "region": "분쟁",
-      "title": "알자지라가 인용한 가자지구 병원 관계자에 따르면, 오늘 이른 아침부터 가자시티와 가자지구 북부에 대한 이스라엘의 공습으로 어린이 2명을 포함한 7명이 사망한 것으로 전해집니다. https://israelpalestine.liveuamap.com/en/2026/2",
       "translated": true
     }
   ]
